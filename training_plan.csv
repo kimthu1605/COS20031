@@ -1,0 +1,1001 @@
+training_plan_id,training_plan_name,training_plan_description ,training_plan_start_date,training_plan_end_date,training_plan_location,training_plan_contact_person
+1,Chief Design Engineer,"Puncture wound w/o foreign body of unsp hand, init encntr",10/19/2023,7/19/2023,Huangbu,Benedetto Lovelock
+2,Assistant Professor,Suppression of binocular vision,4/14/2023,2/13/2023,Cheongpyeong,Blake Faulds
+3,Computer Systems Analyst II,"Fracture of unspecified metatarsal bone(s), right foot",8/20/2023,8/14/2023,Promyshlennaya,Keefer Thairs
+4,Senior Cost Accountant,Other specified female pelvic inflammatory diseases,6/25/2023,9/26/2023,Tunggar,Peterus Strowlger
+5,Administrative Officer,"Disp fx of acromial pro, r shldr, subs for fx w delay heal",11-07-2023,10/13/2023,Cabcaben,Sibeal Newton
+6,Quality Engineer,"Oth osteopor w crnt path fx, unsp site, 7thK",10/18/2023,1/14/2023,Douz,Clarabelle Shewen
+7,Technical Writer,"Nondisp fx of med condyle of l femr, 7thE",01-02-2023,11/26/2022,Tagasilay,Ileana Owttrim
+8,Staff Accountant II,"Matern care for known or susp placntl insuff, third tri, oth",09-10-2023,4/27/2023,Río Pico,Lane Sandland
+9,Human Resources Manager,"Disp fx of distal phalanx of right middle finger, sequela",5/18/2023,01-12-2023,Trà Ôn,Edee Eckert
+10,Payment Adjustment Coordinator,"Displ commnt fx shaft of rad, r arm, 7thM",11-10-2023,11-05-2023,Mikhaylovka,Valery Tremolieres
+11,Registered Nurse,"Partial traumatic amputation of hip and thigh, level unsp",10/22/2023,3/30/2023,Mozdok,Evanne O'Kieran
+12,Data Coordinator,"Intermittent hydrarthrosis, unspecified site",07-02-2023,9/17/2023,Campos Belos,Clyde McKane
+13,Software Consultant,"Displ oblique fx shaft of unsp ulna, 7thR",5/23/2023,07-01-2023,Czarna Dąbrówka,Domenico Parlett
+14,Speech Pathologist,"Burn of third degree of right thumb (nail), sequela",3/19/2023,10-03-2023,Longwantun,Karlen Stetlye
+15,Structural Engineer,"Leakage of coronary artery bypass graft, initial encounter",1/13/2023,7/13/2023,Yixing,Gunilla MacVicar
+16,Quality Control Specialist,"Lac w/o fb of abd wall, left lower q w/o penet perit cav",12-08-2022,5/30/2023,Amiens,Rolfe Thripp
+17,VP Quality Control,"Disp fx of prox phalanx of l mid fngr, 7thK",12/28/2022,07-09-2023,Machado,Kimble Hackworthy
+18,Recruiter,Viral myocarditis,5/15/2023,1/23/2023,Västra Frölunda,Leslie Ledson
+19,Media Manager IV,Toxic effects of homologues of benzene,12-04-2022,11/13/2023,Karlshamn,Julie De Carlo
+20,VP Marketing,"Mild intermittent asthma, uncomplicated",03-09-2023,10/29/2023,Yunshan,Ruy Sterrick
+21,Nurse,Anal spasm,10/23/2023,09-11-2023,Itbayat,Brandi Archanbault
+22,Desktop Support Technician,"Other Hodgkin lymphoma, spleen",01-03-2023,1/16/2023,Naka,Sibeal Fautley
+23,Environmental Specialist,"Capslr glaucoma w/pseudxf lens, unsp eye, stage unsp",08-01-2023,5/19/2023,Ploso,Ralph Ebbs
+24,Staff Scientist,"Unspecified injury of inferior vena cava, initial encounter",9/19/2023,2/22/2023,Malinovoye Ozero,Holden Montel
+25,Junior Executive,"Poisoning by keratolyt/keratplst/hair trmt drug, accidental",02-10-2023,1/17/2023,Baizhong,Danice Turpie
+26,Information Systems Manager,"Oth fx shaft of r fibula, 7thH",03-05-2023,10-09-2023,Champigny-sur-Marne,Adrianne Pudden
+27,Social Worker,Open bite of unsp lesser toe(s) without damage to nail,2/15/2023,10-09-2023,Dailekh,Araldo Windridge
+28,Clinical Specialist,Malignant neoplasm of left broad ligament,12/15/2022,7/16/2023,Cruz Alta,Glen Picknett
+29,Teacher,"Full-term prem ROM, onset labor within 24 hours of rupture",1/23/2023,06-06-2023,Ritchie,Tabitha Christley
+30,Marketing Manager,Milt op involving combat using blunt or piercing object,07-08-2023,07-10-2023,Timiryazevskiy,Deidre Hakonsson
+31,Graphic Designer,"Unspecified subluxation of left patella, sequela",9/23/2023,2/28/2023,Triwil,Felike Oda
+32,Legal Assistant,"Unsp fx shaft of l ulna, 7thJ",03-06-2023,12/20/2022,Bo Kluea,Elmer Digan
+33,Business Systems Development Analyst,"Coma scale, best verb, incomprehensible words, 24+hrs",01-12-2023,11-03-2023,Comandante Fontana,Sherri Lusty
+34,Accounting Assistant I,"Chronic mucoid otitis media, bilateral",06-06-2023,8/22/2023,Courelas Bravas,Nicolle Osgardby
+35,Paralegal,Struck by other marine mammals,3/21/2023,12/16/2022,Villa Cañás,Frankie Rosel
+36,Desktop Support Technician,"Sltr-haris Type III physeal fx upper end of l tibia, sequela",11-11-2023,02-10-2023,Xinghe Chengguanzhen,Robbi Hayne
+37,Chemical Engineer,"Poisoning by oth psychotropic drugs, self-harm, sequela",04-05-2023,1/26/2023,Calape,Wildon Bartelet
+38,Research Nurse,"Laceration with foreign body of unspecified wrist, sequela",04-08-2023,1/18/2023,Pančevo,Daloris Archibald
+39,Project Manager,"Pnctr w foreign body of l idx fngr w/o damage to nail, subs",10-09-2023,8/26/2023,Sinarwangi,Lexy Watterson
+40,Web Designer I,Other inflammation of vagina and vulva,3/21/2023,11-02-2023,Águas Vermelhas,Babbie Fasson
+41,Chemical Engineer,"Mantle cell lymphoma, spleen",7/27/2023,7/23/2023,Lirang,Annmaria Sawkin
+42,Account Coordinator,"Oth fx upper end of left radius, init for opn fx type 3A/B/C",05-02-2023,2/27/2023,Tumbi,Monty Rudeyeard
+43,General Manager,"Burn of first degree of left elbow, subsequent encounter",10/25/2023,10/15/2023,Payaman,Floyd Richard
+44,Design Engineer,"Unsp intracap fx l femr, 7thH",9/28/2023,05-09-2023,Angra dos Reis,Genia McLagain
+45,Senior Financial Analyst,"Rheumatoid bursitis, right ankle and foot",7/15/2023,4/15/2023,Kalibaru,Kerianne Luckhurst
+46,Assistant Professor,"Pathological fracture in oth disease, left humerus, sequela",5/24/2023,12/31/2022,Fengpo,Clemente Ginger
+47,Executive Secretary,"Ped w convey inj in clsn w nonmtr vehicle nontraf, sequela",12-01-2022,7/30/2023,Qijiang,Otis Harral
+48,Chief Design Engineer,"Disp fx of distal phalanx of l rng fngr, init for opn fx",11/30/2022,02-12-2023,Mangga Dua,Tremaine Henriquet
+49,Compensation Analyst,"Rh incompatibility w hemolytic transfs react, unsp, init",1/18/2023,4/30/2023,Niš,Vanessa Margaret
+50,Human Resources Assistant III,"Fracture of unsp part of r clavicle, subs for fx w nonunion",1/16/2023,01-09-2023,Panjir,Carlo Semmens
+51,Analyst Programmer,"Terrorism involving fire/hot subst, terrorist injured, subs",09-08-2023,7/21/2023,Turt,Winnifred Bowmen
+52,Compensation Analyst,Contact w and (suspected ) exposure to oth hazardous substnc,3/20/2023,08-07-2023,Kushnarënkovo,Nancie Erricker
+53,Junior Executive,"Unspecified sprain of unspecified thumb, subs encntr",01-11-2023,05-05-2023,Caxambu,Gennie Babe
+54,Senior Cost Accountant,"Corrosion of unspecified degree of right thigh, sequela",11/23/2023,05-09-2023,Zhuangbu,Fredia Ollerearnshaw
+55,Staff Scientist,Bitten by horse,7/23/2023,03-10-2023,Baitoa,Jenine Bengochea
+56,Assistant Manager,NIHSS score 20,4/14/2023,7/17/2023,Göteborg,Tani Hastwall
+57,Office Assistant IV,"Other specified injuries of external genitals, init encntr",1/29/2023,5/23/2023,Manticao,Prentice Egiloff
+58,Paralegal,"Unsp pedl cyclst injured in nonclsn trnsp acc nontraf, subs",2/14/2023,8/22/2023,Pasauran,Daryle Budgeon
+59,Senior Developer,Lac w fb of r frnt wl of thorax w/o penet thoracic cavity,08-03-2023,9/25/2023,Karangjaladri,Salvatore Cosins
+60,Marketing Manager,Underdosing of unspecified antipsychotics and neuroleptics,07-12-2023,08-03-2023,Tizgane,Blondie Gibbin
+61,Analog Circuit Design manager,"Poisoning by macrolides, undetermined, subsequent encounter",8/15/2023,6/20/2023,Passo Fundo,Emalia Slidders
+62,Environmental Specialist,"Disp fx of med phalanx of l rng fngr, subs for fx w nonunion",04-04-2023,4/16/2023,Gândara de Aquém,Gabriello Inkpin
+63,Actuary,"Nontraumatic fracture, not elsewhere classified",05-01-2023,02-06-2023,Sipirok,Giorgio Storton
+64,Recruiter,"Dissection of cerebral arteries, nonruptured",1/18/2023,05-11-2023,Puszczykowo,Penny Belfit
+65,Account Executive,"Chronic postrheumatic arthropathy, right ankle and foot",3/14/2023,3/14/2023,Chixi,Rosamund Harriman
+66,Tax Accountant,Driver of 3-whl mv injured in collision w oth mv in traf,03-08-2023,01-09-2023,Petro-Slavyanka,Constantin Domenget
+67,Staff Scientist,"Nondisp fx of lateral condyle of unsp femr, 7thB",9/25/2023,06-09-2023,Langford,Allard Wilden
+68,Food Chemist,Open wound of toe without damage to nail,5/30/2023,05-04-2023,Sukapura,Maisie Peart
+69,Structural Analysis Engineer,Animal-rider injured in collision with pedal cycle,11-02-2023,11-09-2023,Łękawica,Hammad Yakubovics
+70,Internal Auditor,"Disp fx of coronoid pro of r ulna, 7thD",01-01-2023,06-11-2023,San Rafael,Bentley Willcock
+71,Senior Sales Associate,"Laceration with foreign body, unspecified hip, subs encntr",11/19/2023,7/25/2023,Lady Grey,Angie Labes
+72,Civil Engineer,"Disp fx of nk of 2nd MC bone, r hand, subs for fx w malunion",04-04-2023,10/28/2023,Nanchangshan,Humberto Cowthard
+73,Community Outreach Specialist,"Infection oth prt genitl trct in pregnancy, second trimester",03-08-2023,9/30/2023,Dallas,Worth Worviell
+74,Librarian,"Sltr-haris Type I physl fx upr end humer, unsp arm, 7thD",2/22/2023,4/17/2023,Vydreno,Lida Dmych
+75,Payment Adjustment Coordinator,"Nondisp fx of neck of scapula, unspecified shoulder",12/14/2022,05-07-2023,Heihe,Micky Landeg
+76,Assistant Media Planner,Corrosion of second degree of left axilla,7/24/2023,7/25/2023,Weiyanggong,Tessi Grant
+77,Biostatistician II,"Corros first deg mult sites of left lower limb, ex ank/ft",3/28/2023,10-05-2023,Okulovka,Donnamarie Caghan
+78,Project Manager,"Displ seg fx shaft of humer, unsp arm, 7thP",6/17/2023,8/30/2023,Delães,Janela Saltsberg
+79,Health Coach IV,"Drown due to fall/jump fr burning passenger ship, sequela",03-03-2023,8/18/2023,Thanh Ba,Elisa Fitzmaurice
+80,Chemical Engineer,"Displ lateral mass fx first cervcal vert, init for opn fx",7/25/2023,08-02-2023,Hezuo,Quintina Schober
+81,Database Administrator II,"Unspecified maternal hypertension, unspecified trimester",7/22/2023,01-07-2023,Oslo,Selia Gyer
+82,Sales Representative,"Cystoid macular degeneration, right eye",6/22/2023,02-04-2023,Słupno,Bianka Mowat
+83,Senior Developer,"Disp fx of nk of 2nd MC bone, l hand, subs for fx w nonunion",1/21/2023,03-10-2023,Chok Chai,Lee Padly
+84,Senior Quality Engineer,"Poisoning by intravenous anesthetics, accidental",10/30/2023,4/20/2023,Tashanta,Hammad Emlen
+85,Occupational Therapist,"Burkitt lymphoma, lymph nodes of axilla and upper limb",7/31/2023,4/26/2023,Stamboliyski,Abbot Bill
+86,Budget/Accounting Analyst II,"Acute hematogenous osteomyelitis, right radius and ulna",8/31/2023,6/21/2023,Xinhe,Roxanne Feben
+87,VP Sales,Donor of other specified organs or tissues,8/20/2023,4/28/2023,Manjakandriana,Candace Skipper
+88,General Manager,"Open bite of unsp bk wl of thorax w penet thor cavity, init",8/23/2023,8/15/2023,Ujungpangkah,Ruperta Illyes
+89,Design Engineer,"Immersion foot, right foot, sequela",9/17/2023,1/30/2023,Mikró Monastíri,Adriane Hastewell
+90,Software Engineer III,"Matern care for oth or susp poor fetl grth, 1st tri, fts3",5/20/2023,12/26/2022,Kadubincarung,Micah Ingham
+91,Graphic Designer,"Disloc of distal interphaln joint of r little finger, sqla",5/22/2023,7/20/2023,Haozigang,Vlad Raffeorty
+92,Assistant Manager,"Unsp inj intrns musc/fasc/tend r idx fngr at wrs/hnd lv,sqla",6/15/2023,1/13/2023,Pishaj,Tamarah Foker
+93,Biostatistician IV,"Contus/lac l cereb w LOC >24 hr w/o ret consc w surv, init",9/23/2023,5/20/2023,Chupa,Tailor Edmands
+94,Chemical Engineer,Mechanical entropion of left lower eyelid,8/28/2023,11-02-2023,Memphis,Alyda Crummy
+95,Graphic Designer,"Sltr-haris Type IV physeal fracture of r calcaneus, sequela",1/31/2023,9/27/2023,Muzhou,Burk Kopacek
+96,Assistant Media Planner,"Malignant neoplasm of small intestine, unspecified",10-12-2023,10/31/2023,Rudniki,Harlan Bromet
+97,Software Test Engineer III,"Nexdtve age-rel mclr degn, unsp, adv atrpc with sbfvl involv",12/29/2022,07-02-2023,Fengxian,Terri-jo Goldstone
+98,Operator,"Nondisp unsp condyle fx low end r femr, 7thJ",11/15/2023,09-12-2023,Datarkadu,Graig Vassall
+99,Assistant Professor,"Underdosing of unspecified psychodysleptics, subs encntr",6/16/2023,03-10-2023,Strum,Becky Thiem
+100,Engineer IV,"Follicular lymphoma grade II, intrapelvic lymph nodes",6/17/2023,1/16/2023,Palmas de Monte Alto,Bartholomeus Boxhill
+101,Engineer III,Central retinal vein occlusion,6/20/2023,8/23/2023,Des Moines,Ginnie Guiot
+102,Electrical Engineer,"Drowning and submersion due to sailboat sinking, sequela",05-03-2023,3/14/2023,Zhangping,Mirella Senechell
+103,Business Systems Development Analyst,"Diffuse secondary atrophy of choroid, unspecified eye",11-07-2023,11-03-2023,Plyussa,Golda Faichney
+104,Software Consultant,"Oth fx upr end l tibia, 7thJ",01-01-2023,7/28/2023,Baru Timur,Yetta Baston
+105,Registered Nurse,Supervision of pregnancy with history of infertility,5/14/2023,6/22/2023,Dajt,Jeremy O' Mullane
+106,Research Associate,Newborn affected by maternal complications of pregnancy,02-03-2023,10-02-2023,Mafang,Nixie Tanton
+107,Human Resources Assistant II,"Unsp injury of left internal jugular vein, subs encntr",05-04-2023,06-03-2023,Kaeng Khro,Kara-lynn Ingyon
+108,VP Quality Control,"Idiopathic chronic gout, hand",5/16/2023,2/27/2023,Neqāb,Eldredge Jefferson
+109,Dental Hygienist,Benign neoplasm of prph nerves and autonomic nervous sys,4/24/2023,3/17/2023,Cabatang,Melodee Demonge
+110,Programmer II,Pelvic and perineal pain,10/15/2023,7/18/2023,San Francisco,Feodor Clewer
+111,Occupational Therapist,"Other injury of inferior vena cava, subsequent encounter",3/26/2023,12/19/2022,Mathba,Kamillah Lambird
+112,Editor,"Unsp disp fx of surg neck of r humer, subs for fx w nonunion",5/25/2023,4/30/2023,Kedungringin,Giavani Rutland
+113,Senior Sales Associate,"Other bursal cyst, unspecified ankle and foot",1/28/2023,04-01-2023,Renhe,Arnoldo Baish
+114,Senior Quality Engineer,"Acute hematogenous osteomyelitis, other sites",6/30/2023,6/20/2023,Kowary,Rosmunda Persse
+115,Research Associate,"Unspecified injury of dorsal vein of left foot, subs encntr",10/30/2023,06-09-2023,Parizh,Aida Sorey
+116,Recruiter,"Other chronic suppurative otitis media, unspecified ear",01-01-2023,04-06-2023,Jiangwei,Raphael Toseland
+117,Actuary,Acquired absence of cervix and uterus,7/20/2023,06-07-2023,Pridonskoy,Chelsae Bosdet
+118,Clinical Specialist,"Reiter's disease, left elbow",10/17/2023,8/14/2023,Mahābād,Giusto Delafont
+119,Mechanical Systems Engineer,"Partial traumatic trnsphal amp of r little finger, init",2/27/2023,12/17/2022,Gerelayang,Justis Mullender
+120,Human Resources Assistant I,"Nondisp spiral fx shaft of humer, unsp arm, 7thK",3/23/2023,5/20/2023,Choujiang,Jana Veivers
+121,Business Systems Development Analyst,Other fracture of right great toe,04-06-2023,11/18/2023,Lloqan,Lion Brothwood
+122,Senior Quality Engineer,"Maternal care for oth fetal problems, second trimester",11/13/2023,1/27/2023,Fale old settlement,Gaspar Dalinder
+123,Graphic Designer,"Laceration without foreign body, left thigh, sequela",02-08-2023,4/16/2023,Bedalewun,Mandel Antoni
+124,Structural Analysis Engineer,Secondary malignant neoplasm of unspecified site,08-07-2023,9/20/2023,Žlutice,Duane Hast
+125,Geological Engineer,Acute lymphangitis of other sites,7/23/2023,10-02-2023,Burgos,Barby Willock
+126,GIS Technical Architect,"Other superficial bite of lip, initial encounter",12-11-2022,9/26/2023,Lintaca,Ches Drummond
+127,Sales Representative,"Osteonecrosis due to previous trauma, humerus",6/13/2023,12/26/2022,Nkongsamba,Jacob Mascall
+128,Professor,"Toxic effect of corrosive organic compounds, self-harm, subs",12-09-2022,07-03-2023,Honda,Bunnie Handover
+129,Operator,"Contusion of unspecified back wall of thorax, init encntr",10/21/2023,2/22/2023,Moulay Abdallah,Gustave Asgodby
+130,Community Outreach Specialist,"Sublux of MC (bone), proximal end of right hand, subs",9/16/2023,06-07-2023,Pechora,Mendie Ticic
+131,Administrative Assistant IV,"Cataract secondary to ocular disorders, right eye",11/13/2023,3/30/2023,Comé,Miof mela Raccio
+132,Professor,Encntr for checking and test of card pacemaker pulse gnrtr,1/21/2023,03-06-2023,Warungbuah,Lorry Fowle
+133,Geologist III,"Nondisp oth extrartic fx r calcaneus, 7thG",6/19/2023,06-01-2023,Gualmatán,Sandy MacGilrewy
+134,Account Representative II,"Other injury of unsp urinary and pelvic organ, subs encntr",12-12-2022,07-10-2023,La Uvita,Vale Vieyra
+135,Associate Professor,Other vascular disorders of iris and ciliary body,04-01-2023,10/18/2023,Kaizuka,Aggy Reedman
+136,Physical Therapy Assistant,Personal history of Hodgkin lymphoma,2/21/2023,7/31/2023,Timiryazevskoye,Weston Nickels
+137,Design Engineer,Injury of digital nerve of right ring finger,01-06-2023,03-12-2023,Toroy,Sonja Pinwill
+138,Health Coach I,Other stimulant abuse with stimulant-induced mood disorder,4/17/2023,6/15/2023,Brumadinho,Inger Grigoriev
+139,Environmental Specialist,"Fetal anemia and thrombocytopenia, third trimester, fetus 1",10/16/2023,5/19/2023,Sagua de Tánamo,Lenee Sedcole
+140,Executive Secretary,Corrosion of unspecified degree of left lower leg,09-08-2023,02-08-2023,Suisan,Denise Iannello
+141,Environmental Specialist,"Breakdown of int fix of bones of foot and toes, init",1/25/2023,12/23/2022,Särevere,Boycie Breagan
+142,Environmental Tech,"Unsp injury of popliteal artery, unsp leg, subs encntr",03-10-2023,7/19/2023,Poretskoye,Stern Rosier
+143,Analog Circuit Design manager,Toxoplasma meningoencephalitis,12/25/2022,11/22/2023,Stockholm,Malcolm Laidler
+144,Marketing Assistant,"Retrolental fibroplasia, bilateral",10/30/2023,06-10-2023,Jinhaihu,Rodolphe Huguenet
+145,Software Engineer IV,"Toxic effect of noxious substnc eaten as food, undet, init",1/30/2023,6/25/2023,Lancang,Jacynth Beloe
+146,Financial Analyst,"Accidental malfunction of gas, air or sprng-op gun, subs",12/27/2022,05-07-2023,Mineralnye Vody,Heda Preble
+147,Editor,"Disp fx of olecran pro w intartic extn l ulna, 7thH",11-10-2023,9/19/2023,Uttar Char Fasson,Mira Ruperti
+148,Sales Representative,Toxic effect of venom of gila monster,4/24/2023,05-03-2023,Sade,Emmalynn Garwell
+149,Developer II,Burns classified accord extent body involv,08-07-2023,1/30/2023,Kimitsu,Rodolfo Jefferys
+150,Actuary,"Legal intervnt involving injury by mch gun, suspect injured",05-11-2023,1/23/2023,Saguday,Kelly Woolway
+151,Software Engineer I,"Fracture of unsp phalanx of right index finger, init",10-04-2023,2/21/2023,Dabachang,Selinda Castell
+152,Registered Nurse,Asphyxiation due to hanging,1/17/2023,9/20/2023,Aksha,Nonah Hartas
+153,Tax Accountant,"Displacmnt of unsp card and vasc devices and implnt, sequela",09-05-2023,7/15/2023,Shanghu,Euell Koles
+154,VP Accounting,"Other disorders of continuity of bone, unsp ankle and foot",2/16/2023,10-07-2023,Songgang,Myra Pollendine
+155,Structural Analysis Engineer,"Adverse effect of drug aff the autonomic nervous sys, subs",1/16/2023,05-10-2023,Oslo,Tadd Coleson
+156,Senior Developer,Drown due to being washed overboard from merchant ship,6/29/2023,10/14/2023,Baoshan,Flemming Olyonov
+157,Research Assistant I,Educational maladjustment & discord w teachers & classmates,9/23/2023,12-05-2022,El Limon,Sterling Haig
+158,Geological Engineer,Partial loss of teeth due to trauma,01-05-2023,01-11-2023,Eṭ Ṭaiyiba,Welbie Bisgrove
+159,Research Assistant IV,Congenital diaphragmatic hernia,7/24/2023,01-11-2023,Sidomakmur,Hymie Dallas
+160,Clinical Specialist,"Sltr-haris Type I physl fx upr end humer, l arm, 7thK",05-11-2023,6/25/2023,Ulaan-Ereg,Ford Olrenshaw
+161,Senior Quality Engineer,"Nondisp fx of lateral epicondyle of l humerus, init",10-10-2023,06-06-2023,Jaguimitan,Gherardo Mieville
+162,Research Assistant II,"Diffuse TBI w/o loss of consciousness, init",3/23/2023,4/15/2023,Ghanzi,Luisa Amberger
+163,Financial Advisor,Other urogenital trichomoniasis,10-06-2023,02-04-2023,Manchioneal,Clerissa Heggison
+164,Administrative Officer,Other displaced fracture of lower end of unspecified humerus,10-10-2023,12-12-2022,Nagu,Kizzee Nuss
+165,Marketing Assistant,"Disorder of muscle tone of newborn, unspecified",8/30/2023,01-05-2023,Phibun Mangsahan,Merrill Grzelak
+166,Financial Analyst,"Sprain of MCP joint of right index finger, sequela",08-04-2023,11/30/2022,Taquara,Lotte Basso
+167,Developer III,"Juvenile osteochondrosis of hip and pelvis, unsp, unsp leg",03-02-2023,10/19/2023,Sinargalih,Micaela Antoniewski
+168,Office Assistant IV,"Other sprain of left thumb, initial encounter",8/20/2023,12/31/2022,Kåge,Pren Gringley
+169,Physical Therapy Assistant,Crushing injury of unspecified left toe(s),3/18/2023,07-11-2023,El Mirador,Ferne Shambroke
+170,Community Outreach Specialist,"Primary hypotony of eye, bilateral",05-07-2023,01-06-2023,Vónitsa,Nady MacInnes
+171,Recruiter,Driver of hv veh injured in collision w ped/anml nontraf,5/31/2023,04-11-2023,Jianggang,Marcella Garlee
+172,Web Developer II,"Complication of vein following a procedure, NEC, init",2/27/2023,11/19/2023,Sandia,Alleen Knight
+173,Account Executive,Other and unspecified fascicular block,03-10-2023,11/16/2023,Marull,Tan Blockwell
+174,Nurse Practicioner,"Laceration of musc/fasc/tend at forarm lv, unsp arm, init",08-10-2023,3/21/2023,San Jose,Kathryn Candlin
+175,Administrative Assistant III,"Contact with other nonpowered hand tool, initial encounter",04-06-2023,8/24/2023,Xiaocheng,Clerissa Littlejohn
+176,Associate Professor,"Diab with prolif diabetic rtnop with macular edema, r eye",08-03-2023,11-09-2023,Ribeirão,Elaine Attard
+177,Registered Nurse,"Burn of unsp degree of shldr/up lmb, except wrist and hand",04-05-2023,6/30/2023,Göteborg,Adolphus Hambidge
+178,Registered Nurse,"Abrasion of right shoulder, sequela",3/13/2023,4/21/2023,Al Jumūm,Nelson Petrushanko
+179,Actuary,Unspecified acquired deformity of unspecified lower leg,04-01-2023,9/17/2023,Onueke,Abrahan Van den Velden
+180,Product Engineer,"Pedl cyc pasngr inj pick-up truck, pk-up/van nontraf, init",9/20/2023,7/25/2023,Cisiih,Mandy Stevings
+181,Web Designer III,"Primary angle closure without glaucoma damage, bilateral",6/27/2023,01-06-2023,Garajati,Farrell Shwenn
+182,Accountant IV,Oth soft tissue disorders related to use/pressure,1/26/2023,4/15/2023,Taikang,Carmela Rotge
+183,Structural Analysis Engineer,Occlusion and stenosis of vertebral artery,7/13/2023,2/15/2023,Hexi,Marice Wainwright
+184,Accounting Assistant IV,"Oth fracture of T9-T10 vertebra, subs for fx w routn heal",12-12-2022,05-09-2023,Zarumilla,Isidoro Steeples
+185,Speech Pathologist,Infect/inflm reaction due to internal fixation device,06-10-2023,9/27/2023,Paris 06,Jasmin Casse
+186,Account Representative II,Disp fx of distal pole of navicular bone of unsp wrist,1/20/2023,11/16/2023,Sulahan,Madalyn Tribble
+187,Research Assistant II,"Toxic effect of venom of black widow spider, acc, init",8/31/2023,1/29/2023,Kardhiq,Zeke Siburn
+188,Sales Representative,Atypical femoral fracture,12-01-2022,1/15/2023,Kuching,Cad Stickins
+189,Assistant Manager,Superficial frostbite of unspecified ankle,2/15/2023,08-07-2023,Laohugang,Stepha Orteau
+190,Senior Developer,"Unspecified sprain of left foot, initial encounter",11/17/2023,9/26/2023,Shani,Barbabas Hulks
+191,Engineer I,"Displ pilon fx unsp tibia, 7thJ",03-09-2023,08-11-2023,Tarogong,Alon Cawcutt
+192,Administrative Assistant II,Unsp open wound of left cheek and temporomandibular area,05-07-2023,12-09-2022,Povenets,Jodee Izzat
+193,Cost Accountant,"Fracture of angle of right mandible, 7thG",9/16/2023,9/29/2023,Atlanta,Teddie McIndoe
+194,Staff Scientist,"Mtrcy passenger injured in clsn w ped/anml in traf, subs",10/19/2023,4/14/2023,Masaguisi,Roch Matuskiewicz
+195,Help Desk Operator,Other sled accident,7/24/2023,8/18/2023,Velikiye Luki,Prissie Genery
+196,Registered Nurse,"Lacerat extn musc/fasc/tend l rng fngr at forarm lv, sequela",12-11-2022,9/17/2023,Mentoro Wetan,Angy Safhill
+197,Geological Engineer,"Poisoning by unsp hormones and synthetic sub, assault, init",02-06-2023,01-07-2023,Pápa,Rand Braunlein
+198,Help Desk Technician,Open bite of l frnt wl of thorax w penet thoracic cavity,10/29/2023,7/27/2023,Chengtian,Darbie Shivell
+199,Assistant Manager,Cystoid macular edema following cataract surgery,4/17/2023,11/16/2023,Hongyan,Chandal Vakhlov
+200,Software Test Engineer III,Acute embolism and thombos of superfic veins of l up extrem,9/29/2023,12/23/2022,Bassar,Karry Gorini
+201,General Manager,"Toxic effect of oth alcohols, intentional self-harm, subs",11-11-2023,3/22/2023,Mossoró,Lutero Kee
+202,Nurse Practicioner,"Poisoning by mixed antiepileptics, self-harm, sequela",07-09-2023,6/29/2023,Kardamás,Emmanuel Halbeard
+203,Financial Analyst,"Contusion of right knee, initial encounter",8/14/2023,01-01-2023,Bacnotan,Cherrita Hammonds
+204,GIS Technical Architect,Acute infarction of large intestine,05-11-2023,07-10-2023,Taihe,Aleksandr Piaggia
+205,Systems Administrator I,"Unsp fracture of T9-T10 vertebra, subs for fx w delay heal",1/31/2023,12/17/2022,Kuala Lumpur,Hercule Snar
+206,Health Coach III,Extramedullary plasmacytoma,07-08-2023,10/17/2023,Damaturu,Myrilla Hendricks
+207,Account Executive,"Inj extensor musc/fasc/tend unsp finger at wrs/hnd lv, subs",5/25/2023,6/21/2023,Tsaratanana,Ginevra Kinkaid
+208,Quality Engineer,"Strain of extn musc/fasc/tend at forarm lv, unsp arm, init",6/16/2023,12-10-2022,Samdrup Jongkhar,Wolfie Udell
+209,Software Test Engineer III,"Inj radial artery at forearm level, unsp arm, subs encntr",5/25/2023,6/26/2023,Rawang,Delphinia Rickerby
+210,Budget/Accounting Analyst III,Burn of first degree of left thigh,7/30/2023,7/25/2023,Guará,Cherie Clamo
+211,Web Developer IV,"Unsp inj muscles and tendons at ank/ft level, r foot, init",12/16/2022,5/29/2023,Káto Asítai,Stacy Giovannazzi
+212,Chemical Engineer,Other acute necrotizing hemorrhagic encephalopathy,11/16/2023,06-02-2023,Liushun,Wheeler Braxay
+213,Project Manager,"Open bite of abd wall, left low q w/o penet perit cav, subs",11/16/2023,7/16/2023,Kuala Lumpur,Karrie Nudde
+214,Executive Secretary,Other sprain of left index finger,3/13/2023,8/16/2023,Pangkalan,Doy Pennuzzi
+215,Speech Pathologist,Newborn affected by other conditions of umbilical cord,02-04-2023,11/26/2022,Adraskan,Raynard Gentiry
+216,Software Test Engineer IV,"Legal intervnt w oth blunt obj, law enforc offl inj, init",10-06-2023,06-09-2023,Santiago de las Vegas,Ivar Gaggen
+217,Marketing Assistant,Classical phenylketonuria,4/13/2023,10-06-2023,Zhongdeng,Melessa Tissier
+218,Geologist II,"Embolism due to cardiac prosth dev/grft, sequela",4/22/2023,05-04-2023,Shiroishi,Claretta Reardon
+219,Environmental Specialist,"Poisoning by therapeutic gases, undetermined, init encntr",6/27/2023,9/23/2023,Kodinsk,Lief Feifer
+220,Chief Design Engineer,Hemiplegia and hemiparesis,6/19/2023,10-01-2023,Heřmanův Městec,Lisha Ivashechkin
+221,Professor,"Inj unsp musc/fasc/tend at forearm level, left arm, subs",02-06-2023,03-10-2023,Mozdok,Octavia Longhi
+222,Account Executive,"4-part fracture of surgical neck of right humerus, sequela",7/13/2023,10-08-2023,Citeguh,Bill Peak
+223,General Manager,"Nondisp fx of medial phalanx of left middle finger, sequela",7/20/2023,11-05-2023,Nioro du Rip,Kathi Peinke
+224,Structural Engineer,"Sltr-haris Type II physl fx low end unsp tibia, 7thP",04-09-2023,12-03-2022,Kotovsk,Guntar Smiley
+225,Community Outreach Specialist,Corros second degree of unsp single finger except thumb,5/25/2023,3/31/2023,Perdões,Flss Briddock
+226,General Manager,"Laceration of musc/fasc/tend prt biceps, right arm, init",11-04-2023,4/25/2023,Xialiao,Tomlin Lars
+227,Accounting Assistant II,"Underdosing of antigonadtr/antiestr/antiandrg, NEC, init",08-12-2023,7/25/2023,Naḩḩālīn,Donnie Nairns
+228,Safety Technician III,Carbuncle of right hand,08-02-2023,12/16/2022,Nagqu,Kali Chazelas
+229,Administrative Officer,Encntr for oth plast/recnst surg fol med proc or heal injury,08-01-2023,6/27/2023,Duli,Zorana Redolfi
+230,Analyst Programmer,"Strain extn musc/fasc/tend l mid finger at wrs/hnd lv, init",1/27/2023,4/23/2023,Kfar NaOranim,Teador Roger
+231,Senior Sales Associate,"Nicotine dependence, chewing tobacco",2/23/2023,5/23/2023,Olho Marinho,Roseanne Petran
+232,Senior Cost Accountant,Heat cramp,9/16/2023,02-10-2023,Lunao,Drucy Wortt
+233,Engineer I,Volume depletion,08-01-2023,5/13/2023,Herálec,Megan Klaus
+234,Social Worker,"Infective myositis, unspecified right leg",01-01-2023,6/23/2023,Rongwo,Kingsly Kersaw
+235,Dental Hygienist,"Oth nondisp fx of base of 1st MC bone, r hand, 7thP",10-11-2023,01-02-2023,Camino Real,Tracie Scobie
+236,Tax Accountant,"Fx unsp phalanx of r rng fngr, subs for fx w malunion",11/24/2023,12/25/2022,Circasia,Debbi Grisbrook
+237,Environmental Specialist,Com variab immunodef w predom immunoreg T-cell disorders,4/19/2023,9/19/2023,Daet,Warren Thaim
+238,Civil Engineer,Nonrheumatic mitral (valve) stenosis,10/26/2023,06-06-2023,Sandovo,Perkin Grimbaldeston
+239,Recruiting Manager,"Ankylosis, right elbow",11-10-2023,10-12-2023,Burunday,Fowler Monte
+240,Cost Accountant,"Cont preg aft uterin dth of one fetus or more, 2nd tri, fts3",3/24/2023,05-08-2023,Labo,Noby Bartosch
+241,Human Resources Manager,"Acute angle-closure glaucoma, right eye",10/17/2023,3/24/2023,Norrköping,Sauncho MacGillicuddy
+242,Librarian,"Exposure to welding light (arc), subsequent encounter",5/18/2023,8/23/2023,Luleå,Maxi Pauling
+243,Database Administrator I,"Acute dacryoadenitis, left lacrimal gland",6/28/2023,8/18/2023,Kozlovice,Alfredo Buntin
+244,Research Nurse,"Inj unsp musc/tend at lower leg level, left leg, init",2/19/2023,01-06-2023,Zhangshui,Arlin Maleney
+245,Marketing Assistant,LeFort I fracture,5/27/2023,9/26/2023,Hostomice,Trip Lowy
+246,Director of Sales,"Burn of first degree of unspecified ankle, initial encounter",7/31/2023,07-02-2023,Xiaoshanzi,Niel Rushford
+247,Administrative Assistant IV,"Strain of musc/fasc/tend at wrs/hnd lv, unsp hand, subs",9/13/2023,12/28/2022,Bardiyā,Gale Brooks
+248,Mechanical Systems Engineer,Other specified injury of right carotid artery,3/30/2023,9/23/2023,Pigcawayan,Theresa Sanja
+249,Information Systems Manager,Unspecified superficial injury of left little finger,8/20/2023,12-10-2022,Kobiernice,Giorgio Smalls
+250,Staff Accountant IV,"Lacerat blood vessels at hip and thigh level, unsp leg, init",09-11-2023,11-07-2023,Rongwo,Ki Baskwell
+251,GIS Technical Architect,"Post-traumatic osteoarthritis, hand",9/19/2023,09-04-2023,Preston,Dar Seabrocke
+252,Recruiter,Arthropathy following intestinal bypass,6/30/2023,05-04-2023,Santa Rosa de Copán,Alameda Scotchford
+253,Quality Control Specialist,"Nondisp osteochon fx unsp patella, 7thQ",12-03-2022,12-07-2022,Krajan Baru,Sileas Sigars
+254,Quality Engineer,"Sltr-haris Type I physl fx upr end r tibia, 7thK",4/24/2023,1/20/2023,Dvin,Esme Liggons
+255,Marketing Assistant,"Hit by falling object due to accident to unsp wtrcrft, init",3/14/2023,9/13/2023,Dowan,Syman Duferie
+256,VP Marketing,"Fall (on) (from) unspecified stairs and steps, subs encntr",6/29/2023,4/16/2023,Guling,Dagny Jirusek
+257,Executive Secretary,"Nodular corneal degeneration, bilateral",10/31/2023,04-05-2023,Boshkengash,Maddie Litchfield
+258,Research Assistant II,"Displ bicondylar fx unsp tibia, subs for clos fx w malunion",9/21/2023,8/15/2023,Korydallós,Dene Pee
+259,Account Executive,"Path fx in neopltc dis, unsp tibia & fibula, 7thK",10/28/2023,2/23/2023,Sebegen,Piper Alibone
+260,Speech Pathologist,"Ped on rolr-skt injured pick-up truck, pk-up/van, unsp, init",06-07-2023,09-06-2023,Talshand,Selie Dye
+261,Executive Secretary,"Minor laceration of left vertebral artery, subs encntr",1/26/2023,2/16/2023,Tanjungbatu,Chandra Francesco
+262,Professor,"Plague, unspecified",07-11-2023,6/21/2023,Zhentian,Caralie Nenci
+263,Safety Technician II,"Superficial foreign body of right little finger, sequela",12-11-2022,10/22/2023,Strömstad,Gusti Skeat
+264,Food Chemist,Burn of second degree of ankle,10/20/2023,05-02-2023,Pesagen,Xylia Kernar
+265,Mechanical Systems Engineer,"Antepartum hemorrhage w coag defect, unsp, third trimester",11/21/2023,9/17/2023,Hato Mayor del Rey,Fawnia Shelp
+266,Operator,Athscl autologous vein bypass of the right leg w ulceration,02-02-2023,4/26/2023,Cigadog,Bobbie Hurleston
+267,Junior Executive,"Poisoning by oth drug aff the autonomic nervous sys, acc",04-05-2023,02-06-2023,Yamen,Bette Delue
+268,General Manager,"Sltr-haris Type I physl fx lower end humer, unsp arm, sqla",9/26/2023,5/24/2023,Gakem,Mariel Dabling
+269,VP Sales,"Laceration w/o fb of unsp toe w/o damage to nail, sequela",5/14/2023,07-05-2023,Penanggungan,Moselle Chapelhow
+270,Teacher,War operations involving nuclear weapons,11-03-2023,10/18/2023,Sanzao,Karyl Laurentin
+271,Automation Specialist IV,Ankyloglossia,08-01-2023,10-10-2023,Avesta,Erinn Billingham
+272,Desktop Support Technician,"Acute hematogenous osteomyelitis, unspecified ankle and foot",04-12-2023,6/16/2023,Little Rock,Cleopatra Franses
+273,Research Associate,Anomalous origin of subclavian artery,10/15/2023,3/28/2023,Lukulu,Andriette Hunsworth
+274,Administrative Assistant III,"Unsp fx lower end of r tibia, subs for clos fx w malunion",05-01-2023,3/13/2023,Sacramento,Herschel Codd
+275,Legal Assistant,"Anterior dislocation of left sternoclavicular joint, sequela",5/19/2023,8/19/2023,Haitang,Tilly Doul
+276,Graphic Designer,"Contusion of breast, unspecified breast, initial encounter",10/20/2023,03-10-2023,Al Qābil,Monah Fancy
+277,Financial Advisor,"Pnctr w/o fb of r mid finger w damage to nail, sequela",7/16/2023,8/23/2023,Ozamiz City,Raymond Penhaleurack
+278,Software Consultant,"Corrosion of eye and adnexa, part unspecified",08-12-2023,8/24/2023,Randuagung,Claudette Gredden
+279,Geological Engineer,Frostbite with tissue necrosis of unspecified hip and thigh,01-12-2023,5/21/2023,San Alejandro,Dud Jarad
+280,Media Manager II,"Unsp fx left femur, subs for opn fx type I/2 w nonunion",6/19/2023,5/28/2023,Kauniainen,Caril Cridlon
+281,Software Engineer I,"Fracture of unspecified part of neck of left femur, sequela",06-08-2023,5/14/2023,Gandekan,Jsandye Zoppo
+282,Graphic Designer,"Nondisp fx of second metatarsal bone, unsp foot, init",1/26/2023,1/24/2023,Pico da Pedra,Lari Foat
+283,Paralegal,"Age-rel osteopor w crnt path fx, unsp hand, 7thK",7/14/2023,5/15/2023,Atlasovo,Devora Josephov
+284,Recruiting Manager,"Fall in (into) shower or empty bathtub, sequela",7/14/2023,12/19/2022,Yaizu,Fiona Ashdown
+285,Actuary,"Toxic effect of zinc and its compounds, self-harm, init",06-07-2023,12-02-2022,Chum Phae,Tadio Pach
+286,Account Representative II,"Poisoning by histamine H2-receptor blockers, assault, subs",01-07-2023,09-03-2023,Acharnés,Willey Chrstine
+287,Software Test Engineer III,Airport as the place of occurrence of the external cause,11-09-2023,1/29/2023,Santa Cruz,Oona Shervil
+288,Sales Representative,Blepharospasm,04-06-2023,4/28/2023,Tlogosari,Silvain Geyton
+289,Associate Professor,Tubal ligation status,07-07-2023,4/21/2023,Jargalant,Milzie Philimore
+290,Operator,"Crushing injury of left lesser toe(s), sequela",7/19/2023,3/19/2023,Tuen Mun,Corney Flanaghan
+291,Registered Nurse,"Other juvenile arthritis, unspecified wrist",4/28/2023,3/27/2023,Xinchang,Norman Esplin
+292,Information Systems Manager,"Fall from dock, sequela",8/18/2023,10/18/2023,Ahmadpur Siāl,Barney Chance
+293,Design Engineer,"Pinguecula, unspecified eye",7/30/2023,6/25/2023,Shanhou,Elana Kermeen
+294,Health Coach II,"Labor and delivery complicated by short cord, fetus 5",11/28/2022,06-12-2023,Ręczno,Creight Pacquet
+295,Staff Accountant III,"Disp fx of body of right talus, init for opn fx",4/30/2023,9/23/2023,Chosica,Allys Grisbrook
+296,Developer I,"Fracture of unsp tarsal bone(s) of unsp foot, init",02-08-2023,5/19/2023,Waiholo,Sheree Mannion
+297,Graphic Designer,"Displaced fracture of body of unspecified calcaneus, sequela",5/23/2023,7/26/2023,Nobinobi,Stearne Stanion
+298,Mechanical Systems Engineer,Other injury of inferior vena cava,08-08-2023,07-01-2023,Kafir Qala,Gabriello Winsper
+299,Biostatistician III,"Subluxation of carpometacarpal joint of right thumb, subs",1/30/2023,11-02-2023,Kototujuh,Peggi Daffern
+300,Information Systems Manager,"Other mastoiditis and related conditions, unspecified ear",9/28/2023,2/26/2023,Meybod,Valentine Frostdick
+301,Human Resources Manager,Other sphingolipidosis,11/25/2022,07-10-2023,Jequitinhonha,Tremayne MacVicar
+302,Software Test Engineer II,"Maternal care for Anti-A sensitization, unsp tri, fetus 3",4/17/2023,6/24/2023,Cruz,Karylin Lydford
+303,Analyst Programmer,"2-part nondisp fx of surgical neck of left humerus, init",11/21/2023,10/24/2023,Calibishie,Zechariah Bedo
+304,Assistant Professor,Rheu arthritis of unsp hip w involv of organs and systems,10-04-2023,08-02-2023,Lensk,Jemmy Biagioni
+305,Director of Sales,"Stress fracture, left humerus, subs for fx w nonunion",10-10-2023,5/20/2023,El Paso,Free Brownsill
+306,Clinical Specialist,"Unspecified injury of lung, unspecified, sequela",3/31/2023,12-08-2022,Aiximan,Nonna Upcott
+307,Physical Therapy Assistant,"Unsp physeal fx upper end of r tibia, subs for fx w malunion",3/13/2023,05-01-2023,Cikayas,Cornela Mandrey
+308,Senior Sales Associate,"Displ oblique fx shaft of humer, unsp arm, 7thP",10/29/2023,9/13/2023,Omoku,Farrah Breed
+309,Project Manager,"Other in-line roller-skate accident, sequela",1/17/2023,1/27/2023,Shenavan,Eolanda Allanson
+310,Biostatistician I,"Disp fx of lateral malleolus of unsp fibula, 7thR",07-07-2023,7/21/2023,Göteborg,Marney Bernier
+311,Statistician II,"Contracture, right hand",05-12-2023,08-01-2023,San Diego,Charity Le Noir
+312,Office Assistant IV,Other doubling of uterus,12-12-2022,8/16/2023,Saransk,Waylan Chesson
+313,Engineer I,"Nondisp fx of nk of scapula, l shldr, subs for fx w nonunion",07-01-2023,01-08-2023,Zubtsov,Dionne McConachie
+314,Human Resources Assistant IV,"Oth fx of low end r rad, 7thJ",3/19/2023,6/20/2023,Xintaimen,Benedetta Labbe
+315,Structural Engineer,"Displacement of umbrella device, initial encounter",2/26/2023,03-04-2023,Szczerbice,Gabriel Andrag
+316,VP Marketing,"Decreased white blood cell count, unspecified",12/25/2022,09-08-2023,Xiaozhen,Modesty Aldam
+317,Teacher,"Unsp fx unsp low leg, subs for opn fx type 3A/B/C w malunion",09-09-2023,10-10-2023,Baltimore,Angeli Isitt
+318,Research Nurse,Intvrt disc stenosis of neural canal of cervical region,10/22/2023,06-07-2023,Patimuan,Daron Sangra
+319,Senior Cost Accountant,"Displaced comminuted fx shaft of humerus, unsp arm, sequela",11/15/2023,12/23/2022,Dno,Wainwright Ughi
+320,Nuclear Power Engineer,Salmonella enteritis,11/27/2022,05-11-2023,Verkhniy Lomov,Ina Halwill
+321,Senior Cost Accountant,"Burn of unsp degree of forehead and cheek, init encntr",1/24/2023,4/29/2023,Vaggeryd,Lindsey Imesson
+322,Financial Analyst,"Unsp opn wnd unsp front wall of thrx w penet thor cav, sqla",7/16/2023,04-08-2023,Meadow Lake,Hillel Chamberlen
+323,Analyst Programmer,"Unspecified open wound of anus, sequela",11/22/2023,12-01-2022,Khilok,Kennie Shiliton
+324,Help Desk Technician,"Muscle wasting and atrophy, NEC, right hand",10/14/2023,1/26/2023,Tlutup,Hanni Morit
+325,Physical Therapy Assistant,"Injury of ulnar nerve at forearm level, left arm",01-07-2023,11/27/2022,Alcanhões,Boy Tern
+326,Assistant Manager,"Blister (nonthermal), unspecified knee",08-04-2023,5/21/2023,Niu,Olivie Kalinsky
+327,VP Quality Control,"Legal intervnt w oth means, law enforc offl injured, subs",02-05-2023,10/18/2023,Coronda,Margalit Druery
+328,Safety Technician IV,Benign neoplasm of unspecified site of orbit,11/21/2023,9/16/2023,Lishu,Sinclair Brecken
+329,VP Sales,Other specified crystal arthropathies,4/24/2023,12/19/2022,Lianshan,Irene Ech
+330,Speech Pathologist,Corrosion of first degree of left shoulder,7/17/2023,08-02-2023,Yaqian,Jakob Das
+331,Electrical Engineer,Pain disorder with related psychological factors,11/30/2022,5/13/2023,Angered,Dulcia Capponeer
+332,Research Nurse,"Type III occipital condyle fracture, left side, init",06-08-2023,2/19/2023,Cherskiy,Anny Wrey
+333,Speech Pathologist,"Unstable burst fx second lum vertebra, init for opn fx",11/17/2023,6/25/2023,Heishui,Kelly Klyner
+334,Operator,"Dislocation of C6/C7 cervical vertebrae, subs encntr",10-01-2023,10/31/2023,Lityn,Nollie Cockell
+335,Legal Assistant,"Displaced commnt fx left patella, init for opn fx type I/2",02-12-2023,1/22/2023,Şanā’,Danyelle Valentelli
+336,Professor,"Complete traumatic amp of right foot at ankle level, subs",4/26/2023,10/22/2023,Sam Phran,Hannis Dineges
+337,Data Coordinator,Personal history of combat and operational stress reaction,04-12-2023,05-05-2023,Dingcheng,Virgilio Clericoates
+338,Clinical Specialist,"Maternal care for Anti-A sensitization, first tri, fetus 3",08-03-2023,02-12-2023,Shihudang,Berti Hiscoke
+339,Dental Hygienist,"Stress fracture, oth site, subs for fx w routn heal",01-04-2023,9/15/2023,Mulawato,Ashleigh Tamsett
+340,Account Executive,"Activity, other specified sports and athletics",1/31/2023,6/15/2023,Bartniczka,Britta Vickars
+341,Pharmacist,"Nondisp fx of distal phalanx of right index finger, init",12/20/2022,11/30/2022,Nol,Worth Morat
+342,Director of Sales,"Contact with paper-cutter, initial encounter",11/20/2023,6/17/2023,Bilaran,Marve Torrecilla
+343,Paralegal,"Adverse effect of unsp drug/meds/biol subst, init",04-09-2023,1/24/2023,Niños Heroes,Valentia Adamsen
+344,Software Engineer II,Malignant neoplasm of supraglottis,08-07-2023,06-05-2023,Karanganyarkrajan,Margit Salomon
+345,VP Accounting,"Brown-Sequard syndrome at T2-T6, init",6/19/2023,10-08-2023,Jiashi,Sherie Wannan
+346,Analog Circuit Design manager,Babesiosis,3/21/2023,07-07-2023,Emiliano Zapata,Gerrie Gherardi
+347,VP Accounting,"Viral meningitis, unspecified",9/30/2023,11/29/2022,Uzda,Mindy Fansy
+348,Engineer II,Essential fatty acid [EFA] deficiency,2/14/2023,12-09-2022,Kambaxoi,Georgeanna Taile
+349,Speech Pathologist,"Poisoning by tricyclic antidepress, undetermined, sequela",11/23/2023,8/20/2023,Kými,Lonna Tunn
+350,Sales Representative,"Oth comp of fb acc left in body fol inject or immuniz, subs",2/21/2023,11-11-2023,Gaibei,Brooks Iacapucci
+351,Director of Sales,"Toxic effect of venom of bees, accidental, sequela",7/15/2023,03-06-2023,Dayuanhuizu,Ula Eastlake
+352,VP Product Management,"Injury of muscle, fascia and tendon of triceps",6/28/2023,12/23/2022,Tríkala,Shirleen State
+353,Dental Hygienist,Underfeeding of newborn,7/28/2023,08-08-2023,Shilong,Guido MacGibbon
+354,Junior Executive,"Nondisp seg fx shaft of l femr, 7thE",10/28/2023,01-02-2023,Anchorage,Reagen Shillitoe
+355,Food Chemist,"Displacement (lateral) of globe, unspecified eye",11-08-2023,6/21/2023,Mariara,Liva Jeandon
+356,General Manager,Idiopathic aseptic necrosis of left fibula,10-11-2023,12/20/2022,São José de Ribamar,Fairfax O'Dare
+357,Geological Engineer,"Prem ROM, onset labor > 24 hr fol rupt, unsp weeks of gest",10-10-2023,7/31/2023,Mongo,Roi Kernan
+358,Structural Engineer,"Ped on sktbrd injured in collision w nonmtr vehicle, unsp",4/16/2023,2/19/2023,Kabir,Franzen Aronovitz
+359,Compensation Analyst,"Maternal care for unsp congen malform of uterus, second tri",5/18/2023,12/20/2022,Liushi,Langston Bodill
+360,Food Chemist,Pedl cyc driver injured in clsn w nonmtr vehicle nontraf,12-09-2022,07-03-2023,Desa Baregbeg,Marjorie Huller
+361,Help Desk Operator,"Path fracture, unsp ulna and radius, subs for fx w nonunion",10-07-2023,06-06-2023,Mapaniqui,Dermot McLernon
+362,Analog Circuit Design manager,"Unsp injury of unsp musc/fasc/tend at thi lev, unsp thigh",7/30/2023,3/24/2023,Selopuro,Burke Sperwell
+363,Help Desk Technician,"Other specified injuries of left lower leg, init encntr",10-05-2023,02-03-2023,Uglovoye,Sherie Keetley
+364,Pharmacist,"Traum rupt of palmar ligmt of r rng fngr at MCP/IP jt, init",12-06-2022,10/20/2023,Uzhhorod,Clara Tsarovic
+365,Actuary,Chlamydial infection of pharynx,06-12-2023,8/27/2023,Douarnenez,Lurlene Twoohy
+366,Nurse,Ped w convey injured in collision w nonmtr vehicle in traf,02-10-2023,12-07-2022,Rybnaya Sloboda,Iain Mandry
+367,Technical Writer,Underdosing of diagnostic agents,4/20/2023,12/14/2022,Pohang,Donnajean Figgen
+368,Staff Scientist,Antipsychotics and neuroleptics,01-06-2023,5/23/2023,Bāgh-e Maīdān,Horton Goodspeed
+369,Help Desk Technician,Bilious vomiting of newborn,3/17/2023,09-01-2023,Agbannawag,Ardra Hallyburton
+370,Health Coach III,Other superficial bite of unspecified lesser toe(s),4/14/2023,11/17/2023,Zhongcun,Eleni Sango
+371,Information Systems Manager,"Unsp fx l low leg, subs for opn fx type I/2 w delay heal",9/18/2023,1/30/2023,Lutoryż,Haze Bredgeland
+372,Systems Administrator II,Corros 90%/more of body surface w 50-59% third degree corros,7/26/2023,1/22/2023,Simitli,Parke Satterly
+373,Help Desk Technician,"Burn of first degree of chest wall, subsequent encounter",2/28/2023,10-11-2023,Den Chai,Thaxter Stuffins
+374,Desktop Support Technician,"Unsp traum nondisp spondylolysis of 4th cervcal vert, 7thK",3/27/2023,5/20/2023,Lumbang,Torrance Ardling
+375,Mechanical Systems Engineer,Burn of unspecified degree of left palm,2/28/2023,07-09-2023,R S,Siana Birdfield
+376,Chemical Engineer,"Sedative, hypnotic or anxiolytic abuse w oth disorder",8/17/2023,05-09-2023,Lymanske,Gisele Atto
+377,Administrative Officer,Traumatic amputation of other parts of head,2/15/2023,01-05-2023,Cashel,Sabra Hamp
+378,Geologist II,Motorcycle driver injured in collision w oth mv nontraf,11-05-2023,05-10-2023,Rapas,Micky Jurgenson
+379,VP Product Management,"Disp fx of l radial styloid pro, 7thR",4/19/2023,4/30/2023,Citeureup,Neille Rhodes
+380,Automation Specialist III,"Poisn by oth agents prim acting on the resp sys, undet, sqla",3/23/2023,11/29/2022,Mansa,Della Pinock
+381,Sales Representative,Encounter for fitting and adjustment of orthodontic device,08-10-2023,11/29/2022,Krasnogvardeyets,Eada Fox
+382,Graphic Designer,Acquired stenosis of external ear canal,09-08-2023,3/14/2023,Szeged,Nessi Jansema
+383,Social Worker,"Unsp injury of musc/fasc/tend at thi lev, left thigh, subs",03-02-2023,02-03-2023,Llazicë,Giovanna McGarrahan
+384,Senior Editor,"Displaced fracture of base of other metacarpal bone, sequela",10-03-2023,9/14/2023,Cikananga,Beverly Fenwick
+385,Software Engineer III,"Oth fx shaft of r fibula, init for opn fx type 3A/B/C",05-06-2023,11/26/2022,Rasūlnagar,Heywood Findley
+386,Structural Analysis Engineer,"Unsp injury of muscle, fascia and tendon of unsp hip, subs",4/20/2023,1/28/2023,Jagdaqi,Coral Kohneke
+387,Software Engineer I,Other fracture of left lesser toe(s),5/18/2023,9/16/2023,Wentang,Carlie Brewers
+388,Internal Auditor,"Nondisp fx of acromial process, r shoulder, init for opn fx",4/27/2023,8/24/2023,Cerrito,Miller McTague
+389,Business Systems Development Analyst,"Idiopathic chronic gout, right elbow, with tophus (tophi)",09-03-2023,7/20/2023,Longtan,Fredra MacDearmaid
+390,Statistician II,Secondary and unspecified malignant neoplasm of lymph nodes,9/26/2023,9/29/2023,Nueve de Julio,Elias Lewsam
+391,Senior Cost Accountant,"Frostbite with tissue necrosis of right foot, subs encntr",10/30/2023,8/29/2023,Bretaña,Kirby Rabbitt
+392,Marketing Assistant,"Corrosion of unsp degree of right upper arm, subs encntr",8/29/2023,5/24/2023,Saue,Farica Habin
+393,Physical Therapy Assistant,Sprain of metacarpophalangeal joint of thumb,4/30/2023,1/30/2023,Chone,Charlotta Baldree
+394,Business Systems Development Analyst,"Corrosion of first degree of upper back, subs encntr",02-01-2023,2/18/2023,Cornwall,Bette-ann McGuiness
+395,Speech Pathologist,Osteonecrosis due to previous trauma of left ulna,3/25/2023,12/19/2022,Pregonero,Hildy Vasishchev
+396,Senior Developer,"Unsp fx upr end l ulna, 7thH",08-10-2023,5/22/2023,Kilcullen,Ron Eburah
+397,Business Systems Development Analyst,"Displ suprcndl fx w/o intrcndl extn low end unsp femr, 7thC",07-06-2023,7/14/2023,Jinghai,Darrel Stille
+398,Health Coach III,Encntr for removal and reinsertion of uterin contracep dev,5/17/2023,2/13/2023,Lidköping,Lucho Groll
+399,Compensation Analyst,"Intervertebral disc disorders w radiculopathy, lumbar region",5/21/2023,5/27/2023,Tsuruoka,Thaxter Karpf
+400,Professor,"Nondisp commnt fx shaft of l fibula, 7thR",4/29/2023,5/15/2023,Xianning,Merilyn Lohmeyer
+401,Teacher,"Fx unsp prt of nk of l femr, 7thM",03-02-2023,12-02-2022,Dingtao,Liuka Rodbourne
+402,Food Chemist,"Myositis ossificans traumatica, multiple sites",2/27/2023,12-09-2022,Weiwangzhuang,Berta Skehens
+403,Systems Administrator III,"Unsp injury of popliteal artery, unspecified leg, sequela",04-02-2023,1/30/2023,Diên Khánh,Doro Corston
+404,Financial Analyst,"Disp fx of med malleolus of l tibia, 7thR",1/13/2023,02-05-2023,Söderhamn,Frederik Reicharz
+405,Staff Scientist,Intraop hemor/hemtom of a resp sys org comp a procedure,3/31/2023,4/29/2023,Gaur,Marjy Bullus
+406,Associate Professor,Unspecified injury of elbow,12/13/2022,10/14/2023,Shuihu,Paco Tyce
+407,Chief Design Engineer,Periodic headache syndromes in child or adult,10/30/2023,1/16/2023,Tsirang,Jorry Ferrarini
+408,Assistant Manager,Malignant neoplasm of oropharynx,09-08-2023,04-01-2023,Grajaú,Shani Bruyns
+409,Recruiting Manager,Encntr for follow-up exam after trtmt for malignant neoplasm,9/28/2023,4/18/2023,Anolaima,Ker Imrie
+410,Director of Sales,Cracked tooth,11/22/2023,11/15/2023,Reims,Shawna Sowersby
+411,Nurse Practicioner,"Strain of muscle, fascia and tendon of hip",2/15/2023,6/23/2023,Alvito de São Pedro,Jobina Grunson
+412,Geologist II,Corrosion of third degree of unspecified thigh,05-10-2023,01-08-2023,Dalam,Tallie Peddersen
+413,Account Representative I,"Advrs eff of crbnc-anhydr inhibtr, benzo/oth diuretc, sqla",6/24/2023,5/24/2023,Quintas,Edgardo Coe
+414,Paralegal,"Poisoning by rifampicins, accidental (unintentional), subs",04-12-2023,8/27/2023,Kurjan,Cacilie Beckett
+415,Staff Scientist,"Glaucomatous flecks (subcapsular), right eye",6/17/2023,9/22/2023,Mosta,Gilberte Emmert
+416,Senior Editor,Early satiety,5/20/2023,6/23/2023,Tawangrejo,Torre Thornton
+417,Geological Engineer,"Other juvenile arthritis, unspecified elbow",11/30/2022,1/23/2023,Fengyuan,Elfrida Truin
+418,Staff Accountant I,"Toxic effect of homologues of benzene, assault, init encntr",04-12-2023,10-03-2023,São Sebastião do Paraíso,Benyamin Carnaman
+419,Geologist II,Ophthalmoplegic migraine,12-04-2022,6/26/2023,Pacajus,Tallie Dacke
+420,VP Marketing,"Poisoning by local anesthetics, self-harm, sequela",7/25/2023,10-03-2023,Krasnokamsk,Ariel Benoix
+421,Nurse Practicioner,Unspecified disorder of right ear,5/20/2023,8/14/2023,Cordeiro,Shirl Razoux
+422,Operator,"Oth types of foliclar lymph, nodes of head, face, and neck",10/19/2023,2/28/2023,Middelburg,Kylen Brosch
+423,Environmental Specialist,Contusion of lower leg,12/22/2022,5/30/2023,Dolní Kounice,Lucita Lockhart
+424,Budget/Accounting Analyst II,Stage 1 necrotizing enterocolitis,12-01-2022,11/16/2023,Kalynivka,Brigitte Sultana
+425,Librarian,"Stress fracture, left foot, subs for fx w nonunion",3/26/2023,11-06-2023,Ocuviri,Chastity Bloodworth
+426,Chief Design Engineer,"Central retinal vein occlusion, bilateral, stable",07-12-2023,4/14/2023,Luodian,Meridel Burnet
+427,Social Worker,"Infective myositis, left finger(s)",2/26/2023,9/23/2023,Wanganui,Alejandra Loughead
+428,Human Resources Assistant I,"Poisoning by thyroid hormones and substitutes, undet, init",1/16/2023,9/14/2023,Waihi Beach,Lennie Seyler
+429,Product Engineer,"Corrosion of second degree of right ear, sequela",04-11-2023,02-05-2023,Pueblo Nuevo,Gayler Chaplyn
+430,Developer II,"Foreign body in cornea, right eye, sequela",10-03-2023,04-08-2023,Los Nogales,Tristam Ridsdole
+431,Accountant I,Absent nipple,2/24/2023,12/14/2022,Vera Cruz,Jethro Lenox
+432,Physical Therapy Assistant,"Nondisp commnt fx unsp patella, 7thH",1/26/2023,1/18/2023,Lindavista,Zachary Cockell
+433,Environmental Tech,"Person outside bus injured in clsn w ped/anml in traf, init",07-04-2023,06-01-2023,Sarband,Leilah Frantz
+434,Information Systems Manager,Obstructed labor due to incomplete rotation of fetal head,06-11-2023,3/22/2023,Huaqiao,Lolly Attenbrough
+435,Nuclear Power Engineer,"War op w unsp fire/conflagr/hot subst, civilian, subs",10-02-2023,03-04-2023,Aulnay-sous-Bois,Stafford Dupree
+436,Environmental Tech,Candidiasis of skin and nail,11-03-2023,10-01-2023,Pamarayan,Ernst Lowell
+437,Web Designer IV,Athscl autologous vein bypass of the right leg w ulceration,1/15/2023,9/19/2023,Srbinovo,Sigfried Campion
+438,Recruiting Manager,Epidermolysis bullosa,11/16/2023,05-06-2023,Kalibaru,Valina Warde
+439,Research Associate,"Other antepartum hemorrhage, third trimester",1/26/2023,9/18/2023,Łobodno,Erroll Mattiazzo
+440,GIS Technical Architect,"Lacerat extn musc/fasc/tend l lit fngr at wrs/hnd lv, sqla",11-09-2023,12/16/2022,Tumpakkepuh,Christiano Ratcliffe
+441,Financial Advisor,"Anaphylactic shock, unspecified, initial encounter",9/17/2023,06-08-2023,Köping,Griswold Burnett
+442,Statistician IV,"Laceration of msl/tnd of front wall of thorax, init",6/19/2023,09-07-2023,Tingloy,Dorrie Rassell
+443,Dental Hygienist,Subluxation of tarsal joint of left foot,9/16/2023,01-08-2023,Borkowice,Sidoney Pithcock
+444,Cost Accountant,Assault by unarmed brawl or fight,07-07-2023,10-10-2023,Sheregesh,Arielle Applebee
+445,Civil Engineer,Sprain of metacarpophalangeal joint of left index finger,9/22/2023,4/26/2023,Situ,Ilario Janca
+446,VP Product Management,"Nondisplaced Rolando's fracture, left hand, init for clos fx",2/22/2023,5/30/2023,Perfilovo,Rand Dudderidge
+447,Information Systems Manager,Varicose veins of lower extremities with inflammation,07-06-2023,10-05-2023,Ngulakan,Antonetta Aleksankin
+448,Software Test Engineer I,"Oth comp of fb acc left in body following endo exam, sequela",6/28/2023,4/24/2023,Tsybulevka,Jeana Strongitharm
+449,Senior Quality Engineer,"Unsp fx head of left femur, subs for clos fx w routn heal",08-11-2023,3/22/2023,Jaroměřice nad Rokytnou,Odelia Shepherdson
+450,Assistant Manager,"Other infection due to central venous catheter, sequela",03-06-2023,03-03-2023,Boavista,Nevin Cordobes
+451,Product Engineer,"Food in bronchus causing other injury, sequela",5/18/2023,07-07-2023,Stockholm,Aviva Neubigging
+452,Sales Associate,Athletic court as place,08-02-2023,5/28/2023,Camacha,Colly Falls
+453,Community Outreach Specialist,"Ped on foot injured in collision w nonmtr vehicle, unsp",12/15/2022,3/30/2023,Tymbark,Flora Rudham
+454,Civil Engineer,"Arthropathy following intestinal bypass, right elbow",07-01-2023,2/17/2023,Chengbei,Georges Torel
+455,General Manager,"Inj muscle, fascia and tendon of prt biceps, left arm, subs",8/30/2023,5/15/2023,Batulawang,Danell Verbeek
+456,Compensation Analyst,"Vesicoureter-reflux w reflux neuropath w hydrourt, bilateral",1/21/2023,04-08-2023,Mossendjo,Madel Clancey
+457,Editor,"Unsp fx shaft of right femur, subs for clos fx w nonunion",12/30/2022,07-04-2023,Itumbiara,Alexander Howship
+458,Senior Financial Analyst,External constriction of right thumb,3/28/2023,05-04-2023,Vrangel’,Brook Causey
+459,Office Assistant I,"Other anterior subluxation of unspecified hip, sequela",8/23/2023,5/28/2023,Samut Sakhon,Rebecka Harower
+460,Programmer Analyst II,"Displ suprcndl fx w intrcndl extn low end l femr, 7thN",4/14/2023,3/24/2023,Concordia,Malcolm Ketteridge
+461,Staff Scientist,"Displ transverse fx shaft of r tibia, 7thQ",08-09-2023,8/23/2023,Yinping,Berti Ewebank
+462,Quality Control Specialist,"Oth foreign object in esophagus causing oth injury, sequela",7/15/2023,09-07-2023,Linjiang,Jdavie Syson
+463,Sales Representative,"Toxic effect of detergents, accidental (unintentional)",07-03-2023,09-12-2023,Kālābāgh,Kori Crouch
+464,Human Resources Assistant I,"Major laceration of unsp innominate or subclav art, init",03-11-2023,1/25/2023,Barrie,Aurlie Stidworthy
+465,VP Quality Control,"Complete traumatic amputation at elbow level, left arm",11/20/2023,11-03-2023,Kangxung,Halsey Lauderdale
+466,Professor,Crushed by nonvenomous snake,11-03-2023,8/23/2023,Caracol,Ronalda Foale
+467,Librarian,"Unsp inj blood vessels at ank/ft level, right leg, sequela",11-09-2023,03-05-2023,Calachuchi,Kelley Oehme
+468,Software Engineer II,"Oth injury due to oth accident on board passenger ship, subs",6/21/2023,8/25/2023,Samal,Guillermo Brum
+469,Senior Editor,"Cerebral anoxia due to anesth during preg, second trimester",06-06-2023,09-01-2023,Pandean,Caspar Hamblett
+470,Legal Assistant,"Unsp open wound of right cheek and TMJ area, init",2/26/2023,3/18/2023,Siemiatycze,Salaidh Plaster
+471,Research Assistant II,"Severe pre-eclampsia, unspecified trimester",07-11-2023,6/26/2023,Dangshun,Ilene Cawthera
+472,Office Assistant IV,"Unspecified dislocation of left foot, subsequent encounter",10-02-2023,9/30/2023,El Olivar,Leyla Hanney
+473,Speech Pathologist,"Fx unsp prt of scapula, unsp shldr, subs for fx w routn heal",02-08-2023,8/15/2023,Tubuhue,Clarice Molloy
+474,Librarian,"Laceration of oth blood vessels of thorax, unsp side, subs",06-07-2023,11/28/2022,Sidomulyo,Billie Childrens
+475,Senior Financial Analyst,"Displ spiral fx shaft of unsp femr, 7thQ",4/29/2023,03-03-2023,Babushkin,Renata Dorr
+476,Sales Representative,"Sltr-haris Type I physeal fx unspecified calcaneus, 7thD",02-11-2023,10/13/2023,Paris 08,Brigitte Linkleter
+477,Professor,Assault by unspecified larger firearm discharge,11-11-2023,7/21/2023,Rafael Perazza,Gregory Diggles
+478,Dental Hygienist,Corrosion of second degree of unspecified toe(s) (nail),7/26/2023,05-09-2023,Chisec,Abdul Mollen
+479,Accountant II,Intermittent alternating esotropia,5/20/2023,8/23/2023,Kostino,Wandis Kamienski
+480,Operator,"Displacement of other cardiac electronic device, sequela",11-05-2023,7/26/2023,Stockholm,Engracia Breheny
+481,Recruiter,"Burn of unspecified degree of right lower leg, sequela",04-04-2023,7/21/2023,Progreso,Berkie Alywin
+482,Research Nurse,"Displ oblique fx shaft of l fibula, 7thQ",11-05-2023,12/28/2022,Almeirim,Kimberley Clowney
+483,Staff Accountant IV,"Displ commnt fx shaft of unsp tibia, 7thK",8/22/2023,3/25/2023,Fifi,Daren Tomasicchio
+484,VP Accounting,"Disp fx of body of hamate bone, unspecified wrist, sequela",3/29/2023,5/15/2023,Yangtan,Judah Mackerness
+485,Account Coordinator,"Poisoning by local astringents/detergents, self-harm",11/18/2023,10/20/2023,Longquan,Myrtice Mounter
+486,Media Manager II,"Military operations involving rubber bullets, civilian, subs",9/22/2023,1/30/2023,Shangma,Howard Lowy
+487,Junior Executive,Niemann-Pick disease,2/14/2023,6/21/2023,Muan,Alix Lomath
+488,Associate Professor,"Bent bone of r ulna, subs for opn fx type I/2 w routn heal",9/28/2023,07-06-2023,Liangjing,Erwin Darlington
+489,Recruiter,"Unsp inj musc/fasc/tend at shldr/up arm, unsp arm, sequela",05-07-2023,04-08-2023,Bafoussam,Yolande Escot
+490,Civil Engineer,"Other cervical disc degeneration,  high cervical region",9/23/2023,5/24/2023,Lebedyan’,Jacquetta Gerhardt
+491,Tax Accountant,"Prsn outsd pk-up/van inj in clsn w 2/3-whl mv in traf, subs",04-10-2023,11-02-2023,Kuala Bintang,Albertine Streets
+492,Senior Financial Analyst,"Blister (nonthermal) of right back wall of thorax, sequela",04-04-2023,08-10-2023,Khondāb,Vannie Mattioni
+493,Senior Developer,"Disp fx of body of right calcaneus, subs for fx w routn heal",2/13/2023,1/22/2023,Caomiao,Maxie Lawlan
+494,Recruiting Manager,Pedl cyc driver injured in clsn w nonmtr vehicle nontraf,11/21/2023,08-08-2023,Annaka,Brittani Routhorn
+495,Office Assistant IV,"Mult fx of pelv w unstbl disrupt of pelv ring, 7thB",07-08-2023,3/25/2023,Beaconsfield,Patience Leeder
+496,Physical Therapy Assistant,"Burn of third degree of right scapular region, subs encntr",7/22/2023,8/14/2023,Osielsko,Tessie Bernadon
+497,Mechanical Systems Engineer,"Frostbite w tissue necros abd wall, lower back and pelvis",07-07-2023,7/20/2023,Gulu,Elie Windaybank
+498,Senior Cost Accountant,"Burn of third degree of trunk, unspecified site, subs encntr",1/29/2023,4/13/2023,Vologda,Evita Winspire
+499,Analyst Programmer,"Toxic effect of carb monx from unsp source, assault, init",5/16/2023,11-01-2023,Ampasimanolotra,Constantine Riddiford
+500,Account Representative IV,"Toxic effect of phosphorus and its compounds, acc, sequela",07-01-2023,9/25/2023,Cartagena,Peg Shaw
+501,Technical Writer,"Disorders of meninges, not elsewhere classified",05-09-2023,01-05-2023,Mīrwāh Gorchani,Vite Pasquale
+502,Web Developer III,Pre-existing secondary hypertension comp the puerperium,7/31/2023,10-07-2023,Bao’an,Errick Tour
+503,Senior Developer,"Unsp fx head of unsp femr, 7thM",11-08-2023,12/25/2022,Courelas Bravas,Gasper Rudeyeard
+504,Staff Accountant IV,Articular disc disorder of left temporomandibular joint,12-01-2022,10-06-2023,Ituverava,Miriam Nisius
+505,Computer Systems Analyst II,"Complex regional pain syndrome I of lower limb, bilateral",1/24/2023,9/16/2023,Rawson,Gwyn Bloggett
+506,Sales Associate,"Sltr-haris Type I physeal fx unspecified calcaneus, 7thB",1/14/2023,8/19/2023,Canchayllo,Temple Augustine
+507,Software Test Engineer II,"Abrasion of unsp external genital organs, male, sequela",12-05-2022,11/18/2023,‘Ajlūn,Boris Maughan
+508,VP Sales,"Monocular esotropia with V pattern, right eye",6/15/2023,5/23/2023,Tugu,Lyda Taffee
+509,Research Assistant IV,"Pathological fracture, left toe(s), sequela",4/25/2023,2/23/2023,Koundara,Melisent Jakoviljevic
+510,Environmental Tech,"Laceration with foreign body of anus, initial encounter",5/18/2023,02-09-2023,Baiyashi,Ara Ranald
+511,Legal Assistant,Artificial opening status,03-03-2023,03-11-2023,La Ensenada,Iolanthe MacMeanma
+512,Administrative Officer,"Idiopathic chronic gout, unsp shoulder, without tophus",4/14/2023,09-01-2023,Boulsa,Zelig Cluer
+513,Operator,"Disp fx of olecran pro w/o intartic extn unsp ulna, 7thK",3/19/2023,11-02-2023,Valinhos,Jay Topley
+514,Financial Analyst,"Ped on foot injured in collision w pedl cyc in traf, init",10/30/2023,4/26/2023,Croissy-sur-Seine,Dmitri Fairbrass
+515,Programmer Analyst IV,Abn lev drug/meds/biol subst in specmn from fem gntl organs,4/23/2023,6/27/2023,Paungde,Arlina Harmes
+516,Community Outreach Specialist,Frostbite with tissue necrosis of other sites,8/21/2023,09-05-2023,Songshu,Maye Fiddy
+517,Environmental Tech,"Pnctr w fb of r mid finger w/o damage to nail, sequela",2/23/2023,11/30/2022,Baytīn,Sheff Quigg
+518,Marketing Assistant,"Poisn by oth antacids and anti-gstrc-sec drugs, undet, sqla",09-02-2023,05-04-2023,Marataizes,Marcia Karsh
+519,Mechanical Systems Engineer,"Other optic atrophy, unspecified eye",11-09-2023,4/18/2023,Los Cóndores,Anatollo Greatrex
+520,Community Outreach Specialist,"Poisoning by antithyroid drugs, undetermined, subs encntr",2/17/2023,9/22/2023,Ibirama,Tresa Drover
+521,Automation Specialist IV,"Poisn by oth systemic anti-infect/parasit, slf-hrm, sequela",03-01-2023,6/24/2023,Dongping,Freddy Siddell
+522,VP Marketing,Atheroembolism of left upper extremity,9/20/2023,03-06-2023,Siqiao,Marina O'Shevlan
+523,Quality Control Specialist,"External constriction, left knee",6/13/2023,10-07-2023,Capatárida,Sandy Inseal
+524,Actuary,Acquired absence of leg below knee,12-04-2022,05-11-2023,Nantes,Vinita Antonazzi
+525,Assistant Media Planner,"Complete transverse atyp femoral fracture, left leg, 7thD",10-05-2023,1/30/2023,Eg-Uur,Whitney Blemings
+526,Software Engineer IV,"Nondisp comminuted fracture of shaft of right tibia, sequela",3/15/2023,09-10-2023,Pedro Leopoldo,Ahmad Mouland
+527,Web Developer IV,Prosth/oth implnt/mtrls orthopedic devices assoc w incdt,04-10-2023,2/16/2023,Dolores,Alan Paumier
+528,Staff Scientist,"Diffuse folicl center lymph, nodes of head, face, and neck",6/22/2023,3/20/2023,Pinoma,Zena Blewett
+529,Assistant Professor,"Injury of unsp nerve at ankle and foot level, unsp leg, subs",11-09-2023,6/20/2023,Abomey-Calavi,Quinton Abisetti
+530,Pharmacist,"Underdosing of penicillins, initial encounter",1/13/2023,5/13/2023,Florida,Suzi Mathelon
+531,Nuclear Power Engineer,"Biomechanical lesion, unspecified",08-12-2023,2/15/2023,Kedungcangkring,Samson Conaboy
+532,Executive Secretary,Other incomplete lesions of cervical spinal cord,6/25/2023,12/14/2022,Shenshu,Sonny Iglesias
+533,VP Accounting,"Drown due to oth accident to passenger ship, subs",06-11-2023,08-06-2023,Bohumín,Tulley Wilcocke
+534,Systems Administrator I,"Listeriosis, unspecified",9/18/2023,11/14/2023,Bebae,Maureen Hovy
+535,Cost Accountant,Other injury of unsp muscle and tendon at lower leg level,4/28/2023,05-06-2023,Maredakalada,Rebecka Meffin
+536,Structural Engineer,Leakage of biological heart valve graft,9/18/2023,12/25/2022,Georgetown,Katha Olivazzi
+537,Professor,"Late syphilis, latent",3/31/2023,01-09-2023,Novki,Johanna McAlinion
+538,VP Quality Control,"Inj oth blood vessels at shldr/up arm, left arm, init",6/18/2023,04-03-2023,Salamanca,Gustav Costard
+539,Research Assistant II,"Otalgia, left ear",4/29/2023,12-08-2022,Singgit,Garreth Fley
+540,Sales Representative,"Corrosion of first degree of right thumb (nail), init encntr",5/20/2023,2/27/2023,Kameda-honchō,Kira Scrivens
+541,Developer I,"Hypertrichosis of unspecified eye, unspecified eyelid",3/21/2023,12/26/2022,Michurinskoye,Donn Sporner
+542,Sales Representative,"Unsp fx fourth MC bone, left hand, subs for fx w nonunion",6/29/2023,4/26/2023,Iturama,Modestia Shearstone
+543,VP Marketing,"Incomplete atypical femoral fracture, left leg, 7thD",9/21/2023,3/30/2023,Dorp Tera Kora,Rachel Boldock
+544,Research Associate,Sprain of unspecified cruciate ligament of right knee,11-10-2023,03-01-2023,Huadian,Dulcia Armatidge
+545,Community Outreach Specialist,Other specified problems related to upbringing,5/13/2023,10/20/2023,Pamoyanan,Keelby Vernay
+546,Librarian,Burn of second degree of foot,03-10-2023,8/24/2023,Veselynove,Dominik Bramble
+547,Executive Secretary,"Other superficial bite of left knee, sequela",9/23/2023,03-03-2023,Kezileboyi,Issie Cloy
+548,Programmer III,Lymphocyte depleted Hodgkin lymphoma,10-06-2023,10/13/2023,Koten,Byram Keizman
+549,Systems Administrator II,"Injury of other nerves at lower leg level, unspecified leg",9/21/2023,3/23/2023,Villeneuve-lès-Avignon,Emlyn Hurry
+550,Biostatistician IV,"Disp fx of med epicondyl of unsp humer, 7thP",8/13/2023,10/13/2023,Narukan,Shena O'Gormally
+551,Occupational Therapist,"Struck by other hit or thrown ball, subsequent encounter",3/13/2023,10-09-2023,Gucheng,Augustine Tidder
+552,Software Engineer I,"Nondisp spiral fx shaft of unsp fibula, 7thM",11-03-2023,10-12-2023,Dār an Naşr,Loni Fancy
+553,Teacher,Other congenital malformations of hair,12-10-2022,4/29/2023,Oslo,Trent Kier
+554,Staff Scientist,"Nondisp fx of dist phalanx of fngr, subs for fx w routn heal",2/15/2023,11/26/2022,Hamilton,Cristie Dudin
+555,Assistant Professor,Transitory tyrosinemia of newborn,3/28/2023,06-01-2023,Akzhal,Amalie Menelaws
+556,Executive Secretary,Cocaine depend w cocaine-induc psych disorder w delusions,8/13/2023,8/14/2023,Oslo,Emory Innocenti
+557,Research Nurse,"Asphyx d/t mech thrt to breathe d/t oth cause, slf-hrm, init",09-09-2023,1/28/2023,Stamford,Bryce Mulvagh
+558,Software Engineer III,"Open bite of abd wall, unsp q w/o penet perit cav, subs",07-03-2023,4/19/2023,Batan,Merrie Aubert
+559,Chief Design Engineer,Focal (segmental) acute ischemia of small intestine,02-11-2023,1/15/2023,Xinbei,Odey Winks
+560,Developer IV,"Unspecified Eustachian salpingitis, right ear",3/31/2023,9/15/2023,Mayskiy,Husein Noblett
+561,Software Consultant,Dislocation of distal interphalangeal joint of left thumb,5/24/2023,4/25/2023,Honghualiangzi,Carlyle McGrill
+562,Business Systems Development Analyst,Hydrops of gallbladder,06-12-2023,12-04-2022,Aricapampa,Halsy Mendus
+563,Chief Design Engineer,Acute meningococcemia,2/18/2023,11/18/2023,Aībak,Tonnie Perigoe
+564,Information Systems Manager,"Ocular lac w/o prolaps/loss of intraoc tissue, l eye, init",08-07-2023,1/24/2023,Rojas,Lewes Harriagn
+565,Engineer IV,"Toxic effect of unsp organic solvent, self-harm, sequela",8/23/2023,07-03-2023,Takaoka,Harlen Muselli
+566,Human Resources Assistant III,"Displaced transverse fracture of left patella, sequela",12/26/2022,04-03-2023,Sukagawa,Brion Fearney
+567,Software Consultant,"Bit/stung by nonvenom insect & oth nonvenom arthropods, sqla",04-07-2023,6/26/2023,Wulin,Howie Crowdy
+568,Nurse,"Nondisp fx of cuboid bone of l foot, subs for fx w nonunion",8/17/2023,4/18/2023,Laibin,Gideon Hallows
+569,Registered Nurse,"Displacement of internal prosth dev/grft, subs",8/16/2023,12-05-2022,Jintao,Reid Easbie
+570,Research Nurse,"Nondisp fx of shaft of 2nd MC bone, l hand, 7thD",11/14/2023,10/24/2023,Sidareja,Hedwig Warlow
+571,Help Desk Technician,Sltr-haris Type II physeal fx upper end of unsp fibula,09-03-2023,08-06-2023,Raydah,Coralie Speir
+572,Help Desk Technician,"Poisn by selective serotonin reuptake inhibtr, assault, subs",05-05-2023,10/19/2023,Maras,Lilla McDyer
+573,Food Chemist,Fall on board canoe or kayak,12-01-2022,06-09-2023,Ash Shawātī,Neile Wasbey
+574,Sales Representative,Benign neoplasm of unspecified lacrimal gland and duct,8/20/2023,6/14/2023,Gaya,Merralee Hayth
+575,Editor,"Commrcl fix-wing aircraft collision injuring occupant, init",8/25/2023,04-08-2023,Lipci,Nessie Crufts
+576,Data Coordinator,Primary respiratory tuberculosis,2/14/2023,07-05-2023,Ondangwa,Martyn Gilligan
+577,Structural Analysis Engineer,Abnormal findings on microbiological examination of urine,6/30/2023,12-08-2022,Azogues,Dareen Brabon
+578,Recruiting Manager,"Poisoning by oth systemic anti-infect/parasit, undetermined",8/13/2023,3/19/2023,Passagem,Mavis Tomsett
+579,Safety Technician I,"Oth paralytic syndrome following oth cerebvasc disease, bi",12-02-2022,01-04-2023,Zaliznychne,Junina Barby
+580,Cost Accountant,"Nondisp pilon fx unsp tibia, subs for clos fx w routn heal",5/14/2023,2/15/2023,Banī Khallād,Aindrea Glassborow
+581,VP Marketing,Mech compl of prosth dev/implnt/grft of genital tract,07-03-2023,2/28/2023,Germiston,Raquel Mardy
+582,Nurse Practicioner,"Laceration of unspecified Achilles tendon, subs encntr",9/21/2023,2/17/2023,Mogocha,Gaspard Geertje
+583,Pharmacist,Toxic effect of other alcohols,11-10-2023,07-07-2023,Knivsta,Ali Hame
+584,Nurse,"Unspecified subluxation of unspecified knee, subs encntr",6/23/2023,08-12-2023,Cincinnati,Rinaldo Jochanany
+585,Associate Professor,"Fracture of unsp phalanx of l mid finger, init for opn fx",3/28/2023,2/27/2023,Cabrobó,Matthew Burdoun
+586,Accountant III,"Poisoning by digestants, undetermined, subsequent encounter",1/25/2023,12-08-2022,Los Andes,Martita Gioani
+587,Database Administrator I,"Unsp inj msl/fasc/tnd post grp at thi lev, right thigh, sqla",3/31/2023,9/27/2023,Beiwenquan,Erika Hutten
+588,Recruiter,"Burn of respiratory tract, part unspecified, sequela",5/16/2023,04-03-2023,Shaheying,Kally Czadla
+589,Business Systems Development Analyst,"Burn of first deg mult sites of left ankle and foot, init",07-02-2023,08-08-2023,Nhà Bè,Berke Flannigan
+590,Paralegal,Strain of extn/abdr musc/fasc/tend of r thm at forarm lv,7/26/2023,4/30/2023,Xuanhuadian,Danella Fawbert
+591,Software Test Engineer I,"Corrosion of third degree back of unsp hand, init encntr",5/17/2023,03-01-2023,Blagodatnoye,Eliot Tough
+592,Environmental Specialist,"Chronic follicular conjunctivitis, bilateral",3/14/2023,05-09-2023,Ngrambitan,Linea Fowls
+593,Legal Assistant,"Displ artic fx head of r femr, 7thN",3/13/2023,5/21/2023,Bum Bum,Sasha Saffen
+594,Analog Circuit Design manager,"Fracture of manubrium, subs for fx w delay heal",1/17/2023,5/31/2023,Jabungsisir,Brad Pashley
+595,Project Manager,"Unsp comp of fb acc left in body fol oth procedure, sequela",6/19/2023,8/19/2023,Tuchkovo,Mendel Ruprich
+596,Budget/Accounting Analyst IV,Activities involving other cardiorespiratory exercise,4/28/2023,9/16/2023,Sloboda,Ennis Djakovic
+597,Marketing Assistant,Unspecified disorder of eyelid,11/18/2023,3/14/2023,Nuwara Eliya,Carmel Krysztofowicz
+598,Information Systems Manager,"Oth psychoactive substance abuse w intoxication, uncomp",7/28/2023,4/13/2023,Ostankinskiy,Margo Gullifant
+599,Administrative Assistant III,"Retained (old) magnetic fb in ant chamber, left eye",03-12-2023,2/13/2023,Cuiabá,Sigfried Janata
+600,Mechanical Systems Engineer,Tetralogy of Fallot,4/25/2023,08-10-2023,Eṭ Ṭaiyiba,Karleen Crauford
+601,Legal Assistant,"Displaced fracture of right tibial spine, sequela",5/15/2023,05-11-2023,Kopang Satu,Karry Vogelein
+602,Staff Accountant II,"Other specified crystal arthropathies, wrist",4/17/2023,09-09-2023,Kitahiroshima,Kele Pitsall
+603,Civil Engineer,"Nondisp fx of first metatarsal bone, left foot, init",8/29/2023,3/14/2023,Nungga,Barr Mandy
+604,Payment Adjustment Coordinator,Driver of hv veh injured in nonclsn trnsp accident in traf,11/15/2023,11/29/2022,Sobhādero,Sheena Eplate
+605,Media Manager I,"Burn of first degree of right shoulder, initial encounter",9/29/2023,1/29/2023,Yanglin,Dori Sumsion
+606,Help Desk Technician,"Inj unsp blood vessel at shldr/up arm, unsp arm, sequela",01-01-2023,03-07-2023,Wailolong,Monroe Wrankmore
+607,Civil Engineer,Other specified viral infections of central nervous system,05-03-2023,3/28/2023,Milagros,Tova Baptista
+608,Speech Pathologist,Nondisp fx of distal phalanx of left lesser toe(s),3/31/2023,6/28/2023,Paamiut,Kristen Slowgrove
+609,Technical Writer,Unspecified viral hepatitis B without hepatic coma,2/17/2023,12-11-2022,Saint-Priest,Cleveland Olsen
+610,Mechanical Systems Engineer,"Other injury of ovary, bilateral",9/22/2023,5/28/2023,N’dalatando,Anthe O'Skehan
+611,Human Resources Assistant IV,"Cont preg aft uterin dth of one fetus or more, 2nd tri, fts5",07-03-2023,01-01-2023,Moglicë,Wittie Tomanek
+612,Quality Control Specialist,Noise effects on inner ear,08-05-2023,9/29/2023,Shanhe,Thedrick Caunce
+613,Recruiting Manager,"Forced landing of hang-glider injuring occupant, subs encntr",4/13/2023,01-10-2023,Đống Đa,Caye Flintoft
+614,Data Coordinator,"Type 1 diabetes with mild nonp rtnop with macular edema, bi",5/26/2023,6/25/2023,Água de Pau,Amabelle Penzer
+615,Environmental Specialist,"Traumatic compartment syndrome of l up extrem, sequela",04-06-2023,12-09-2022,Langtad,Alta Rubery
+616,Clinical Specialist,"Nondisp fx of body of l calcaneus, subs for fx w delay heal",10-03-2023,05-08-2023,Montbrison,Wes Melan
+617,Associate Professor,"Abrasion of right hand, initial encounter",08-11-2023,3/31/2023,Dunleer,Afton Friman
+618,Financial Advisor,"Lacerat flexor musc/fasc/tend r rng fngr at forarm lv, subs",9/26/2023,03-01-2023,Milín,Florri Hurley
+619,Senior Financial Analyst,"Unsp fracture of right talus, subs for fx w delay heal",04-08-2023,6/23/2023,Jiangyin,Dianna Bennen
+620,Registered Nurse,"Oth fx lower end of unsp ulna, subs for clos fx w nonunion",07-04-2023,03-08-2023,Maswarah,Maressa Pattlel
+621,Sales Representative,"Laceration of bronchus, bilateral, sequela",4/19/2023,01-05-2023,Caijiapu,Marrissa Flack
+622,GIS Technical Architect,"Disp fx of proximal phalanx of right great toe, init",5/18/2023,08-11-2023,Coaticook,Almeria Brellin
+623,Marketing Manager,"Bitten by mouse, sequela",10/24/2023,5/28/2023,Annecy,Merissa Speechly
+624,Community Outreach Specialist,"Adverse effect of smallpox vaccines, subsequent encounter",8/26/2023,06-05-2023,Örbyhus,Jarret Grainger
+625,Statistician II,"Person outside hv veh inj in clsn w 2/3-whl mv in traf, subs",12/21/2022,02-12-2023,Chóra,Paulette Dabling
+626,Editor,Bariatric surgery status complicating childbirth,9/29/2023,09-03-2023,Metallostroy,Stephanus Knottley
+627,Desktop Support Technician,"Microcystoid degeneration of retina, unspecified eye",05-12-2023,05-06-2023,Ciakar,Jarred Hefferon
+628,Research Assistant III,"Adverse effect of other antiprotozoal drugs, sequela",08-09-2023,12-03-2022,Ciseuseupan,Theressa Gabbott
+629,Administrative Officer,"Milt op involving unsp weapon of mass destruction, init",12/23/2022,10/16/2023,Tarsouat,Emalia Gratland
+630,Financial Analyst,"Tox eff of corrosv acids & acid-like substnc, slf-hrm, sqla",5/22/2023,03-12-2023,Tual,Gabbie Hallaways
+631,Senior Financial Analyst,"Displ midcervical fx l femr, 7thE",8/20/2023,08-06-2023,Indulang,Peg Fansy
+632,Human Resources Manager,"Spontaneous rupture of other tendons, left ankle and foot",03-04-2023,4/27/2023,Landivisiau,Teri Kirley
+633,Software Consultant,"Disrupt of external operation (surgical) wound, NEC, sequela",8/31/2023,05-12-2023,Huaqiao,Ibby Meth
+634,GIS Technical Architect,Vasculogenic erectile dysfunction,9/29/2023,10/26/2023,Stockholm,Wrennie Thandi
+635,Research Assistant I,"Ankylosis, elbow",8/28/2023,5/28/2023,Qiankou,Edwin Bonnick
+636,Community Outreach Specialist,"Nondisp spiral fx shaft of r tibia, 7thF",04-04-2023,12-07-2022,Wanju,Samara Claxson
+637,Administrative Assistant III,"Corrosion of second degree of right upper arm, sequela",05-06-2023,12-02-2022,El Rosario,Evelina Gilderoy
+638,Financial Advisor,Unspecified injury of dorsal vein of left foot,6/16/2023,06-07-2023,Buldon,Lodovico Garrow
+639,Budget/Accounting Analyst II,Laceration w fb of left lesser toe(s) w/o damage to nail,07-10-2023,1/21/2023,Oslo,Auberta Kinnard
+640,Programmer Analyst III,"Unsp injury of musc/fasc/tend long hd bicep, left arm, subs",06-05-2023,05-10-2023,Cergy-Pontoise,Casandra D'Ambrosi
+641,Safety Technician III,"Oth disp fx of lower end unsp humer, subs for fx w malunion",08-12-2023,7/29/2023,Al Mazār,Zita Orrey
+642,Analyst Programmer,"Unspecified injury of celiac artery, initial encounter",1/15/2023,8/30/2023,Neringa,Daffie Raubenheimers
+643,Help Desk Technician,"Pingueculitis, unspecified eye",10/13/2023,2/17/2023,Jiantang,Aveline Tomaszewicz
+644,Financial Analyst,"Matern care for viable fetus in abd preg, first tri, fetus 1",12/21/2022,12-08-2022,Sarnów,Gratiana Suttill
+645,Information Systems Manager,"Nondisp fx of coronoid process of right ulna, init",5/30/2023,1/19/2023,Zhen’an,Kirsteni Milam
+646,Senior Developer,"Food in larynx causing asphyxiation, sequela",04-07-2023,5/27/2023,‘Aşīrah ash Shamālīyah,Ki Juris
+647,Office Assistant I,Iron deficiency anemia,04-05-2023,01-02-2023,Topchikha,Hatty Shapcote
+648,Staff Accountant II,"Stiffness of left elbow, not elsewhere classified",9/29/2023,4/23/2023,Venta,Starlene Bagger
+649,Biostatistician IV,"Partial traumatic MCP amputation of r idx fngr, sequela",4/23/2023,02-08-2023,Dongxing,Anna-diane Wilkenson
+650,Internal Auditor,Other spondylosis with myelopathy,9/24/2023,5/27/2023,Kalashnikovo,Taddeo Delnevo
+651,Professor,Idiopathic aseptic necrosis of pelvis and femur,05-08-2023,04-10-2023,Fenlu,Eleen Booton
+652,Research Associate,Dysarthria following oth nontraumatic intcrn hemorrhage,07-11-2023,09-04-2023,Beskolen,Cam Gladtbach
+653,Community Outreach Specialist,"Disp fx of greater trochanter of unsp femr, 7thG",8/13/2023,01-06-2023,Repnoye,Lavinia Ausiello
+654,Environmental Specialist,"Milt op involving unintent restrict of air/airwy, milt, init",4/24/2023,08-05-2023,Haicheng,Mala Warde
+655,Environmental Tech,"Injury of lumbar, sacral and pelvic sympathetic nerves",04-09-2023,9/13/2023,Aleksandrovsk-Sakhalinskiy,Worthington Jakovijevic
+656,VP Accounting,"Cocaine use, unspecified with oth cocaine-induced disorder",2/17/2023,3/29/2023,Karangsembung,Elisabetta Garstan
+657,General Manager,Other specified diseases of biliary tract,09-12-2023,11/23/2023,Cam Lâm,Myrna Healey
+658,Analog Circuit Design manager,"Injury of oth nerves at hip and thigh level, left leg, subs",01-08-2023,5/14/2023,Rietavas,Rebeca Hegerty
+659,Human Resources Manager,"Ped on foot injured pick-up truck, pk-up/van, unsp, init",07-02-2023,03-01-2023,Skorogoszcz,Fanni Mantram
+660,Operator,"Other myositis, unspecified ankle and foot",5/25/2023,12-07-2022,Cagmanaba,Pall Hofler
+661,Programmer Analyst III,"War op involving acc deton onboard marine weapons, civilian",12-09-2022,2/18/2023,Kosum Phisai,Cale Lowton
+662,Chemical Engineer,"Episodic tension-type headache, not intractable",11/23/2023,4/27/2023,Kotovs’k,Maje Pedrick
+663,Software Test Engineer II,Injury of celiac artery,12/23/2022,01-11-2023,Herrljunga,Clerc Wilcott
+664,Budget/Accounting Analyst III,"Burn of larynx and trachea, initial encounter",02-01-2023,06-05-2023,Atikokan,Shanon Calwell
+665,Technical Writer,"Infect/inflm reaction due to int fix of right femur, subs",11/24/2023,11/22/2023,Jacarezinho,Allister Hicken
+666,Account Representative II,Proc/trtmt not crd out bec pt decision for oth reasons,1/16/2023,10-04-2023,Cabinteely,Guillema Howell
+667,Payment Adjustment Coordinator,"Burn second deg of shldr/up lmb, except wrs/hnd, unsp site",02-09-2023,07-04-2023,Altavista,Ag O'Rourke
+668,Human Resources Manager,Secondary biliary cirrhosis,9/28/2023,05-05-2023,Monte Novo,Earle Pledge
+669,Environmental Tech,Abn histolog findings in specmn from male genital organs,5/15/2023,8/27/2023,Tucano,Ernest Hanstock
+670,Social Worker,Type 1 diabetes mellitus with diabetic nephropathy,9/16/2023,9/29/2023,Nehe,Ellette Laker
+671,Web Designer IV,"Adverse effect of unsp fibrinolysis-affecting drugs, sequela",12/30/2022,12-12-2022,Borovo,Rikki Rubenovic
+672,Social Worker,"Intermittent monocular exotropia, left eye",05-07-2023,12/22/2022,Wolong,Rolph Domenichelli
+673,Programmer IV,"Person outsd bus inj in clsn w statnry object nontraf, init",12-04-2022,11/25/2022,Mengjia,Henrie Bedward
+674,Environmental Specialist,Deformity of unspecified orbit due to bone disease,04-06-2023,11/24/2023,Sanxianling,Agustin Mandeville
+675,Web Developer II,"Poisoning by other parasympathomimetics, undetermined",06-01-2023,05-04-2023,Ningzhong,Mendel Andryszczak
+676,Programmer I,"Puncture wound w foreign body of left shoulder, subs encntr",03-06-2023,11-09-2023,Haninge,Emlyn Greson
+677,Marketing Manager,Family history of diseases of the ms sys and connective tiss,7/30/2023,12/19/2022,Shiree,Tallie Mylan
+678,VP Product Management,Acute poliomyelitis,1/22/2023,7/15/2023,Héroumbili,Olly Martini
+679,Safety Technician III,"Underdosing of centr-acting/adren-neurn-block agnt, subs",2/23/2023,2/17/2023,Chancay,Tore Domenichelli
+680,Environmental Tech,Laceration without foreign body of left elbow,02-03-2023,8/26/2023,East End,Trevor Bratton
+681,Automation Specialist III,"Burn unsp degree of unsp single finger except thumb, sqla",09-08-2023,6/28/2023,Dzhubga,Roxine Renzullo
+682,Senior Financial Analyst,Unspecified superficial injury of left lower leg,5/27/2023,08-03-2023,Pylaía,Renae Samter
+683,Environmental Tech,"Nondisp fx of less tuberosity of unsp humer, 7thG",10-01-2023,5/31/2023,Gálvez,Abdel Shemilt
+684,Desktop Support Technician,"Disp fx of r tibial tuberosity, init for opn fx type 3A/B/C",3/27/2023,8/14/2023,Babat,Daniela Cosely
+685,Registered Nurse,"Disp fx of proximal phalanx of right great toe, init",1/28/2023,01-10-2023,Feitoria,Michele Yerill
+686,Automation Specialist IV,"Terrorism involving firearms, terrorist injured",10/22/2023,9/15/2023,Tsaghveri,Paulette Squire
+687,Programmer I,Rheu arthritis of unsp hip w involv of organs and systems,11/22/2023,7/20/2023,Xinhua,Angelika Girodias
+688,Quality Engineer,I/I react d/t nephrostomy catheter,09-04-2023,4/17/2023,Nkhotakota,Brit Vinter
+689,Graphic Designer,Corrosion of third degree of right foot,07-10-2023,06-04-2023,Ladan,Ricky Pau
+690,Information Systems Manager,"Inj unsp musc/fasc/tend at shldr/up arm, unsp arm, subs",10/17/2023,12/26/2022,Kinamayan,Zack Assad
+691,Recruiter,"Inj great saphenous at lower leg level, unsp leg, init",11-07-2023,5/26/2023,Hamburg,Benedetto Doring
+692,GIS Technical Architect,"Other shoulder lesions, left shoulder",3/13/2023,09-05-2023,Leer,Dulciana Babe
+693,Safety Technician II,"Other specified disorders of cartilage, multiple sites",01-06-2023,12/25/2022,Bilyayivka,Geoff Grogor
+694,Marketing Manager,Puncture wound without foreign body of wrist,08-05-2023,10/22/2023,Zdovbytsya,Cesya Ferrarello
+695,Senior Financial Analyst,"Blister (nonthermal) of anus, subsequent encounter",10/24/2023,06-11-2023,Untolovo,Gwenni Skitch
+696,Help Desk Operator,"Lac w/o fb of r frnt wl of thorax w/o penet thor cav, sqla",3/20/2023,07-05-2023,Sumurgayam,Xenia Ellwell
+697,Programmer Analyst I,"Stenosis due to internal orthopedic prosth dev/grft, sequela",8/18/2023,5/18/2023,Riangkroko,Stephana Spurnier
+698,Assistant Media Planner,"Strain extn musc/fasc/tend r little fngr at forarm lv, sqla",3/22/2023,10-03-2023,Ipu,Kirby Collomosse
+699,Software Consultant,Rocio virus disease,2/16/2023,3/23/2023,Dobřív,Bryn Jaskowicz
+700,Mechanical Systems Engineer,"Poisoning by aspirin, assault, subsequent encounter",11-06-2023,11/23/2023,Erong,Avrom Gisby
+701,Clinical Specialist,"Exposure to oth man-made visible and ultraviolet light, init",6/19/2023,8/17/2023,Mykolayiv,Towney Maund
+702,Sales Representative,Blister (nonthermal) of right index finger,4/22/2023,07-02-2023,Adelaide Mail Centre,Leigh Jammes
+703,Food Chemist,Neonatal jaundice due to bruising,06-04-2023,1/16/2023,Yupiltepeque,Keith Chaperling
+704,Internal Auditor,"Disp fx of lesser trochanter of unspecified femur, sequela",12-09-2022,6/19/2023,Atlanta,Rebbecca Geindre
+705,Dental Hygienist,"Allergic dermatitis of unspecified eye, unspecified eyelid",06-12-2023,11/18/2023,Chicago,Corabel Jagger
+706,Civil Engineer,"Mild to moderate pre-eclampsia, second trimester",1/30/2023,1/21/2023,Guangshan Chengguanzhen,Aura Duplain
+707,Teacher,Drown due to fall/jump fr crushed (nonpowered) inflatbl crft,1/27/2023,07-10-2023,Vigo,Eula Robardey
+708,Developer I,"Disp fx of lateral epicondyle of unsp humerus, sequela",08-10-2023,7/31/2023,Longping,Tris Mila
+709,GIS Technical Architect,Toxoplasmosis,02-08-2023,7/21/2023,Kōchi-shi,Ellen Dobrowlski
+710,Environmental Tech,"Oth stim use, unsp w stim-induce psych disorder w hallucin",8/30/2023,7/28/2023,San Pedro Necta,Jena Coffey
+711,Nurse Practicioner,Monoamine-oxidase-inhibitor antidepressants,1/28/2023,08-10-2023,Hanlin,Gayleen Blaisdell
+712,Financial Advisor,"Degeneration of chamber angle, right eye",6/26/2023,3/25/2023,Piteå,Anallese Lodder
+713,Quality Control Specialist,"Laceration of blood vessels at wrs/hnd lv of right arm, init",9/25/2023,3/22/2023,Xarag,Chicky Hartegan
+714,Environmental Specialist,"Auditory recruitment, left ear",12-07-2022,10/28/2023,Karlskoga,Gustav Grason
+715,Product Engineer,"Inhalant abuse, uncomplicated",11/28/2022,5/14/2023,Achadinha,Dareen Aggiss
+716,VP Marketing,"Incarcerated fx of med epicondyl of l humer, 7thP",01-04-2023,05-09-2023,Mangai,Loutitia Mewton
+717,Quality Engineer,"Vertigo from infrasound, initial encounter",10/17/2023,12/25/2022,Tianxingchang,Naoma Silverstone
+718,Speech Pathologist,"Nondisp commnt fx shaft of l fibula, 7thG",06-08-2023,8/13/2023,Mogotes,Sebastian Patterson
+719,Chemical Engineer,"Strain flxr musc/fasc/tend r little fngr at forarm lv, subs",03-09-2023,1/26/2023,Gotovlje,Amata Eccleshall
+720,Research Nurse,"Dislocation of unspecified cervical vertebrae, subs encntr",8/20/2023,7/19/2023,Pospelikha,Imogene Gilluley
+721,Financial Analyst,Wedge compression fracture of first lumbar vertebra,12/27/2022,02-05-2023,Novhorodka,Catarina Madill
+722,Assistant Manager,"Traum rupt of unsp ligmt of l little fngr at MCP/IP jt, init",10/21/2023,2/23/2023,Karang Kulon,Kira Meeny
+723,Media Manager III,Contus/lac/hem brainstem w LOC of 31-59 min,3/22/2023,5/17/2023,Mets Parni,Phineas Veljes
+724,Quality Control Specialist,"Oth traum displ spondylolysis of 7th cervcal vert, 7thG",8/22/2023,07-09-2023,Cardona,Breanne Sandhill
+725,Community Outreach Specialist,"Poisoning by digestants, intentional self-harm",05-05-2023,2/24/2023,Tuapse,Fidole McClaurie
+726,Community Outreach Specialist,"Disp fx of unsp ulna styloid pro, 7thF",8/16/2023,11/21/2023,Veverská Bítýška,Gloriana Gelardi
+727,Biostatistician I,"Laceration of flexor musc/fasc/tend at forarm lv, right arm",12/31/2022,03-05-2023,Köln,Hinze Rowlstone
+728,Project Manager,Person outside car injured in clsn w rail trn/veh nontraf,3/20/2023,8/24/2023,El Mirador,Elita Ourtic
+729,Help Desk Technician,"Unspecified sprain of right ring finger, subs encntr",3/17/2023,02-09-2023,Mbongawani,Boot Laffranconi
+730,Human Resources Assistant IV,"Oth fx upr & low end l fibula, 7thN",09-11-2023,04-09-2023,Alqueidão,Anna-diana Genny
+731,Mechanical Systems Engineer,Family history of arthritis,2/18/2023,10-03-2023,Albergaria,Berkly Fussen
+732,Project Manager,"Pathological fracture, right toe(s), init for fx",5/30/2023,1/24/2023,Shazhuang,Filippo Colrein
+733,Occupational Therapist,"Unsp fx first MC bone, unsp hand, subs for fx w delay heal",02-09-2023,04-11-2023,Kanturk,Janith Regi
+734,Software Test Engineer III,"Smith's fracture of left radius, init for opn fx type 3A/B/C",12-05-2022,8/19/2023,Jianshe,Rossie Fouch
+735,Research Associate,"Follicular lymphoma, unsp, lymph nodes of multiple sites",8/17/2023,2/17/2023,Sumbergedong,Wyn Johantges
+736,Actuary,"Adverse effect of antineoplastic and immunosup drugs, subs",4/29/2023,08-10-2023,Baishi,Karine Tyer
+737,Administrative Assistant IV,Other specified injury of plantar artery of unspecified foot,5/13/2023,3/31/2023,Zyuzino,Mason Jelfs
+738,Engineer IV,"Displ transverse fx left acetab, subs for fx w routn heal",2/24/2023,05-11-2023,Azurduy,Cheslie Doggerell
+739,Associate Professor,Garden or yard in single-family (private) house as place,5/29/2023,6/27/2023,Trenton,Conny Escot
+740,Software Test Engineer I,"Bitten by other nonvenomous marine animals, subs encntr",12/25/2022,2/14/2023,Liuzu,Pier Ready
+741,Senior Sales Associate,Female genital mutilation status,4/26/2023,5/29/2023,Banjar Lalangpasek,Cher Carwardine
+742,Mechanical Systems Engineer,"Pnctr w fb of abd wall, unsp quadrant w penet perit cav",09-05-2023,7/20/2023,Dagua,Velma Swatridge
+743,Dental Hygienist,Oth disrd of the skin and subcutaneous tissue,10-03-2023,2/13/2023,Seda,Burr Asch
+744,Community Outreach Specialist,"Lacerat extn musc/fasc/tend r idx fngr at forarm lv, init",10-06-2023,11-04-2023,Turanj,Davina O'Farrell
+745,Accounting Assistant I,"Disp fx of lateral malleolus of r fibula, 7thK",2/23/2023,9/17/2023,Kyurdarmir,Will Cambell
+746,GIS Technical Architect,"Derangement of unsp meniscus due to old tear/inj, right knee",04-11-2023,2/25/2023,La Coipa,Chloette Furneaux
+747,Human Resources Assistant I,"Contusion of right thumb without damage to nail, sequela",5/26/2023,11-08-2023,Ribeiro,Huntington Osselton
+748,Quality Control Specialist,Re-entry ventricular arrhythmia,04-01-2023,02-09-2023,Vatutine,Chiquia Barkhouse
+749,Financial Advisor,Frostbite with tissue necrosis of left toe(s),02-02-2023,4/27/2023,Sidomulyo,Tiphanie Knightsbridge
+750,Biostatistician III,Kearns-Sayre syndrome,9/26/2023,11/21/2023,Popielów,Artemas Carabine
+751,Computer Systems Analyst III,"Unsp injury of musc/tend at lower leg level, unsp leg",06-09-2023,4/22/2023,Staryy Cherek,Fanni Lindhe
+752,Product Engineer,Facial weakness,6/22/2023,12/27/2022,Gongnong,Maitilde Gorger
+753,Assistant Professor,Salicylates,05-11-2023,1/14/2023,Longping,Gerry Retchless
+754,Senior Financial Analyst,"Mech loosening of unsp internal prosthetic joint, sequela",09-08-2023,8/20/2023,Tarascon,Mel Low
+755,Safety Technician IV,"Toxic effect of aflatoxin, accidental (unintentional)",6/14/2023,10/16/2023,Chengjiao,Maison Kidby
+756,VP Quality Control,"Angioneurotic edema, subsequent encounter",01-12-2023,12/17/2022,Gombangan,Ara Quinion
+757,Safety Technician IV,"Nondisp fx of olecran pro w intartic extn unsp ulna, 7thM",11-04-2023,05-07-2023,Lipci,Seumas Thebeau
+758,Nurse,"Inj unsp blood vessel at shldr/up arm, right arm",8/27/2023,04-09-2023,Jönköping,Zandra Stuckow
+759,Human Resources Assistant III,"Stable burst fracture of unsp lum vertebra, init for opn fx",04-02-2023,1/13/2023,Carcassonne,Vic Fitzpayn
+760,Quality Engineer,"Crushing inj thorax, and traumatic amp of part of thorax",7/25/2023,5/27/2023,Ndjolé,Dell Staff
+761,Occupational Therapist,Adverse effect of unsp prim systemic and hematolog agent,12-01-2022,10/25/2023,Jocón,Krista Lewens
+762,Graphic Designer,"Other specified disorders of bone, unspecified site",03-12-2023,02-11-2023,Anahuac,Colan Dussy
+763,Help Desk Technician,"Lacerat musc/fasc/tend long hd bicep, left arm, sequela",4/29/2023,01-11-2023,Živinice,Shelagh Gerrard
+764,Financial Advisor,"Burn second degree of single l finger except thumb, subs",07-07-2023,11-06-2023,Rio Negro,Morgen Wyleman
+765,Pharmacist,"Poisoning by propionic acid derivatives, self-harm, subs",12-07-2022,1/31/2023,Chýnov,Harcourt Brelsford
+766,Systems Administrator III,"Displ longitud fx left patella, subs for clos fx w nonunion",1/15/2023,03-05-2023,Siparia,Raffaello Algate
+767,Structural Engineer,"Strain of flexor musc/fasc/tend l thm at forarm lv, subs",11-03-2023,5/29/2023,Belyayevka,Avrom O'Sirin
+768,Editor,Malig neoplasm of upper-inner quadrant of left male breast,04-09-2023,7/25/2023,Kuala Lumpur,Jeff Scranney
+769,Geologist II,"Encounter for contraceptive management, unspecified",10/27/2023,2/22/2023,Pontevedra,Stinky Eton
+770,VP Accounting,"Person outside 3-whl mv inj in clsn w pedl cyc in traf, subs",12-10-2022,10/26/2023,Ziliang,Ellary Behninck
+771,Systems Administrator IV,Dermato(poly)myositis in neoplastic disease,7/23/2023,03-11-2023,Gif-sur-Yvette,Vivien Endersby
+772,Web Designer IV,"Mech compl of gastrointestinal prosth dev/grft, subs",7/22/2023,08-12-2023,Rende,Elysee Duffree
+773,Mechanical Systems Engineer,"Toxic effect of sulfur dioxide, accidental, init",2/15/2023,03-02-2023,Bintulu,Garvey McIlhone
+774,Electrical Engineer,Defects of catalase and peroxidase,8/18/2023,01-07-2023,Odoyev,Susanna Doy
+775,Civil Engineer,"Unsp fx fourth metacarpal bone, right hand, init for opn fx",3/22/2023,11/22/2023,Banī Khallād,Harbert Crankshaw
+776,Biostatistician IV,"Strain of unsp musc/fasc/tend at thigh level, right thigh",3/19/2023,06-01-2023,Saint-Félicien,Isabella Keighly
+777,Human Resources Manager,Other fracture of third thoracic vertebra,12-10-2022,12/19/2022,Duczki,Agosto Borrill
+778,Community Outreach Specialist,"Burn of second degree of left upper arm, sequela",11/27/2022,3/26/2023,Sartana,Matilda Tulleth
+779,Analyst Programmer,Service areas as place,11-04-2023,3/17/2023,Burgersfort,Agna Sustins
+780,Cost Accountant,"Sltr-haris Type I physl fx low end l femr, 7thG",7/27/2023,10-04-2023,Lianzhou,Amanda Dumbare
+781,Administrative Officer,"Other meniscus derangements, unspecified meniscus",4/27/2023,2/18/2023,Al Qubbah,Garold Salvage
+782,Occupational Therapist,Rheumatoid myopathy with rheumatoid arthritis of shoulder,2/19/2023,10/28/2023,Araal,Culver McGougan
+783,Associate Professor,Anomalies of tooth position of fully erupted tooth or teeth,9/30/2023,4/18/2023,Lidingö,Rawley Davidescu
+784,Assistant Professor,"Unsp inj extn musc/fasc/tend at forarm lv, right arm, sqla",10-04-2023,8/31/2023,Eshowe,Clyve Leehane
+785,Occupational Therapist,"Inj superficial vein at shldr/up arm, unsp arm, sequela",2/13/2023,6/29/2023,La Soledad,Cherin Pickston
+786,Actuary,"Discitis, unspecified, lumbosacral region",12/23/2022,7/21/2023,Naawan,Hadleigh Kenneford
+787,Chief Design Engineer,"Other synovitis and tenosynovitis, multiple sites",12-07-2022,8/29/2023,Alingsås,Arlyn Daborn
+788,Accountant III,"Toxic effect of venom of brown recluse spider, undet, init",01-07-2023,7/15/2023,Daping,Timoteo Delieu
+789,Senior Editor,"Primary open-angle glaucoma, right eye, moderate stage",12-01-2022,05-03-2023,Koygorodok,Bronny Brashier
+790,Product Engineer,Traum hemor r cereb w LOC w death due to oth cause bf consc,04-03-2023,12-05-2022,Jauja,Raoul Swatridge
+791,Developer I,Crushing injury of forearm,11/20/2023,10-01-2023,Sernovodsk,Timmi Cristofolo
+792,Geological Engineer,"Superficial foreign body of right forearm, sequela",11-10-2023,8/29/2023,Olivia,Mair Jearum
+793,VP Product Management,Calculus of gallbladder w chronic cholecyst w/o obstruction,7/31/2023,08-09-2023,Jiantang,Vlad Topes
+794,Editor,"Drug/chem diab w prolif diab rtnop w trctn dtch macula,r eye",8/31/2023,11-06-2023,Inuotose,Poppy Vernon
+795,Chief Design Engineer,"Unsp fx upper end of r tibia, subs for clos fx w routn heal",8/17/2023,1/14/2023,كاف الجاع,Ray Kirkwood
+796,Technical Writer,"Anterior dislocation of unspecified radial head, subs encntr",12/29/2022,11-12-2023,Maopingchang,Genevra McCuis
+797,Librarian,"Primary osteoarthritis, left hand",3/17/2023,3/18/2023,Rezh,Veronike Tiller
+798,Account Coordinator,"Other hang-glider accident injuring occupant, subs encntr",5/23/2023,10-12-2023,Tucaní,Donnajean Dodd
+799,Sales Associate,"Unspecified subluxation of unspecified radial head, sequela",1/17/2023,08-03-2023,Frakulla e Madhe,Laurie Worsalls
+800,Senior Quality Engineer,Benign neoplasm of other specified male genital organs,1/18/2023,10-03-2023,Gandra,Kim Rawsthorn
+801,VP Sales,Acne keloid,2/13/2023,6/25/2023,Sukolilo,Velvet Meric
+802,Analyst Programmer,Laceration with foreign body of left hand,1/28/2023,06-09-2023,Zhukovo,Juli Ogbourne
+803,Sales Representative,"Poisoning by intravenous anesthetics, assault, subs encntr",10/21/2023,2/14/2023,Emiliano Zapata,Maximilien Sambrook
+804,Tax Accountant,"Contusion of right thumb with damage to nail, sequela",6/17/2023,11-07-2023,Imperatriz,Melli Armin
+805,Assistant Media Planner,"Fracture of alveolus of maxilla, init for opn fx",05-11-2023,08-08-2023,Huertas,Averyl O'Crigan
+806,Compensation Analyst,"Other osteonecrosis, right foot",04-07-2023,12/16/2022,Daxing,Dollie Bloxholm
+807,General Manager,Other specified urinary incontinence,8/31/2023,11-07-2023,Maguilling,Craggie Gogay
+808,VP Product Management,"Oth specific arthropathies, NEC, right ankle and foot",11-01-2023,05-03-2023,Avignon,Rubina Moffatt
+809,Business Systems Development Analyst,"Drug/chem diab w prolif diab rtnop w trctn dtch n-mcla,l eye",10-06-2023,02-07-2023,Kampungbajo,Garth Cowndley
+810,Nuclear Power Engineer,"Burn of second degree of left lower leg, subs encntr",10-02-2023,08-06-2023,Gostyń,Jeri MacGregor
+811,Dental Hygienist,"Spacecraft explosion injuring occupant, initial encounter",3/30/2023,1/25/2023,Shanting,Blythe Shorthill
+812,Software Consultant,"Toxic effect of contact w venomous toad, self-harm",7/31/2023,2/13/2023,Várzea Alegre,Kalila Wankling
+813,Geologist II,"Immunodeficiency associated with major defect, unspecified",8/19/2023,5/28/2023,Xiongzhang,Leontyne Rozzier
+814,Nuclear Power Engineer,Oth place in prison as place,5/30/2023,07-05-2023,Staraya Toropa,Nicola Lavall
+815,Media Manager II,"Contusion of left middle finger with damage to nail, sequela",07-06-2023,8/26/2023,Ivyanyets,Ly Bulch
+816,Food Chemist,"Oth diab w prolif diab rtnop with trctn dtch n-mcla, r eye",8/17/2023,01-11-2023,Buzuluk,Patricio Antcliff
+817,Senior Financial Analyst,"Unsp fx shaft of unsp radius, init for opn fx type I/2",1/17/2023,6/26/2023,Parang,Bliss Kuhnt
+818,Sales Representative,"Corrosion of unsp degree of other site of trunk, sequela",11/30/2022,03-12-2023,Otlja,Isidro Bowling
+819,Administrative Officer,"Abscess of bursa, left knee",9/30/2023,07-05-2023,San Antonio,Umeko Stoeck
+820,Social Worker,"Adverse effect of other laxatives, sequela",10/29/2023,10-12-2023,Mosquée,Jasun Duckels
+821,Chief Design Engineer,Other congenital malformations of cervix,09-05-2023,8/19/2023,Nouâdhibou,Celinka Laurent
+822,Account Executive,"Drug-induced chronic gout, left shoulder",1/25/2023,3/20/2023,Zhaogezhuang,Iona Rainford
+823,Librarian,Baseball field as place,11/23/2023,6/24/2023,Libuganon,Adelbert Pendre
+824,Legal Assistant,Osteomyelitis of unspecified orbit,6/16/2023,2/13/2023,Anjihai,Mattheus Hext
+825,Assistant Media Planner,"Laceration without foreign body of scalp, initial encounter",1/29/2023,11/27/2022,Malata,Dian Paule
+826,Physical Therapy Assistant,"Driver of 3-whl mv inj in clsn w 2/3-whl mv in traf, sequela",2/20/2023,11-05-2023,Pau,Althea Aleksich
+827,Office Assistant I,"Displaced fracture of body of right calcaneus, sequela",6/21/2023,9/24/2023,Ferreiros,Kort Lashmar
+828,Cost Accountant,"Toxic effect of carbon monoxide from utility gas, self-harm",4/23/2023,12/25/2022,Cantapoy,Ardelis Antonucci
+829,Account Representative I,"Pnctr w/o fb of r little finger w/o damage to nail, init",08-07-2023,1/30/2023,Nanwai,Bard Battson
+830,Occupational Therapist,"Unsp comp of cardiac and vascular prosth dev/grft, subs",9/25/2023,07-01-2023,Pinega,Tedmund Pavitt
+831,Actuary,Other foreign object in trachea causing asphyxiation,2/28/2023,08-05-2023,Verkhniy Kurkuzhin,Delainey Lambertini
+832,Information Systems Manager,"Oth drowning and submersion, undetermined intent, init",11-10-2023,3/17/2023,Juncalito Abajo,Millie McWhin
+833,Recruiter,"Occup of special agricultural vehicle injured nontraf, init",1/24/2023,04-06-2023,Zyablikovo,Evelina Newstead
+834,Research Associate,"Lac w/o fb of l little finger w damage to nail, sequela",10-03-2023,3/13/2023,Palaífyto,Breena Lockless
+835,Occupational Therapist,"Oth injury of unspecified blood vessel of thorax, sequela",04-09-2023,08-06-2023,Nanwai,Matilda d'Arcy
+836,Systems Administrator I,Other orthopoxvirus infections,6/18/2023,09-03-2023,Urbiztondo,Mar Hubbard
+837,Statistician III,"Nondisp fx of med malleolus of unsp tibia, 7thN",02-04-2023,12-01-2022,Chanika,Cheston Hammant
+838,Technical Writer,"Juvenile myelomonocytic leukemia, in remission",6/23/2023,2/14/2023,Shengli,Linnell Rozet
+839,Geologist IV,Varicos vn unsp low extrm w ulc oth part of foot and inflam,6/26/2023,06-11-2023,Krasnyye Barrikady,Dahlia Corstan
+840,Analog Circuit Design manager,"Fibrosis due to cardiac prosth dev/grft, sequela",5/19/2023,02-02-2023,Veles,Serena Burmingham
+841,Account Coordinator,Tuberculosis complicating the puerperium,5/18/2023,2/27/2023,Yashan,Riley Barrowcliffe
+842,Accountant I,"Other injury of descending [left] colon, initial encounter",6/14/2023,11/29/2022,Yingyang,Georgina Showt
+843,Project Manager,Drowning and submersion due to watercraft sinking,7/24/2023,06-07-2023,Cicapar,Gertrude Walcar
+844,Project Manager,Encounter for screening for other musculoskeletal disorder,9/22/2023,10/18/2023,Camacupa,Marv Winsper
+845,VP Marketing,"Toxic effect of other pesticides, undetermined, init encntr",03-08-2023,7/27/2023,Gunung Timur,Kass Breakey
+846,Web Designer II,Stable burst fracture of T5-T6 vertebra,04-02-2023,9/24/2023,Lípa,Susann Kollach
+847,Business Systems Development Analyst,"Matern care for disproprtn due to other fetal deform, fts5",08-08-2023,11/28/2022,Kaniv,Ferdinanda Olenin
+848,Graphic Designer,Other displaced fracture of third cervical vertebra,06-03-2023,9/26/2023,Juranalas,Malanie Radki
+849,Compensation Analyst,"Alcohol use, unspecified with other alcohol-induced disorder",8/14/2023,09-07-2023,Klenčí pod Čerchovem,Reine Mousby
+850,Developer I,"Nondisp fx of neck of 2nd MC bone, l hand, init for opn fx",12-04-2022,11/23/2023,Wanglinkou,Irina Hamor
+851,Speech Pathologist,"Toxic effect of ethanol, intentional self-harm",04-01-2023,4/14/2023,General Galarza,Aylmar Auckland
+852,Account Executive,Unsp Escherichia coli as the cause of diseases classd elswhr,03-08-2023,1/19/2023,Shatian,Chelsea Madison
+853,Speech Pathologist,"Displaced Rolando's fracture, right hand, sequela",2/18/2023,07-07-2023,Phutthaisong,Ryley Jane
+854,Account Coordinator,"Other infective (teno)synovitis, elbow",4/13/2023,10-09-2023,Banjar Pangkungkarung Kangin,Ceciley McMearty
+855,Account Coordinator,"Unsp fx shaft of l tibia, 7thE",09-01-2023,05-08-2023,Chesapeake,Bel Whitloe
+856,Quality Engineer,"Superficial fb of unsp eyelid and periocular area, init",12/14/2022,03-01-2023,Lille,Lydie Merill
+857,VP Sales,"Fracture of unsp phalanx of thmb, subs for fx w nonunion",5/31/2023,08-03-2023,Nkandla,Valentijn Dennistoun
+858,Executive Secretary,"Jump/div into natrl body of wtr strk surfc cause drown, init",1/23/2023,12-03-2022,Lipnica Wielka,Shana Inkles
+859,Software Consultant,"Unspecified injury of thoracic trachea, initial encounter",07-06-2023,3/21/2023,Jasieniec,Daryl Dineen
+860,Systems Administrator IV,Acute lymphangitis of right lower limb,12/20/2022,4/28/2023,Mato Cheirinhos,Stacee Holworth
+861,Paralegal,Stenosis and insufficiency of lacrimal passages,7/18/2023,09-12-2023,Cilimus Kulon,Kate Tumbridge
+862,Community Outreach Specialist,"Driver of bus inj pick-up truck, pk-up/van in traf, sequela",11/23/2023,12-07-2022,Alberton,Tonia Raynard
+863,Pharmacist,Unspecified intracapsular fracture of left femur,8/18/2023,10/19/2023,Balingcanaway,Nefen Cole
+864,Assistant Professor,"Unsp fx upr end unsp ulna, 7thN",08-11-2023,12/27/2022,Lillehammer,Maren Sawdy
+865,Human Resources Manager,"Intermittent hydrarthrosis, unspecified ankle and foot",2/19/2023,06-11-2023,Bagaces,Nana Fancutt
+866,Accountant II,Crohn's disease of small intestine with fistula,1/13/2023,04-04-2023,Al Madān,Bary Grinikhinov
+867,Internal Auditor,"Displ avuls fx tuberosity of unsp calcaneus, init for opn fx",3/25/2023,9/22/2023,Cabrero,Bartlett Cresswell
+868,Teacher,"Oth tear of unsp meniscus, current injury, unsp knee, subs",10-01-2023,9/30/2023,Las Tablas,Liane Bloschke
+869,Account Coordinator,Absence and aplasia of aorta,8/22/2023,3/24/2023,Wau,Durward Wolffers
+870,Database Administrator I,"Poisoning by oth drug/meds/biol subst, assault, sequela",08-07-2023,02-06-2023,Ninomiya,Uri Guillotin
+871,VP Product Management,Corrosion of first degree of left thigh,06-09-2023,10/29/2023,Xiangdong,Inger Manser
+872,General Manager,Displacement of artificial heart,11-04-2023,3/16/2023,New Orleans,King Comazzo
+873,Pharmacist,"Nondisp seg fx shaft of rad, r arm, 7thK",8/27/2023,05-02-2023,Aţ Ţawāḩīn,Constantino Noli
+874,Tax Accountant,"Unspecified disorder of vestibular function, unspecified ear",07-06-2023,06-04-2023,Shuvakish,Gleda Mc Meekan
+875,Operator,"Secondary corneal edema, right eye",07-09-2023,12-05-2022,Mugi,Federica Millmore
+876,Systems Administrator I,"Displ suprcndl fx w intrcndl extn lower end of r femur, sqla",7/14/2023,12/13/2022,Mikhaylovka,Bendicty Eltringham
+877,VP Product Management,Burn due to fishing boat on fire,06-03-2023,9/13/2023,Bombu,Rosemary Tregunna
+878,Electrical Engineer,"Pre-exist type 1 diabetes, in pregnancy, unsp trimester",05-01-2023,7/18/2023,Zaoshi,Addie Peasegood
+879,Budget/Accounting Analyst IV,Syndrome of infant of mother with gestational diabetes,05-10-2023,03-02-2023,El Tabo,Amalle Eschalette
+880,Engineer III,"Sltr-haris Type III physeal fx upper end radius, unsp arm",2/26/2023,3/23/2023,Popil'nya,Arvie MacPaden
+881,Sales Representative,Maternal care for incarceration of gravid uterus,11-04-2023,10/30/2023,Amuntai,Case Hanbidge
+882,Office Assistant III,Pneumococcal arthritis and polyarthritis,12/15/2022,02-06-2023,Peseng,Flin Soan
+883,Health Coach III,"Poisoning by opth drugs and preparations, assault, init",12/15/2022,12-02-2022,Tulay na Lupa,Hersh Ismay
+884,Compensation Analyst,Displacement of implanted urinary sphincter,11-09-2023,01-10-2023,Yishan,Bili Becks
+885,Administrative Assistant III,"Crushing injury of unsp external genital organs, male, init",01-08-2023,02-08-2023,Torreira,Michale Dawidowsky
+886,Dental Hygienist,Unsp inj extensor musc/fasc/tend l mid finger at wrs/hnd lv,6/15/2023,09-01-2023,Taihu,Dun Tweede
+887,Software Engineer II,"Term delivery w preterm labor, second trimester, unsp",8/31/2023,6/25/2023,Kapuskasing,Anatole Morgue
+888,Teacher,"Fibrous dysplasia (monostotic), left ankle and foot",02-09-2023,5/22/2023,Sumberdangdang,Wallie Cawthera
+889,Senior Financial Analyst,Driver of hv veh injured in collision w hv veh in traf,8/30/2023,1/20/2023,El Obeid,Midge Colliver
+890,GIS Technical Architect,"Oth specific arthropathies, NEC, left hip",4/28/2023,3/15/2023,Mayong,Jennica Marjanovic
+891,Media Manager I,Gonococcal peritonitis,01-11-2023,4/19/2023,Yezhou,Joana Allner
+892,Chief Design Engineer,Superficial foreign body of left hand,08-11-2023,5/16/2023,Matriz de Camaragibe,Sandy Alenov
+893,Food Chemist,"Poisn by unsp nonopi analgs/antipyr/antirheu, slf-hrm, subs",06-12-2023,06-04-2023,Solna,Cleo Quilkin
+894,Chemical Engineer,"Nondisp spiral fx shaft of unsp tibia, 7thG",11-01-2023,8/22/2023,Berlin,Jecho Dmitrievski
+895,Research Associate,"War op w unintent restrict of air/airwy, milt, sequela",11-06-2023,10-12-2023,Abu Dhabi,Mufi Antill
+896,Computer Systems Analyst III,"Unsp injury of unspecified blood vessel of thorax, sequela",8/23/2023,06-10-2023,Staré Město,Wanids Diplock
+897,Software Test Engineer I,"Nondisp seg fx shaft of r femr, 7thR",11/13/2023,7/30/2023,Kouvarás,Raimund Lissandre
+898,Accountant II,"Unsp injury of popliteal artery, right leg, subs encntr",12/18/2022,6/13/2023,Tarnogskiy Gorodok,Northrop Storre
+899,Operator,Other contact with squirrel,08-05-2023,12-09-2022,Stříbro,Yuma Sherston
+900,Product Engineer,"Skeletal fluorosis, unspecified thigh",9/28/2023,10/31/2023,Yushugou,Latrena Instrell
+901,Product Engineer,"Nondisp seg fx shaft of rad, unsp arm, 7thJ",8/16/2023,3/21/2023,Emiliano Zapata,Ammamaria Elkin
+902,Assistant Professor,"Central subluxation of unspecified hip, subsequent encounter",4/27/2023,11/18/2023,Jaú,Gaylord Ouchterlony
+903,Assistant Media Planner,Other congenital malformations of bony thorax,09-10-2023,03-05-2023,Libertad,Imogene Mattioni
+904,Librarian,"Asphyx due to smothering in furniture, undetermined, sequela",3/21/2023,05-11-2023,Phultala,Constantin Plait
+905,Senior Quality Engineer,"Unsp superficial injury of unspecified knee, init encntr",10-10-2023,03-05-2023,Curvelo,Alvin Rousell
+906,Staff Scientist,"Oth psychoactv sub use, unsp w psych disorder w delusions",6/21/2023,4/20/2023,Moch,Carolin Stickney
+907,Nurse,"Oth injury of vein at forearm level, unsp arm, sequela",6/13/2023,5/23/2023,Kokoshkino,Sylvia Lovstrom
+908,Senior Cost Accountant,Ebola virus disease,05-01-2023,12/17/2022,Kobeřice,Emlynne Braundt
+909,Quality Engineer,Partial traumatic amputation of right foot at ankle level,5/25/2023,5/21/2023,Danxi,Neysa Prahm
+910,Geological Engineer,"Decreased fetal movements, unspecified trimester, fetus 4",12-01-2022,7/25/2023,Oqtosh,Corissa Skeermor
+911,Engineer III,"Encntr for proc for purpose oth than remedy hlth state, unsp",5/27/2023,09-07-2023,Huangjinbu,Missie Hawkeridge
+912,Software Test Engineer III,"Poisoning by calcium-channel blockers, self-harm, sequela",12/21/2022,08-06-2023,White River,Janelle Quinane
+913,Legal Assistant,"Abrasion of left middle finger, subsequent encounter",04-07-2023,5/27/2023,Kostinbrod,Trish Benbough
+914,Nuclear Power Engineer,"Sltr-haris Type II physeal fx right metatarsal, 7thD",10/16/2023,10/20/2023,Qingkenpao,Gelya Abdie
+915,Administrative Assistant IV,"Displacement of ocular prosth dev/grft, init",05-12-2023,06-10-2023,Kista,Oliver Guyonnet
+916,Senior Developer,"Other secondary chronic gout, right wrist, with tophus",10/29/2023,02-01-2023,Alençon,Erl Hessay
+917,VP Accounting,Other unilateral secondary osteoarthritis of hip,05-02-2023,11-10-2023,Ormstown,Ruddie Oak
+918,Programmer IV,"Rheumatoid nodule, right ankle and foot",11-11-2023,6/14/2023,Gizo,Chrisse Skerrett
+919,Professor,"Disp fx of pisiform, unsp wrist, subs for fx w routn heal",2/13/2023,2/23/2023,Kamyshin,Tish Pikesley
+920,Accountant III,"Inj oth musc/tend at lower leg level, unsp leg, init",05-09-2023,12/29/2022,Marovoay,Mordy Towne
+921,Computer Systems Analyst III,"Rh incompatibility w delayed hemolytic transfs react, subs",12/14/2022,1/29/2023,Korczyna,Dalli Silson
+922,Financial Analyst,"Strain musc/tend ant grp at low leg level, unsp leg, sequela",2/15/2023,6/29/2023,Massawa,Gwendolen Munden
+923,VP Quality Control,"Postimmunization arthropathy, right knee",03-05-2023,03-05-2023,Çepan,Dominica MacTavish
+924,Compensation Analyst,"Nondisp fx of greater tuberosity of unsp humer, 7thK",07-04-2023,11-04-2023,Uhniv,Brandea Jellis
+925,Social Worker,Puncture wound with foreign body of unspecified forearm,10/27/2023,10/23/2023,Qesarya,Genni Hancell
+926,Research Nurse,"Toxic effect of tin and its compounds, accidental",3/17/2023,01-05-2023,Fengjia,Carlo Zecchinii
+927,Database Administrator IV,"Poisoning by macrolides, undetermined, subsequent encounter",10/26/2023,11/24/2023,Ujar,Everard Burlay
+928,Assistant Professor,"Poisn by antimalari/drugs acting on bld protzoa, undet, subs",11/19/2023,4/16/2023,Gornja Koprivna,Marlo Mortimer
+929,Software Test Engineer III,Other traumatic spondylolisthesis of third cervical vertebra,8/24/2023,03-04-2023,Nazran’,Genevieve Fackrell
+930,Biostatistician III,Unspecified focal traumatic brain injury,2/16/2023,03-01-2023,Noenoni,Adriaens Woolston
+931,Analyst Programmer,"Other meniscus derangements, unsp meniscus, unspecified knee",11-09-2023,9/28/2023,Berdyans’k,Hyacinthe Schorah
+932,Human Resources Manager,"Disp fx of less trochanter of l femr, 7thP",10/31/2023,12/27/2022,Bar,Willie Slatford
+933,Marketing Assistant,Oth stimulant abuse with stimulant-induced anxiety disorder,10/31/2023,2/22/2023,Couva,Delmor Thornewill
+934,Community Outreach Specialist,"Disp fx of neck of metacarpal bone, subs for fx w malunion",04-01-2023,01-06-2023,Shimen,Gareth Triplet
+935,Actuary,"Disp fx of third metatarsal bone, unspecified foot",11/18/2023,5/27/2023,Fenhe,Anstice Pegram
+936,Speech Pathologist,Latent yaws,11-07-2023,04-08-2023,‘Afīf,Lynelle Speariett
+937,Senior Sales Associate,"Burn of third degree of right upper arm, subs encntr",04-03-2023,2/28/2023,Cherbourg-Octeville,Curran Pomphrey
+938,Marketing Assistant,"Unsp cause of accidental drowning and submersion, sequela",04-08-2023,6/14/2023,Ngampon,Amery Delamar
+939,Chemical Engineer,"Drowning and submersion due to unsp watercraft sinking, init",10-09-2023,8/15/2023,Pinaring,Zonda Fairlam
+940,VP Product Management,"Nondisp fx of 5th metatarsal bone, r ft, 7thK",1/29/2023,01-06-2023,Pingdingbu,Tailor Abramchik
+941,Programmer III,"Gastr contents in oth prt resp tract cause oth injury, subs",3/22/2023,1/24/2023,Medeiros Neto,Ferdy Greenough
+942,Senior Financial Analyst,"Laceration of muscle, fascia and tendon of lower back",11-12-2023,12-09-2022,Bukavu,Padraic Cunah
+943,Staff Accountant II,"Subluxation of midcarpal joint of left wrist, init encntr",8/30/2023,11-06-2023,Baguio,Simonne Smithson
+944,Marketing Manager,"Drvr of 3-whl mv inj in clsn w statnry object in traf, init",2/15/2023,7/25/2023,Progër,Dean Gullivan
+945,Internal Auditor,"I/I react d/t other nrv sys device, implnt or graft, init",04-05-2023,12/17/2022,Dimona,Keelby Biddleston
+946,Software Engineer II,Subluxation of interphalangeal joint of unsp great toe,1/27/2023,02-05-2023,Panguruan,Sharai Label
+947,Quality Engineer,Lateral subluxation of unspecified patella,10/24/2023,3/27/2023,Barice,Jennilee McCrachen
+948,Staff Scientist,Streptococcus B carrier state compl preg/chldbrth,09-02-2023,2/25/2023,Puerto Varas,Max Ros
+949,Safety Technician III,Unspecified superficial injury of unspecified shoulder,5/16/2023,09-07-2023,Maple Plain,Deb Eccleston
+950,Quality Engineer,"Inj oth flexor musc/fasc/tend at forearm level, left arm",09-06-2023,2/25/2023,Benešov nad Černou,Lib Drakes
+951,Financial Advisor,"Unsp comp of cardiac and vascular prosth dev/grft, subs",3/31/2023,8/20/2023,Mačkovec,Briant Scamwell
+952,Senior Editor,Injury of ulnar nerve at wrist and hand level of right arm,03-09-2023,5/28/2023,Huesca,Randie Pinner
+953,Media Manager II,"LeFort I fracture, sequela",8/28/2023,5/24/2023,Göteborg,Skip Fitchew
+954,Teacher,"Burn of unspecified degree of lower back, subs encntr",04-11-2023,6/30/2023,Sadská,Delores Basley
+955,Chief Design Engineer,"Asphyx d/t being trap in a (discarded) refrig, slf-hrm, sqla",6/30/2023,8/25/2023,Pombal,Melicent Southward
+956,Occupational Therapist,Carcinoma in situ of other female genital organs,01-10-2023,09-06-2023,Sączów,Nerty McDunlevy
+957,GIS Technical Architect,"Follicular lymphoma grade II, intra-abdominal lymph nodes",9/27/2023,9/16/2023,El Águila,Teresita Tonbye
+958,Registered Nurse,Nondisp fx of anterior process of unspecified calcaneus,7/24/2023,6/13/2023,Bagrāmī,Natasha McLeman
+959,Editor,"Keratopathy (bullous aphakic) following cataract surgery, bi",11-03-2023,3/20/2023,El Ingenio,Carole Scoyne
+960,Systems Administrator I,Terrorism involving nuclear weapons,3/31/2023,12-07-2022,Krechevitsy,Tabb Cuddon
+961,Statistician III,"Anterior cord syndrome at C3, init",10-01-2023,08-05-2023,Farkhor,Rosanna Pharoah
+962,VP Sales,"Oth fx low end r tibia, 7thJ",12-05-2022,07-04-2023,Marseille,Glynda O'Grady
+963,Senior Financial Analyst,"Other sprain of left little finger, subsequent encounter",10/15/2023,2/17/2023,Tournai,Gene Flea
+964,Civil Engineer,"Nondisp transverse fx unsp patella, 7thF",02-06-2023,4/16/2023,Fatumuti,Shantee Risebarer
+965,Staff Accountant I,Oth farm location as place,07-02-2023,8/29/2023,Carianos,Morganica Ferminger
+966,Senior Sales Associate,"Unsp inj intrns musc/fasc/tend l idx fngr at wrs/hnd lv,init",1/29/2023,5/23/2023,Skrzyszów,Ira Gubbin
+967,Nuclear Power Engineer,"Path fx in neopltc dis, r tibia, subs for fx w delay heal",9/26/2023,06-01-2023,Cizhu,Bord D'Avaux
+968,Analyst Programmer,"Nondisp oblique fx shaft of humerus, left arm, sequela",12-03-2022,9/26/2023,Stavanger,Teodorico Malyj
+969,Human Resources Manager,"Laceration of liver, unspecified degree, subs encntr",2/27/2023,02-07-2023,Manganitu,Fabe Enever
+970,Automation Specialist II,"Cont preg aft elctv fetl rdct of 1 fts or more,2nd tri, fts3",08-10-2023,03-04-2023,München,Edyth Stitcher
+971,Chemical Engineer,"Corros 2nd deg mul sites of left lower limb, ex ank/ft, subs",05-02-2023,12/23/2022,Qingxi,Lilas Hulkes
+972,Human Resources Assistant III,"Unsp fracture of right ischium, init for opn fx",11/13/2023,05-05-2023,Osiedle-Nowiny,Maura Josipovic
+973,Staff Scientist,"Anterior disloc of proximal end of tibia, unsp knee, subs",02-03-2023,08-06-2023,Lhari,Benedicta Snepp
+974,Marketing Manager,Other physeal fracture of lower end of radius,2/22/2023,09-04-2023,Santo Antônio da Platina,Martie Beekman
+975,Accounting Assistant III,"Sltr-haris Type I physl fx upper end humer, unsp arm, init",7/21/2023,11-09-2023,Santiago Atitlán,Dirk Springham
+976,Environmental Tech,"Capsular contracture of breast implant, initial encounter",2/28/2023,5/21/2023,Ciparay,Doll Dallywater
+977,Quality Control Specialist,Other displaced fracture of lower end of left humerus,9/16/2023,04-07-2023,Jibu Hulangtu,Karlee Pocknoll
+978,Engineer II,Abn histolog findings in specmn from female genital organs,12-11-2022,6/22/2023,Unión,Renate Belamy
+979,Budget/Accounting Analyst III,"Oth fracture of unsp patella, subs for clos fx w delay heal",4/15/2023,08-11-2023,Kengyuan,Franklyn Ainley
+980,Librarian,"Crushing injury of larynx and trachea, initial encounter",11/15/2023,7/30/2023,Ilopango,Gianina De Paoli
+981,Director of Sales,"Poisoning by loop diuretics, intentional self-harm, init",10-05-2023,11-06-2023,Kansas City,Dollie Thurner
+982,Executive Secretary,Athscl native arteries of right leg w ulcer oth prt foot,12/20/2022,5/29/2023,Putat Lor,Kim Spuner
+983,Environmental Specialist,"Oth disp fx of lower end of r humer, subs for fx w malunion",1/27/2023,9/29/2023,Zhujiapu,Peirce Candlin
+984,Recruiter,"Nondisp suprcndl fx w intrcndl extn low end l femr, 7thG",6/17/2023,7/17/2023,Jilib,Alis Josskovitz
+985,Developer II,"Villonodular synovitis (pigmented), hand",2/13/2023,7/26/2023,Dole,Giovanna Navarro
+986,Technical Writer,"Other sprain of right thumb, initial encounter",9/16/2023,2/17/2023,Banshu,Aline Lowton
+987,Environmental Tech,Swimming-pool of nursing home as place,10/23/2023,07-12-2023,Örebro,Stanleigh Yesinin
+988,Financial Advisor,"Laceration with foreign body of left buttock, init encntr",10/14/2023,9/18/2023,Bárrio,Madeleine Laughnan
+989,Office Assistant IV,"Central dislocation of left hip, initial encounter",1/30/2023,10/25/2023,Feitoria,Bern Prattington
+990,Software Test Engineer II,"Displ artic fx head of unsp femr, 7thC",9/18/2023,3/18/2023,Yeri,Celinda Savins
+991,Librarian,Open bite of abdominal wall w/o penetration into perit cav,11/24/2023,09-08-2023,Fuming,Allx Annakin
+992,Account Representative II,"Nondisp comminuted fx shaft of radius, unsp arm, init",04-02-2023,11/28/2022,Tiflet,Burke Britten
+993,Automation Specialist III,Parasympatholytics and spasmolytics,1/29/2023,6/18/2023,Xinglongchang,Thorstein Rengger
+994,Pharmacist,"Poisoning by histamine H2-receptor blockers, self-harm, init",9/13/2023,9/25/2023,Baturité,Nerta Jeste
+995,Senior Financial Analyst,Placenta percreta,10/14/2023,12-12-2022,Ishurdi,Harvey Lowne
+996,Geologist IV,"Poisoning by antiasthmatics, undetermined, subs encntr",3/15/2023,6/18/2023,Fujioka,Laetitia Farnin
+997,Mechanical Systems Engineer,"Poisoning by rifampicins, accidental (unintentional)",7/27/2023,09-06-2023,Velenje,Petunia Yakubov
+998,Financial Analyst,Unspecified adrenocortical insufficiency,08-11-2023,12/22/2022,Yangzhuang,Nichole Beange
+999,Systems Administrator I,Scooter (nonmotorized) accident,09-09-2023,3/21/2023,Huallanca,Leighton Peeter
+1000,Compensation Analyst,"Other specified osteochondropathies, right upper arm",5/16/2023,4/15/2023,Fatufaun,Elmo McCamish
