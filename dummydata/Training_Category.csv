@@ -1,0 +1,1001 @@
+training_category_id ,training_category_name ,training_category_explain 
+1,Accounting Assistant IV,Abdmnal tndr epigastric
+2,Professor,Op skl vlt fx-concus NOS
+3,Chief Design Engineer,TB of eye-micro dx
+4,Structural Engineer,Mandibular hypoplasia
+5,Sales Representative,Scndhnd tbcco smoke
+6,Account Representative III,Kidney injury NOS-closed
+7,Senior Financial Analyst,Osteoarthros NOS-unspec
+8,Accountant IV,Salivary gland dis NOS
+9,Registered Nurse,Scorpion sting
+10,Media Manager II,Viral exanthemata NEC
+11,Account Representative I,Cheerleading
+12,Financial Advisor,Duodenal ulcer NOS-obstr
+13,Budget/Accounting Analyst III,Ca in situ liver/biliary
+14,GIS Technical Architect,Anaplastic lymph head
+15,Librarian,Fall-nonmotor scooter
+16,Payment Adjustment Coordinator,Ankylosis-mult joints
+17,Chemical Engineer,Intrauterine synechiae
+18,Senior Financial Analyst,Pneumococcal meningitis
+19,VP Sales,Arthropod infest NEC
+20,Quality Control Specialist,Oth rd veh acc-st car
+21,Senior Cost Accountant,Rheum fev w/o hrt involv
+22,Business Systems Development Analyst,Anaplastic lymph axilla
+23,Desktop Support Technician,Injury hypoglossal nerve
+24,Account Coordinator,Bladder neck obstruction
+25,Software Engineer III,Chronic cluster headache
+26,Editor,Screen-bact conjunctivit
+27,Junior Executive,Acc pois-petroleum solid
+28,Automation Specialist I,Urethral caruncle
+29,Statistician II,Late effect dislocation
+30,Systems Administrator II,Screen for skin cond
+31,Chief Design Engineer,Tox eff noxious food NOS
+32,Help Desk Technician,Benign neo mediastinum
+33,Software Consultant,Insect bite trunk
+34,Financial Advisor,FB trach/bronch/lung NEC
+35,Accountant IV,Deficiencies of head
+36,VP Quality Control,Allergic purpura
+37,Nurse Practicioner,Acq deformity NEC
+38,Geological Engineer,Chr duoden ulc hem/perf
+39,Environmental Specialist,Chr pyelonephritis NOS
+40,Legal Assistant,Othr migrne w ntrc mgrne
+41,Account Executive,Retain FB NEC
+42,Help Desk Operator,Cong abn uter preg-unsp
+43,VP Marketing,Open skull base fracture
+44,Senior Financial Analyst,Liveborn NOS-hosp w cs
+45,Senior Cost Accountant,Coxsackie pericarditis
+46,Registered Nurse,Gu TB NOS-micro dx
+47,Nurse Practicioner,Hip & thigh injury NOS
+48,Professor,Monoplegia NOS
+49,Safety Technician II,Acute dacryoadenitis
+50,Software Consultant,Bubonic plague
+51,Dental Hygienist,Opn skul/oth fx-mod coma
+52,Help Desk Operator,Arizona enteritis
+53,Associate Professor,Contraceptive mangmt NEC
+54,Registered Nurse,2nd deg burn abdomn wall
+55,Nurse,Oth arthropod-borne dis
+56,Chief Design Engineer,Disease of larynx NEC
+57,Pharmacist,Primary CNS lymph axilla
+58,Cost Accountant,Ob perineal trau NEC-del
+59,Data Coordinator,Famil heredit dis-deliv
+60,Staff Scientist,Fet chromo abn-antepart
+61,Environmental Specialist,Hx malig neoplasm NOS
+62,Internal Auditor,Pneumonia in whoop cough
+63,Research Associate,Senile osteoporosis
+64,Operator,Chr uterine subinvolutn
+65,Engineer II,Prog multifoc leukoencep
+66,Associate Professor,Mal neo cranial nerves
+67,Editor,Ac osteomyelitis-hand
+68,Media Manager III,Double outlet rt ventric
+69,Senior Quality Engineer,Acquired hemophilia
+70,Physical Therapy Assistant,"Fx navicular, wrist-open"
+71,Environmental Tech,Nonparalyt polio-type 3
+72,Pharmacist,Injury-NEC
+73,Technical Writer,Fx metatarsal-closed
+74,Office Assistant I,Cl skul base fx-coma NOS
+75,Technical Writer,Fire in bldg-burning
+76,Financial Analyst,Observe-abuse & neglect
+77,Administrative Officer,Acc poison-gas/vapor NOS
+78,Recruiter,Opn cortx lacer-concuss
+79,Legal Assistant,Transient hypersomnia
+80,Safety Technician II,Foster-kennedy syndrome
+81,Payment Adjustment Coordinator,Osteomyelit NOS-oth site
+82,Analog Circuit Design manager,War inj:piercing object
+83,Environmental Tech,Power aircraft acc-crew
+84,Software Test Engineer II,Suprv elderly primigrav
+85,Internal Auditor,Pulmonary TB NEC-no exam
+86,Software Engineer I,Rectum injury-closed
+87,Community Outreach Specialist,Cong hered musc dystrphy
+88,Project Manager,Reiter arthritis-shlder
+89,Executive Secretary,Neuroma amputation stump
+90,Executive Secretary,Renal hyperten-del p/p
+91,Occupational Therapist,Ben crcinoid trans colon
+92,Recruiter,Cl skul/oth fx-deep coma
+93,VP Accounting,Mgrn unsp w ntrc mgr std
+94,Compensation Analyst,Mal hyp kid w cr kid V
+95,Administrative Officer,Tubrclma mening-micro dx
+96,Nuclear Power Engineer,Hemoptysis NEC
+97,Social Worker,Abdmnal rgdt unspcf site
+98,Administrative Assistant I,"BMI 50.0-59.9, adult"
+99,Engineer I,Urinary frequency
+100,Graphic Designer,Opn skull fx/oth bone fx
+101,Senior Sales Associate,Open wound of head NEC
+102,Engineer I,Proteinuria
+103,Sales Associate,Strabismic amblyopia
+104,Database Administrator III,Elderly multigravida-del
+105,Structural Analysis Engineer,Cl skull fx NEC-mod coma
+106,Nurse Practicioner,Coag def hemorr-unspec
+107,Help Desk Technician,Screen-blood dis NEC
+108,Structural Analysis Engineer,Neonatal thrombocytopen
+109,Administrative Assistant II,TB pleurisy-histolog dx
+110,Sales Representative,Polyp of nasal cavity
+111,Internal Auditor,Injury renal vessel NEC
+112,Help Desk Operator,Retropharyngeal abscess
+113,Senior Editor,Blister trunk-infected
+114,Sales Representative,TB of spleen-no exam
+115,Assistant Media Planner,Sprain of sacrum
+116,Staff Accountant III,Exfl d/t eryth 10-19 bdy
+117,Tax Accountant,Malignant pleural effusn
+118,Community Outreach Specialist,Ac kidney fail-del w p/p
+119,Geological Engineer,Alopecia NOS
+120,Staff Scientist,Pois-antihyperten agent
+121,Research Assistant IV,Disloc tarsal NOS-open
+122,Design Engineer,Tk off/land-psng aircrft
+123,Account Coordinator,Polyarthritis NOS-hand
+124,Associate Professor,Other alter consciousnes
+125,Budget/Accounting Analyst II,Bundle branch block NOS
+126,Administrative Officer,Erysipelas
+127,GIS Technical Architect,Coccidiosis
+128,Financial Analyst,Vitamin Deficiency NEC
+129,Product Engineer,Injury brachial vessels
+130,Human Resources Assistant I,Matern hypoten syn-deliv
+131,Automation Specialist II,Amphetamin depend-episod
+132,Quality Engineer,Prsnl hst unspc dgstv ds
+133,Clinical Specialist,Cholesteatoma of attic
+134,Director of Sales,Fail sterile perfusn NEC
+135,Software Test Engineer I,Gstr/ddnts NOS w/o hmrhg
+136,Software Engineer III,Derangement meniscus NEC
+137,Civil Engineer,Mal hy ht/kd st V w/o hf
+138,Structural Engineer,Disorder of eyelid NOS
+139,Geologist IV,Hebephren-subchr/exacerb
+140,Paralegal,Conjunctivitis NOS
+141,VP Marketing,Splenic sequestration
+142,Biostatistician II,Lt-date w/mal 750-999g
+143,Sales Representative,Circadian rhym-irreg slp
+144,Mechanical Systems Engineer,Lactation dis NEC-deliv
+145,Programmer Analyst III,Inj NEC caused by animal
+146,Accountant IV,Ca in situ rectum
+147,Assistant Manager,Thalassemia NEC
+148,Geologist I,Dislocat elbow NEC-close
+149,Administrative Officer,Polyart juv rheum arthr
+150,Payment Adjustment Coordinator,Ironing
+151,Senior Financial Analyst,Hodgkins paragran inguin
+152,Actuary,Ophthalmia nodosa
+153,Dental Hygienist,Nasal & sinus dis NEC
+154,Assistant Manager,Cl skul fx w oth bone fx
+155,Geologist II,Burn NOS abdominal wall
+156,Internal Auditor,Mental disor NEC oth dis
+157,Registered Nurse,Phlbts vn NOS up extrm
+158,Legal Assistant,Keratitis NOS
+159,Environmental Specialist,Hypertelorism of orbit
+160,Software Engineer I,Anal sphincter tear-old
+161,Recruiter,Prsnl hst oth nfct parst
+162,Nuclear Power Engineer,"Bladder rupt, nontraum"
+163,Nuclear Power Engineer,Pseudomonal pneumonia
+164,Research Associate,Ac duodenal ulcer w hem
+165,Account Executive,Disease of pharynx NEC
+166,Developer III,Drug mental disorder NOS
+167,Programmer Analyst IV,Unattended death
+168,VP Product Management,Rubella nerve compl NEC
+169,Human Resources Assistant III,Injury saphenous vein
+170,Programmer Analyst II,"Sed,hyp,anxiolyt dep-con"
+171,Safety Technician II,Drum/percussion playing
+172,Food Chemist,Adv eff antifung antbiot
+173,Help Desk Technician,Cortical senile cataract
+174,Information Systems Manager,Ca in situ skin face NEC
+175,Senior Financial Analyst,Patellar tendinitis
+176,Community Outreach Specialist,1st deg burn back
+177,Desktop Support Technician,Tot impairment-both eyes
+178,Dental Hygienist,Torus fx radius/ulna-clo
+179,Accounting Assistant II,West Nile Fever NOS
+180,VP Accounting,Abn findings-semen
+181,Food Chemist,"AMI NOS, initial"
+182,Budget/Accounting Analyst IV,Assault-fire
+183,Quality Engineer,Idio hypersom-long sleep
+184,Staff Accountant I,Hyp hrt dis NOS w/o hf
+185,Junior Executive,Pulmon TB NOS-micro dx
+186,Biostatistician III,Screen neop-nervous syst
+187,Director of Sales,Vivax malaria
+188,General Manager,Oth spcf anmly jaw size
+189,Administrative Assistant I,Postablat hypothyr NEC
+190,Assistant Media Planner,Adherent leucoma
+191,Budget/Accounting Analyst I,Superf inj hand NEC-inf
+192,VP Accounting,Budd-chiari syndrome
+193,Environmental Tech,TB of ureter-exam unkn
+194,Systems Administrator III,Open wound of leg NEC
+195,Structural Analysis Engineer,Inclusion body myositis
+196,Operator,Carbuncle of leg
+197,Web Designer IV,Fet damg d/t virus-unsp
+198,Financial Analyst,Phlycten keratoconjunct
+199,Biostatistician IV,Primary lacrimal atrophy
+200,Sales Representative,Chr fibrous thyroiditis
+201,Systems Administrator III,Soft tissue disord NOS
+202,Help Desk Operator,Dislocat foot NOS-closed
+203,Software Engineer I,Family hx-skin condition
+204,Electrical Engineer,Periph disem choroiditis
+205,Executive Secretary,Run water w/o sub fall
+206,Structural Engineer,Delay p/part hem-postpar
+207,Programmer Analyst II,Ankylosis ear ossicl NEC
+208,Financial Advisor,"Panniculitis, unsp site"
+209,Database Administrator IV,Minor opacity of cornea
+210,Civil Engineer,Benign neo cervix uteri
+211,Teacher,Removal int fixation dev
+212,VP Quality Control,Ac miliary tb-exam unkn
+213,Software Engineer III,Observe-abuse & neglect
+214,Technical Writer,Residual angl-clos glauc
+215,Structural Engineer,Opposition defiant disor
+216,Data Coordinator,Congenital cystic lung
+217,Financial Analyst,Lat schizo-subchr/exacer
+218,Actuary,Cervical root injury
+219,Senior Financial Analyst,Dendritic keratitis
+220,Senior Quality Engineer,Pelvic organ inj NOS-opn
+221,Electrical Engineer,Cutan leishmanias asian
+222,Structural Analysis Engineer,Conjunctiva pigmentation
+223,Junior Executive,Abn react-anastom/graft
+224,Media Manager II,"Gend iden dis,adol/adult"
+225,Web Designer III,Genital herpes NEC
+226,Financial Advisor,Macular cornea dystrophy
+227,Marketing Assistant,Cor ath artry bypas grft
+228,Director of Sales,Hdgk prg unsp xtrndl org
+229,Director of Sales,Malig neo skin trunk NEC
+230,Tax Accountant,Chr sphenoidal sinusitis
+231,Administrative Officer,Consln ot sex trnsmt dis
+232,Programmer I,Chr post-trauma headache
+233,Sales Representative,Pulm alveolar microlith
+234,Statistician I,Fx upper humerus NEC-opn
+235,Senior Developer,Inflam/tox neuropthy NOS
+236,Environmental Tech,3rd deg burn elbow
+237,Speech Pathologist,Colstomy/enter comp NOS
+238,Cost Accountant,Nonpsych mntl disord NEC
+239,Biostatistician II,Angioneurotic edema
+240,Data Coordinator,Cervical disc displacmnt
+241,Executive Secretary,Dis urea cycle metabol
+242,Recruiting Manager,Amphetamin depend-episod
+243,Human Resources Manager,Cavus deformity of foot
+244,Media Manager II,Extrapyramidal dis NOS
+245,Quality Control Specialist,Pyrexia in labor-antepar
+246,Nurse,Mv coll w pedest-motcycl
+247,Speech Pathologist,Prolong 1st stage-deliv
+248,Product Engineer,Hx-hodgkin's disease
+249,Analog Circuit Design manager,Traum arthropathy-mult
+250,Assistant Manager,Non-abo incomp/HTR NEC
+251,VP Marketing,Supervis normal 1st preg
+252,Health Coach II,Opn skl base fx-brf coma
+253,Quality Control Specialist,Chr follic conjunctivit
+254,VP Marketing,Mild hyperemesis-antepar
+255,Assistant Professor,Primary CNS lymph spleen
+256,Geologist II,Strongyloidiasis
+257,Programmer II,Contusion of finger
+258,Software Consultant,Fragile x syndrome
+259,Payment Adjustment Coordinator,B12 defic anemia NEC
+260,Automation Specialist II,Idiopathic corneal edema
+261,Dental Hygienist,Adv eff anti-parkinson
+262,Help Desk Technician,Upper extremity embolism
+263,Budget/Accounting Analyst IV,Boat acc inj NEC-passeng
+264,Chemical Engineer,War inj:piercing object
+265,Software Consultant,Spina bifida-dorsal
+266,Software Test Engineer II,Abn stimul response NOS
+267,Registered Nurse,Sinoatrial node dysfunct
+268,Professor,After-cataract NEC
+269,Computer Systems Analyst II,Pneumonia oth strep
+270,Accounting Assistant I,Pseudobulbar affect
+271,Structural Engineer,Fracture seven ribs-open
+272,Human Resources Assistant II,Postop vaginal prolapse
+273,Account Representative III,Inf arthrit NOS-forearm
+274,Pharmacist,Cl skl w oth fx-mod coma
+275,Nurse,Irritable bowel syndrome
+276,Office Assistant III,W/crf stair fall-militry
+277,Research Associate,Swimming accident NOS
+278,Statistician IV,Dysplasia of cervix NOS
+279,Tax Accountant,Joint symptom NEC-ankle
+280,Marketing Assistant,Duodenum injury-open
+281,VP Sales,Ca in situ fem gen NOS
+282,Electrical Engineer,Mv brd/alight-anim rider
+283,Senior Quality Engineer,Hx-cong malform-nervous
+284,Media Manager I,Inlet contraction-deliv
+285,GIS Technical Architect,Menopausal disorder NOS
+286,Mechanical Systems Engineer,Hypersensit angiitis NOS
+287,Cost Accountant,Testicular hypofunc NEC
+288,Administrative Officer,Solitary cyst of breast
+289,Data Coordinator,Acc poison-analgesic NOS
+290,Business Systems Development Analyst,Avulsion of eye
+291,Human Resources Assistant II,Overexert reptv mvmt NEC
+292,Database Administrator II,Speech/language dis NEC
+293,Senior Quality Engineer,Oliguria & anuria
+294,Electrical Engineer,Cl skull base fx-concuss
+295,Graphic Designer,Myoclonus
+296,Senior Cost Accountant,War inj:marine weapn NEC
+297,Financial Analyst,RR acc NOS-ped cyclist
+298,Budget/Accounting Analyst III,Cnsl prnt-chld prob NOS
+299,Information Systems Manager,Skin disorder NOS
+300,Budget/Accounting Analyst III,Synovitis NEC
+301,Dental Hygienist,Antepart hem NOS-antepar
+302,Staff Accountant IV,"Low vision, 2 eyes NOS"
+303,Assistant Professor,Pelvic organ inj NOS-opn
+304,GIS Technical Architect,Disturbances of vision
+305,Senior Editor,Hypersom w slp apnea NOS
+306,Legal Assistant,Unc behav neo resp NEC
+307,Executive Secretary,Sec mal neo brain/spine
+308,Payment Adjustment Coordinator,Synovitis in oth dis
+309,Help Desk Technician,Hemolytc trans react NOS
+310,Administrative Assistant I,Rupture of synovium NOS
+311,VP Accounting,Cannabis abuse-episodic
+312,Executive Secretary,Oth spcf joint replaced
+313,Information Systems Manager,Genetic carrier stat NEC
+314,Recruiting Manager,Lactat dis NOS-del w p/p
+315,Nuclear Power Engineer,H zoster complicated NEC
+316,Quality Engineer,Salmonella arthritis
+317,Assistant Media Planner,Fit/adj breast pros/impl
+318,Staff Accountant IV,Degen dis eyelid NEC
+319,Geological Engineer,War inj:marine weapn NEC
+320,Environmental Tech,DMII keto nt st uncntrld
+321,Senior Financial Analyst,Cl skul vlt fx-deep coma
+322,Computer Systems Analyst II,Cong bowing tibia/fibula
+323,Administrative Assistant III,Sexual precocity NEC
+324,Professor,Corpus luteum cyst
+325,Dental Hygienist,Fx metacarpal neck-close
+326,Director of Sales,Reye's syndrome
+327,Human Resources Assistant I,Acc pois-solid/liq NEC
+328,Electrical Engineer,TB fem gen NEC-oth test
+329,Safety Technician I,Other anthrax manifest
+330,Internal Auditor,Arthropathy NEC-ankle
+331,Accounting Assistant II,Hepatopulmonary syndrome
+332,Nurse Practicioner,Multiple sclerosis
+333,Environmental Tech,Joint dis NEC-pelvis
+334,Compensation Analyst,TB of joint NEC-oth test
+335,Help Desk Operator,Sezary's disease inguin
+336,Nurse Practicioner,Papilledema w decr press
+337,Geologist III,Respiratory abnorm NEC
+338,Physical Therapy Assistant,Anterior synechiae
+339,Nurse,Pedal cycle acc-pedest
+340,Research Nurse,Twin gest-monochr/diamni
+341,Computer Systems Analyst II,"Comp edentulism,class I"
+342,VP Product Management,Ac frontal sinusitis
+343,Compensation Analyst,Fx tibia shaft-open
+344,Health Coach III,Acc pois-solid/liq NOS
+345,Research Nurse,Cong pyloric stenosis
+346,Food Chemist,Complic med care NEC/NOS
+347,Actuary,Adv eff cns stimulnt NEC
+348,Staff Accountant I,Adv eff androgens
+349,VP Sales,Longitud defic phalanges
+350,Operator,Acc poison-alcohol NEC
+351,Senior Sales Associate,Hypertens encephalopathy
+352,Senior Financial Analyst,Hiccough
+353,VP Quality Control,3 deg brn w loss-low leg
+354,Information Systems Manager,Unilat cleft palate-comp
+355,Media Manager III,T1-t6 fx-cl/com cord les
+356,Senior Developer,Chr factitious illness
+357,Compensation Analyst,Somat dysfunc sacral reg
+358,Administrative Assistant I,Orbital myositis
+359,Systems Administrator I,Vitreous prolapse
+360,Cost Accountant,Toxic effect strychnine
+361,Systems Administrator I,Liver donor
+362,Environmental Tech,Extreme immat 1750-1999g
+363,Assistant Manager,Opn brain inj w/o coma
+364,Product Engineer,Nonsp abn find-ms system
+365,Geological Engineer,Biliary cirrhosis
+366,Information Systems Manager,Ac laryngotrach w obstr
+367,Office Assistant I,Aspergillosis
+368,Civil Engineer,Hx benign neoplasm brain
+369,Recruiting Manager,Open brain lacer-concuss
+370,Programmer IV,Lung - kaposi's sarcoma
+371,Recruiter,Clubbing of fingers
+372,Research Associate,Crys arthrop NOS-forearm
+373,Assistant Manager,Rh incompat/acute HTR
+374,Staff Accountant IV,"Stricture, male gen orgn"
+375,Database Administrator I,Urinary anomaly NOS
+376,Automation Specialist I,Breast inf NEC-del w p/p
+377,Developer III,Unsp hemiplga unspf side
+378,Systems Administrator IV,K. pneumoniae pneumonia
+379,Quality Control Specialist,Chronic petrositis
+380,Safety Technician III,Hyperchylomicronemia
+381,Developer III,Congenital hypothyroidsm
+382,Marketing Manager,Ac infect extern ear NEC
+383,Administrative Officer,Acute cor occlsn w/o MI
+384,Biostatistician III,Fx low end femur NEC-cl
+385,Junior Executive,Cellulitis of foot
+386,Food Chemist,Battering by child
+387,Sales Representative,Opn skul/oth fx-mod coma
+388,Director of Sales,Opn skul fx NEC-coma NOS
+389,Internal Auditor,Undeterm circ-scald
+390,Mechanical Systems Engineer,Persistent vegtv state
+391,VP Accounting,Benign neoplasm vagina
+392,VP Marketing,"Pancreas, body inj-open"
+393,Teacher,Periph focal retinitis
+394,Electrical Engineer,Essen hyperten preg-unsp
+395,Junior Executive,Secondary corneal edema
+396,Human Resources Manager,Anim drawn veh-pers NEC
+397,Marketing Manager,Broken tooth-uncomplic
+398,Financial Advisor,Legal blindness-usa def
+399,Environmental Tech,Hx-peanut allergy
+400,Chemical Engineer,Mal second hyperten NEC
+401,Civil Engineer,Hypertonicity of bladder
+402,Geologist I,Madelung's deformity
+403,Programmer I,Hodgkins granulom abdom
+404,Executive Secretary,Poison-antivaricose drug
+405,Compensation Analyst,Dental caries - pulp
+406,Civil Engineer,Chagas dis of oth organ
+407,Software Test Engineer I,Acute swimmers' ear
+408,Programmer I,Vitamin A deficiency NOS
+409,Mechanical Systems Engineer,Forcep deliv NOS-unspec
+410,Senior Financial Analyst,W/craft fall NEC-unpow
+411,Senior Editor,Ac epiglottitis no obstr
+412,Administrative Assistant IV,Glauc w ant seg anom NEC
+413,Chief Design Engineer,"Varic vein leg,comp NEC"
+414,General Manager,Alcoh dep NEC/NOS-unspec
+415,Senior Developer,Exhibitionism
+416,Nuclear Power Engineer,Placenta previa-antepart
+417,VP Accounting,Varus deformity wrist
+418,Account Representative I,Postmastoid granulations
+419,Chief Design Engineer,Anemia in neoplastic dis
+420,Social Worker,Rheumatic heart failure
+421,Project Manager,Excessive attrition-pulp
+422,Analyst Programmer,Cramp in limb
+423,Chemical Engineer,Malig neo parathyroid
+424,Research Assistant I,Anal fistula
+425,Media Manager I,Fall from skateboard
+426,Staff Accountant I,Follow-up vag pap smear
+427,Financial Advisor,Arthrop w oth dis NEC
+428,VP Product Management,Lt ef oth parals non-dom
+429,Registered Nurse,3rd deg burn low leg
+430,Software Engineer III,Abnormal RBC NEC
+431,Legal Assistant,Diphtheria NOS
+432,Biostatistician IV,Late syphilis NOS
+433,Budget/Accounting Analyst IV,Mal neo soft tissue arm
+434,Paralegal,Acc poison-shellfish
+435,Business Systems Development Analyst,"Dysphagia, oral phase"
+436,Administrative Assistant IV,Abn chromosomal analysis
+437,Graphic Designer,Abnorm echoencephalogram
+438,Human Resources Assistant I,Status amput thumb
+439,Cost Accountant,Hodgkins dis NOS axilla
+440,Help Desk Operator,Sprain metatarsophalang
+441,VP Product Management,Transient refract change
+442,Engineer II,"Fx cuneiform, foot-open"
+443,Director of Sales,Tight hymenal ring
+444,Food Chemist,Breast engorge-del w p/p
+445,Electrical Engineer,Benign neoplasm bladder
+446,Sales Associate,Osteomyelit NOS-oth site
+447,Clinical Specialist,Free weights
+448,Staff Accountant I,70-79% bdy brn/30-39% 3d
+449,Project Manager,Renal dis NOS-antepartum
+450,Business Systems Development Analyst,Ac diastolic hrt failure
+451,Software Engineer II,Optic nerve injury
+452,Research Associate,Palindrom rheum-forearm
+453,Internal Auditor,Chr duoden ulc hem/perf
+454,Media Manager II,Lymphosarcoma abdom
+455,Nurse,Ben hyp ht/kd I-IV w hf
+456,Senior Financial Analyst,Ac DVT/embl low ext NOS
+457,Account Representative I,Adj cerebral vent shunt
+458,Teacher,Plantar fibromatosis
+459,Librarian,Embl suprfcl ves low ext
+460,Business Systems Development Analyst,1st deg burn knee
+461,Internal Auditor,Preterm NEC 2000-2499g
+462,Sales Representative,Vocal paral bilat part
+463,GIS Technical Architect,Bronchitis NOS
+464,Senior Sales Associate,Malig neo pancreas NOS
+465,Environmental Specialist,Eosinophilc gastrt w hem
+466,Compensation Analyst,Juxtapap foc choroiditis
+467,Director of Sales,Fall from skateboard
+468,Account Representative I,Diseases of appendix NEC
+469,Professor,"Part edentulsm,class III"
+470,Recruiting Manager,Transv/obliq lie-antepar
+471,Community Outreach Specialist,Schizoafftv dis-chr/exac
+472,Human Resources Assistant IV,TB of bladder-oth test
+473,Quality Engineer,Disrup-external op wound
+474,Professor,Acc poison-sedatives NEC
+475,Senior Editor,Screen-trypanosomiasis
+476,Geological Engineer,Hymenolepiasis
+477,Administrative Officer,Squamous blepharitis
+478,Recruiting Manager,Pemphigoid
+479,VP Accounting,Scarring of conjunctiva
+480,Structural Analysis Engineer,Venous compl NEC-deliver
+481,VP Accounting,Simpl schizophren-subchr
+482,Human Resources Assistant I,Brain inj NEC-mod coma
+483,Director of Sales,Ac rheumatic myocarditis
+484,Associate Professor,Injury femoral nerve
+485,Speech Pathologist,TB organ NEC-exam unkn
+486,Human Resources Assistant III,Mv-train coll-anim rid
+487,Programmer Analyst III,Iridoschisis
+488,Cost Accountant,Cl skull vlt fx-mod coma
+489,Assistant Media Planner,Hiccough
+490,Tax Accountant,TB of bladder-no exam
+491,Administrative Officer,Ankylosis ear ossicl NEC
+492,Information Systems Manager,Adv eff spinal anesthet
+493,Nurse Practicioner,Internal injury NOS-open
+494,Geological Engineer,TB sp crd absc-micro dx
+495,Senior Sales Associate,Ischemic optic neuropthy
+496,Payment Adjustment Coordinator,Post-term infant
+497,VP Marketing,High vaginal lac-postpar
+498,Senior Sales Associate,Prolong 1st stage-deliv
+499,Senior Editor,Somat dysfunc rib cage
+500,Junior Executive,Benign neo mouth floor
+501,Software Consultant,Peptic ulcer NOS-obstruc
+502,Assistant Manager,Convalescence NOS
+503,Paralegal,Sprain interphalangeal
+504,Electrical Engineer,TB esophagus-cult dx
+505,VP Marketing,60-69% bdy brn/10-19% 3d
+506,Research Assistant IV,Anomalies of aortic arch
+507,Office Assistant III,Transient arterial occlu
+508,Financial Advisor,Kidney laceration-open
+509,Software Engineer IV,Late eff fire acc
+510,Actuary,Mycotic arthritis-shlder
+511,Office Assistant II,Respiratory comp NEC
+512,Senior Sales Associate,Varicose vulva-antepart
+513,Nurse,Spinocerebellar dis NOS
+514,VP Marketing,Cl skl w oth fx-mod coma
+515,Actuary,Benign neoplasm choroid
+516,Senior Editor,Mv-train coll-driver
+517,Sales Associate,Retained glass fragments
+518,Civil Engineer,Sleep disturbances NEC
+519,Food Chemist,Brain injury NEC
+520,Nurse Practicioner,"Barotrauma, sinus"
+521,Software Test Engineer II,NB hypothermia NEC
+522,Biostatistician IV,Fx arm mult/NOS-open
+523,Account Representative II,Acc due to lightning
+524,Staff Scientist,Underwater dive/snorkel
+525,Human Resources Manager,Gonococcal arthritis
+526,Environmental Tech,Mult gest malpres-deliv
+527,Programmer Analyst I,Disl interphaln hand-cl
+528,Nurse,Benign neoplasm NEC
+529,Business Systems Development Analyst,Anterior cord syn/t7-t12
+530,Staff Scientist,Irregular menstruation
+531,Research Nurse,Reentrant coll-motcycl
+532,Structural Analysis Engineer,Deep 3rd brn mult finger
+533,Senior Financial Analyst,Reading disorder NOS
+534,Senior Editor,Op skl base fx-prol coma
+535,General Manager,Cochlear otosclerosis
+536,Geologist II,Tooth devel/erup dis NOS
+537,Senior Sales Associate,Poison-antithyroid agent
+538,Help Desk Technician,"Deliver-twins, both live"
+539,Internal Auditor,Heat exhaustion NOS
+540,Food Chemist,Panniculitis of neck
+541,Product Engineer,Vaccin for dtp + tab
+542,Help Desk Operator,Hodgkins dis NOS spleen
+543,Legal Assistant,Elev ca antigen 125
+544,Product Engineer,Alopecia NEC
+545,Quality Engineer,Abn glucose-postpartum
+546,Desktop Support Technician,Joint effusion-shlder
+547,Dental Hygienist,Panuveitis
+548,Safety Technician III,Superfic inj periocular
+549,GIS Technical Architect,Post term preg-antepar
+550,Clinical Specialist,Endocrine anomaly NEC
+551,Accountant IV,Edema in preg-antepartum
+552,Computer Systems Analyst I,Mal neo long bones leg
+553,Information Systems Manager,Hx-uterus malignancy NEC
+554,VP Sales,Optic nerve hypoplasia
+555,Mechanical Systems Engineer,Pyogen arthritis-mult
+556,Clinical Specialist,Boat acc inj NEC-swim
+557,Structural Engineer,Legal blindness-usa def
+558,Statistician III,Acc poison-food NEC
+559,Information Systems Manager,Ant disloc prox tibia-cl
+560,Marketing Manager,Adv eff smallpox vaccine
+561,Desktop Support Technician,Depersonalization disord
+562,Administrative Assistant I,Vasc comp renal artery
+563,Nuclear Power Engineer,War inj:explosion NEC
+564,Social Worker,Sprain of knee & leg NOS
+565,Staff Scientist,Cerebellar ataxia NEC
+566,Quality Control Specialist,Dislocat foot NEC-closed
+567,Research Assistant I,Amputation finger-compl
+568,Health Coach IV,Deep 3 deg brn mult site
+569,Human Resources Manager,Lung involv in oth dis
+570,Librarian,Ac kidny fail w del-unsp
+571,Information Systems Manager,Delay p/p hem-del w p/p
+572,Design Engineer,NB late anemia:isoimmun
+573,Help Desk Operator,Disorder of pinna NOS
+574,Actuary,Chyluria
+575,Staff Accountant IV,Mal neo stomach fundus
+576,Account Executive,Prophylac fluoride admin
+577,Occupational Therapist,Housing/econo circum NEC
+578,Business Systems Development Analyst,Sebaceous cyst
+579,Health Coach I,Hx-contct/expos asbestos
+580,Nurse,Dosag fail-shock therapy
+581,Senior Editor,Neuralgia/neuritis NOS
+582,Senior Editor,Septicem in labor-deliv
+583,Staff Scientist,Urinary obstruction NOS
+584,Legal Assistant,Longitud defic phalanges
+585,Teacher,Oth off-road mv acc-psgr
+586,Computer Systems Analyst II,Lack norm physio dev NOS
+587,Tax Accountant,Inf arthrit NOS-forearm
+588,Safety Technician III,Edema of larynx
+589,Tax Accountant,Comp-ren dialys dev/grft
+590,Office Assistant IV,Transver/obliq lie-deliv
+591,VP Marketing,Fx neck of femur NOS-cl
+592,Senior Cost Accountant,Atten to gastrostomy
+593,General Manager,Adv eff mixed viral-bact
+594,Assistant Manager,Tetanus
+595,Analog Circuit Design manager,Fat embolism
+596,Nurse,Jt derangmnt NEC-unsp jt
+597,Food Chemist,Illeg ab w embolism-unsp
+598,VP Quality Control,Ulcertve prctosigmoidtis
+599,Dental Hygienist,Periostitis-l/leg
+600,Paralegal,2nd deg burn mult site
+601,Accounting Assistant II,Varicose vulva-delivered
+602,Compensation Analyst,Bacteria dis carrier NEC
+603,Software Engineer II,Fit orthopedic devices
+604,Compensation Analyst,Hodgkins paragran thorax
+605,Biostatistician IV,Poison-capillary act agt
+606,Office Assistant III,Post traumatic seizures
+607,Database Administrator II,Abscess of thymus
+608,Editor,Joint pain-shlder
+609,Food Chemist,Optic neuritis NEC
+610,Nurse,Paral polio NEC-type NOS
+611,Nuclear Power Engineer,Air pressure change NEC
+612,Budget/Accounting Analyst II,Pyoderma NEC
+613,Software Consultant,Ben hyp kid w cr kid V
+614,Dental Hygienist,Metalworking machine acc
+615,Professor,Convergence excess
+616,Pharmacist,"Stress reaction, fugue"
+617,Electrical Engineer,Abn reac-organ rem NEC
+618,Design Engineer,Dermatophytosis site NOS
+619,Electrical Engineer,Recur manic dis-unspec
+620,Biostatistician IV,Appendico-vesicos status
+621,Civil Engineer,Snow veh acc-motorcycl
+622,Media Manager III,Sprain interphalang toe
+623,Pharmacist,Salivary gland abscess
+624,Cost Accountant,Herpetic septicemia
+625,Nurse Practicioner,Neuropathy in other dis
+626,Software Engineer IV,Insect bite foot/toe
+627,Statistician IV,Cryst arthrop NEC-shlder
+628,Programmer Analyst I,Sqam cell ca skn low lmb
+629,Compensation Analyst,Burn NOS arm-unspec
+630,Office Assistant IV,Acute gouty arthropathy
+631,Web Designer I,Dysthymic disorder
+632,Engineer II,"Fx clavicl, acrom end-cl"
+633,Compensation Analyst,Mal carcnoid hindgut NOS
+634,Staff Accountant III,Injury palmar artery
+635,Tax Accountant,1st deg burn finger
+636,Librarian,Total perf tympanic memb
+637,Registered Nurse,Mat comp in utro-del-p/p
+638,VP Sales,Aortic aneurysm NOS
+639,Information Systems Manager,Fall on level NEC/NOS
+640,Environmental Tech,70-79% bdy brn/3 deg NOS
+641,Human Resources Manager,Acc poisn-anticholinerg
+642,Graphic Designer,Insuff anterior guidance
+643,Research Assistant I,Dicalc phos cryst-l/leg
+644,Staff Accountant I,Dsct of aorta unsp site
+645,Civil Engineer,Pulm compl in del-deliv
+646,Web Designer II,Pois-antineopl/immunosup
+647,Account Coordinator,Hunting rifle accident
+648,Chemical Engineer,Angio stm/dudn w hmrhg
+649,Health Coach II,Heredit hemochromatosis
+650,General Manager,Artificial insemination
+651,Web Developer IV,Illeg ab w pelv inf-unsp
+652,Biostatistician III,Late effct cmplcatn preg
+653,Quality Control Specialist,Ulceratve colitis unspcf
+654,Food Chemist,Opt chiasm w vascul dis
+655,Software Consultant,Wrong fluid in infusion
+656,Human Resources Manager,Pulmon TB NEC-oth test
+657,Quality Engineer,Histoplasmosis endocard
+658,Food Chemist,Alteration of sensations
+659,Chemical Engineer,Injury renal vessel NEC
+660,Tax Accountant,Coxsackie virus inf NOS
+661,Chief Design Engineer,Lt ef oth parals non-dom
+662,Chief Design Engineer,Other esophagitis
+663,Chemical Engineer,Lactat dis NOS-postpart
+664,Budget/Accounting Analyst IV,Nervous syst complc NOS
+665,Executive Secretary,Mastitis-postpartum
+666,Graphic Designer,Opn wnd lary w trac-comp
+667,Librarian,Nontox multinodul goiter
+668,Recruiter,Excess fet grth-antepart
+669,Marketing Assistant,Brain hem open-mod coma
+670,Cost Accountant,Joint symptom NEC-ankle
+671,Civil Engineer,Cholelith/gb inf NEC-obs
+672,Office Assistant II,Monoc exotrop w v pattrn
+673,Librarian,Edema of eyelid
+674,Clinical Specialist,Resp system disease NEC
+675,Social Worker,Polymyalgia rheumatica
+676,Quality Control Specialist,"AMI lateral NEC, subseq"
+677,Geological Engineer,Middle ear anomaly NEC
+678,Payment Adjustment Coordinator,Chronic nephritis NOS
+679,Technical Writer,2nd deg burn hand NOS
+680,Health Coach III,Spon labr w plan C/S-del
+681,Recruiter,Fx sacr-cl/cauda inj NEC
+682,Media Manager III,Pseudoexfol lens capsule
+683,Structural Engineer,Salmonella osteomyelitis
+684,Computer Systems Analyst I,Infestation NOS
+685,Clinical Specialist,Mucosits d/t antineo rx
+686,Marketing Manager,Late eff FB in orifice
+687,Research Nurse,DMII keto nt st uncntrld
+688,Administrative Assistant II,Adv eff plague vaccine
+689,Accounting Assistant IV,Lipoma NEC
+690,Statistician I,Lacer of cervix-postpart
+691,Account Executive,Dislocat sacrum-open
+692,Cost Accountant,Cachexia
+693,Programmer Analyst III,Oth func dsdr bladder
+694,Staff Scientist,Adv eff enzymes NEC
+695,Environmental Tech,Duodenal ulcer NOS-obstr
+696,Design Engineer,Trans arthropathy-unspec
+697,Technical Writer,Cerebral cortx contusion
+698,Project Manager,Mycosis fungoides inguin
+699,Software Engineer IV,Breast dis NEC-antepart
+700,Senior Cost Accountant,Extradural hem-coma NOS
+701,Staff Accountant II,Hodgkins mix cell head
+702,Paralegal,Ill-defined eye dis NEC
+703,Accountant IV,Dis carbohydr metab NEC
+704,Nurse Practicioner,Bronchiectas w/o ac exac
+705,Cost Accountant,Incomptnce rectovag tiss
+706,Financial Advisor,Injury to nerve NEC
+707,Biostatistician II,2nd deg burn lower leg
+708,Electrical Engineer,Vaccin for smallpox
+709,Occupational Therapist,Mal neo endocrine NEC
+710,Nuclear Power Engineer,3rd deg burn chin
+711,VP Sales,Fem genital mutilate NEC
+712,Desktop Support Technician,Poison-utility gas NEC
+713,Sales Representative,Fracture ulna NOS-closed
+714,Executive Secretary,Pyogen arthritis-mult
+715,Project Manager,Eosinophilc gastrt w hem
+716,VP Marketing,Late ef-hemiplga non-dom
+717,Structural Engineer,Hairy-cell leukem pelvic
+718,Biostatistician II,Contusion of finger
+719,Software Engineer I,Dipetalonemiasis
+720,Executive Secretary,Retrovert uterus-unspec
+721,Legal Assistant,Burn NOS
+722,Information Systems Manager,Acc pois-carbn monox NOS
+723,Systems Administrator I,Rheumat aortic stenosis
+724,Staff Accountant I,Illeg abort w shock-inc
+725,Data Coordinator,Sec DM other uncontrld
+726,Developer I,Opn wnd ant abdomen-comp
+727,Administrative Assistant I,Pseudomonas enteritis
+728,Actuary,Polyglandul dysfunc NEC
+729,Staff Accountant III,Non-abo incomp/HTR NEC
+730,Sales Associate,Nonrupt cerebral aneurym
+731,Actuary,Pelv fx-cl w/o plv disrp
+732,Junior Executive,Pharyngeal anomaly NEC
+733,Mechanical Systems Engineer,Somatic dysfunction NEC
+734,Research Associate,Hang gliding
+735,Budget/Accounting Analyst III,Ben neo soft tis thorax
+736,Compensation Analyst,Extradur hem-proln coma
+737,GIS Technical Architect,Adv eff lipotropic drugs
+738,Financial Analyst,Hx of monocytic leukemia
+739,Professor,"Pancreas, body inj-close"
+740,Graphic Designer,Lung involv in oth dis
+741,Registered Nurse,Prim uter inert-antepart
+742,Account Executive,Unsocial aggression-mild
+743,Editor,Foreign body in ear
+744,Sales Representative,Brain injury w opn wnd
+745,Help Desk Technician,Hemangioma intracranial
+746,Chemical Engineer,"Comp edentulism,class IV"
+747,Automation Specialist II,Artic cartil dis-up/arm
+748,Compensation Analyst,Clostridium perfringens
+749,Marketing Assistant,Angina pectoris NEC/NOS
+750,Recruiter,Path fx dstl radius ulna
+751,Clinical Specialist,Derang med meniscus NEC
+752,Operator,Congenital coxa vara
+753,Project Manager,Psychogen endocrine dis
+754,Web Developer III,Fetal chromos abn-unspec
+755,Structural Engineer,Intrathorac inj NEC-open
+756,Software Test Engineer II,Deliver-single stillborn
+757,Budget/Accounting Analyst IV,Postabortion compl NEC
+758,Junior Executive,Inj super mesenteric art
+759,Statistician IV,Transient met dis NB NOS
+760,Research Assistant III,Strongyloidiasis
+761,Help Desk Technician,Pigmentary glaucoma
+762,Software Test Engineer IV,Adv eff loc anti-infectv
+763,Senior Developer,Adhesive pericarditis
+764,Cost Accountant,Spon abort w hemorr-inc
+765,Research Associate,Cl skull fx NEC-coma NOS
+766,Automation Specialist III,Status cardc dvce unspcf
+767,Automation Specialist IV,Hemarthrosis-up/arm
+768,Cost Accountant,Idiopathic osteoporosis
+769,VP Product Management,Fet damg d/t dis-unspec
+770,Systems Administrator IV,Opn wnd genital NEC-comp
+771,Help Desk Technician,Empyema with fistula
+772,Tax Accountant,Ca in situ skin lip
+773,Recruiting Manager,Pinta intermed lesions
+774,Professor,Poisoning-acidifying agt
+775,Teacher,Dis amino-acid metab NEC
+776,Operator,Cocaine abuse-in remiss
+777,Product Engineer,Supervis normal 1st preg
+778,Assistant Media Planner,Inflam/tox neuropthy NOS
+779,Occupational Therapist,Lower urin calcul NOS
+780,Health Coach IV,Peritoneal effusion
+781,Registered Nurse,Neonatal infec mastitis
+782,Physical Therapy Assistant,Open wound of scapula
+783,Biostatistician II,Triplet pregnancy-deliv
+784,Analyst Programmer,Nonpsych mntl disord NEC
+785,Developer IV,Genetc sus mult endo neo
+786,Product Engineer,"Injury-burn, fire"
+787,Staff Scientist,Chr persistent hepatitis
+788,Structural Analysis Engineer,Cnsl perp parent chld ab
+789,Quality Engineer,Retain plac NOS-postpart
+790,Mechanical Systems Engineer,Hx of alcoholism
+791,Human Resources Manager,Rubella complication NOS
+792,Marketing Manager,Opn cort contu-deep coma
+793,Structural Analysis Engineer,Late eff cns abscess
+794,Software Test Engineer IV,Perforat tympan memb NOS
+795,Accountant IV,Mal carcinoid sig colon
+796,Sales Representative,Househld maintenance NEC
+797,General Manager,Diabetes-antepartum
+798,Research Assistant I,Aftrcre path fx bone NEC
+799,Database Administrator I,Hodg nodul sclero axilla
+800,Occupational Therapist,Frisbee
+801,Librarian,Primary cerebellar degen
+802,VP Accounting,"Hernia, site NEC w gangr"
+803,Assistant Manager,Poison-hair/scalp prep
+804,Financial Analyst,Acute interstitial pneum
+805,Office Assistant IV,Sprain sacrospinatus
+806,Programmer III,C1-c4 fx-cl/cen cord syn
+807,Administrative Assistant I,Abn kidney funct study
+808,Analyst Programmer,Ob trauma NEC-postpartum
+809,Occupational Therapist,Burn internal organ NEC
+810,Data Coordinator,Opn wnd lat abdomen-comp
+811,Junior Executive,Genital prolapse NOS
+812,Biostatistician I,Malposition of heart
+813,Electrical Engineer,Ac stomac ulc w hem/perf
+814,Geological Engineer,TB lung infiltr-unspec
+815,Accounting Assistant III,Impulse control dis NEC
+816,Research Associate,Cerebel contus-prol coma
+817,Administrative Assistant II,Gastric diverticulum
+818,Pharmacist,Blister head-infected
+819,Paralegal,"Sports,athletics NEC"
+820,Environmental Specialist,Anisakiasis
+821,Assistant Manager,Monoc exotrop w v pattrn
+822,Systems Administrator I,Adv eff diuretics NEC
+823,Senior Developer,Fall-occ spacecraft
+824,Staff Scientist,Screen-gentc dis carrier
+825,Editor,Adv eff oxazolidin deriv
+826,Mechanical Systems Engineer,Ear anomalies NEC
+827,Accounting Assistant IV,Indus veh acc on premise
+828,VP Sales,Open wound breast-compl
+829,Actuary,Contusion scapul region
+830,Desktop Support Technician,Dislocat sternum-closed
+831,Statistician II,Cerebel contus-deep coma
+832,Web Developer III,Status autm crd dfbrltr
+833,Help Desk Technician,Mal hy ht/kd st V w/o hf
+834,Librarian,Subdural hem w/o coma
+835,Operator,Trichinosis
+836,Geological Engineer,Late congen syph NOS
+837,Marketing Manager,Abn involun movement NEC
+838,Chief Design Engineer,Laboratory exam NOS
+839,Occupational Therapist,Stomach function dis NOS
+840,Mechanical Systems Engineer,Derang post med meniscus
+841,Nurse Practicioner,Mult pregnancy aff NB
+842,Dental Hygienist,Inj superior mesent vein
+843,Quality Engineer,Spon abort w embol-unsp
+844,Office Assistant IV,"Pressure ulcer,stage NOS"
+845,VP Marketing,Renal hyperten-del p/p
+846,Media Manager II,"Twin, mate lb-before adm"
+847,Speech Pathologist,TB peritonitis-exam unkn
+848,Senior Quality Engineer,Mal neo cheek mucosa
+849,Staff Scientist,Oth off-road mv-mcyc psg
+850,VP Quality Control,Post disloc humerus-open
+851,Financial Analyst,Severe sepsis
+852,Information Systems Manager,Choroidal hemorrhage NOS
+853,Community Outreach Specialist,Excess attrition-local
+854,Social Worker,Orbital cysts
+855,Administrative Assistant I,Schizoaffectve dis-remis
+856,Human Resources Manager,"Urin-genital fistul, fem"
+857,Civil Engineer,Gangr incisional hernia
+858,Software Engineer IV,Chr proliferat nephritis
+859,Research Associate,Saddle embol pulmon art
+860,Computer Systems Analyst IV,Adv eff skin agent NEC
+861,Senior Financial Analyst,Primary CNS lymph xtrndl
+862,Financial Advisor,Placenta prev hem-deliv
+863,Graphic Designer,Atrophy mandible-minimal
+864,Physical Therapy Assistant,Unc behav neo testis
+865,Nurse,War inj:nuclear rad eff
+866,Quality Control Specialist,Opn skul/oth fx-brf coma
+867,Senior Sales Associate,Vaginitis NOS
+868,Biostatistician II,Multiple sclerosis
+869,Mechanical Systems Engineer,War inj:nucl weapon NOS
+870,Speech Pathologist,Adv eff systemic agt NOS
+871,Research Nurse,C1-c4 fx-op/com cord les
+872,Analyst Programmer,Sprain sacrotuberous
+873,Software Test Engineer III,Other vd-postpartum
+874,Health Coach II,Ca in situ trachea
+875,Junior Executive,Mild/NOS preeclamp-unsp
+876,Civil Engineer,Inj nerve root/plex NOS
+877,General Manager,3rd deg burn genitalia
+878,Web Designer IV,Hx-malign nerve syst NEC
+879,Geological Engineer,Acc poison-hallucinogens
+880,Systems Administrator I,Poisoning by cocaine
+881,Technical Writer,Open wound of axilla
+882,Internal Auditor,Open wound elbow-complic
+883,Data Coordinator,Renal artery hyperplasia
+884,Actuary,Mycotic arthritis-shlder
+885,Senior Cost Accountant,TB fem gen NEC-cult dx
+886,Structural Analysis Engineer,Hodgkins sarcoma mult
+887,VP Quality Control,Observ-suspect TB
+888,Occupational Therapist,Hodg lymph deplet abdom
+889,VP Quality Control,Mal neo soft tis thorax
+890,Professor,3rd deg burn genitalia
+891,Senior Editor,Screen for skin cond
+892,Budget/Accounting Analyst IV,Ventricular fibrillation
+893,Actuary,Polio osteopathy-up/arm
+894,Senior Cost Accountant,Org or tissue donor NOS
+895,Registered Nurse,Flu dt nvl A vrs w pneu
+896,Editor,Varicella contact/exp
+897,Environmental Specialist,Prim pulm hypertension
+898,General Manager,Tight hymenal ring
+899,Research Nurse,Merkel cell ca-oth sites
+900,Nuclear Power Engineer,Polyarthritis NOS-unspec
+901,Accounting Assistant I,Takotsubo syndrome
+902,Data Coordinator,Helicobacter pylori
+903,Budget/Accounting Analyst II,One eye-mod/oth normal
+904,Dental Hygienist,Foreign body bronchus
+905,Director of Sales,Sec neuroendo tumor NOS
+906,General Manager,Blasting materials accid
+907,Analog Circuit Design manager,Knitting & crocheting
+908,Computer Systems Analyst IV,Fx radius head-closed
+909,Design Engineer,Late ef CV dis dysphagia
+910,Senior Developer,Benign neoplasm eye NEC
+911,Nurse,Acc d/t avalanche
+912,Nurse Practicioner,Fx c3 vertebra-closed
+913,Tax Accountant,Pap smr vag-cytol malig
+914,Operator,Open wound gum-compl
+915,Payment Adjustment Coordinator,Edema in preg-unspec
+916,Analog Circuit Design manager,Abort NOS w pel inf-inc
+917,Programmer Analyst III,Hernia NEC
+918,Automation Specialist IV,Paralytic ptosis
+919,Financial Analyst,Behcet arthritis NEC
+920,Editor,Compl deliv NOS-postpart
+921,Graphic Designer,Acetonuria
+922,Nurse Practicioner,Cystostomy status NEC
+923,Accountant IV,Jumping rope
+924,Data Coordinator,Family hx-breast malig
+925,Marketing Assistant,Screen for helminthiasis
+926,Analog Circuit Design manager,Late congen syph symptom
+927,Internal Auditor,Sbc leu un cl wo ah rmsn
+928,Financial Analyst,2nd deg burn shoulder
+929,Actuary,Ac osteomyelitis-hand
+930,Financial Analyst,Kaschin-beck dis-pelvis
+931,Environmental Specialist,Reentrant mv coll-pasngr
+932,Administrative Officer,Acq ankle-foot def NEC
+933,Developer III,Facial weakness
+934,Human Resources Assistant IV,Glaucoma w tumor or cyst
+935,Systems Administrator III,"Actv Meniere, vestibular"
+936,Chief Design Engineer,Ob trauma NEC-unspec
+937,Accountant I,Kyphosis NEC
+938,Payment Adjustment Coordinator,Blood diseases NEC
+939,Teacher,Angio stm/dudn w/o hmrhg
+940,Compensation Analyst,Mastitis-delivered
+941,Accountant I,"Fx clavic, acrom end-opn"
+942,Internal Auditor,Cutan leishmanias urban
+943,Research Nurse,Septicem in labor-deliv
+944,Cost Accountant,Piano playing
+945,Health Coach IV,Meningococc arthropathy
+946,Safety Technician IV,Postcatheter forgn body
+947,Tax Accountant,Postconcussion syndrome
+948,Sales Representative,Malignant neo trachea
+949,Accounting Assistant III,Disorders of choroid NEC
+950,Tax Accountant,Contusion of hand(s)
+951,Senior Editor,Aircrft acc NOS-pers NEC
+952,Operator,Kaschin-beck dis-l/leg
+953,Accountant IV,Thrombosis NEC-antepart
+954,Junior Executive,TB of thyroid-no exam
+955,Associate Professor,Leg ab w compl NEC-unsp
+956,Director of Sales,Insect bite foot/toe
+957,Marketing Manager,Comp-nerv sys dev/graft
+958,Research Associate,Paraphrenia
+959,Assistant Media Planner,Dvrtclo sml int w/o hmrg
+960,Payment Adjustment Coordinator,Hi grde myelodys syn les
+961,Account Executive,Flncy dsord cond elsewhr
+962,Help Desk Technician,TB thoracic nodes-unspec
+963,Dental Hygienist,Mal neo endocrine NOS
+964,Senior Cost Accountant,Contamination NEC
+965,Human Resources Manager,Ascending colon inj-clos
+966,Account Executive,"Team sports,athletes"
+967,Technical Writer,Pois antidepressants NEC
+968,Marketing Assistant,Fetal abnorm NEC-deliver
+969,Quality Control Specialist,Obstruct/fet malpos-unsp
+970,Programmer IV,Ot sp hmiplga unspf side
+971,Staff Scientist,31-32 comp wks gestation
+972,Geological Engineer,Cl skul w oth fx-concuss
+973,Quality Control Specialist,Observ-work accident
+974,Environmental Specialist,Screen-mycotic infect
+975,Help Desk Technician,DMI unspf uncntrld
+976,Database Administrator IV,Gc infect anus & rectum
+977,Senior Developer,TB lung fibros-exam unkn
+978,Structural Engineer,Dysenter arthrit-up/arm
+979,Sales Associate,Malig neo frontal lobe
+980,Account Coordinator,Chagas disease NOS
+981,Tax Accountant,Nasal bone fx-open
+982,Quality Control Specialist,Cerebvas dis-deliv w p/p
+983,Database Administrator II,RR coll NOS-person NEC
+984,General Manager,Allerg arthritis-unspec
+985,Staff Accountant II,TB of hip-oth test
+986,Human Resources Manager,Renal agenesis
+987,Senior Quality Engineer,Smallpox NOS
+988,Research Nurse,Fx up ulna NEC/NOS-open
+989,Analyst Programmer,Alveolar maxil hyprplsia
+990,Technical Writer,Fall on stair/step NEC
+991,Physical Therapy Assistant,War inj:indir nucl weapn
+992,Account Executive,Mal neo peritoneum NEC
+993,Technical Writer,Nonpsychot brain syn NOS
+994,Safety Technician IV,Mgkrcyt leuk wo ach rmsn
+995,Senior Developer,Alternating hyperphoria
+996,Office Assistant II,Ocl art NOS wo infrct
+997,Nuclear Power Engineer,Aneurysm NEC
+998,Automation Specialist I,Mal hy ht/kd st V w/o hf
+999,Director of Sales,Ac myl leuk wo achv rmsn
+1000,Human Resources Assistant I,Mal histiocytosis axilla

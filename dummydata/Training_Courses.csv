@@ -1,0 +1,1001 @@
+course_id,course_name,course_category_id,class_hours,credit_hours ,examination_method ,instructor_name ,course_explain
+1,Assistant Professor,1,92,34,Rubber,Burr Giacopetti,Injury-firearm/expl NOS
+2,Pharmacist,2,74,41,Glass,Junie Sollam,Suicidal ideation
+3,Assistant Media Planner,3,88,65,Plexiglass,Marillin Kneale,Joint dis NEC-ankle
+4,Media Manager I,4,26,12,Wood,Henrieta Bidmead,Pelvic fracture NEC-open
+5,Help Desk Technician,5,75,15,Plastic,Geri Kirsz,Phlebitis intrcran sinus
+6,Speech Pathologist,6,94,72,Glass,Courtney Macari,Degeneration of eye NOS
+7,Compensation Analyst,7,38,77,Glass,Farlee Manlow,Delay p/part hem-unspec
+8,Geological Engineer,8,64,40,Vinyl,Wynne Constanza,Handgun accident
+9,Mechanical Systems Engineer,9,65,27,Brass,Rudolfo Goody,Acne NEC
+10,Payment Adjustment Coordinator,10,25,92,Vinyl,Konrad Hynes,TB urinary NEC-exam unkn
+11,Marketing Manager,11,54,38,Brass,Walker Arne,Uns mno leu wo ach rmsn
+12,Help Desk Technician,12,12,90,Stone,Isacco Vann,3rd burn w loss-forearm
+13,Director of Sales,13,29,86,Steel,Cristobal Crass,Chr tot occlus cor artry
+14,Senior Developer,14,10,78,Aluminum,Jeana Domeny,Pruritus ani
+15,Nurse Practicioner,15,99,40,Vinyl,Vincents Dumbarton,Acc cut in med care NOS
+16,Clinical Specialist,16,95,100,Wood,Rupert Hull,Fx shaft tibia w fib-opn
+17,Biostatistician II,17,21,4,Granite,Eran McCloch,Hx resp system dis NEC
+18,Business Systems Development Analyst,18,15,26,Vinyl,Rochell Casillis,Sprain sacrotuberous
+19,Sales Representative,19,42,54,Plexiglass,Martha Perrins,Amebiasis NOS
+20,Project Manager,20,64,21,Plexiglass,Eleni Schimke,Path fx oth spcf prt fmr
+21,Electrical Engineer,21,16,21,Plastic,Cassi Haresnaip,Obsv-adult antisoc behav
+22,Cost Accountant,22,88,97,Stone,Cordy Crabtree,Osteitis deformans NOS
+23,Research Assistant III,23,8,57,Stone,Locke Goudard,Longitud defic phalanges
+24,Registered Nurse,24,81,86,Granite,Jsandye Arundel,Path fx tibia fibula
+25,Junior Executive,25,15,54,Steel,Sisile Akers,Gstrontest vesl anomaly
+26,Director of Sales,26,76,37,Plexiglass,Terza Hoggan,Cl skl fx NEC-proln coma
+27,Help Desk Technician,27,2,5,Plastic,Charil Kermit,Alveolar mandib hyprplas
+28,Community Outreach Specialist,28,52,100,Brass,Candida Aires,Breast neoplasm NOS
+29,VP Product Management,29,59,81,Vinyl,Ryann Hilldrup,Oth abn Pap smr anus/HPV
+30,Professor,30,27,20,Steel,Arda Enoch,RR coll NOS-ped cyclist
+31,Food Chemist,31,22,94,Rubber,Gordy Spens,Poisoning-plague vaccine
+32,Senior Financial Analyst,32,27,86,Plexiglass,Lulu Lyste,Lte ef-mplga low lmb NOS
+33,Accountant I,33,68,65,Stone,Maighdiln Sahnow,Benign neo cranial nerve
+34,Staff Scientist,34,77,51,Plexiglass,Debby Middiff,Eclampsia-unspecified
+35,Clinical Specialist,35,82,89,Rubber,Randi Feighney,Senile degenerat brain
+36,Nurse Practicioner,36,39,70,Plastic,Husein Gierek,Infc free-liv amebae NEC
+37,Research Assistant I,37,97,18,Stone,Ingeberg Grimmer,Blood asp w resp sympt
+38,Accountant I,38,49,91,Rubber,Munmro Grzelczak,Ob pyemic embol-postpart
+39,Engineer IV,39,68,95,Rubber,Malcolm Botten,Dis mid ear/mastoid NEC
+40,Speech Pathologist,40,27,19,Granite,Nariko Shoute,Oral soft tissue cyst
+41,Web Designer I,41,84,92,Rubber,Glendon Southard,Leg ab w compl NEC-inc
+42,GIS Technical Architect,42,98,30,Vinyl,Antonina Babbe,Screen-alphafetoprotein
+43,Teacher,43,40,40,Wood,Twila Dallander,Intrathorac inj NEC-open
+44,Payment Adjustment Coordinator,44,44,35,Brass,Giulia Stripling,Fx c6 vertebra-open
+45,Electrical Engineer,45,33,40,Aluminum,Kerwinn Kirkman,Endodontic overfill
+46,VP Quality Control,46,98,40,Granite,Lorilee Giggs,Glaucoma stage NOS
+47,Media Manager IV,47,36,28,Vinyl,Pennie Dachs,Open wound penis-compl
+48,Administrative Officer,48,97,98,Plastic,Jarad McCrackem,Lactat dis NEC-del w p/p
+49,Staff Accountant III,49,50,28,Steel,Darrell Burgill,"Liver lacerat, major-opn"
+50,Account Representative II,50,95,99,Rubber,Barron Bryenton,Cellulitis of arm
+51,Assistant Media Planner,51,27,71,Glass,Gloriane Hulk,Intestinovesical fistula
+52,VP Quality Control,52,4,31,Plastic,Jonathan Dayne,Adv eff antipsychotc NEC
+53,Senior Editor,53,70,5,Brass,Guthry Odda,Insomnia in other dis
+54,Sales Associate,54,52,71,Plexiglass,Byrom Checklin,Weaning from respirator
+55,Programmer Analyst II,55,57,23,Plastic,Georgiana Rewcastle,Measles uncomplicated
+56,Food Chemist,56,45,51,Rubber,Prescott Tring,Anphylct reaction fish
+57,Staff Accountant II,57,17,1,Steel,Dotty Aymes,Unilateral small kidney
+58,Assistant Media Planner,58,80,40,Plexiglass,Doyle Hartburn,Open wound of face NEC
+59,Human Resources Assistant IV,59,97,78,Plexiglass,Leeanne Fargie,Other air leak
+60,Dental Hygienist,60,52,34,Vinyl,Willem Forestel,Corneal opacity NOS
+61,Pharmacist,61,60,42,Stone,Chaim Bravery,Sqm cell ca skn site NEC
+62,Software Consultant,62,9,65,Steel,Cecil Hadlee,War inj:guided missile
+63,Editor,63,45,84,Rubber,Caro Waadenburg,Episdic tension headache
+64,Data Coordinator,64,62,53,Steel,Sibbie Sapseed,TB of knee-no exam
+65,Sales Representative,65,17,12,Stone,Rosco Vaney,Sezary's disease head
+66,VP Marketing,66,88,21,Granite,Hussein Van Leijs,"Keratoconus, ac hydrops"
+67,Analyst Programmer,67,40,33,Brass,Hephzibah McGourty,Abn react-surg proc NEC
+68,Civil Engineer,68,16,44,Glass,Alexi Stenton,TB laryngitis-unspec
+69,Actuary,69,28,79,Plexiglass,Maynord De Vries,Dislocat knee NEC-closed
+70,Staff Accountant I,70,15,37,Stone,Pattie Curran,Subarachnoid hem-no coma
+71,Internal Auditor,71,31,74,Glass,Ebonee Lawrenson,Unc behav neo male NEC
+72,Accountant I,72,77,2,Rubber,Florella Burnhill,Microscopic hematuria
+73,Editor,73,74,21,Plexiglass,Vitia Glyssanne,Clinic anophthalmos NOS
+74,Assistant Manager,74,31,45,Plastic,Zaneta Camm,Tubal preg w intra preg
+75,Paralegal,75,49,62,Brass,Fee Bursnall,Congenital lip fistula
+76,VP Sales,76,30,45,Stone,Nelson Ivshin,Ob pyemic embol-antepart
+77,Help Desk Technician,77,28,87,Aluminum,Celestia Beecham,Tear lat menisc knee-cur
+78,Financial Analyst,78,96,58,Granite,Rina Hartzenberg,Adv eff antirheumatics
+79,Engineer III,79,45,64,Plexiglass,Meggy Follit,Infection of kidney NOS
+80,VP Accounting,80,30,12,Brass,Tawnya Ebbings,Calcium deposit tendon
+81,Food Chemist,81,18,31,Steel,Chane Archambault,Nasopharynx diphtheria
+82,Help Desk Technician,82,10,55,Plexiglass,Gillan Feary,Senile nuclear cataract
+83,Teacher,83,98,24,Plexiglass,Jasmine Pabelik,Abdmnal pain periumbilic
+84,Product Engineer,84,53,48,Wood,Adelina Piris,Oth off-road mv-mocycl
+85,VP Marketing,85,87,18,Plexiglass,Kacie Walkinshaw,Tympanoscler-all parts
+86,Geologist I,86,97,55,Rubber,Keslie Cudd,Puberty
+87,Editor,87,74,10,Rubber,Lucie Lucy,Acquired hemophilia
+88,Health Coach III,88,50,5,Plastic,Tanny Howles,Hypothermia
+89,Product Engineer,89,81,96,Rubber,Adrian Vequaud,Outcome of delivery NOS
+90,Social Worker,90,65,9,Wood,Annie Boydell,Isolated explosive dis
+91,VP Marketing,91,22,40,Granite,Aile Mavin,"Cong hip sublux, bilat"
+92,Senior Financial Analyst,92,54,10,Granite,Erl Bancroft,Screening for depression
+93,Research Nurse,93,54,47,Glass,Valencia Meaney,War inj:nucl weapon NEC
+94,Statistician IV,94,11,67,Rubber,Lynnett Beglin,Cl skul/oth fx-deep coma
+95,Structural Analysis Engineer,95,27,28,Rubber,Mariann Pallin,Vomit compl preg-deliver
+96,Clinical Specialist,96,4,99,Granite,Zerk Popov,Abdmnal tndr lft up quad
+97,Software Consultant,97,2,62,Wood,Dolf George,2nd deg burn chin
+98,Speech Pathologist,98,40,29,Wood,Drucill Emmens,"Row,canoe,kayk,raft,tube"
+99,Account Representative II,99,10,95,Aluminum,Bunnie McGunley,Complete les cord/c1-c4
+100,Health Coach I,100,68,25,Wood,Jarred Gwin,Adv eff medicinal NEC
+101,Structural Engineer,101,29,4,Plexiglass,Ginevra Montel,TB lung infiltr-micro dx
+102,Senior Financial Analyst,102,87,41,Wood,Diarmid Twydell,Contusion of hand(s)
+103,Web Designer II,103,67,29,Brass,Keeley Creevy,Rubella in preg-unspec
+104,Research Associate,104,25,94,Granite,Kippar Cobon,Hematemesis
+105,Legal Assistant,105,97,80,Brass,Hyatt Zipsell,Hodg lymph-histio axilla
+106,Payment Adjustment Coordinator,106,15,25,Plastic,Salomone Edgeson,Artic cartil dis-ankle
+107,Software Test Engineer I,107,54,27,Plexiglass,Gerik Armatage,Poisoning-coagulants
+108,Web Designer IV,108,51,86,Granite,Vivian Newbatt,Other air leak
+109,Desktop Support Technician,109,9,30,Brass,Haydon Andrews,Toxic effect of tobacco
+110,Paralegal,110,29,3,Plexiglass,Alexia Haws,Jt derangement NEC-ankle
+111,Marketing Manager,111,97,80,Stone,Stephan Pennycord,Cndct dsrdr chldhd onst
+112,Librarian,112,50,87,Stone,Winnifred Hazard,Squamous blepharitis
+113,Help Desk Technician,113,37,68,Aluminum,Brittani Orans,Ob perineal trau NOS-del
+114,Cost Accountant,114,20,57,Vinyl,Meryl Chesswas,Atrophy maxilla-minimal
+115,Senior Developer,115,78,61,Stone,Elle Baldcock,Skin disorder NOS
+116,Occupational Therapist,116,23,12,Wood,Moss McGreal,Oth specfd viral warts
+117,Compensation Analyst,117,50,61,Plexiglass,Bernie Fitkin,Inj popliteal vessel NOS
+118,Clinical Specialist,118,38,92,Wood,Jarret Gozard,Cervical (HPV) DNA pos
+119,Account Executive,119,56,68,Granite,Zollie Poulter,Nontrauma comp syn NEC
+120,Budget/Accounting Analyst IV,120,47,4,Steel,Armin Nelson,Poison-ent preparation
+121,Research Assistant I,121,79,87,Plastic,Artemis Gustus,Ch emblsm veins NEC
+122,Technical Writer,122,12,97,Plexiglass,Nevins Fouracres,Fall from playgrnd equip
+123,Help Desk Operator,123,96,32,Brass,Anthia Drinnan,Traffic acc NOS-pers NEC
+124,Research Assistant IV,124,43,88,Granite,Raimondo Caldero,Simp endo hyper w/o atyp
+125,Actuary,125,32,70,Plexiglass,Buddie Roggers,Mal neo stomach cardia
+126,VP Sales,126,98,13,Rubber,Robbert Lamberth,Hemorr/infarc thyroid
+127,Administrative Assistant III,127,77,45,Plastic,Ingamar Creese,Excess attrition-local
+128,Programmer III,128,25,13,Vinyl,Jeremie Simion,Path fx oth spcf prt fmr
+129,Accountant III,129,74,52,Stone,Hazel Hanse,Part resolv traum catar
+130,Budget/Accounting Analyst IV,130,93,11,Stone,Craig Baignard,Open wound of nose NOS
+131,Human Resources Manager,131,91,96,Brass,Justino Nobles,One eye-severe/oth-total
+132,Geologist II,132,66,69,Plastic,Kira Snashall,K. pneumoniae pneumonia
+133,Research Nurse,133,12,20,Plexiglass,Andris Cino,Juxtapap focal retinitis
+134,VP Accounting,134,100,93,Rubber,Tomas Samet,Boat acc inj NEC-docker
+135,Quality Engineer,135,54,18,Stone,Billie Nijssen,Late eff accidental fall
+136,Structural Engineer,136,51,54,Stone,Douglas Marrett,Malig neopl-transp organ
+137,Quality Control Specialist,137,35,79,Plexiglass,Sabrina Bison,Aircraft acc-parachutist
+138,Editor,138,82,52,Vinyl,Easter Coombs,Mal neo lymph node-mult
+139,Web Designer III,139,28,3,Brass,Francisca Sang,Unc beh neo nerv sys NEC
+140,Chemical Engineer,140,88,11,Steel,Dyan Grindley,Oral aphthae
+141,Clinical Specialist,141,52,76,Plexiglass,Modestine Bontoft,Oval window fistula
+142,Statistician I,142,48,78,Glass,Jock Belward,Stevens-Johnson syndrome
+143,Nuclear Power Engineer,143,70,16,Plastic,Brenn Bloxsum,Ca in situ scalp
+144,VP Product Management,144,36,27,Plastic,Kienan Bennett,Loss labyrn react unilat
+145,Research Nurse,145,76,77,Vinyl,Roxane Espinha,Neoplasm related pain
+146,Senior Editor,146,40,16,Rubber,Rhonda Waterland,RR acc w derail-pers NEC
+147,Clinical Specialist,147,88,80,Plastic,Corrine Lancastle,Benign neo bronchus/lung
+148,Product Engineer,148,67,38,Vinyl,Stephannie Jahan,Open wound of pharynx
+149,VP Sales,149,23,74,Glass,Chloris Abate,Acc pois-lubricating oil
+150,Software Consultant,150,97,19,Brass,Talbert Phlippsen,Length/adjust growth rod
+151,Marketing Manager,151,4,39,Steel,Dolores Thandi,Rheumatic heart dis NOS
+152,VP Quality Control,152,91,37,Steel,Vitia Panichelli,N-traf brd/alit-pers NEC
+153,Geologist I,153,51,95,Glass,Godard Farge,Intestinovesical fistula
+154,Office Assistant I,154,66,43,Steel,Briant Sarath,Coma
+155,Human Resources Manager,155,78,20,Granite,Kiersten Habergham,Chr laryngotracheitis
+156,Food Chemist,156,58,82,Glass,Brigg Kinzel,Felon
+157,Health Coach II,157,6,5,Steel,Inez Craythorne,Matern hypotens-postpart
+158,Payment Adjustment Coordinator,158,64,52,Plastic,Rees Greensite,Circumscri labyrinthitis
+159,Mechanical Systems Engineer,159,54,61,Plexiglass,Fitz Roback,Inj mult nerve shldr/arm
+160,Analyst Programmer,160,74,61,Wood,Talyah Makiver,Botulism food poisoning
+161,Financial Analyst,161,66,75,Glass,Allix Yaknov,Loc osteoarth NOS-up/arm
+162,Geologist III,162,68,50,Aluminum,Jobina Rosendorf,Post-traumatic seroma
+163,Environmental Tech,163,34,27,Glass,Elbert de Pinna,Candidal enteritis
+164,Help Desk Technician,164,86,50,Aluminum,Mathian Mapam,Osteomyelitis NOS-l/leg
+165,Civil Engineer,165,68,26,Rubber,Fairfax Botley,Oth off-road mv-st car
+166,Account Executive,166,86,44,Rubber,Selene Dabnor,Monoc exotrop w x/y pat
+167,Programmer II,167,30,84,Rubber,Merill Swiers,Urethral stricture NOS
+168,Administrative Officer,168,55,72,Steel,Leigha Lathaye,Cutaneous actinomycosis
+169,Budget/Accounting Analyst III,169,75,59,Wood,Sara Lock,Hypertrophy T and A
+170,Internal Auditor,170,43,65,Steel,Tristam Schruurs,Abn react-radiotherapy
+171,Associate Professor,171,50,49,Vinyl,Florella Baudi,Unsat restore tooth NOS
+172,Technical Writer,172,30,5,Brass,Caspar Vasquez,Diff connect tis dis NOS
+173,Software Engineer IV,173,25,62,Steel,Davide Dobell,Syphilis-delivered w p/p
+174,Help Desk Technician,174,80,4,Wood,Elmira Cordeix,Recur dislocat-forearm
+175,Systems Administrator II,175,84,52,Steel,Filide Pine,C1-c4 fx-cl/cen cord syn
+176,Account Executive,176,78,45,Wood,Chrisse Murrhardt,Schizoaffective dis-chr
+177,Web Designer III,177,97,81,Brass,Siusan Stratz,Hemicrania continua
+178,Food Chemist,178,72,22,Plastic,Welsh Pryce,Behcet arthritis-forearm
+179,Help Desk Technician,179,6,61,Granite,Rafaelia Darnell,Toxic effect cadmium
+180,Developer IV,180,88,40,Granite,Frannie Glascott,Intrathoracic inj NOS-cl
+181,Teacher,181,47,80,Steel,Meade Nutman,Hx-ven thrombosis/embols
+182,Senior Quality Engineer,182,28,60,Steel,Pace Sallier,Unpow aircrf acc-per NEC
+183,Account Coordinator,183,13,71,Brass,Ermin Meachan,Sweating fever
+184,Web Designer IV,184,24,78,Plexiglass,Kliment Lorrimer,Pulmonary anthrax
+185,Budget/Accounting Analyst IV,185,67,53,Granite,Jolee Findlow,Poisoning-pyrazole deriv
+186,Tax Accountant,186,8,56,Brass,Gregor Reen,Catatonia-remission
+187,Programmer II,187,70,88,Plexiglass,Todd Sherwyn,Benign neoplasm eye NEC
+188,Civil Engineer,188,30,14,Rubber,Cybill Friday,Venous thrombosis NOS
+189,Web Designer I,189,80,52,Glass,Dino Rassell,Toxoplasma hepatitis
+190,Internal Auditor,190,97,78,Stone,Magdaia Foreman,Exudat cyst pars plana
+191,Administrative Assistant IV,191,70,39,Granite,Adi Reichartz,"Pressure ulcer,stage III"
+192,Marketing Manager,192,3,53,Rubber,Rik McIlwreath,Carbuncle of leg
+193,Staff Accountant I,193,73,18,Wood,Angelle Hassewell,"True post infarct,subseq"
+194,Staff Scientist,194,28,39,Granite,Pen Huyhton,Birth asphyxia NOS
+195,Budget/Accounting Analyst III,195,31,66,Plexiglass,Elbertine Tubbles,Acute nasopharyngitis
+196,Junior Executive,196,88,96,Stone,Willi Dawney,Matern urine dis aff NB
+197,Recruiting Manager,197,78,93,Plexiglass,Allyson Eisikovitsh,Bruch membrane dystrophy
+198,GIS Technical Architect,198,79,74,Brass,Miranda Dipple,Laceration of eye NOS
+199,Health Coach I,199,51,96,Plastic,Tammie MacAlpin,Toxic gastroenteritis
+200,Senior Cost Accountant,200,1,39,Glass,Maddi Docksey,Family health probl NEC
+201,Help Desk Operator,201,19,35,Plexiglass,Valentijn Dragon,Mitral stenosis
+202,Human Resources Assistant III,202,19,71,Plastic,Herculie Wigfall,Chronic kidney dis NOS
+203,Developer III,203,16,55,Vinyl,Molli Daggett,Fx low femur epiphy-clos
+204,Office Assistant I,204,14,85,Wood,Melli Urpeth,Blister shoulder & arm
+205,Recruiting Manager,205,75,85,Steel,Alexina Suerz,Compl deliv NOS-antepar
+206,Tax Accountant,206,73,53,Granite,Dalli Zienkiewicz,Schizophr dis resid NOS
+207,Tax Accountant,207,80,50,Steel,Eloisa Dalley,Inj nerve root/plex NOS
+208,Community Outreach Specialist,208,61,43,Steel,Simona Mountfort,Burn NOS scapula
+209,Recruiter,209,36,78,Granite,Aldrich Cleave,Chondrodystrophy
+210,Legal Assistant,210,17,5,Granite,Harris Groneway,Bartholin's glnd abscess
+211,Graphic Designer,211,92,29,Granite,Aidan Stuther,Birth asphyxia NOS
+212,Staff Scientist,212,68,22,Plastic,Gunther Slad,Cong catar/lens anom NEC
+213,VP Quality Control,213,39,55,Stone,Candy Scarbarrow,Drug persisting dementia
+214,Analog Circuit Design manager,214,43,8,Granite,Kaine Stebles,Undeterm circ-scald
+215,Senior Sales Associate,215,78,22,Vinyl,Arnoldo Holhouse,Ac embl internl jug vein
+216,Staff Accountant II,216,4,84,Plexiglass,Quentin Giacobbo,Rectal & anal stenosis
+217,Registered Nurse,217,58,61,Plastic,Pat Kattenhorn,Drug induced myotonia
+218,Systems Administrator I,218,50,41,Glass,Phoebe Jorn,Pervasv dev dis-cur NOS
+219,Geological Engineer,219,84,21,Plastic,Scottie Malenfant,Acc poison-herbicides
+220,Clinical Specialist,220,41,71,Wood,Suzi Lennox,Hx stress fracture
+221,Speech Pathologist,221,92,33,Glass,Carmel Nickolls,Crimean hemorrhagic fev
+222,Statistician I,222,12,49,Glass,Gennie Mahedy,Eye disorders NEC
+223,Staff Accountant I,223,74,19,Brass,Jacquelin Dunkerley,Hypoglycemia NOS
+224,Administrative Officer,224,86,38,Rubber,Eolanda Butte,Malign neopl arm
+225,Programmer III,225,34,12,Steel,Evangelia Whitington,Explosion-occ unpow boat
+226,Sales Associate,226,8,69,Plastic,Brigg Chatten,Leptospiros icterohem
+227,Help Desk Operator,227,71,2,Brass,Alli Joontjes,Streptococcus group a
+228,Help Desk Technician,228,79,57,Plexiglass,Inesita Kemsley,Late eff cran nerve inj
+229,Environmental Specialist,229,3,100,Wood,Fara Whitloe,Postconcussion syndrome
+230,Health Coach II,230,6,21,Brass,Tracy Heaphy,Cord prolapse-antepartum
+231,Recruiting Manager,231,97,81,Aluminum,Dael Alf,Low birthwt status NOS
+232,Media Manager I,232,92,2,Vinyl,Quinton Pietrzyk,Edema in preg-unspec
+233,Software Test Engineer III,233,58,2,Plastic,Deane Springthorpe,Inflammation eyelid NEC
+234,Structural Engineer,234,16,44,Rubber,Donetta Normington,Fragile x syndrome
+235,Technical Writer,235,6,3,Plastic,Irene Abramovicz,Opn skul vlt fx-brf coma
+236,Administrative Assistant IV,236,43,36,Glass,Addie Hentzeler,Preg w hx-trophoblas dis
+237,Account Representative IV,237,32,92,Plexiglass,Matty Fairbrother,Face/brow pres-antepart
+238,Research Assistant III,238,73,94,Plexiglass,Hanni Beauvais,Basal cell ca skn up lmb
+239,Professor,239,78,62,Vinyl,Bennie McGorman,Pervasv dev dis-cur NEC
+240,Chemical Engineer,240,71,37,Brass,Sebastien Treharne,Thyroid dysfun preg-unsp
+241,VP Quality Control,241,46,51,Granite,Loise Whitmell,TB urinary NEC-cult dx
+242,Civil Engineer,242,52,88,Glass,Dun Annwyl,Osteoarthros NOS-pelvis
+243,Software Test Engineer IV,243,5,73,Wood,Melisandra Rushford,TB sp crd absc-micro dx
+244,GIS Technical Architect,244,17,12,Brass,Elfrieda Hovington,Chr kidney dis stage III
+245,Payment Adjustment Coordinator,245,55,22,Rubber,Tyson Severs,Malunion of fracture
+246,Developer I,246,85,8,Rubber,Franchot Albasiny,Preglaucoma NOS
+247,Senior Quality Engineer,247,88,93,Glass,Wilek Dallinder,Infer disloc humerus-cl
+248,Information Systems Manager,248,57,73,Vinyl,Cecile Yeeles,Acc poison-alcohol NEC
+249,Assistant Manager,249,16,73,Stone,Damara Kildale,Fx fibula shaft-open
+250,General Manager,250,85,66,Steel,Ginnie Glassup,Toxic effect of tobacco
+251,Data Coordinator,251,21,98,Stone,Eduardo Carlone,Syphilitic uveitis NOS
+252,Food Chemist,252,22,96,Stone,Sibilla Raistrick,Musc disuse atrophy NEC
+253,Internal Auditor,253,18,37,Aluminum,Drona Branchet,Chronic dacryocystitis
+254,Database Administrator I,254,60,74,Steel,Jemmie Nel,Late sympt syphilis NOS
+255,Recruiting Manager,255,65,99,Plexiglass,Aryn Colhoun,Smallpox NOS
+256,GIS Technical Architect,256,87,84,Wood,Geoffry Warret,30-39% bdy brn/10-19% 3d
+257,Analog Circuit Design manager,257,71,86,Granite,Junie Cheves,Spinal cord disease NOS
+258,Account Coordinator,258,93,53,Rubber,Allegra Rowlstone,Insuf interocclusl-teeth
+259,Chemical Engineer,259,81,83,Vinyl,Noelle Gerson,Ac post-trauma headache
+260,Account Representative II,260,91,17,Aluminum,Jewelle Cholerton,Orofacial dyskinesia
+261,Quality Control Specialist,261,78,26,Aluminum,Rozelle Ida,Aplastic anemias NEC
+262,Information Systems Manager,262,42,13,Brass,Anya Gon,Fetal dispro NOS-antepar
+263,Help Desk Technician,263,99,50,Brass,Reggis Syfax,Ac sphenoidal sinusitis
+264,Help Desk Technician,264,40,72,Wood,Christyna Matula,Ac pul manif d/t radiat
+265,Web Developer IV,265,83,76,Wood,Sharron Edginton,Bsl cell ca skn site NEC
+266,Geological Engineer,266,80,93,Wood,Inglis Whistan,Middle ear anomaly NEC
+267,Professor,267,85,77,Plexiglass,Giordano Vanyarkin,Hx-urinary malignan NEC
+268,Chief Design Engineer,268,70,76,Granite,Augustine Lilley,Carpal tunnel syndrome
+269,Quality Control Specialist,269,82,65,Plexiglass,Michell Minister,Basal cell ca skin trunk
+270,Pharmacist,270,57,81,Plexiglass,Maxie Blowin,Fx up tibia w fibula-cl
+271,Associate Professor,271,43,47,Vinyl,Svend Cobain,Abn pelv NEC-deliv w p/p
+272,Statistician II,272,31,76,Plexiglass,Denny Blackesland,N-traf brd/alit-ped cycl
+273,Software Engineer III,273,81,100,Granite,Daphne Harder,Cong tot/subtot cataract
+274,Quality Control Specialist,274,97,45,Stone,Barb Davidowsky,Friedreich's ataxia
+275,Account Executive,275,98,98,Plexiglass,Rakel Hirtzmann,Madura foot
+276,Quality Control Specialist,276,100,66,Steel,Horton Gilluley,Burn NOS hand-unspec
+277,Senior Cost Accountant,277,39,85,Stone,Juliann Dilke,Joint dis NOS-up/arm
+278,Budget/Accounting Analyst I,278,34,20,Plexiglass,Karl Goreway,Mild stage glaucoma
+279,Safety Technician IV,279,55,39,Glass,Doretta Queripel,3rd burn w loss-site NOS
+280,Legal Assistant,280,65,81,Rubber,Livy Kasbye,Jt contracture-forearm
+281,Recruiting Manager,281,87,99,Granite,Anthia Grosvenor,"Subendo infarct, initial"
+282,GIS Technical Architect,282,88,8,Glass,Hyacinthie Biddlestone,Vertiginous synd NOS
+283,Social Worker,283,98,9,Brass,Camilla Arch,Abn cervix NEC-delivered
+284,Nuclear Power Engineer,284,13,22,Brass,Egon Muldoon,B12 defic anemia NEC
+285,Payment Adjustment Coordinator,285,71,74,Plexiglass,Gerianna Biagi,Thrombophlebitis-deliver
+286,Senior Cost Accountant,286,13,22,Aluminum,Chery Wolford,General medical exam NOS
+287,VP Product Management,287,87,99,Steel,Fredek Hirschmann,Ab NOS w embolism-comp
+288,Systems Administrator II,288,2,38,Glass,Dorotea Keenleyside,Path fx oth spcf prt fmr
+289,Account Coordinator,289,46,44,Aluminum,Willey Baggett,Perivent leukomalacia
+290,Sales Associate,290,50,53,Granite,Alberto Beresford,Hypochondriasis
+291,GIS Technical Architect,291,55,11,Stone,Ardys Lewnden,Vacuuming
+292,Programmer Analyst IV,292,19,44,Vinyl,Donovan Sancroft,Noninfect vag leukorrhea
+293,Desktop Support Technician,293,26,25,Plastic,Mikaela Incogna,Anphylct react crstacns
+294,Occupational Therapist,294,24,93,Rubber,Nicko Bendelow,90% + bdy brn/40-49% 3rd
+295,Health Coach IV,295,65,10,Rubber,Deva Burdytt,Open wound of face NEC
+296,Executive Secretary,296,37,95,Plastic,Jillayne Cotgrave,Basal cell ca skin trunk
+297,Paralegal,297,32,72,Brass,Fayina Gerrietz,Cong varus foot def NEC
+298,Information Systems Manager,298,89,50,Glass,Marlene Beynke,Lacrimal syst dis NEC
+299,Geological Engineer,299,96,3,Rubber,Ulrika Lamcken,Gc cervicitis (acute)
+300,VP Product Management,300,33,28,Brass,Carr Loutheane,Cl skul base fx-brf coma
+301,Structural Engineer,301,100,93,Wood,Chlo MacGeaney,Squam cell ca skn up lmb
+302,Nurse,302,41,49,Plastic,Chet Rodway,Senile psychot cond NOS
+303,Biostatistician I,303,33,82,Rubber,Helga Eudall,3rd burn w loss-elbow
+304,Physical Therapy Assistant,304,77,53,Brass,Papageno Devote,TB bone/jt NOS-cult dx
+305,Programmer Analyst II,305,46,87,Wood,Fons Hainey,Alcoh dep NEC/NOS-episod
+306,Geological Engineer,306,19,36,Plastic,Shepperd Sollam,Oth spcf chlamydial infc
+307,Dental Hygienist,307,72,91,Wood,Jessalyn Unworth,Water/watercraft
+308,Media Manager II,308,4,67,Wood,Marcelline Heintzsch,Aortic aneurysm NOS
+309,Associate Professor,309,9,66,Steel,Lilia Paolotto,Hodgkins dis NOS mult
+310,Registered Nurse,310,75,66,Aluminum,Ollie Phoenix,Cong cystic liver dis
+311,Design Engineer,311,58,82,Vinyl,Debby Eustes,Depressive psychosis-mod
+312,Assistant Media Planner,312,79,25,Plastic,Brendon Iuorio,Joint replaced knee
+313,Help Desk Operator,313,59,96,Wood,Kalindi Sperring,Fitting artificial arm
+314,Assistant Professor,314,14,30,Plexiglass,Lyon Linham,Benign carcinoid thymus
+315,Account Coordinator,315,89,27,Granite,Kata Blakebrough,Toxic eff sulfur dioxide
+316,Recruiting Manager,316,55,71,Granite,Hayley Doram,Ectpc prg NEC w int preg
+317,Staff Accountant I,317,8,65,Aluminum,Skippy Tritten,Dermatophytosis of nail
+318,Teacher,318,27,99,Plastic,Calhoun Oloman,Toxocariasis
+319,Community Outreach Specialist,319,36,6,Aluminum,Raddy Briars,Prt circmpap choroid dys
+320,Pharmacist,320,60,18,Wood,Sargent Parradine,Dysenter arthrit-hand
+321,Analyst Programmer,321,62,93,Plastic,Ashli Streader,Intermit monoc esotropia
+322,Editor,322,53,55,Stone,Darby Sheridan,Sarcoidosis
+323,Senior Cost Accountant,323,25,76,Brass,Jeffie McGorley,"Condctv hear loss, bilat"
+324,Accountant II,324,93,5,Steel,Austine Solland,Unc behav neo skin
+325,Financial Analyst,325,56,77,Aluminum,Ethelyn Inchcomb,Nonspecif skin erupt NEC
+326,Marketing Manager,326,82,14,Aluminum,Terza Collelton,Acc poisn psychotrop NEC
+327,Chemical Engineer,327,56,62,Glass,Celesta Reynolds,Adv eff antiasthmatics
+328,Accounting Assistant II,328,58,31,Steel,Donnell Usmar,Juv osteochondrosis foot
+329,Food Chemist,329,79,29,Plastic,Kleon Whitby,Foreign body middle ear
+330,Developer II,330,9,90,Rubber,Mignon Glasper,Cor ath bypass graft NOS
+331,Assistant Professor,331,70,43,Granite,Fanni Casel,Oth cells/casts in urine
+332,VP Sales,332,64,48,Wood,Tracy Crosse,Acq deformity NEC
+333,Human Resources Assistant I,333,31,84,Glass,Elsie Hold,Ft/adj xtrcorp dial cath
+334,Legal Assistant,334,10,3,Plexiglass,Salomon Bruni,Bone infect NEC-pelvis
+335,Operator,335,13,68,Granite,Jean Physic,Gastrojejunal ulcer NOS
+336,Web Developer IV,336,29,31,Stone,Salvador Filipczak,Echinococc multiloc NOS
+337,Business Systems Development Analyst,337,45,47,Granite,Phillida Laidlaw,Alcoh induce sleep disor
+338,Staff Scientist,338,57,91,Rubber,Grannie McGinly,Polio osteopathy-hand
+339,Director of Sales,339,86,34,Vinyl,Roselle McGaughey,Cong macular change-eye
+340,Environmental Specialist,340,49,24,Aluminum,Elliot O'Kenny,Singl livebrn-before adm
+341,Internal Auditor,341,80,68,Steel,Jilly McCreery,"Pneumonia, organism NOS"
+342,Assistant Manager,342,94,39,Vinyl,Tirrell Rosbotham,Abn react-blood sampling
+343,Financial Advisor,343,35,13,Plexiglass,Lebbie Oger,Scrn mal neo breast NOS
+344,Chief Design Engineer,344,85,21,Vinyl,Lannie Lundbech,2nd deg burn finger
+345,Help Desk Operator,345,85,10,Aluminum,Skipp Hyndson,Benign neo cervix uteri
+346,Civil Engineer,346,54,18,Vinyl,Aundrea Mumford,Simpl schizophren-remiss
+347,Senior Cost Accountant,347,74,47,Glass,Teodorico Duckham,Extadural hem-concuss
+348,Web Designer II,348,70,85,Rubber,Anatollo Fearnside,Obstructiv hydrocephalus
+349,Occupational Therapist,349,65,38,Plastic,Madelene Falla,Open wound of vagina
+350,Research Associate,350,20,100,Brass,Luelle Charlewood,Fx sacr-op/cauda inj NEC
+351,Dental Hygienist,351,69,68,Rubber,Kirstyn Nare,Demen NOS w/o behv dstrb
+352,Senior Cost Accountant,352,36,15,Steel,Adelle Cattemull,Longitud defic arm NEC
+353,Geological Engineer,353,100,25,Plastic,Pavlov Rysom,Forearm deformity NOS
+354,Web Designer II,354,19,99,Aluminum,Natty Poad,Cntct/exp hazrd metl NEC
+355,Assistant Media Planner,355,66,94,Wood,Pier Villaron,Facial nerve inj-birth
+356,Information Systems Manager,356,44,93,Steel,Maurizia Maidlow,Prog ext ophthalmoplegia
+357,Biostatistician III,357,61,88,Rubber,Chery Bargery,Elevated WBC count NEC
+358,Cost Accountant,358,63,14,Plastic,Moina Morey,Brain inj NEC-concussion
+359,Cost Accountant,359,12,45,Vinyl,Menard Rattray,Protozoal intest dis NEC
+360,Compensation Analyst,360,9,14,Vinyl,Suzanna Elward,Cytomegaloviral disease
+361,Health Coach I,361,35,97,Granite,Cliff Boldock,Second malig neo ovary
+362,Project Manager,362,8,55,Aluminum,Claire Bartalot,Pityriasis rosea
+363,General Manager,363,36,26,Wood,Latrina Order,Myasthenia in oth dis
+364,Software Engineer III,364,7,70,Granite,Bartie Hesse,Oth mono leuk in relapse
+365,Electrical Engineer,365,91,75,Steel,Everett Caen,Oth nspcf finding blood
+366,Account Coordinator,366,11,44,Stone,Lucienne Dunsford,Flccd hmiplga domnt side
+367,Developer I,367,30,40,Wood,Chaddie Tomlett,Emancipation disorder
+368,Help Desk Technician,368,20,19,Steel,Phillipp Scripps,80-89% bdy brn/40-49% 3d
+369,Internal Auditor,369,25,73,Brass,Hart Triswell,Mal neo skn face NEC/NOS
+370,Media Manager IV,370,98,16,Wood,Gil McEniry,Recur unil ing hern-gang
+371,Executive Secretary,371,54,74,Glass,Keene Bluck,Abnormal vulva-postpart
+372,Cost Accountant,372,48,57,Plexiglass,Carolynn Bulbeck,T7-t12 spin cord inj NEC
+373,Editor,373,59,15,Vinyl,Sharron Mayhew,No proc/patient decision
+374,Teacher,374,83,55,Granite,Alina Apfler,Asympt postmeno status
+375,Community Outreach Specialist,375,30,2,Granite,Correy McCrae,Housing/econo circum NEC
+376,Professor,376,18,98,Vinyl,Dorthy Ferrant,Maj puerp infec NEC-p/p
+377,Assistant Manager,377,52,40,Glass,Zabrina Triplow,Disproportion NEC-deliv
+378,Structural Analysis Engineer,378,11,19,Granite,Torrance Younglove,Spotting-unspecified
+379,Operator,379,26,10,Aluminum,Winnie Brumby,70-79% bdy brn/30-39% 3d
+380,Quality Engineer,380,78,99,Glass,Rice Sellens,Acute tonsillitis
+381,Assistant Professor,381,18,5,Rubber,Edyth Aisman,Transverse defic arm
+382,Accountant II,382,72,50,Plexiglass,Pammi Ledgeway,Prim TB complex-exm unkn
+383,Analog Circuit Design manager,383,91,33,Aluminum,Michel Stickells,Thalassemia NEC
+384,Biostatistician IV,384,22,78,Rubber,Spike Ainsley,Oth integument anomalies
+385,Chemical Engineer,385,65,100,Granite,Keenan Ealam,Szry dis unsp xtrndl org
+386,Analog Circuit Design manager,386,56,84,Plexiglass,Marsha Ockwell,Eye disorders NEC
+387,Graphic Designer,387,70,64,Steel,Alfonso Whicher,Poison-muscle agent NEC
+388,Clinical Specialist,388,96,33,Vinyl,Neron Faich,Fetal conjoin twins-unsp
+389,Accountant IV,389,14,27,Granite,Elinore Emmott,Ben crcinoid trans colon
+390,Accounting Assistant I,390,84,28,Stone,Alley Spir,TB urinary NEC-no exam
+391,Civil Engineer,391,47,74,Vinyl,Vittorio Esser,Post traumatic seizures
+392,Senior Cost Accountant,392,5,9,Plastic,Sibby Cosyns,Acq chest deformity
+393,Administrative Assistant IV,393,24,13,Glass,Jocelin Greiser,Brain lac NEC-deep coma
+394,Quality Control Specialist,394,95,93,Plastic,Farley Owbrick,Mult defects of retina
+395,Food Chemist,395,88,76,Wood,Hadlee Goodban,Partial optic atrophy
+396,Librarian,396,83,76,Glass,Uri Rouchy,Assault-hot liquid
+397,Programmer Analyst II,397,50,11,Glass,Teodor Grigoletti,Cystic fibros w pul man
+398,Senior Financial Analyst,398,97,73,Rubber,Olva Millan,1st deg burn trunk NOS
+399,Mechanical Systems Engineer,399,100,20,Stone,Madelina Feavyour,Ac infect extern ear NEC
+400,Occupational Therapist,400,81,45,Wood,Keelia Heindrich,Colosty/enter comp-mech
+401,Financial Analyst,401,82,32,Steel,Hyacinthia Messenger,Cl skl w oth fx-mod coma
+402,Database Administrator I,402,52,56,Vinyl,Falkner Aucoate,Critical illness myopthy
+403,Senior Financial Analyst,403,11,2,Glass,Clemence Evemy,Near-total impair/normal
+404,Accountant II,404,96,86,Vinyl,Hanan Najera,Tk off/land-crew aircrft
+405,Senior Cost Accountant,405,63,19,Aluminum,Gearard Tiuit,Arrest of bone growth
+406,Cost Accountant,406,96,9,Plexiglass,Editha Gamlen,Hypertensive retinopathy
+407,Business Systems Development Analyst,407,3,50,Plexiglass,Wakefield Huffadine,Fx trapezium bone-open
+408,Assistant Professor,408,84,35,Plexiglass,Ellynn Wyche,TB urinary NEC-exam unkn
+409,Software Engineer IV,409,49,91,Rubber,Mia Lorenc,Unsocial unaggress-unsp
+410,Administrative Assistant IV,410,9,96,Stone,Claiborn Donaghy,Cerebel atax in oth dis
+411,Developer III,411,34,80,Plexiglass,Margit Buckleigh,Late eff femoral neck fx
+412,Desktop Support Technician,412,60,89,Rubber,Conrade Matschke,Ob air embolism-unspec
+413,Assistant Professor,413,86,69,Wood,Baxy Bickford,Angina decubitus
+414,Sales Representative,414,52,43,Aluminum,Henry Bostock,Failure in dosage NEC
+415,Nurse,415,35,2,Glass,Colas Yarrow,Prim uterine inert-unsp
+416,Occupational Therapist,416,54,3,Plastic,Patrizius Ziemen,Extravstn vesicant chemo
+417,Analyst Programmer,417,42,10,Wood,Rosabel Imorts,Arthropathy w resp dis
+418,Editor,418,26,53,Granite,Teri Brotherheed,Post disloc humerus-open
+419,Chemical Engineer,419,15,75,Steel,Riordan Yegorkov,Molluscum contagiosum
+420,Social Worker,420,97,17,Stone,Ole Balsom,Lumbosacral neuritis NOS
+421,Environmental Specialist,421,25,80,Steel,Etienne Shovell,Malig carcinoid stomach
+422,Assistant Professor,422,52,46,Aluminum,Daphna Felipe,Diarrhea
+423,Nuclear Power Engineer,423,45,70,Granite,Mathilda Cerie,Exam ears & hearing NEC
+424,Compensation Analyst,424,38,12,Brass,Minnnie Smidmore,Injury-caustic substance
+425,Developer III,425,77,18,Plexiglass,Stewart Delion,Fall-nonmotor scooter
+426,Analog Circuit Design manager,426,53,33,Brass,Corine Leif,TB laryngitis-exam unkn
+427,Automation Specialist II,427,88,70,Plexiglass,Annis Bartolomeotti,Reentrant coll-pers NEC
+428,Research Assistant II,428,29,52,Rubber,Yulma Cumesky,Cellulocutaneous plague
+429,Community Outreach Specialist,429,12,46,Glass,Hasty Hastie,Deficiencies of limbs
+430,Nuclear Power Engineer,430,66,70,Brass,Amalie Redley,TB bronchiect-no exam
+431,Associate Professor,431,98,74,Plexiglass,Jordon Iuorio,Oth dermatitis solar rad
+432,Analog Circuit Design manager,432,44,37,Plastic,Emmi Spraggs,Cl skul w oth fx/hem NEC
+433,Developer IV,433,55,66,Brass,Binny Annear,Abn gland pap smr vagina
+434,Registered Nurse,434,64,5,Glass,Collete Raithmill,Adv eff fibrinolysis agt
+435,Information Systems Manager,435,61,18,Wood,Berte Matessian,Venous compl NOS-antepar
+436,Computer Systems Analyst IV,436,22,49,Vinyl,Tuesday Cesco,Ulcerative blepharitis
+437,Assistant Media Planner,437,62,70,Aluminum,Lutero Glidder,Ca in situ liver/biliary
+438,Administrative Officer,438,28,27,Glass,Marlene Rahlof,Inhibited sex excitement
+439,Compensation Analyst,439,100,17,Stone,Saloma Waltering,Beta thalassemia
+440,Paralegal,440,42,28,Vinyl,Eunice Beedell,Mal second hyperten NEC
+441,VP Quality Control,441,59,88,Rubber,Clyde Vanichev,Cl skl/oth fx/mening hem
+442,Physical Therapy Assistant,442,5,49,Aluminum,Bria Early,Fet/plac prob NOS-unspec
+443,Financial Analyst,443,43,47,Vinyl,Tillie Gilleson,Opn skl/oth fx-prol coma
+444,Data Coordinator,444,70,99,Rubber,Marcello Osinin,Arcuate uterus
+445,Analog Circuit Design manager,445,57,10,Brass,Skye Duligal,Genetic anomaly leukocyt
+446,Nurse Practicioner,446,98,24,Brass,Timotheus Gripton,Mild hyperem grav-deliv
+447,Mechanical Systems Engineer,447,32,34,Stone,Tull Bricksey,Fx distal ulna-closed
+448,Web Developer IV,448,33,78,Brass,Dulci Baselli,NB bilious vomiting
+449,Recruiter,449,84,78,Steel,Xerxes Dominik,Fx upper humerus NEC-opn
+450,Automation Specialist II,450,80,65,Granite,Goldy Gallamore,"Recent detachment, total"
+451,Junior Executive,451,52,13,Vinyl,Jessi Taft,Open wound of cochlea
+452,Assistant Media Planner,452,39,95,Wood,Joni Magenny,Arthropod virus NEC
+453,Senior Developer,453,92,8,Brass,Hebert Cottingham,Triplet pregnancy-deliv
+454,Senior Editor,454,7,92,Granite,Jean Stoffers,Dvrtcli sml int w hmrhg
+455,Environmental Specialist,455,66,75,Rubber,Caralie Stimpson,Bipol I currnt dep remis
+456,Research Associate,456,2,79,Rubber,Ashley Fehner,Opn skul vlt fx-coma NOS
+457,Desktop Support Technician,457,46,42,Plastic,Stephanie Crenage,Excess horizontl overlap
+458,Information Systems Manager,458,39,85,Glass,Chrisy Jiruca,Closed skull vault fx
+459,Structural Analysis Engineer,459,34,90,Brass,Janice Melia,Cl skul base fx-brf coma
+460,Dental Hygienist,460,76,19,Vinyl,Meta Whenham,Fam hx-ischem heart dis
+461,Recruiting Manager,461,41,26,Stone,Kennan Cathery,Mal neo ant epiglottis
+462,Analyst Programmer,462,68,16,Stone,Kim Parnham,Post-traumatic seroma
+463,Software Consultant,463,58,27,Granite,Johnna Zambon,Lymphoid mal NEC abdom
+464,Nurse,464,43,68,Glass,Nikos McRobert,Cl skl/oth fx-proln coma
+465,Graphic Designer,465,98,6,Steel,Silvio Hannent,Late eff CV dis-aphasia
+466,Senior Sales Associate,466,76,66,Aluminum,Norry Glasbey,Mal histiocytosis inguin
+467,Operator,467,35,86,Wood,Ettore Grieswood,Matern hypotens syn-unsp
+468,GIS Technical Architect,468,75,34,Granite,Arlyn Metschke,Arthropathy NOS-up/arm
+469,Human Resources Assistant II,469,6,88,Vinyl,Guillermo Stanyard,Recur bilat inguin hern
+470,Environmental Tech,470,96,88,Glass,Deidre Thackray,Sbac lym leu wo ach rmsn
+471,Quality Engineer,471,82,64,Plexiglass,Daphna Garnson,Opn skul/oth fx-mod coma
+472,Civil Engineer,472,77,4,Vinyl,Rutger Maynell,Fx humerus NOS-open
+473,Desktop Support Technician,473,44,38,Brass,Mala Kerin,Paral polio NEC-type 2
+474,Senior Financial Analyst,474,56,13,Plastic,Elisha Grenkov,Chr serous OM simp/NOS
+475,Structural Analysis Engineer,475,23,15,Rubber,Broddie Aishford,Old myocardial infarct
+476,Geological Engineer,476,20,54,Steel,Candi Runcie,Ben carcinoid bronc/lung
+477,Environmental Specialist,477,78,37,Granite,Jecho Stenet,Burkitt's tumor inguin
+478,Account Executive,478,24,82,Granite,Laura Morrant,Adv eff iron & compounds
+479,Executive Secretary,479,26,84,Stone,Newton Grisenthwaite,Malfunction iud
+480,Marketing Assistant,480,60,70,Glass,Nonna Hansill,Traumatic anuria
+481,Geologist I,481,6,77,Stone,Otis Hollerin,Pituitary disorder NEC
+482,Financial Analyst,482,73,75,Aluminum,Sergei Alaway,Anaplastic lymph axilla
+483,Paralegal,483,87,65,Plexiglass,Nap Beel,Fall-occ comm aircrf NEC
+484,Chemical Engineer,484,53,52,Wood,Staford M'Quharge,Cong absence of vertebra
+485,Data Coordinator,485,67,39,Glass,Tomkin Learmouth,Mv n-traf acc NEC-mocycl
+486,Geologist I,486,1,67,Plexiglass,Kingsly Earnshaw,Pois-cns stimulant NOS
+487,Web Designer III,487,100,71,Plexiglass,Xymenes Bartholomieu,Abnrml coagultion prfile
+488,Account Executive,488,85,66,Vinyl,Tami Crumbleholme,Abn cervix NEC preg-unsp
+489,Community Outreach Specialist,489,7,2,Plexiglass,Karolina Gilloran,Irreg sleep-wake rhy NOS
+490,Senior Financial Analyst,490,65,65,Rubber,Astrid Wordsley,Fx coronoid pro ulna-opn
+491,Recruiting Manager,491,79,52,Brass,Payton Mateja,Cracked nipple-del w p/p
+492,Junior Executive,492,16,81,Stone,Syman Lindemann,Poison-sedat/hypnotic
+493,Media Manager I,493,17,95,Steel,Carmelita Huddle,Bipol I curnt manic-mild
+494,Pharmacist,494,34,39,Plexiglass,Devonne Extence,Hx-circulatory dis NOS
+495,Systems Administrator IV,495,76,81,Plastic,Grayce Easter,Cerv incompet-antepartum
+496,Chief Design Engineer,496,86,26,Brass,Adria Aujean,Inj common femoral arter
+497,Safety Technician IV,497,3,59,Aluminum,Jareb Puffett,Oth curr cond-antepartum
+498,Administrative Assistant II,498,21,80,Steel,Wes Lebang,Person consult for anoth
+499,Media Manager II,499,52,16,Glass,Dene Crowcombe,Inj abdominal vessel NOS
+500,Human Resources Assistant I,500,37,45,Granite,Sorcha Amys,Insulin pump training
+501,Structural Analysis Engineer,501,69,1,Vinyl,George Brislan,1st deg burn lower leg
+502,Biostatistician IV,502,7,87,Aluminum,Pavla Brigstock,TB encephalitis-oth test
+503,Web Developer IV,503,96,53,Granite,Darius Ivashov,Psychosocial circum NOS
+504,Community Outreach Specialist,504,86,75,Steel,Towney Lefeaver,Mantle cell lymph head
+505,Budget/Accounting Analyst I,505,70,64,Steel,Ibby Deane,Identity disorder
+506,Associate Professor,506,61,41,Glass,Rand Philbin,African trypanosoma NOS
+507,Office Assistant I,507,52,49,Rubber,Sigfried Jeynes,Thyrotox NOS w crisis
+508,Occupational Therapist,508,1,2,Rubber,Minny Hiland,"Paranoid state, simple"
+509,Research Assistant II,509,92,87,Stone,Myer Ball,Dvrtclo sml int w/o hmrg
+510,Account Coordinator,510,65,17,Aluminum,Kayla Trulock,TB lung w cavit-oth test
+511,Staff Accountant II,511,34,40,Rubber,Mira Leggatt,NB adrenal hemorrhage
+512,Quality Control Specialist,512,11,12,Plastic,Yuri Sarah,Fx shaft rad w ulna-clos
+513,Web Developer II,513,84,7,Wood,Agnes Moorcroft,Measles complication NOS
+514,Senior Quality Engineer,514,68,16,Vinyl,Gypsy Blasoni,Human herpesvir 6 enceph
+515,Operator,515,83,95,Plastic,Hinze Aldwich,Ankylosis-mult joints
+516,Financial Advisor,516,59,66,Plexiglass,Quill Lucien,Resp TB NEC-exam unkn
+517,Product Engineer,517,81,44,Granite,Pavlov Cicero,Hered sensory neuropathy
+518,Mechanical Systems Engineer,518,99,29,Stone,Alana Yerby,Amyotrophic sclerosis
+519,Automation Specialist II,519,64,66,Plexiglass,Nikos Cathcart,Injury portal vein
+520,Cost Accountant,520,55,9,Plexiglass,Georgie Boone,Derang lat meniscus NOS
+521,Environmental Specialist,521,61,86,Granite,Lilian Pooly,Myopia
+522,Senior Editor,522,4,1,Plastic,Alane Deely,Toxic eff caustic alkali
+523,Professor,523,49,50,Steel,Cally Ivory,Hypermobility of coccyx
+524,Systems Administrator I,524,55,100,Stone,Hunt Eggers,Enophth d/t orbit atrphy
+525,Research Associate,525,73,55,Aluminum,Cale Grix,Hodg lymph deplet pelvic
+526,Structural Engineer,526,51,87,Plexiglass,Anatollo Elsmere,Congen cystic eyeball
+527,Systems Administrator II,527,27,52,Aluminum,Lamond Pavic,Malfunc gu dev/graft NEC
+528,Senior Sales Associate,528,27,99,Vinyl,Melamie Martinet,NB integument cond NOS
+529,Software Engineer IV,529,25,85,Glass,Jess Pratley,Lt-date w/mal 1250-1499g
+530,Analyst Programmer,530,38,83,Brass,Rubia Spall,Hyponasality
+531,Product Engineer,531,65,13,Steel,Petronella Trayes,Spon ab w compl NEC-unsp
+532,Community Outreach Specialist,532,34,61,Stone,Bethanne Simcox,Fx c1 vertebra-open
+533,Product Engineer,533,74,1,Granite,Yancey Borne,Prim TB complex-histo dx
+534,Research Nurse,534,52,56,Rubber,Artemus Brouwer,Polyarthritis NOS-l/leg
+535,Nurse Practicioner,535,14,72,Wood,Willard Neads,Cryst arthrop NEC-l/leg
+536,Programmer III,536,81,33,Granite,Stefania Santoro,Spon abor w pel inf-unsp
+537,Environmental Tech,537,25,74,Stone,Lay Longrigg,Vertbrobaslr artery synd
+538,Tax Accountant,538,38,90,Stone,Jens Redsall,Tracheostomy comp NOS
+539,Assistant Professor,539,98,98,Granite,Ermengarde Beasant,Oth coll stndng obj-driv
+540,Editor,540,76,10,Aluminum,Tiffanie Gettings,Cystostomy status NOS
+541,Accountant IV,541,45,59,Brass,Clemmie Glendinning,Opn skul fx NEC-brf coma
+542,Business Systems Development Analyst,542,12,9,Glass,Marcelle Beadnell,Disorder of ear NOS
+543,Paralegal,543,23,66,Steel,Alonso Esterbrook,TB male gen NEC-cult dx
+544,Tax Accountant,544,84,83,Stone,Lulu Poynor,Ankle enthesopathy NOS
+545,Automation Specialist I,545,60,94,Plexiglass,Georgia Woolveridge,Alcohol abuse-unspec
+546,Legal Assistant,546,60,79,Brass,Philbert Tregaskis,Pulmonary anthrax
+547,Office Assistant IV,547,6,26,Steel,Tabbitha Whiston,Reactive confusion
+548,Project Manager,548,98,11,Plastic,Mariele Jerzak,Child emotnl/psych abuse
+549,Help Desk Operator,549,13,81,Granite,Dillon MacCoughan,Fire not in building
+550,Research Nurse,550,7,30,Vinyl,Greg Ballantyne,Sacral root injury
+551,Social Worker,551,79,38,Stone,Anestassia Van Giffen,Ben crcinoid foregut NOS
+552,Web Designer IV,552,66,73,Plexiglass,Laurie Gainsbury,Pathol dislocat-shlder
+553,Product Engineer,553,98,41,Steel,Elisabet Bener,Rheumatic heart dis NOS
+554,Information Systems Manager,554,58,83,Plastic,Orton Plunket,Rosacea
+555,VP Product Management,555,34,82,Plexiglass,Sherwood Bedome,Cl skl fx NEC/mening hem
+556,Nuclear Power Engineer,556,52,2,Plexiglass,Lindie Biggadyke,"Atheroembolism, kidney"
+557,Administrative Officer,557,61,98,Glass,Sven Schonfeld,Hx of affective disorder
+558,Food Chemist,558,10,38,Glass,Erinn Bines,Cavus deformity of foot
+559,Recruiter,559,53,50,Wood,Sileas Kyme,Opn skul/oth fx-coma NOS
+560,Internal Auditor,560,42,27,Glass,Geoffry Tamblyn,Org or tissue donor NEC
+561,Office Assistant I,561,57,64,Glass,Cyndie Hansberry,Pulmon embol NEC-postpar
+562,Dental Hygienist,562,61,65,Glass,Kalil Alldis,Syphilis-delivered w p/p
+563,Electrical Engineer,563,39,74,Brass,Cammy Pethybridge,Neonatal hemorrhage NEC
+564,Environmental Tech,564,3,46,Aluminum,Calypso Duhig,Ac peptic ulc w perf-obs
+565,Paralegal,565,29,11,Wood,Merrily Bassingham,Contusion shoulder reg
+566,Clinical Specialist,566,7,2,Aluminum,Sunshine Denge,"Postop shock,cardiogenic"
+567,Analyst Programmer,567,25,34,Vinyl,Rudie Domenge,Ac osteomyelitis-l/leg
+568,Senior Financial Analyst,568,42,31,Stone,Mandy McAllaster,Dissection iliac artery
+569,Account Executive,569,23,14,Vinyl,Henka Reuter,Benign neoplasm eyeball
+570,Editor,570,83,8,Vinyl,Barbabas Bilton,Peptic ulcer NOS
+571,Legal Assistant,571,56,2,Granite,Patrizia Toplis,Disrpt trauma wound repr
+572,Business Systems Development Analyst,572,51,54,Granite,Jaquelin O'Sherin,Acc poisn-systemic agent
+573,General Manager,573,100,55,Steel,Janna Charity,Malfunc card dev/grf NEC
+574,GIS Technical Architect,574,28,15,Aluminum,Dana Yitzowitz,Status amput lwr lmb NOS
+575,Actuary,575,94,63,Aluminum,Betsey Fownes,Benign neo nasopharynx
+576,Programmer III,576,79,79,Vinyl,Antons Moxom,TMJ disorders NOS
+577,VP Sales,577,39,1,Granite,Ede Entres,Ankylosis-shoulder
+578,Computer Systems Analyst I,578,85,59,Steel,Skipp Mozzetti,Proliferat nephritis NOS
+579,Food Chemist,579,39,14,Plexiglass,Ericka Imlock,Latent schizo-chr/exacer
+580,Junior Executive,580,79,33,Plexiglass,Stace Tanzer,Arterial embolism NEC
+581,Structural Analysis Engineer,581,28,19,Glass,Mischa Lamminam,Calcer cornea degen NEC
+582,Assistant Media Planner,582,42,63,Rubber,Christan Hannabuss,Shrt lst uni nral hdache
+583,Office Assistant III,583,9,57,Granite,Phylys Pinnocke,Obsc afric cardiomyopath
+584,Senior Cost Accountant,584,61,77,Plastic,Lorraine Coundley,Hx-nose/ear/sinus malig
+585,Nuclear Power Engineer,585,93,43,Rubber,Dylan Figin,Prim prg TB NEC-micro dx
+586,VP Sales,586,3,54,Rubber,Borden Purtell,Traumatic cataract NOS
+587,VP Product Management,587,31,49,Stone,Devland Conaghy,Acoustic trauma
+588,Human Resources Assistant III,588,98,7,Vinyl,Caren Chaffe,Pois-pharmaceut excipien
+589,Engineer IV,589,65,97,Brass,Saba Denekamp,Fit/adj gastric lap band
+590,Mechanical Systems Engineer,590,8,47,Plastic,Georgie McCutheon,3rd brn w loss-hand NOS
+591,Web Designer I,591,47,77,Stone,Katharina Adrianello,Malig carcinoid kidney
+592,Senior Developer,592,91,22,Brass,Johann Swallow,Inj internal carotid art
+593,Chemical Engineer,593,83,37,Granite,Ede Ingall,Perineal lac NOS-postpar
+594,Desktop Support Technician,594,30,94,Wood,Samuel Rubrow,3rd deg burn shoulder
+595,Systems Administrator II,595,72,3,Plastic,Oran Humphris,Foreign body granul-skin
+596,Tax Accountant,596,45,92,Brass,Leona Bastable,Cl skl base fx/menin hem
+597,Librarian,597,61,93,Aluminum,Orrin Grigore,Trnspl status organ NEC
+598,Geologist IV,598,91,42,Stone,Chucho Jefferies,Primary CNS lymph spleen
+599,Geologist III,599,75,40,Plastic,Marietta Strange,Athrsc extrm ntv art oth
+600,Senior Editor,600,40,51,Plexiglass,Yulma Christoffersen,Puerperl sepsis-postpart
+601,Software Test Engineer III,601,21,88,Steel,Laird Shipton,Undet pois-gas/vapor NEC
+602,Speech Pathologist,602,51,1,Granite,Karrah Auton,Lobomycosis
+603,Librarian,603,34,39,Stone,Kurtis Dewen,Run water w/o sub fall
+604,Environmental Specialist,604,10,4,Brass,Latashia Bramhall,Spon abor w pel inf-comp
+605,Administrative Officer,605,21,49,Glass,Cissy Hemphall,Irreg sleep-wake rhy NOS
+606,Marketing Assistant,606,16,13,Plexiglass,Wait Jouandet,Lichen nitidus
+607,Account Representative II,607,99,38,Glass,Michaela Surfleet,3 deg burn w loss-ankle
+608,Database Administrator I,608,30,3,Wood,Celeste Siebart,Screen for helminthiasis
+609,VP Marketing,609,37,29,Stone,Marlie Osbourn,Backache NOS
+610,Computer Systems Analyst II,610,72,84,Glass,Nolan Christoffels,Machinery acc-docker
+611,Sales Representative,611,32,98,Wood,Lyn Ahrens,Benign neoplasm urethra
+612,Senior Developer,612,36,44,Stone,Issi Tofful,Acq neck deformity
+613,Nurse Practicioner,613,6,81,Wood,Pete Borkin,Polio osteopathy-up/arm
+614,Programmer II,614,47,88,Granite,Kylie Clohisey,Inj NOS caused by animal
+615,VP Accounting,615,77,73,Steel,Antons Orhrt,Acc poisn-metabol agnt
+616,Mechanical Systems Engineer,616,39,17,Brass,Willem Lawn,Fracture three ribs-open
+617,Accountant I,617,25,61,Rubber,Frazier Bugdall,Candidiasis site NEC
+618,Quality Control Specialist,618,13,44,Rubber,Arabelle Wyllcock,Periostitis-l/leg
+619,Office Assistant I,619,76,22,Granite,Clarissa Stollenbeck,Recur dislocat-shlder
+620,Staff Accountant II,620,8,79,Granite,Baxie Owbridge,CHF NOS
+621,Programmer Analyst I,621,15,70,Brass,Katharine Kitchingman,Brucellosis NOS
+622,Automation Specialist III,622,11,97,Wood,Dorine Olin,Cong subaortic stenosis
+623,Staff Accountant IV,623,12,20,Aluminum,Bee Hof,Air pressure change NOS
+624,Community Outreach Specialist,624,44,27,Stone,Paolina Trussman,Exam-medicolegal reasons
+625,Recruiting Manager,625,94,44,Plexiglass,Quintilla Tomczykiewicz,Periph T cell lym spleen
+626,Community Outreach Specialist,626,99,77,Plastic,Roxana Couser,Adv eff antinfct NEC/NOS
+627,Structural Engineer,627,17,37,Stone,Grenville Safhill,Hodgkins paragran abdom
+628,Teacher,628,46,8,Stone,Liana Allbon,Acc poisoning-drug NEC
+629,Civil Engineer,629,10,7,Granite,Griff Hoyle,Postphlebtc synd w ulcer
+630,Quality Engineer,630,62,15,Stone,Issy Devaney,Lymphomas NEC abdom
+631,Desktop Support Technician,631,5,52,Stone,Anatola Joseph,Adv eff topic dental drg
+632,Food Chemist,632,44,39,Glass,Kent Trassler,Fx neck of femur NOS-cl
+633,Senior Quality Engineer,633,30,95,Steel,Ichabod Johnikin,Conjunctival hemorrhage
+634,Dental Hygienist,634,69,2,Glass,Aristotle Schankel,Intestinal fistula
+635,Statistician III,635,66,53,Vinyl,Brenna Eckford,Cerebrovasc dis-antepart
+636,Safety Technician II,636,87,70,Glass,Bendite Morkham,Refractive amblyopia
+637,Computer Systems Analyst II,637,24,53,Plexiglass,Suzann Bowman,Toxoplasma myocarditis
+638,Account Executive,638,67,45,Stone,Ortensia Gratland,Open wound buttock-compl
+639,Executive Secretary,639,27,22,Plastic,Cornie Gosalvez,Encysted hydrocele
+640,VP Product Management,640,48,67,Plastic,Tildy Dominka,Local skin infection NEC
+641,Computer Systems Analyst IV,641,19,27,Glass,Yehudi Maundrell,TB of ureter-unspec
+642,VP Accounting,642,53,40,Stone,Joe Ashmore,Hodgkins sarcoma spleen
+643,Civil Engineer,643,80,64,Plexiglass,Meridel Golden of Ireland,Dist oral epithelium NEC
+644,Office Assistant I,644,98,33,Glass,Laurette Scorrer,Recur dislocat-pelvis
+645,Financial Advisor,645,13,43,Vinyl,Colly Dicty,Child abuse/neglect NEC
+646,Environmental Specialist,646,28,87,Granite,Mattie Dowthwaite,Cryst arthrop NOS-shldr
+647,GIS Technical Architect,647,28,3,Plexiglass,Neddy Gilley,Fmly dsrp-fam absnce NEC
+648,Administrative Assistant IV,648,36,34,Stone,Rhianna Pilmoor,Hx-malig skin melanoma
+649,Teacher,649,97,26,Vinyl,Norri Larwood,Iatrogenic carnitine def
+650,Recruiting Manager,650,45,41,Granite,Bron Ferri,Shiga txn-produce E.coli
+651,Software Consultant,651,57,12,Rubber,Thelma Remer,Pseudomemb conjunctivit
+652,Sales Representative,652,95,88,Brass,Jamaal Wattins,Inflam postproc bleb NOS
+653,Director of Sales,653,58,4,Glass,Georgeanne Antram,Coxsackie endocarditis
+654,Budget/Accounting Analyst IV,654,13,68,Plastic,Coralyn Attridge,Opn wnd ant abdomen-comp
+655,Actuary,655,38,48,Plexiglass,Laina Biasio,Obstruction gallbladder
+656,Operator,656,51,30,Plexiglass,Berty Mogenot,Benign neoplasm brain
+657,Civil Engineer,657,99,20,Rubber,Augusto McGilvray,Opn subdur hem-coma NOS
+658,VP Product Management,658,12,64,Stone,Leodora Gaylor,Ac duod ulc hem/perf-obs
+659,GIS Technical Architect,659,21,42,Wood,Lynett Littrick,Spon ab w compl NOS-comp
+660,Nuclear Power Engineer,660,66,23,Stone,Octavia Phillput,Spinal stenosis-oth site
+661,Administrative Officer,661,69,94,Granite,Kippar Stoke,Legal abort w shock-unsp
+662,Developer III,662,60,12,Granite,Gaylene Braunstein,Ectopic hormone secr NEC
+663,Financial Analyst,663,22,39,Steel,Phil Sego,Whooping cough NOS
+664,Senior Financial Analyst,664,83,33,Glass,Adara Alcott,Arterial disease NEC
+665,Executive Secretary,665,26,70,Wood,Renate Lucock,Absence of muscle/tendon
+666,Human Resources Manager,666,76,47,Vinyl,Reagen Stronough,Cns dysfunction syn NB
+667,Recruiter,667,18,73,Glass,Odilia Surpliss,Loc osteoarth NOS-pelvis
+668,Junior Executive,668,68,13,Rubber,Quincey Filimore,Reflux esophagitis
+669,Account Executive,669,66,10,Steel,Dionis Guillet,Hodgkins sarcoma pelvic
+670,Payment Adjustment Coordinator,670,52,59,Granite,Junette Kaasman,Inapp chg hCG early preg
+671,Legal Assistant,671,30,61,Stone,Oby Stivani,Idio periph neurpthy NOS
+672,Account Executive,672,2,92,Granite,Raphaela Mews,Impacted cerumen
+673,VP Sales,673,9,27,Steel,Cleveland Petrosian,Traumatic cataract NOS
+674,Quality Engineer,674,11,11,Stone,Dee dee Quinevan,"Amputation foot, unilat"
+675,Payment Adjustment Coordinator,675,16,79,Vinyl,Elnora Gilbanks,Academic/work inhibition
+676,Research Nurse,676,53,45,Steel,Bone Chavrin,Deep 3rd deg burn ear
+677,Sales Representative,677,53,29,Granite,Maxi Piffe,Fall on/from train-empl
+678,Help Desk Technician,678,38,71,Rubber,Garrick Caddock,Sarcosporidiosis
+679,Web Designer IV,679,86,44,Plexiglass,Marylin Averay,Joint replaced hip
+680,Geological Engineer,680,37,22,Brass,Sherwin Balas,Screening for alcoholism
+681,Civil Engineer,681,50,46,Plexiglass,Windham Willicott,Volunteer activity
+682,Financial Analyst,682,79,61,Rubber,Lion Caitlin,Balance autosom transloc
+683,Registered Nurse,683,42,17,Plastic,Sharia Simoens,Lt eff inj thor/abd vess
+684,Analog Circuit Design manager,684,74,9,Plastic,Mollee Restill,Herpes zoster NOS
+685,Pharmacist,685,93,27,Aluminum,Jackelyn Stopps,Human herpesvir 6 enceph
+686,Programmer II,686,96,10,Brass,Alexandr Renish,Malig neo cervix NEC
+687,Clinical Specialist,687,21,3,Glass,Ali Gioani,"Mountain,rock/wall climb"
+688,Sales Associate,688,40,91,Plastic,Hashim Dollin,Patent ductus arteriosus
+689,Safety Technician I,689,99,99,Vinyl,Hanny Sillars,2nd deg burn trunk NOS
+690,Nurse,690,85,12,Glass,Corrine Battie,Vesical fistula NEC
+691,Pharmacist,691,51,71,Brass,Amil Skerme,Nox sub NOS aff NB/fetus
+692,Executive Secretary,692,60,2,Steel,Kale Boas,Nonorganic circadian rhy
+693,Account Coordinator,693,1,98,Rubber,Micheal Prazor,Ben carcinoid desc colon
+694,Environmental Tech,694,14,78,Brass,Feliza Robjant,Chancroid
+695,Human Resources Manager,695,70,71,Glass,Gillie Tupman,Fx c3 vertebra-closed
+696,GIS Technical Architect,696,57,25,Granite,Clayborn Chesley,Talipes valgus
+697,General Manager,697,3,89,Granite,Odele Uzzell,Villonod synovit-mult jt
+698,Help Desk Operator,698,67,71,Glass,Jayson Pitts,Candidiasis site NOS
+699,Physical Therapy Assistant,699,81,79,Granite,Alonzo Kenneway,Oth mononeur lower limb
+700,Media Manager IV,700,60,91,Granite,Antin Faulks,Late ef CV dis-cognf def
+701,Associate Professor,701,99,56,Granite,Orelee Cantu,Mal histiocytosis thorax
+702,General Manager,702,24,14,Plastic,Cinnamon Joslow,Trematode infection NOS
+703,Engineer I,703,4,73,Aluminum,Rurik Gibbeson,Retina exudates/deposits
+704,Senior Cost Accountant,704,73,2,Brass,Arron Yoxen,Cervical disc degen
+705,Data Coordinator,705,47,85,Aluminum,Tate Hinzer,Dental caries - arrested
+706,Editor,706,59,34,Brass,Alis Boston,Viral arthritis NEC
+707,Registered Nurse,707,22,36,Stone,Aylmar Gleasane,Uterine tumor-postpartum
+708,Associate Professor,708,94,84,Aluminum,Claretta Innman,Fx radius shaft-open
+709,Professor,709,94,57,Plexiglass,Brittaney Vlies,Salpingo-oophoritis NOS
+710,VP Sales,710,40,69,Rubber,Claybourne Naulls,Spon ab w pel damag-unsp
+711,Quality Control Specialist,711,1,72,Vinyl,Goldy Kinmond,Loc prim osteoarthr NEC
+712,Software Engineer IV,712,1,14,Wood,Giffy Burghall,Postphlebtc syn w inflam
+713,Administrative Officer,713,25,90,Brass,Leonie Becerro,Deep 3 deg brn hand NOS
+714,Computer Systems Analyst I,714,6,28,Vinyl,Cathryn Keling,Zygomycosis
+715,Developer III,715,21,94,Brass,Tamra Waleworke,Toxic eff isopropyl alc
+716,Assistant Manager,716,79,48,Rubber,Zandra Megarry,Ascariasis
+717,Geological Engineer,717,43,61,Wood,Murray Vink,Tics of organic origin
+718,Legal Assistant,718,17,67,Glass,Chrisy Clara,Cubitus valgus
+719,Technical Writer,719,73,100,Plastic,Lynelle Font,RR acc NEC-pedestrian
+720,Cost Accountant,720,59,59,Steel,Aeriela Heyns,Fitting artificial arm
+721,Web Designer III,721,67,44,Rubber,Arnaldo Hughlin,Arthritis due to rubella
+722,General Manager,722,74,14,Vinyl,Brocky Pimer,Lymphomas NEC pelvic
+723,Pharmacist,723,61,46,Aluminum,Meriel Akrigg,Fet growth retard wtNOS
+724,Mechanical Systems Engineer,724,76,92,Plastic,Tudor Cowburn,Opn skl vlt fx-proln com
+725,Associate Professor,725,47,78,Plastic,Casey Scolding,Fetal malnutr 500-749g
+726,Paralegal,726,34,61,Brass,Domeniga Zorzi,Paresis of accommodation
+727,Geological Engineer,727,82,45,Wood,Jobina McGeneay,Animal bite NOS
+728,Database Administrator III,728,68,57,Glass,Marchall Emm,Compensatory emphysema
+729,Payment Adjustment Coordinator,729,45,65,Brass,Ulysses Greene,Macrotia
+730,Staff Scientist,730,31,72,Plastic,Valaree Chastanet,Lacrimal mucocele
+731,Web Designer I,731,40,27,Granite,Frederich Faucherand,Hx vaginal dysplasia
+732,Administrative Assistant II,732,93,19,Brass,Arlie Brashier,Premature beats NOS
+733,Chief Design Engineer,733,78,55,Vinyl,Dixie Fautley,Cong heart anomaly NEC
+734,Account Representative II,734,17,100,Stone,Garv Grishelyov,Nonsupp otitis media NOS
+735,Food Chemist,735,27,33,Wood,Correy Annott,Cystostomy status NEC
+736,Budget/Accounting Analyst IV,736,45,30,Aluminum,Garrek Barnett,Disloc finger NOS-open
+737,Software Engineer II,737,17,10,Stone,Chickie Oldacre,Raynaud's syndrome
+738,Librarian,738,81,28,Stone,Wilden Fieldstone,Poisoning-cholera vaccin
+739,Programmer Analyst I,739,49,76,Aluminum,Darda Matchett,Varic vein leg preg-unsp
+740,Community Outreach Specialist,740,83,52,Rubber,Humphrey Cruickshanks,Mv-train coll-pers NOS
+741,Cost Accountant,741,90,87,Brass,Brigg Teasell,Oth coll stn obj-ped cyc
+742,Structural Engineer,742,48,93,Brass,Chickie Borrell,Adv eff diuretics NEC
+743,Senior Cost Accountant,743,88,99,Rubber,Brandea Ketton,Food poisoning NOS
+744,VP Product Management,744,64,80,Steel,Winnie Sofe,Shock w/o trauma NEC
+745,Database Administrator III,745,95,59,Aluminum,Boris Colliss,Venomous snake bite
+746,Recruiting Manager,746,82,59,Brass,Averil Compson,Pois-card rhythm regulat
+747,Project Manager,747,93,36,Stone,Haven Giroldi,Hyperestrogenism
+748,Computer Systems Analyst III,748,20,85,Steel,Terrie Roch,Fetal conjoin twins-del
+749,Engineer II,749,51,40,Wood,Marigold Dykes,Staphylococcus unspcfied
+750,VP Accounting,750,99,88,Rubber,Naoma Cookley,Syph retrobulb neuritis
+751,Product Engineer,751,30,86,Plastic,Tallie Mougeot,Bladder replacement NEC
+752,Software Consultant,752,53,39,Plastic,Alleen Axten,Schizoid personality NOS
+753,VP Product Management,753,32,52,Glass,Marita Watsham,Swallowed blood syndrome
+754,Developer II,754,87,41,Brass,Dukie Borthwick,40-49% bdy brn/30-39% 3d
+755,Editor,755,84,31,Plexiglass,Karry Bettam,Triplet pregnancy-deliv
+756,Information Systems Manager,756,28,28,Glass,Syman Bartram,Contusion abdominal wall
+757,Sales Associate,757,91,28,Aluminum,Victoria Godsafe,"Fx femur, midcervic-clos"
+758,Engineer II,758,63,35,Glass,Ange Swynley,Aspergillosis
+759,General Manager,759,53,9,Glass,Emanuele Steptowe,Pseudopterygium
+760,Structural Engineer,760,4,95,Granite,Svend Joseff,Open brain lacer-concuss
+761,Payment Adjustment Coordinator,761,10,87,Rubber,Kim Kubicki,Srvl mplnt sbdrm cntrcep
+762,Clinical Specialist,762,11,54,Brass,Orrin Fancutt,Pyogen arthritis-forearm
+763,Teacher,763,54,9,Wood,Kaitlyn Dunnett,Late ef-spch/lng def NOS
+764,Marketing Assistant,764,69,49,Steel,Gar Whatling,Monoarthritis NOS-up/arm
+765,Assistant Media Planner,765,60,87,Granite,Hi Brezlaw,Osseo fail dental implnt
+766,Project Manager,766,100,80,Steel,Cari Geroldo,Rubella nerve compl NOS
+767,Internal Auditor,767,72,90,Wood,Virgina Rowney,Presbyopia
+768,Teacher,768,3,68,Plexiglass,Matthaeus Chumley,Mal neo soft tissue arm
+769,Environmental Specialist,769,88,100,Aluminum,Roman Yong,Hodg lymph deplet axilla
+770,Pharmacist,770,24,89,Steel,Adan Celier,Mal neo islet langerhans
+771,Clinical Specialist,771,21,37,Plastic,Kitty Linton,FB granuloma of muscle
+772,Professor,772,69,29,Stone,Adele Saltsberger,Lt eff nerv inj trnk NEC
+773,Programmer I,773,7,36,Plexiglass,Fanchon Barnsdale,Cellulitis of buttock
+774,Help Desk Operator,774,50,25,Plexiglass,Luca Winspeare,Nonparalyt polio-type 1
+775,Assistant Media Planner,775,11,54,Rubber,Miof mela Matyukon,Syndactyl toe w fusion
+776,Occupational Therapist,776,64,56,Aluminum,Kerri Vanni,Retina layer separat NOS
+777,Software Consultant,777,37,73,Plastic,Iver Handrahan,Disloc acromioclavic-opn
+778,Human Resources Assistant II,778,52,96,Vinyl,Shannon Rahl,Oth off-road mv acc-psgr
+779,Associate Professor,779,15,90,Steel,Rodrick Orts,Op skl fx NEC/br inj NEC
+780,Technical Writer,780,45,19,Glass,Ericka Andreasson,Injury axillary artery
+781,Dental Hygienist,781,7,61,Rubber,Bambie Dursley,Retina venous engorgemnt
+782,Operator,782,100,74,Wood,Dewain Lidierth,Oth umbil cord compress
+783,Chief Design Engineer,783,59,26,Vinyl,Victor Tudbald,Hodg nodul sclero mult
+784,Software Test Engineer I,784,76,77,Plastic,Bernard McGarvey,Chronc pain d/t trauma
+785,Structural Analysis Engineer,785,75,28,Granite,Alaric Emmerson,Funct dis intestine NEC
+786,Pharmacist,786,7,16,Aluminum,Barb Josh,Ill-define condition NEC
+787,VP Marketing,787,58,56,Rubber,Kelsey Schubert,Placenta previa-antepart
+788,Senior Quality Engineer,788,43,1,Wood,Woodie Sans,Substance abuse-family
+789,Safety Technician III,789,29,89,Vinyl,Gabriell Warrender,Sciatica
+790,Web Developer IV,790,59,21,Brass,Phillida Smoote,Twins w fetal loss-del
+791,Help Desk Technician,791,44,80,Glass,Keri Rydings,Cent perf tympanic memb
+792,Business Systems Development Analyst,792,25,48,Plexiglass,Dudley Marney,Hydrocele NOS
+793,Civil Engineer,793,42,75,Aluminum,Roda O' Mullan,Thoracoscop conv to open
+794,Design Engineer,794,45,19,Steel,Henrietta Ellul,RR acc NEC-person NEC
+795,Staff Scientist,795,46,8,Aluminum,Jaclin Jory,TB fem gen NEC-oth test
+796,Social Worker,796,98,98,Stone,Aarika Kock,Mushroom workers' lung
+797,Financial Advisor,797,68,45,Brass,Herta Randales,Adv eff vitamins NEC
+798,Automation Specialist III,798,84,44,Aluminum,Darill Casassa,Prsnl hst ot spf dgst ds
+799,Programmer Analyst I,799,96,33,Vinyl,Paloma Lupson,Depr psychos-sev w psych
+800,Marketing Assistant,800,79,61,Brass,Ursala Worton,Fetal malnutr 2000-2499g
+801,VP Sales,801,42,1,Granite,Graig Drains,Hymenolepiasis
+802,Financial Analyst,802,55,74,Brass,Jemimah Harland,Acq absence of oth joint
+803,Senior Financial Analyst,803,7,59,Plexiglass,Mella Pinckstone,Mixed lymphosarc abdom
+804,Help Desk Technician,804,59,35,Aluminum,Anthe Fealey,Lymphangioleiomyomatosis
+805,Internal Auditor,805,51,69,Glass,Penni Vinnick,Myalgia and myositis NOS
+806,Pharmacist,806,69,44,Brass,Elliott Odegaard,Ulceratve colitis unspcf
+807,Compensation Analyst,807,81,68,Plexiglass,Levy Emblow,Ac pul manif d/t radiat
+808,VP Quality Control,808,77,70,Plexiglass,Mollie Powter,Acc poison-cns drug NOS
+809,Junior Executive,809,62,76,Aluminum,Sarene Clearley,Mixed hyperlipidemia
+810,Registered Nurse,810,40,31,Glass,Dion Deniske,Mal neo lip NEC
+811,Clinical Specialist,811,84,57,Rubber,Brade Luna,Unc behav neo resp NEC
+812,Marketing Assistant,812,82,64,Glass,Brina Brose,Hydroureter
+813,Food Chemist,813,27,55,Rubber,Allin Duigenan,Cl skull vlt fx w/o coma
+814,Administrative Assistant III,814,94,50,Granite,Daven Spuner,W/craft fall NOS-skier
+815,Editor,815,1,17,Rubber,Alford McTear,Adv eff ovarian hormones
+816,Junior Executive,816,55,37,Plexiglass,Zorine Grahlman,Dicalc phos cry-site NEC
+817,VP Product Management,817,76,81,Vinyl,Dedie Pillman,Renovasc hypertension
+818,General Manager,818,30,43,Vinyl,Val McTrustie,War inj:aircrft des-enmy
+819,Senior Editor,819,100,29,Stone,Gilly Giannassi,Leg abor w pelv inf-unsp
+820,Associate Professor,820,91,57,Glass,Cynde Aimeric,Opn cortex lacer-no coma
+821,Data Coordinator,821,4,99,Rubber,Tades MacElharge,Thyroiditis NOS
+822,Statistician II,822,52,10,Plexiglass,Johnnie Newgrosh,Local conjunctiva adhes
+823,Automation Specialist I,823,77,38,Aluminum,Emeline Aickin,"BMI 70 and over, adult"
+824,Occupational Therapist,824,53,11,Wood,Caryn Helliar,DMI wo cmp uncntrld
+825,Social Worker,825,92,45,Granite,Tamqrah Gres,Acute chest syndrome
+826,Cost Accountant,826,40,27,Aluminum,Danice Addington,Edema of larynx
+827,Project Manager,827,14,38,Wood,Son Downer,Perinat jaund-hered anem
+828,Senior Cost Accountant,828,32,22,Glass,Vite Stubbeley,Ventral hernia NOS
+829,Community Outreach Specialist,829,16,23,Brass,Dallon Doche,Trans hyperten-postpart
+830,Occupational Therapist,830,52,79,Vinyl,Quintana Flippini,T1-t6 fx-cl/com cord les
+831,Executive Secretary,831,33,89,Stone,Stephana Brixey,Aft oral cav/dig sys NEC
+832,Financial Advisor,832,78,11,Aluminum,Tommie Josskowitz,Suffocation-plastic bag
+833,General Manager,833,25,80,Stone,Marjy Cattini,Cupping of optic disc
+834,Environmental Tech,834,33,53,Plastic,Tabitha Tomkin,Mal neo tip/lat tongue
+835,Food Chemist,835,90,56,Steel,Guglielma Barbary,Glutathione dis anemia
+836,Budget/Accounting Analyst I,836,69,9,Plexiglass,Honor Calkin,Macular cornea dystrophy
+837,Systems Administrator IV,837,54,77,Brass,Ludovico Conaghan,Sleep disturbance NOS
+838,Accounting Assistant I,838,71,90,Glass,Trudey Yeiles,Abn react-shock therapy
+839,Nurse Practicioner,839,22,97,Stone,Rafaello Perott,Cryptogenic organiz pneu
+840,Software Consultant,840,86,89,Wood,Gerardo Tart,Abdmnal mass rt upr quad
+841,Senior Financial Analyst,841,40,56,Granite,Carla Cranefield,Cataract NEC
+842,Developer II,842,1,78,Vinyl,Reggie Shanley,Abn glandular pap smear
+843,Recruiting Manager,843,11,41,Wood,Gertie Mingardo,Furnit w/o sub fall
+844,Quality Engineer,844,64,52,Vinyl,Deidre Garnar,Tooth pulp degeneration
+845,Desktop Support Technician,845,87,97,Plastic,Janette Hands,Mv brd/alight-ped cycl
+846,Database Administrator II,846,75,92,Wood,Joaquin Thurling,Polyp of labia and vulva
+847,Database Administrator I,847,29,7,Steel,Nanny McArthur,Gal&bil cal w/oth w/o ob
+848,Information Systems Manager,848,91,30,Wood,Mitchell Blenkinsop,Uns mono leuk w rmsion
+849,Pharmacist,849,63,13,Stone,Alyss Weeke,"Fx mid/prx phal, hand-op"
+850,Professor,850,37,68,Plastic,Meier Stannion,One eye-tot/oth-near nor
+851,Design Engineer,851,83,5,Stone,Patten Marriott,Chronic pain syndrome
+852,Editor,852,86,77,Plexiglass,Gaspar Geane,Family hx-condition NEC
+853,Human Resources Manager,853,55,21,Steel,Harriet Beebis,"Fx humer, lat condyl-opn"
+854,Physical Therapy Assistant,854,65,85,Rubber,Guillaume Sieghart,Falciparum malaria
+855,Programmer III,855,56,76,Wood,Rhodie Swadon,Infect NOS-delivered
+856,Junior Executive,856,76,84,Rubber,Nehemiah Bordes,Aseptic necrosis femur
+857,VP Sales,857,13,91,Brass,Massimo Saward,Vitamin Deficiency NEC
+858,Web Designer III,858,83,10,Stone,Myron Brixey,Fall-parachutist
+859,Junior Executive,859,65,30,Vinyl,Elvyn Bagniuk,Staphylcocc septicem NOS
+860,Project Manager,860,67,64,Aluminum,Ollie Whiteoak,Stomach injury-open
+861,Food Chemist,861,65,77,Plexiglass,Olivia Stansbury,Adv eff salicylates
+862,Quality Control Specialist,862,29,90,Plexiglass,Roosevelt Trodd,Malign neopl cerebrum
+863,Occupational Therapist,863,98,90,Aluminum,Kristen Ingilson,Open wound of forearm
+864,VP Product Management,864,46,45,Aluminum,Westbrooke Schusterl,Disloc midtarsal-open
+865,Database Administrator IV,865,26,28,Rubber,Winfred O'Corrane,Jt stiffness NEC-pelvis
+866,Budget/Accounting Analyst I,866,71,36,Plastic,Mabel Slinn,Stricture of artery
+867,Computer Systems Analyst II,867,24,80,Plastic,Paulie Fri,Sexual precocity NEC
+868,Senior Editor,868,49,96,Stone,Jehu Fehely,Abnorm vagina-delivered
+869,Occupational Therapist,869,59,18,Rubber,Meara Oakeby,Mal neo spermatic cord
+870,Clinical Specialist,870,87,90,Plastic,Sheila Kinsman,Fet/plac prob NOS-antepa
+871,Nurse,871,41,42,Granite,Blondelle Dablin,Mal neo soft tissue NOS
+872,Graphic Designer,872,55,17,Granite,Beltran Farran,Foreign body esophagus
+873,Web Developer IV,873,34,40,Steel,Anett McAleese,Disorders of eyelid NEC
+874,Senior Cost Accountant,874,49,22,Vinyl,Eadmund Le Guin,Mal neo conjunctiva
+875,Media Manager I,875,80,83,Brass,Sibelle Canada,Inj super mesenteric art
+876,Civil Engineer,876,78,24,Steel,Odey Nunes Nabarro,Circadian rhym sleep NOS
+877,Social Worker,877,29,33,Brass,Gabriellia Kalderon,Abn serum enzy level NEC
+878,Recruiter,878,43,18,Steel,Jonis Mourgue,Spon abort w shock-comp
+879,Recruiting Manager,879,72,19,Rubber,Hetty Fortune,Allerg arthritis-ankle
+880,Account Coordinator,880,51,48,Wood,Daffie Markos,Gastroduodenal dis NEC
+881,Analyst Programmer,881,93,60,Wood,Zola Bates,3rd burn w loss-elbow
+882,Nuclear Power Engineer,882,21,72,Steel,Kit Orpin,Cor ath natv art tp hrt
+883,Recruiting Manager,883,86,97,Plexiglass,Jamey Turvie,Asy bacteriuria-antepart
+884,Research Nurse,884,48,32,Rubber,Leandra Milliken,Aftercare organ transplt
+885,Accountant I,885,71,79,Brass,Herc Isaksson,Plantar wart
+886,Social Worker,886,99,42,Brass,Wolfy Ottam,Twins w fetal loss-ante
+887,Senior Quality Engineer,887,90,83,Rubber,Cris Moreman,Ocular lac w/o prolapse
+888,Administrative Officer,888,17,87,Rubber,Wilhelmina Winkle,Myogenic ptosis
+889,Cost Accountant,889,55,22,Brass,Cornie Willwood,Chr otitis externa NEC
+890,Nuclear Power Engineer,890,9,34,Stone,Honey Waren,Epicranial subapo hemorr
+891,Associate Professor,891,26,82,Plexiglass,Hi Woodyer,"Pressure ulcer,stage III"
+892,Operator,892,74,77,Brass,Nata Martinetto,Unc behav neo GI NEC
+893,Professor,893,48,10,Rubber,Henri Magog,Weaning from respirator
+894,Database Administrator I,894,9,21,Steel,Stan Vayne,Mal neo ant 2/3 tongue
+895,Nurse Practicioner,895,62,7,Aluminum,Margalit Jumont,Reiter arthritis-mult
+896,Cost Accountant,896,70,98,Granite,Gaynor Atkinson,Prolonged labor NOS-unsp
+897,Research Associate,897,86,47,Vinyl,Gabriell Goodread,Mitral valve dis NEC/NOS
+898,Business Systems Development Analyst,898,52,91,Steel,Jocelyne Mallabar,Idiopathic scoliosis
+899,Accounting Assistant I,899,70,58,Plastic,Lianne Hurdis,Jt derangment NEC-shlder
+900,Director of Sales,900,71,47,Aluminum,Hephzibah Holstein,Malig carcinoid duodenum
+901,Statistician III,901,27,1,Vinyl,Vonni Marval,Hematospermia
+902,Technical Writer,902,15,89,Plexiglass,Marabel Shasnan,Traum arthropathy-up/arm
+903,Software Test Engineer IV,903,94,95,Vinyl,Halley Faichney,Arenaviral hem fever
+904,Data Coordinator,904,42,75,Glass,Sallyanne Ioselevich,Mv-train coll-anim rid
+905,Software Consultant,905,17,53,Granite,Sebastien Eckersall,Pois-antineop antibiotic
+906,Environmental Tech,906,73,24,Glass,Tami Demogeot,Protein-cal malnutr NOS
+907,Quality Engineer,907,79,25,Glass,Nevins Klishin,Strabismic amblyopia
+908,Paralegal,908,94,13,Vinyl,Pansie Chevalier,Carbuncle of leg
+909,Staff Accountant II,909,4,75,Rubber,Sebastiano Sheerin,Air press chnge: aircrft
+910,Accountant I,910,62,27,Steel,Talia Bollom,Stenosis ear d/t inflam
+911,Librarian,911,50,15,Brass,Lucio Aldington,Polyart juv rheum arthr
+912,Speech Pathologist,912,15,70,Brass,Lionello Goodee,Ornithosis pneumonia
+913,Paralegal,913,18,24,Plastic,Grant St Ange,Fet grwth ret 1250-1499g
+914,Teacher,914,33,19,Glass,Farly Thairs,Measles complication NOS
+915,Systems Administrator II,915,79,48,Stone,Jared Sekulla,Chr vasc insuff intest
+916,Health Coach II,916,77,74,Brass,Rosana Benedetti,Bone disorder-postpartum
+917,Editor,917,31,72,Plastic,Hamish Creswell,Duodenal obstruction NEC
+918,VP Accounting,918,54,72,Wood,Lyn Killimister,TB of vertebra-no exam
+919,Civil Engineer,919,14,18,Steel,Rosa Calltone,Trauma compart synd NEC
+920,Software Test Engineer III,920,95,47,Rubber,Harmonia Mibourne,Tuberous sclerosis
+921,Graphic Designer,921,7,87,Glass,Seana Peete,Ocular lac w/o prolapse
+922,VP Sales,922,56,42,Vinyl,Marjorie Spours,TB sp crd absc-exam unkn
+923,Marketing Assistant,923,99,69,Wood,Datha Pavie,Benign carcinoid thymus
+924,Senior Quality Engineer,924,30,76,Glass,Averyl MacWhirter,Joint pain-forearm
+925,Computer Systems Analyst II,925,99,70,Granite,Stefano Tait,Mycosis fungoides spleen
+926,Administrative Officer,926,56,10,Wood,Sander Cleghorn,Septate uterus
+927,VP Marketing,927,59,72,Vinyl,Ethelred Walch,"Thalassemia, unspecified"
+928,Web Developer I,928,43,85,Plastic,Moishe Tuckey,Venereal disease NOS
+929,Librarian,929,16,38,Aluminum,Blancha Geerdts,Scrn risk preterm labor
+930,Pharmacist,930,78,16,Granite,Dara Radley,Edema
+931,Executive Secretary,931,99,99,Rubber,Dorine MacGrath,Kaschin-beck dis-l/leg
+932,Assistant Manager,932,31,1,Rubber,Gratiana Yakovitch,Nonsupp otitis media NOS
+933,Chief Design Engineer,933,24,98,Stone,Aloise Ousby,Labyrinthine fistula NOS
+934,Food Chemist,934,66,24,Wood,Patsy Peatt,Poison-insulin/antidiab
+935,Nuclear Power Engineer,935,16,3,Granite,Fidelia Danbi,Obsrv NB suspc resp cond
+936,Internal Auditor,936,82,12,Plastic,Shoshana Greenier,Crushing injury forearm
+937,Mechanical Systems Engineer,937,81,36,Granite,Christye McKeran,Cl skl w oth fx-coma NOS
+938,Food Chemist,938,49,90,Plastic,Ode Frostick,Placent polyp-del w p/p
+939,Chief Design Engineer,939,25,20,Plexiglass,Rahal Gabbot,Umbil cond NEC aff NB
+940,Analog Circuit Design manager,940,3,18,Granite,Rodge Crier,Diabetes insipidus
+941,Product Engineer,941,17,59,Vinyl,Christen Kilmister,Fall from playgrnd equip
+942,Software Consultant,942,45,21,Stone,Silvana Elies,Abn vestibular func stud
+943,Director of Sales,943,86,98,Brass,Andy Mokes,Joint dis NOS-mult jts
+944,Nurse Practicioner,944,10,61,Aluminum,Dorelia Bream,Hx surgery to organs NEC
+945,VP Product Management,945,56,87,Vinyl,Christiano Joysey,Cannabis depend-episodic
+946,Payment Adjustment Coordinator,946,31,96,Stone,Orlando Bosse,Vitreous membranes
+947,Data Coordinator,947,44,14,Stone,Abbe O'Crevan,Impairm auditory discrim
+948,Account Executive,948,25,98,Steel,Jermayne Luparto,Ac rheumatic myocarditis
+949,Recruiting Manager,949,93,86,Plexiglass,Gaylor Picken,Lymphomas NEC inguin
+950,Internal Auditor,950,89,2,Granite,Kenon Gregs,Pulmonary tularemia
+951,Research Assistant IV,951,35,69,Plexiglass,Natividad Gouny,Mal neo pelvic girdle
+952,Senior Quality Engineer,952,63,1,Vinyl,Norina Marmyon,Correct transpos grt ves
+953,Developer III,953,96,13,Rubber,Clerkclaude Brockie,IV bisphosphonates
+954,Assistant Media Planner,954,86,79,Steel,Karleen Torricina,Myel leuk NOS in relapse
+955,Chemical Engineer,955,93,44,Steel,Sully Grundy,Pois-arsenic anti-infec
+956,VP Marketing,956,21,52,Aluminum,Nicola Tampling,Run water w/o sub fall
+957,Help Desk Technician,957,73,18,Granite,Robby Debrett,Cl skull vlt fx/hem NEC
+958,Librarian,958,53,53,Steel,Pincus Morales,Nonorganic sleep dis NEC
+959,Research Nurse,959,20,86,Glass,Evita Farraway,Infect/parasite dis NEC
+960,Project Manager,960,5,56,Plexiglass,Waverly Tromans,Psychogen musculskel dis
+961,Staff Accountant IV,961,58,96,Plexiglass,Cissiee Semmence,Hx of liver malignancy
+962,Biostatistician II,962,20,69,Plexiglass,Aharon Worton,X-ray/gamma ray exposure
+963,Assistant Media Planner,963,15,35,Aluminum,Fanechka Cathenod,Benign neoplasm scrotum
+964,Budget/Accounting Analyst III,964,90,20,Plexiglass,Radcliffe Volkes,Fracture three ribs-open
+965,Senior Sales Associate,965,6,37,Plexiglass,Candi Spavins,Hx antineoplastic chemo
+966,Administrative Assistant II,966,9,93,Aluminum,Doris Heinsen,Ret prod conc-del w p/p
+967,Financial Analyst,967,47,8,Plexiglass,Ramon McGibbon,Fibromatoses NEC
+968,Systems Administrator II,968,73,95,Plexiglass,Gretel Stoggell,Radiation kyphosis
+969,Senior Editor,969,7,22,Wood,Hannie Fernandes,"Cong hip sublux, unilat"
+970,Analyst Programmer,970,2,6,Glass,Luz Preist,Drug dependen-del w p/p
+971,Biostatistician II,971,83,59,Stone,Fifi Kirsche,Hodg nodul sclero pelvic
+972,Environmental Specialist,972,73,87,Brass,Hedi Czaple,NB hemolyt dis-isoim NEC
+973,Information Systems Manager,973,21,54,Plexiglass,Maximo Goodbar,Disc lup erythematos lid
+974,Systems Administrator II,974,75,34,Granite,Lois Aiken,Fit/adj vascular cathetr
+975,VP Marketing,975,74,14,Aluminum,Alfred Scotchmer,Pulmon art coarct/atres
+976,Quality Control Specialist,976,33,19,Glass,Sampson Ryburn,Congen cystic eyeball
+977,Accounting Assistant IV,977,96,81,Wood,Vaclav Jeenes,Trans arthropathy-shlder
+978,Computer Systems Analyst IV,978,12,10,Glass,Chad Pioli,Asthma NOS
+979,Director of Sales,979,77,33,Vinyl,Garner Syfax,Screening for trachoma
+980,Safety Technician III,980,2,87,Vinyl,Kendricks Kemmish,Fetal death-anoxia NOS
+981,Electrical Engineer,981,15,73,Plexiglass,Kristo Maggs,Genu varum
+982,Environmental Tech,982,71,12,Aluminum,Godfrey Kiehnlt,Regular astigmatism
+983,Office Assistant I,983,78,64,Plastic,Ninon Grishelyov,Fx fibula NOS-closed
+984,Health Coach II,984,21,47,Aluminum,Benedicta Ditt,Neurosyphilis NOS
+985,Administrative Officer,985,100,37,Aluminum,Currey Hentzeler,Nervous system anom NEC
+986,Senior Sales Associate,986,18,65,Vinyl,Mitchael Clemenson,Resp failure of newborn
+987,Director of Sales,987,30,65,Stone,Robbin Mariault,Rubeosis iridis
+988,Marketing Manager,988,99,12,Granite,Addi Jedrych,Severe sepsis
+989,Analog Circuit Design manager,989,37,39,Plastic,Karie Madelin,TB of bronchus-histo dx
+990,Speech Pathologist,990,77,62,Plastic,Eolanda Farnell,Aftcre surg nerv sys NEC
+991,Dental Hygienist,991,75,28,Plexiglass,Missie Kildahl,Opn skul vlt fx-brf coma
+992,Senior Cost Accountant,992,94,21,Vinyl,Corinne Giovannacci,Mal neo small bowel NOS
+993,Information Systems Manager,993,46,69,Aluminum,Dwain Lemonnier,Candidal meningitis
+994,Speech Pathologist,994,41,40,Plastic,Collin Cowherd,"AMI NOS, subsequent"
+995,Assistant Manager,995,61,60,Plastic,Roze Aronstein,Radial nerve lesion
+996,Research Associate,996,63,47,Granite,Vevay Pickersail,Mycotic arthritis-ankle
+997,Marketing Assistant,997,70,50,Granite,Lorinda Hurndall,Brain lacer NEC w/o coma
+998,Research Associate,998,92,26,Granite,Susan Rignall,Abuse by fther/stpfth/bf
+999,Staff Accountant IV,999,38,55,Wood,Mead Hindmoor,Hx-health hazard NOS
+1000,Product Engineer,1000,66,41,Rubber,Erick Kalewe,Prob-head/neck/trunk NOS
