@@ -1,0 +1,1001 @@
+leave_id,employee_id,leave_type_id,leave_start_date,leave_end_date,leave_duration,leave_request_status,leave_comment
+1,1,1,1/16/2023,12/3/2022,36,false,Intermit altrn esotropia
+2,2,2,12/24/2022,12/5/2022,83,false,RR acc w explos-pasngr
+3,3,3,5/4/2023,12/3/2022,66,false,Artif open status NOS
+4,4,4,8/2/2023,12/5/2022,34,false,Sensoneur hear loss asym
+5,5,5,8/2/2023,12/2/2022,24,false,Essen hyperten-antepart
+6,6,6,3/5/2023,12/5/2022,70,true,Artif open status NOS
+7,7,7,5/16/2023,12/4/2022,98,false,RR acc w explos-pasngr
+8,8,8,6/18/2023,12/2/2022,80,true,Gastrojejun ulc NOS-obst
+9,9,9,3/10/2023,12/4/2022,22,false,Gastrojejun ulc NOS-obst
+10,10,10,2/23/2023,12/2/2022,30,true,Essen hyperten-antepart
+11,11,11,6/29/2023,12/3/2022,33,false,Aggres periodontitis NOS
+12,12,12,7/17/2023,12/2/2022,55,true,Vomit compl preg-antepar
+13,13,13,2/21/2023,12/4/2022,39,true,Essen hyperten-antepart
+14,14,14,3/19/2023,12/3/2022,34,false,Burkitt's tumor spleen
+15,15,15,8/2/2023,12/3/2022,39,false,Hodgkins dis NOS mult
+16,16,16,5/13/2023,12/3/2022,52,true,Clo
+17,17,17,3/29/2023,12/4/2022,91,false,Comp-unsp device/graft
+18,18,18,6/28/2023,12/2/2022,77,true,Burn NOS genitalia
+19,19,19,3/20/2023,12/3/2022,27,true,Abn uterus NEC-del w p/p
+20,20,20,6/27/2023,12/3/2022,25,false,Gastrojejun ulc NOS-obst
+21,21,21,5/9/2023,12/4/2022,62,false,Vomit compl preg-antepar
+22,22,22,4/23/2023,12/3/2022,63,true,Oth ob compl-delivered
+23,23,23,1/10/2023,12/2/2022,39,true,Gastrojejun ulc NOS-obst
+24,24,24,7/22/2023,12/5/2022,36,true,Clo
+25,25,25,2/1/2023,12/3/2022,80,true,Clo
+26,26,26,2/9/2023,12/3/2022,46,true,Sensoneur hear loss asym
+27,27,27,1/16/2023,12/3/2022,51,false,Myel leuk NOS in relapse
+28,28,28,2/4/2023,12/2/2022,89,false,Clo
+29,29,29,2/20/2023,12/3/2022,59,true,Mv collision NOS-driver
+30,30,30,8/6/2023,12/2/2022,82,true,Abn uterus NEC-del w p/p
+31,31,31,6/9/2023,12/4/2022,96,true,Oth ob compl-delivered
+32,32,32,2/6/2023,12/2/2022,20,true,Mv collision NOS-driver
+33,33,33,6/9/2023,12/3/2022,57,true,Ac leuk uns cl relapse
+34,34,34,7/10/2023,12/2/2022,27,false,Hodgkins dis NOS mult
+35,35,35,4/20/2023,12/5/2022,68,false,Myel leuk NOS in relapse
+36,36,36,6/7/2023,12/3/2022,82,false,Mv collision NOS-driver
+37,37,37,7/5/2023,12/5/2022,97,false,Uterine inert NEC-antepa
+38,38,38,8/18/2023,12/5/2022,70,true,Chronic hepatitis NOS
+39,39,39,4/23/2023,12/5/2022,90,false,Mal neo nasopharynx NEC
+40,40,40,4/11/2023,12/2/2022,58,false,Chronic hepatitis NOS
+41,41,41,6/30/2023,12/5/2022,33,true,Aggres periodontitis NOS
+42,42,42,5/26/2023,12/2/2022,50,false,Female genetic test NEC
+43,43,43,6/18/2023,12/5/2022,33,false,Sensoneur hear loss asym
+44,44,44,7/24/2023,12/4/2022,55,true,Hungry bone syndrome
+45,45,45,3/8/2023,12/5/2022,24,false,Mal neo nasopharynx NEC
+46,46,46,5/1/2023,12/3/2022,57,false,Vomit compl preg-antepar
+47,47,47,5/13/2023,12/2/2022,74,true,Hodgkins dis NOS mult
+48,48,48,5/5/2023,12/4/2022,73,true,Essen hyperten-antepart
+49,49,49,6/10/2023,12/3/2022,56,false,Clo
+50,50,50,2/15/2023,12/5/2022,91,true,Intermit altrn esotropia
+51,51,51,6/23/2023,12/2/2022,62,true,Burkitt's tumor spleen
+52,52,52,7/20/2023,12/3/2022,51,false,Gastrojejun ulc NOS-obst
+53,53,53,7/23/2023,12/4/2022,18,true,Clo
+54,54,54,6/30/2023,12/5/2022,48,false,Abn uterus NEC-del w p/p
+55,55,55,3/11/2023,12/5/2022,30,true,Gastrojejun ulc NOS-obst
+56,56,56,3/21/2023,12/5/2022,58,false,One eye-near tot/oth-NOS
+57,57,57,8/2/2023,12/5/2022,25,false,Female genetic test NEC
+58,58,58,1/18/2023,12/5/2022,23,false,Artif open status NOS
+59,59,59,6/25/2023,12/3/2022,43,true,Female genetic test NEC
+60,60,60,2/26/2023,12/3/2022,68,true,One eye-near tot/oth-NOS
+61,61,61,6/7/2023,12/3/2022,79,true,Myel leuk NOS in relapse
+62,62,62,8/6/2023,12/3/2022,82,true,Uterine inert NEC-antepa
+63,63,63,8/13/2023,12/5/2022,76,true,Myel leuk NOS in relapse
+64,64,64,12/26/2022,12/5/2022,58,false,Mv collision NOS-driver
+65,65,65,4/1/2023,12/3/2022,85,true,Myel leuk NOS in relapse
+66,66,66,8/5/2023,12/5/2022,40,false,Sensoneur hear loss asym
+67,67,67,8/14/2023,12/3/2022,95,false,Intermit altrn esotropia
+68,68,68,4/3/2023,12/4/2022,59,true,Omphalitis of newborn
+69,69,69,7/14/2023,12/4/2022,35,false,Clo
+70,70,70,7/10/2023,12/5/2022,53,true,Burn NOS genitalia
+71,71,71,2/28/2023,12/3/2022,94,false,Mal neo nasopharynx NEC
+72,72,72,5/12/2023,12/2/2022,32,true,Comp-unsp device/graft
+73,73,73,4/21/2023,12/5/2022,84,true,Essen hyperten-antepart
+74,74,74,1/12/2023,12/2/2022,43,false,RR acc w explos-pasngr
+75,75,75,12/22/2022,12/4/2022,60,true,Comp-unsp device/graft
+76,76,76,3/28/2023,12/4/2022,40,true,Mv collision NOS-driver
+77,77,77,4/1/2023,12/3/2022,91,true,Essen hyperten-antepart
+78,78,78,1/28/2023,12/2/2022,20,true,Artif open status NOS
+79,79,79,3/26/2023,12/5/2022,58,true,Aggres periodontitis NOS
+80,80,80,5/21/2023,12/4/2022,58,false,Oth ob compl-delivered
+81,81,81,8/29/2023,12/5/2022,98,false,RR acc w explos-pasngr
+82,82,82,4/6/2023,12/2/2022,61,false,Vomit compl preg-antepar
+83,83,83,2/12/2023,12/2/2022,29,false,Artif open status NOS
+84,84,84,6/29/2023,12/3/2022,31,false,Artif open status NOS
+85,85,85,7/7/2023,12/2/2022,96,true,Female genetic test NEC
+86,86,86,2/2/2023,12/2/2022,90,true,Burn NOS genitalia
+87,87,87,8/5/2023,12/2/2022,30,true,Oth ob compl-delivered
+88,88,88,7/18/2023,12/5/2022,29,false,Sensoneur hear loss asym
+89,89,89,4/6/2023,12/4/2022,77,true,Aggres periodontitis NOS
+90,90,90,5/21/2023,12/3/2022,95,false,Essen hyperten-antepart
+91,91,91,4/18/2023,12/3/2022,24,false,Burkitt's tumor spleen
+92,92,92,3/22/2023,12/5/2022,30,true,Chronic hepatitis NOS
+93,93,93,8/20/2023,12/2/2022,41,false,Myel leuk NOS in relapse
+94,94,94,7/10/2023,12/4/2022,42,false,Gastrojejun ulc NOS-obst
+95,95,95,8/13/2023,12/4/2022,75,false,Hodgkins dis NOS mult
+96,96,96,2/3/2023,12/4/2022,82,false,Female genetic test NEC
+97,97,97,5/7/2023,12/4/2022,73,false,Aggres periodontitis NOS
+98,98,98,8/5/2023,12/5/2022,91,true,Burn NOS genitalia
+99,99,99,1/10/2023,12/3/2022,98,true,Ac leuk uns cl relapse
+100,100,100,8/3/2023,12/5/2022,27,false,Essen hyperten-antepart
+101,101,101,7/1/2023,12/4/2022,42,false,Chronic hepatitis NOS
+102,102,102,3/21/2023,12/4/2022,83,true,Omphalitis of newborn
+103,103,103,6/12/2023,12/4/2022,67,false,Hungry bone syndrome
+104,104,104,7/7/2023,12/2/2022,32,true,One eye-near tot/oth-NOS
+105,105,105,6/24/2023,12/5/2022,68,true,Artif open status NOS
+106,106,106,5/10/2023,12/2/2022,57,true,Intermit altrn esotropia
+107,107,107,6/9/2023,12/5/2022,84,true,RR acc w explos-pasngr
+108,108,108,1/12/2023,12/4/2022,59,true,Abn uterus NEC-del w p/p
+109,109,109,3/31/2023,12/5/2022,69,false,One eye-near tot/oth-NOS
+110,110,110,6/26/2023,12/5/2022,39,true,Vomit compl preg-antepar
+111,111,111,3/18/2023,12/3/2022,73,true,Oth ob compl-delivered
+112,112,112,4/6/2023,12/4/2022,91,false,Intermit altrn esotropia
+113,113,113,8/14/2023,12/5/2022,30,false,Myel leuk NOS in relapse
+114,114,114,6/13/2023,12/4/2022,39,true,Mal neo nasopharynx NEC
+115,115,115,6/4/2023,12/5/2022,21,false,Ac leuk uns cl relapse
+116,116,116,5/14/2023,12/2/2022,36,true,Mal neo nasopharynx NEC
+117,117,117,4/30/2023,12/5/2022,91,true,Burn NOS genitalia
+118,118,118,12/25/2022,12/3/2022,80,false,Mal neo nasopharynx NEC
+119,119,119,6/11/2023,12/3/2022,66,true,Abn uterus NEC-del w p/p
+120,120,120,7/30/2023,12/3/2022,62,true,Hodgkins dis NOS mult
+121,121,121,3/21/2023,12/3/2022,20,true,Oth ob compl-delivered
+122,122,122,4/16/2023,12/2/2022,21,true,Comp-unsp device/graft
+123,123,123,1/3/2023,12/5/2022,26,true,Sensoneur hear loss asym
+124,124,124,3/29/2023,12/3/2022,19,true,Ac leuk uns cl relapse
+125,125,125,5/19/2023,12/4/2022,47,true,Myel leuk NOS in relapse
+126,126,126,5/1/2023,12/5/2022,37,false,Uterine inert NEC-antepa
+127,127,127,6/5/2023,12/5/2022,32,true,Gastrojejun ulc NOS-obst
+128,128,128,2/2/2023,12/3/2022,53,false,Artif open status NOS
+129,129,129,1/17/2023,12/5/2022,66,false,RR acc w explos-pasngr
+130,130,130,6/11/2023,12/3/2022,72,false,Uterine inert NEC-antepa
+131,131,131,7/9/2023,12/5/2022,94,true,One eye-near tot/oth-NOS
+132,132,132,5/2/2023,12/3/2022,95,false,Vomit compl preg-antepar
+133,133,133,6/24/2023,12/4/2022,65,true,Comp-unsp device/graft
+134,134,134,4/22/2023,12/3/2022,89,true,Chronic hepatitis NOS
+135,135,135,7/9/2023,12/4/2022,67,false,Chronic hepatitis NOS
+136,136,136,5/25/2023,12/2/2022,91,false,Intermit altrn esotropia
+137,137,137,6/19/2023,12/3/2022,31,true,Intermit altrn esotropia
+138,138,138,4/18/2023,12/3/2022,31,false,Oth ob compl-delivered
+139,139,139,5/18/2023,12/4/2022,65,true,Clo
+140,140,140,7/21/2023,12/3/2022,45,false,Oth ob compl-delivered
+141,141,141,12/26/2022,12/4/2022,97,false,Female genetic test NEC
+142,142,142,5/24/2023,12/4/2022,63,true,Sensoneur hear loss asym
+143,143,143,5/12/2023,12/5/2022,82,false,Hungry bone syndrome
+144,144,144,8/22/2023,12/2/2022,88,true,Female genetic test NEC
+145,145,145,6/18/2023,12/2/2022,22,true,Oth ob compl-delivered
+146,146,146,8/5/2023,12/5/2022,44,false,Artif open status NOS
+147,147,147,3/30/2023,12/3/2022,43,true,Chronic hepatitis NOS
+148,148,148,8/26/2023,12/4/2022,37,true,Oth ob compl-delivered
+149,149,149,5/17/2023,12/5/2022,98,false,Burkitt's tumor spleen
+150,150,150,4/12/2023,12/5/2022,35,false,Mal neo nasopharynx NEC
+151,151,151,2/5/2023,12/5/2022,77,false,Myel leuk NOS in relapse
+152,152,152,5/17/2023,12/2/2022,73,false,Gastrojejun ulc NOS-obst
+153,153,153,7/30/2023,12/4/2022,58,true,Sensoneur hear loss asym
+154,154,154,7/3/2023,12/2/2022,42,true,Mv collision NOS-driver
+155,155,155,4/8/2023,12/4/2022,71,false,Burkitt's tumor spleen
+156,156,156,2/9/2023,12/2/2022,86,true,Chronic hepatitis NOS
+157,157,157,8/9/2023,12/5/2022,28,false,Essen hyperten-antepart
+158,158,158,6/23/2023,12/2/2022,74,true,Gastrojejun ulc NOS-obst
+159,159,159,5/14/2023,12/4/2022,59,false,Intermit altrn esotropia
+160,160,160,1/17/2023,12/5/2022,18,true,Uterine inert NEC-antepa
+161,161,161,7/31/2023,12/3/2022,86,true,Female genetic test NEC
+162,162,162,6/20/2023,12/4/2022,89,false,Oth ob compl-delivered
+163,163,163,3/25/2023,12/4/2022,86,true,Clo
+164,164,164,5/1/2023,12/3/2022,20,false,Intermit altrn esotropia
+165,165,165,4/19/2023,12/3/2022,56,true,Hodgkins dis NOS mult
+166,166,166,8/19/2023,12/5/2022,27,false,Clo
+167,167,167,12/27/2022,12/2/2022,98,false,Oth ob compl-delivered
+168,168,168,8/10/2023,12/3/2022,94,false,Burkitt's tumor spleen
+169,169,169,7/18/2023,12/5/2022,20,true,Omphalitis of newborn
+170,170,170,7/11/2023,12/3/2022,64,false,Chronic hepatitis NOS
+171,171,171,1/8/2023,12/4/2022,19,false,Comp-unsp device/graft
+172,172,172,7/12/2023,12/3/2022,78,true,One eye-near tot/oth-NOS
+173,173,173,1/19/2023,12/2/2022,95,true,Vomit compl preg-antepar
+174,174,174,6/2/2023,12/5/2022,87,false,Uterine inert NEC-antepa
+175,175,175,8/28/2023,12/3/2022,28,true,Vomit compl preg-antepar
+176,176,176,6/9/2023,12/5/2022,86,true,Mal neo nasopharynx NEC
+177,177,177,6/25/2023,12/3/2022,50,true,Clo
+178,178,178,7/28/2023,12/5/2022,62,false,Hungry bone syndrome
+179,179,179,7/21/2023,12/5/2022,87,true,Ac leuk uns cl relapse
+180,180,180,4/11/2023,12/4/2022,73,false,Mv collision NOS-driver
+181,181,181,3/14/2023,12/4/2022,92,false,Mal neo nasopharynx NEC
+182,182,182,3/12/2023,12/2/2022,96,true,Hungry bone syndrome
+183,183,183,6/2/2023,12/5/2022,43,true,Uterine inert NEC-antepa
+184,184,184,4/28/2023,12/3/2022,62,true,Gastrojejun ulc NOS-obst
+185,185,185,1/22/2023,12/2/2022,42,true,RR acc w explos-pasngr
+186,186,186,3/5/2023,12/4/2022,32,false,One eye-near tot/oth-NOS
+187,187,187,3/2/2023,12/4/2022,95,false,Sensoneur hear loss asym
+188,188,188,8/12/2023,12/2/2022,64,false,Vomit compl preg-antepar
+189,189,189,8/2/2023,12/5/2022,26,false,Ac leuk uns cl relapse
+190,190,190,1/11/2023,12/3/2022,32,false,Omphalitis of newborn
+191,191,191,2/17/2023,12/2/2022,82,true,Essen hyperten-antepart
+192,192,192,4/6/2023,12/3/2022,49,true,Chronic hepatitis NOS
+193,193,193,12/25/2022,12/4/2022,54,true,Ac DVT/emb distl low ext
+194,194,194,3/24/2023,12/4/2022,39,true,Mal neo nasopharynx NEC
+195,195,195,5/1/2023,12/4/2022,47,true,Myel leuk NOS in relapse
+196,196,196,3/18/2023,12/2/2022,93,false,Essen hyperten-antepart
+197,197,197,8/17/2023,12/3/2022,77,false,Essen hyperten-antepart
+198,198,198,2/20/2023,12/2/2022,88,false,Comp-unsp device/graft
+199,199,199,8/30/2023,12/5/2022,42,true,Intermit altrn esotropia
+200,200,200,5/3/2023,12/2/2022,47,false,Burn NOS genitalia
+201,201,201,4/27/2023,12/3/2022,87,true,Aggres periodontitis NOS
+202,202,202,3/8/2023,12/3/2022,38,true,Uterine inert NEC-antepa
+203,203,203,5/21/2023,12/5/2022,27,true,Burkitt's tumor spleen
+204,204,204,2/18/2023,12/3/2022,71,false,Vomit compl preg-antepar
+205,205,205,8/24/2023,12/5/2022,59,false,Aggres periodontitis NOS
+206,206,206,7/14/2023,12/4/2022,46,false,Abn uterus NEC-del w p/p
+207,207,207,4/10/2023,12/2/2022,37,true,Female genetic test NEC
+208,208,208,5/15/2023,12/3/2022,46,true,Omphalitis of newborn
+209,209,209,3/6/2023,12/4/2022,29,false,Sensoneur hear loss asym
+210,210,210,8/15/2023,12/2/2022,82,false,Oth ob compl-delivered
+211,211,211,5/3/2023,12/5/2022,78,false,Gastrojejun ulc NOS-obst
+212,212,212,8/18/2023,12/4/2022,44,false,RR acc w explos-pasngr
+213,213,213,1/9/2023,12/2/2022,81,true,Artif open status NOS
+214,214,214,2/6/2023,12/3/2022,95,false,One eye-near tot/oth-NOS
+215,215,215,7/31/2023,12/3/2022,89,false,Burn NOS genitalia
+216,216,216,3/13/2023,12/3/2022,66,false,Burkitt's tumor spleen
+217,217,217,5/24/2023,12/4/2022,26,false,Burn NOS genitalia
+218,218,218,6/28/2023,12/4/2022,44,true,Aggres periodontitis NOS
+219,219,219,1/19/2023,12/4/2022,91,true,Burkitt's tumor spleen
+220,220,220,1/22/2023,12/5/2022,25,true,Omphalitis of newborn
+221,221,221,5/31/2023,12/4/2022,29,false,One eye-near tot/oth-NOS
+222,222,222,3/6/2023,12/4/2022,59,false,Chronic hepatitis NOS
+223,223,223,1/12/2023,12/3/2022,82,false,Hungry bone syndrome
+224,224,224,7/12/2023,12/3/2022,71,false,Hungry bone syndrome
+225,225,225,4/17/2023,12/5/2022,55,false,Intermit altrn esotropia
+226,226,226,6/8/2023,12/3/2022,52,true,Female genetic test NEC
+227,227,227,3/14/2023,12/2/2022,89,false,Oth ob compl-delivered
+228,228,228,8/31/2023,12/4/2022,60,false,Ac DVT/emb distl low ext
+229,229,229,4/21/2023,12/4/2022,59,false,Female genetic test NEC
+230,230,230,2/17/2023,12/4/2022,48,false,Mal neo nasopharynx NEC
+231,231,231,2/27/2023,12/3/2022,96,true,Burkitt's tumor spleen
+232,232,232,4/2/2023,12/5/2022,76,false,Chronic hepatitis NOS
+233,233,233,6/18/2023,12/4/2022,32,true,Oth ob compl-delivered
+234,234,234,8/7/2023,12/4/2022,34,true,Intermit altrn esotropia
+235,235,235,3/23/2023,12/3/2022,39,true,Gastrojejun ulc NOS-obst
+236,236,236,7/23/2023,12/2/2022,40,false,Aggres periodontitis NOS
+237,237,237,8/20/2023,12/3/2022,24,false,Female genetic test NEC
+238,238,238,1/20/2023,12/5/2022,33,false,Female genetic test NEC
+239,239,239,1/4/2023,12/3/2022,52,true,Hodgkins dis NOS mult
+240,240,240,1/30/2023,12/2/2022,63,false,Essen hyperten-antepart
+241,241,241,3/24/2023,12/2/2022,31,true,Female genetic test NEC
+242,242,242,1/31/2023,12/5/2022,85,false,Omphalitis of newborn
+243,243,243,5/2/2023,12/3/2022,55,true,Myel leuk NOS in relapse
+244,244,244,6/14/2023,12/3/2022,76,true,Ac leuk uns cl relapse
+245,245,245,12/24/2022,12/2/2022,72,true,Vomit compl preg-antepar
+246,246,246,1/26/2023,12/4/2022,36,false,Burkitt's tumor spleen
+247,247,247,3/27/2023,12/3/2022,89,true,Artif open status NOS
+248,248,248,4/15/2023,12/5/2022,54,true,Abn uterus NEC-del w p/p
+249,249,249,5/5/2023,12/2/2022,37,false,RR acc w explos-pasngr
+250,250,250,5/23/2023,12/2/2022,89,false,Abn uterus NEC-del w p/p
+251,251,251,1/21/2023,12/3/2022,96,true,One eye-near tot/oth-NOS
+252,252,252,4/3/2023,12/3/2022,75,false,Comp-unsp device/graft
+253,253,253,5/5/2023,12/2/2022,91,true,Myel leuk NOS in relapse
+254,254,254,4/5/2023,12/5/2022,80,true,Myel leuk NOS in relapse
+255,255,255,1/13/2023,12/5/2022,54,false,Essen hyperten-antepart
+256,256,256,5/24/2023,12/2/2022,21,true,Intermit altrn esotropia
+257,257,257,8/30/2023,12/3/2022,24,false,Hodgkins dis NOS mult
+258,258,258,4/30/2023,12/3/2022,58,false,One eye-near tot/oth-NOS
+259,259,259,7/18/2023,12/4/2022,79,true,Female genetic test NEC
+260,260,260,4/22/2023,12/2/2022,27,false,Hodgkins dis NOS mult
+261,261,261,3/12/2023,12/3/2022,76,true,Oth ob compl-delivered
+262,262,262,3/6/2023,12/4/2022,67,true,Abn uterus NEC-del w p/p
+263,263,263,5/16/2023,12/2/2022,77,true,Intermit altrn esotropia
+264,264,264,3/9/2023,12/2/2022,86,false,Vomit compl preg-antepar
+265,265,265,2/15/2023,12/2/2022,91,true,Female genetic test NEC
+266,266,266,8/18/2023,12/2/2022,59,false,One eye-near tot/oth-NOS
+267,267,267,7/16/2023,12/4/2022,56,false,Abn uterus NEC-del w p/p
+268,268,268,5/24/2023,12/4/2022,27,true,Mv collision NOS-driver
+269,269,269,4/19/2023,12/3/2022,54,true,Burn NOS genitalia
+270,270,270,1/22/2023,12/3/2022,23,false,Clo
+271,271,271,4/25/2023,12/2/2022,29,false,Chronic hepatitis NOS
+272,272,272,2/9/2023,12/5/2022,44,true,Hungry bone syndrome
+273,273,273,1/16/2023,12/5/2022,91,true,Chronic hepatitis NOS
+274,274,274,7/22/2023,12/4/2022,79,false,Hodgkins dis NOS mult
+275,275,275,3/26/2023,12/2/2022,29,true,Gastrojejun ulc NOS-obst
+276,276,276,4/8/2023,12/3/2022,58,false,Ac leuk uns cl relapse
+277,277,277,12/23/2022,12/3/2022,33,false,Artif open status NOS
+278,278,278,5/31/2023,12/2/2022,57,true,Mal neo nasopharynx NEC
+279,279,279,1/16/2023,12/5/2022,21,false,Ac DVT/emb distl low ext
+280,280,280,3/30/2023,12/3/2022,32,false,RR acc w explos-pasngr
+281,281,281,1/12/2023,12/5/2022,60,true,Chronic hepatitis NOS
+282,282,282,6/26/2023,12/3/2022,29,false,Myel leuk NOS in relapse
+283,283,283,8/3/2023,12/5/2022,24,false,Burn NOS genitalia
+284,284,284,1/3/2023,12/5/2022,19,true,Myel leuk NOS in relapse
+285,285,285,8/14/2023,12/4/2022,25,true,Essen hyperten-antepart
+286,286,286,1/20/2023,12/3/2022,35,true,Female genetic test NEC
+287,287,287,3/17/2023,12/3/2022,52,false,Omphalitis of newborn
+288,288,288,7/29/2023,12/3/2022,35,false,Artif open status NOS
+289,289,289,1/4/2023,12/5/2022,63,true,Sensoneur hear loss asym
+290,290,290,1/18/2023,12/5/2022,18,false,Aggres periodontitis NOS
+291,291,291,2/12/2023,12/3/2022,50,true,Essen hyperten-antepart
+292,292,292,4/2/2023,12/4/2022,42,false,Hodgkins dis NOS mult
+293,293,293,4/12/2023,12/3/2022,27,true,Burn NOS genitalia
+294,294,294,4/3/2023,12/5/2022,79,true,RR acc w explos-pasngr
+295,295,295,7/7/2023,12/4/2022,55,false,Omphalitis of newborn
+296,296,296,4/8/2023,12/5/2022,67,true,Myel leuk NOS in relapse
+297,297,297,7/5/2023,12/2/2022,33,false,Burn NOS genitalia
+298,298,298,8/18/2023,12/4/2022,32,true,Intermit altrn esotropia
+299,299,299,6/25/2023,12/4/2022,78,true,Intermit altrn esotropia
+300,300,300,2/10/2023,12/4/2022,61,false,Oth ob compl-delivered
+301,301,301,5/22/2023,12/4/2022,70,false,Chronic hepatitis NOS
+302,302,302,8/26/2023,12/2/2022,49,true,Mv collision NOS-driver
+303,303,303,1/2/2023,12/3/2022,70,false,Aggres periodontitis NOS
+304,304,304,8/14/2023,12/5/2022,94,false,Essen hyperten-antepart
+305,305,305,3/13/2023,12/2/2022,21,false,Uterine inert NEC-antepa
+306,306,306,1/12/2023,12/5/2022,87,true,Ac leuk uns cl relapse
+307,307,307,4/8/2023,12/4/2022,20,false,Ac DVT/emb distl low ext
+308,308,308,2/17/2023,12/2/2022,32,false,Mv collision NOS-driver
+309,309,309,5/17/2023,12/5/2022,95,true,Oth ob compl-delivered
+310,310,310,7/31/2023,12/3/2022,23,true,Comp-unsp device/graft
+311,311,311,5/25/2023,12/5/2022,50,false,Hungry bone syndrome
+312,312,312,1/24/2023,12/2/2022,54,true,Intermit altrn esotropia
+313,313,313,3/8/2023,12/4/2022,49,false,Hodgkins dis NOS mult
+314,314,314,4/28/2023,12/2/2022,84,true,Gastrojejun ulc NOS-obst
+315,315,315,3/8/2023,12/4/2022,71,false,Ac DVT/emb distl low ext
+316,316,316,6/28/2023,12/2/2022,47,false,Ac leuk uns cl relapse
+317,317,317,6/13/2023,12/2/2022,38,false,Intermit altrn esotropia
+318,318,318,3/14/2023,12/5/2022,34,false,Ac leuk uns cl relapse
+319,319,319,2/11/2023,12/5/2022,81,false,Gastrojejun ulc NOS-obst
+320,320,320,6/11/2023,12/3/2022,46,true,Omphalitis of newborn
+321,321,321,4/7/2023,12/3/2022,38,true,Mal neo nasopharynx NEC
+322,322,322,4/16/2023,12/2/2022,37,false,Intermit altrn esotropia
+323,323,323,3/31/2023,12/3/2022,21,true,Burkitt's tumor spleen
+324,324,324,6/9/2023,12/3/2022,97,true,Ac leuk uns cl relapse
+325,325,325,6/23/2023,12/3/2022,34,true,Hungry bone syndrome
+326,326,326,5/18/2023,12/2/2022,65,false,Sensoneur hear loss asym
+327,327,327,2/24/2023,12/4/2022,92,false,Intermit altrn esotropia
+328,328,328,7/20/2023,12/5/2022,82,true,Uterine inert NEC-antepa
+329,329,329,5/5/2023,12/2/2022,20,false,One eye-near tot/oth-NOS
+330,330,330,6/11/2023,12/2/2022,42,true,Female genetic test NEC
+331,331,331,8/3/2023,12/3/2022,48,true,Burn NOS genitalia
+332,332,332,7/1/2023,12/2/2022,57,false,Mv collision NOS-driver
+333,333,333,5/7/2023,12/3/2022,89,false,Clo
+334,334,334,8/4/2023,12/5/2022,28,true,Gastrojejun ulc NOS-obst
+335,335,335,8/5/2023,12/2/2022,18,true,Mv collision NOS-driver
+336,336,336,4/6/2023,12/3/2022,30,true,Ac DVT/emb distl low ext
+337,337,337,4/11/2023,12/4/2022,85,false,Omphalitis of newborn
+338,338,338,1/14/2023,12/3/2022,22,false,Hungry bone syndrome
+339,339,339,6/1/2023,12/4/2022,43,true,Ac leuk uns cl relapse
+340,340,340,6/28/2023,12/3/2022,89,true,Hodgkins dis NOS mult
+341,341,341,5/16/2023,12/4/2022,69,true,Burkitt's tumor spleen
+342,342,342,8/31/2023,12/4/2022,82,true,Intermit altrn esotropia
+343,343,343,5/28/2023,12/3/2022,66,false,Hodgkins dis NOS mult
+344,344,344,4/29/2023,12/4/2022,34,true,Burkitt's tumor spleen
+345,345,345,7/5/2023,12/3/2022,30,true,Ac DVT/emb distl low ext
+346,346,346,1/24/2023,12/3/2022,29,true,Ac DVT/emb distl low ext
+347,347,347,8/11/2023,12/3/2022,19,false,Oth ob compl-delivered
+348,348,348,4/13/2023,12/2/2022,76,false,Hodgkins dis NOS mult
+349,349,349,8/18/2023,12/3/2022,28,true,Sensoneur hear loss asym
+350,350,350,7/8/2023,12/3/2022,75,false,Abn uterus NEC-del w p/p
+351,351,351,3/23/2023,12/4/2022,76,true,One eye-near tot/oth-NOS
+352,352,352,7/20/2023,12/5/2022,28,false,Abn uterus NEC-del w p/p
+353,353,353,3/30/2023,12/3/2022,75,false,One eye-near tot/oth-NOS
+354,354,354,8/14/2023,12/4/2022,79,true,Gastrojejun ulc NOS-obst
+355,355,355,2/10/2023,12/4/2022,73,true,Oth ob compl-delivered
+356,356,356,2/8/2023,12/4/2022,53,false,Burn NOS genitalia
+357,357,357,2/5/2023,12/4/2022,32,false,Oth ob compl-delivered
+358,358,358,3/3/2023,12/4/2022,56,true,Uterine inert NEC-antepa
+359,359,359,7/25/2023,12/3/2022,48,true,Essen hyperten-antepart
+360,360,360,12/31/2022,12/4/2022,80,true,Oth ob compl-delivered
+361,361,361,7/4/2023,12/4/2022,34,false,Female genetic test NEC
+362,362,362,6/23/2023,12/3/2022,79,true,Hodgkins dis NOS mult
+363,363,363,2/26/2023,12/5/2022,55,false,Oth ob compl-delivered
+364,364,364,7/6/2023,12/4/2022,95,false,Comp-unsp device/graft
+365,365,365,6/17/2023,12/2/2022,88,false,Comp-unsp device/graft
+366,366,366,8/5/2023,12/2/2022,27,true,Comp-unsp device/graft
+367,367,367,7/10/2023,12/5/2022,46,false,Ac DVT/emb distl low ext
+368,368,368,5/6/2023,12/3/2022,68,true,Gastrojejun ulc NOS-obst
+369,369,369,3/26/2023,12/5/2022,36,false,Artif open status NOS
+370,370,370,8/22/2023,12/2/2022,27,false,Intermit altrn esotropia
+371,371,371,8/23/2023,12/4/2022,31,false,Intermit altrn esotropia
+372,372,372,8/16/2023,12/3/2022,30,false,Uterine inert NEC-antepa
+373,373,373,3/4/2023,12/4/2022,81,true,One eye-near tot/oth-NOS
+374,374,374,5/3/2023,12/3/2022,22,true,Female genetic test NEC
+375,375,375,6/11/2023,12/3/2022,59,true,Hungry bone syndrome
+376,376,376,5/23/2023,12/2/2022,75,true,Omphalitis of newborn
+377,377,377,5/9/2023,12/3/2022,98,false,RR acc w explos-pasngr
+378,378,378,3/14/2023,12/3/2022,63,true,Ac DVT/emb distl low ext
+379,379,379,5/22/2023,12/5/2022,90,false,Sensoneur hear loss asym
+380,380,380,4/17/2023,12/4/2022,56,true,Hodgkins dis NOS mult
+381,381,381,6/18/2023,12/5/2022,41,false,Myel leuk NOS in relapse
+382,382,382,12/23/2022,12/5/2022,52,true,Vomit compl preg-antepar
+383,383,383,3/12/2023,12/2/2022,43,false,Intermit altrn esotropia
+384,384,384,3/5/2023,12/2/2022,42,true,Intermit altrn esotropia
+385,385,385,8/16/2023,12/2/2022,27,false,Ac DVT/emb distl low ext
+386,386,386,1/6/2023,12/4/2022,53,true,Essen hyperten-antepart
+387,387,387,6/9/2023,12/5/2022,94,false,Ac leuk uns cl relapse
+388,388,388,1/20/2023,12/2/2022,30,true,Vomit compl preg-antepar
+389,389,389,1/11/2023,12/3/2022,74,true,Sensoneur hear loss asym
+390,390,390,3/12/2023,12/4/2022,27,false,Uterine inert NEC-antepa
+391,391,391,1/14/2023,12/4/2022,34,true,Comp-unsp device/graft
+392,392,392,8/17/2023,12/5/2022,85,false,RR acc w explos-pasngr
+393,393,393,1/6/2023,12/2/2022,86,true,Hodgkins dis NOS mult
+394,394,394,7/22/2023,12/5/2022,58,false,Uterine inert NEC-antepa
+395,395,395,4/3/2023,12/5/2022,19,true,RR acc w explos-pasngr
+396,396,396,1/3/2023,12/4/2022,57,true,Aggres periodontitis NOS
+397,397,397,5/15/2023,12/2/2022,39,false,Burn NOS genitalia
+398,398,398,12/24/2022,12/4/2022,28,false,Abn uterus NEC-del w p/p
+399,399,399,6/21/2023,12/4/2022,55,false,Comp-unsp device/graft
+400,400,400,3/11/2023,12/3/2022,20,false,Ac DVT/emb distl low ext
+401,401,401,7/5/2023,12/2/2022,27,true,Abn uterus NEC-del w p/p
+402,402,402,2/27/2023,12/4/2022,92,true,Hungry bone syndrome
+403,403,403,4/28/2023,12/2/2022,52,false,Mal neo nasopharynx NEC
+404,404,404,3/4/2023,12/2/2022,86,false,Hodgkins dis NOS mult
+405,405,405,5/26/2023,12/2/2022,87,true,One eye-near tot/oth-NOS
+406,406,406,4/13/2023,12/2/2022,53,false,Essen hyperten-antepart
+407,407,407,3/12/2023,12/4/2022,66,false,Omphalitis of newborn
+408,408,408,5/18/2023,12/3/2022,46,false,Essen hyperten-antepart
+409,409,409,1/2/2023,12/4/2022,97,false,RR acc w explos-pasngr
+410,410,410,3/26/2023,12/2/2022,73,true,Comp-unsp device/graft
+411,411,411,1/27/2023,12/4/2022,97,true,Chronic hepatitis NOS
+412,412,412,1/13/2023,12/3/2022,66,true,Hungry bone syndrome
+413,413,413,2/14/2023,12/2/2022,52,false,One eye-near tot/oth-NOS
+414,414,414,8/27/2023,12/3/2022,77,false,RR acc w explos-pasngr
+415,415,415,4/9/2023,12/5/2022,88,true,Uterine inert NEC-antepa
+416,416,416,8/26/2023,12/5/2022,74,true,Aggres periodontitis NOS
+417,417,417,3/12/2023,12/4/2022,35,false,Artif open status NOS
+418,418,418,5/26/2023,12/5/2022,90,true,Clo
+419,419,419,3/16/2023,12/4/2022,96,false,Artif open status NOS
+420,420,420,1/12/2023,12/3/2022,80,true,Omphalitis of newborn
+421,421,421,1/29/2023,12/3/2022,61,false,RR acc w explos-pasngr
+422,422,422,3/26/2023,12/3/2022,45,true,Omphalitis of newborn
+423,423,423,7/7/2023,12/3/2022,50,true,One eye-near tot/oth-NOS
+424,424,424,3/24/2023,12/5/2022,49,false,One eye-near tot/oth-NOS
+425,425,425,5/25/2023,12/2/2022,66,true,Oth ob compl-delivered
+426,426,426,1/23/2023,12/3/2022,96,false,Myel leuk NOS in relapse
+427,427,427,1/14/2023,12/3/2022,20,true,Female genetic test NEC
+428,428,428,7/29/2023,12/5/2022,52,false,Aggres periodontitis NOS
+429,429,429,8/20/2023,12/2/2022,58,false,Oth ob compl-delivered
+430,430,430,8/31/2023,12/4/2022,21,true,Ac DVT/emb distl low ext
+431,431,431,2/7/2023,12/3/2022,80,true,Abn uterus NEC-del w p/p
+432,432,432,8/19/2023,12/4/2022,29,true,Ac DVT/emb distl low ext
+433,433,433,6/29/2023,12/5/2022,22,true,Myel leuk NOS in relapse
+434,434,434,8/9/2023,12/4/2022,26,false,Uterine inert NEC-antepa
+435,435,435,4/6/2023,12/4/2022,38,true,Hungry bone syndrome
+436,436,436,4/9/2023,12/3/2022,89,true,Hodgkins dis NOS mult
+437,437,437,3/14/2023,12/4/2022,32,true,Chronic hepatitis NOS
+438,438,438,5/26/2023,12/5/2022,39,true,Artif open status NOS
+439,439,439,2/19/2023,12/2/2022,42,true,Intermit altrn esotropia
+440,440,440,1/25/2023,12/4/2022,95,false,Uterine inert NEC-antepa
+441,441,441,3/23/2023,12/4/2022,39,true,Uterine inert NEC-antepa
+442,442,442,8/29/2023,12/3/2022,91,false,Artif open status NOS
+443,443,443,5/11/2023,12/4/2022,97,false,Artif open status NOS
+444,444,444,6/15/2023,12/5/2022,47,true,Myel leuk NOS in relapse
+445,445,445,3/29/2023,12/2/2022,37,true,Hungry bone syndrome
+446,446,446,8/25/2023,12/2/2022,55,true,One eye-near tot/oth-NOS
+447,447,447,6/26/2023,12/5/2022,95,false,Omphalitis of newborn
+448,448,448,8/3/2023,12/5/2022,37,true,Oth ob compl-delivered
+449,449,449,5/16/2023,12/3/2022,41,false,Oth ob compl-delivered
+450,450,450,4/14/2023,12/4/2022,86,false,Chronic hepatitis NOS
+451,451,451,2/17/2023,12/5/2022,33,false,Mal neo nasopharynx NEC
+452,452,452,7/29/2023,12/4/2022,32,true,RR acc w explos-pasngr
+453,453,453,8/3/2023,12/3/2022,55,true,Comp-unsp device/graft
+454,454,454,5/7/2023,12/2/2022,90,false,Sensoneur hear loss asym
+455,455,455,7/12/2023,12/2/2022,81,false,Burn NOS genitalia
+456,456,456,5/31/2023,12/3/2022,45,false,Burn NOS genitalia
+457,457,457,7/24/2023,12/4/2022,48,true,Hodgkins dis NOS mult
+458,458,458,1/29/2023,12/5/2022,77,false,Omphalitis of newborn
+459,459,459,1/29/2023,12/5/2022,46,true,Gastrojejun ulc NOS-obst
+460,460,460,6/23/2023,12/4/2022,80,false,Abn uterus NEC-del w p/p
+461,461,461,2/2/2023,12/2/2022,78,true,Essen hyperten-antepart
+462,462,462,5/16/2023,12/2/2022,54,false,Essen hyperten-antepart
+463,463,463,2/22/2023,12/2/2022,37,true,Essen hyperten-antepart
+464,464,464,3/18/2023,12/3/2022,53,true,Burkitt's tumor spleen
+465,465,465,2/16/2023,12/4/2022,40,true,Ac leuk uns cl relapse
+466,466,466,3/8/2023,12/4/2022,43,true,Chronic hepatitis NOS
+467,467,467,8/24/2023,12/5/2022,80,false,Mv collision NOS-driver
+468,468,468,6/4/2023,12/5/2022,70,true,Uterine inert NEC-antepa
+469,469,469,2/17/2023,12/2/2022,89,true,Mal neo nasopharynx NEC
+470,470,470,6/12/2023,12/5/2022,32,false,Sensoneur hear loss asym
+471,471,471,6/28/2023,12/3/2022,49,true,Hodgkins dis NOS mult
+472,472,472,8/26/2023,12/4/2022,70,false,Oth ob compl-delivered
+473,473,473,8/28/2023,12/2/2022,76,true,Gastrojejun ulc NOS-obst
+474,474,474,8/5/2023,12/3/2022,82,true,Ac leuk uns cl relapse
+475,475,475,8/23/2023,12/2/2022,47,true,Ac DVT/emb distl low ext
+476,476,476,5/25/2023,12/4/2022,80,true,Ac DVT/emb distl low ext
+477,477,477,2/2/2023,12/2/2022,73,false,Mv collision NOS-driver
+478,478,478,3/13/2023,12/2/2022,92,false,Intermit altrn esotropia
+479,479,479,4/20/2023,12/4/2022,53,false,Essen hyperten-antepart
+480,480,480,4/27/2023,12/2/2022,50,false,Vomit compl preg-antepar
+481,481,481,3/23/2023,12/5/2022,38,true,Mv collision NOS-driver
+482,482,482,6/23/2023,12/2/2022,76,false,Mv collision NOS-driver
+483,483,483,3/29/2023,12/2/2022,89,true,Burkitt's tumor spleen
+484,484,484,7/8/2023,12/3/2022,26,false,One eye-near tot/oth-NOS
+485,485,485,6/25/2023,12/5/2022,55,true,Intermit altrn esotropia
+486,486,486,4/25/2023,12/3/2022,72,false,One eye-near tot/oth-NOS
+487,487,487,8/2/2023,12/2/2022,27,true,Mal neo nasopharynx NEC
+488,488,488,1/2/2023,12/4/2022,44,true,Female genetic test NEC
+489,489,489,12/24/2022,12/3/2022,66,false,Uterine inert NEC-antepa
+490,490,490,8/2/2023,12/3/2022,90,false,Sensoneur hear loss asym
+491,491,491,6/10/2023,12/4/2022,32,true,Omphalitis of newborn
+492,492,492,1/27/2023,12/3/2022,75,false,Aggres periodontitis NOS
+493,493,493,12/25/2022,12/4/2022,94,true,Mal neo nasopharynx NEC
+494,494,494,1/8/2023,12/4/2022,21,true,One eye-near tot/oth-NOS
+495,495,495,8/28/2023,12/3/2022,78,false,Omphalitis of newborn
+496,496,496,2/6/2023,12/5/2022,32,true,Hungry bone syndrome
+497,497,497,4/23/2023,12/3/2022,60,true,Vomit compl preg-antepar
+498,498,498,6/16/2023,12/2/2022,34,true,Vomit compl preg-antepar
+499,499,499,4/1/2023,12/3/2022,80,true,Omphalitis of newborn
+500,500,500,4/2/2023,12/5/2022,54,true,Clo
+501,501,501,5/30/2023,12/4/2022,93,true,Comp-unsp device/graft
+502,502,502,6/3/2023,12/4/2022,96,false,RR acc w explos-pasngr
+503,503,503,12/24/2022,12/5/2022,78,true,Gastrojejun ulc NOS-obst
+504,504,504,1/10/2023,12/4/2022,56,false,Omphalitis of newborn
+505,505,505,7/10/2023,12/5/2022,40,false,Essen hyperten-antepart
+506,506,506,4/15/2023,12/5/2022,62,false,Oth ob compl-delivered
+507,507,507,7/22/2023,12/2/2022,95,false,Intermit altrn esotropia
+508,508,508,1/26/2023,12/2/2022,38,false,Ac DVT/emb distl low ext
+509,509,509,5/18/2023,12/5/2022,50,true,Intermit altrn esotropia
+510,510,510,8/6/2023,12/2/2022,64,true,Clo
+511,511,511,5/3/2023,12/2/2022,31,false,Hodgkins dis NOS mult
+512,512,512,8/23/2023,12/3/2022,34,true,Burkitt's tumor spleen
+513,513,513,1/20/2023,12/2/2022,57,true,Uterine inert NEC-antepa
+514,514,514,1/28/2023,12/3/2022,63,true,Mv collision NOS-driver
+515,515,515,4/10/2023,12/2/2022,36,false,Myel leuk NOS in relapse
+516,516,516,3/21/2023,12/3/2022,72,true,Ac DVT/emb distl low ext
+517,517,517,6/1/2023,12/4/2022,43,true,Ac DVT/emb distl low ext
+518,518,518,2/9/2023,12/3/2022,70,true,Intermit altrn esotropia
+519,519,519,6/24/2023,12/2/2022,76,true,Gastrojejun ulc NOS-obst
+520,520,520,7/14/2023,12/3/2022,62,false,Burkitt's tumor spleen
+521,521,521,7/16/2023,12/2/2022,77,true,Comp-unsp device/graft
+522,522,522,5/16/2023,12/5/2022,21,true,Myel leuk NOS in relapse
+523,523,523,2/18/2023,12/3/2022,18,true,Essen hyperten-antepart
+524,524,524,4/21/2023,12/3/2022,68,false,Artif open status NOS
+525,525,525,5/22/2023,12/4/2022,91,false,Hungry bone syndrome
+526,526,526,4/23/2023,12/4/2022,37,true,Clo
+527,527,527,3/7/2023,12/4/2022,55,false,Intermit altrn esotropia
+528,528,528,7/12/2023,12/5/2022,80,false,Hodgkins dis NOS mult
+529,529,529,3/16/2023,12/2/2022,71,false,One eye-near tot/oth-NOS
+530,530,530,7/18/2023,12/2/2022,23,false,Burkitt's tumor spleen
+531,531,531,12/25/2022,12/5/2022,51,false,Essen hyperten-antepart
+532,532,532,6/1/2023,12/2/2022,44,true,Ac leuk uns cl relapse
+533,533,533,4/12/2023,12/3/2022,43,true,Intermit altrn esotropia
+534,534,534,2/27/2023,12/5/2022,47,true,Ac leuk uns cl relapse
+535,535,535,6/7/2023,12/2/2022,59,true,Abn uterus NEC-del w p/p
+536,536,536,3/17/2023,12/3/2022,97,true,Hungry bone syndrome
+537,537,537,8/22/2023,12/3/2022,24,true,Ac leuk uns cl relapse
+538,538,538,2/19/2023,12/5/2022,20,true,Mal neo nasopharynx NEC
+539,539,539,2/14/2023,12/3/2022,57,false,Ac leuk uns cl relapse
+540,540,540,4/11/2023,12/2/2022,72,false,Burn NOS genitalia
+541,541,541,6/18/2023,12/5/2022,46,false,Intermit altrn esotropia
+542,542,542,5/27/2023,12/5/2022,93,true,Ac DVT/emb distl low ext
+543,543,543,3/19/2023,12/2/2022,70,false,Ac DVT/emb distl low ext
+544,544,544,2/19/2023,12/3/2022,51,false,Comp-unsp device/graft
+545,545,545,3/4/2023,12/3/2022,91,false,One eye-near tot/oth-NOS
+546,546,546,2/5/2023,12/5/2022,51,true,Oth ob compl-delivered
+547,547,547,1/23/2023,12/5/2022,78,true,Artif open status NOS
+548,548,548,7/30/2023,12/5/2022,34,false,Hungry bone syndrome
+549,549,549,1/19/2023,12/4/2022,60,false,Female genetic test NEC
+550,550,550,1/12/2023,12/4/2022,23,false,Intermit altrn esotropia
+551,551,551,7/30/2023,12/5/2022,70,true,Vomit compl preg-antepar
+552,552,552,1/28/2023,12/5/2022,72,false,Vomit compl preg-antepar
+553,553,553,12/24/2022,12/2/2022,97,true,Comp-unsp device/graft
+554,554,554,8/25/2023,12/3/2022,20,false,Essen hyperten-antepart
+555,555,555,3/7/2023,12/4/2022,46,false,Comp-unsp device/graft
+556,556,556,8/4/2023,12/3/2022,44,true,Ac leuk uns cl relapse
+557,557,557,4/1/2023,12/5/2022,51,false,Intermit altrn esotropia
+558,558,558,4/27/2023,12/2/2022,42,false,Mal neo nasopharynx NEC
+559,559,559,8/27/2023,12/2/2022,66,false,Mal neo nasopharynx NEC
+560,560,560,4/9/2023,12/5/2022,55,true,Oth ob compl-delivered
+561,561,561,1/12/2023,12/4/2022,49,true,Ac DVT/emb distl low ext
+562,562,562,4/30/2023,12/3/2022,40,true,Vomit compl preg-antepar
+563,563,563,3/14/2023,12/5/2022,42,true,Female genetic test NEC
+564,564,564,4/1/2023,12/3/2022,71,false,Mv collision NOS-driver
+565,565,565,7/23/2023,12/5/2022,54,true,Clo
+566,566,566,8/19/2023,12/4/2022,43,true,Mv collision NOS-driver
+567,567,567,1/15/2023,12/4/2022,89,true,Artif open status NOS
+568,568,568,5/11/2023,12/4/2022,36,false,Oth ob compl-delivered
+569,569,569,4/6/2023,12/2/2022,88,true,Female genetic test NEC
+570,570,570,3/7/2023,12/2/2022,44,false,Myel leuk NOS in relapse
+571,571,571,8/15/2023,12/5/2022,97,true,Burkitt's tumor spleen
+572,572,572,1/17/2023,12/4/2022,25,false,Comp-unsp device/graft
+573,573,573,3/9/2023,12/3/2022,67,true,Ac leuk uns cl relapse
+574,574,574,6/4/2023,12/4/2022,57,true,Essen hyperten-antepart
+575,575,575,12/30/2022,12/4/2022,96,true,Abn uterus NEC-del w p/p
+576,576,576,3/31/2023,12/5/2022,93,false,Essen hyperten-antepart
+577,577,577,4/28/2023,12/5/2022,95,false,Aggres periodontitis NOS
+578,578,578,3/2/2023,12/2/2022,45,true,Uterine inert NEC-antepa
+579,579,579,3/16/2023,12/4/2022,95,false,Sensoneur hear loss asym
+580,580,580,7/31/2023,12/3/2022,22,false,Burkitt's tumor spleen
+581,581,581,12/22/2022,12/3/2022,82,true,Oth ob compl-delivered
+582,582,582,3/18/2023,12/5/2022,51,true,Aggres periodontitis NOS
+583,583,583,5/22/2023,12/4/2022,41,false,Female genetic test NEC
+584,584,584,5/26/2023,12/2/2022,68,true,Ac DVT/emb distl low ext
+585,585,585,7/21/2023,12/3/2022,35,false,Mal neo nasopharynx NEC
+586,586,586,4/4/2023,12/4/2022,89,true,Ac DVT/emb distl low ext
+587,587,587,7/18/2023,12/4/2022,55,false,RR acc w explos-pasngr
+588,588,588,7/31/2023,12/2/2022,67,false,Ac DVT/emb distl low ext
+589,589,589,1/15/2023,12/5/2022,67,false,Omphalitis of newborn
+590,590,590,2/19/2023,12/5/2022,29,false,Abn uterus NEC-del w p/p
+591,591,591,8/17/2023,12/4/2022,66,false,Myel leuk NOS in relapse
+592,592,592,12/27/2022,12/3/2022,83,false,Myel leuk NOS in relapse
+593,593,593,1/8/2023,12/5/2022,53,true,Clo
+594,594,594,7/16/2023,12/5/2022,66,true,Clo
+595,595,595,8/11/2023,12/4/2022,48,false,Vomit compl preg-antepar
+596,596,596,3/27/2023,12/5/2022,84,false,Burkitt's tumor spleen
+597,597,597,4/6/2023,12/2/2022,48,false,Sensoneur hear loss asym
+598,598,598,7/19/2023,12/2/2022,83,false,RR acc w explos-pasngr
+599,599,599,2/19/2023,12/2/2022,76,true,Comp-unsp device/graft
+600,600,600,3/23/2023,12/2/2022,96,false,Aggres periodontitis NOS
+601,601,601,4/19/2023,12/3/2022,68,false,Abn uterus NEC-del w p/p
+602,602,602,3/16/2023,12/5/2022,45,false,Vomit compl preg-antepar
+603,603,603,8/23/2023,12/3/2022,81,false,Aggres periodontitis NOS
+604,604,604,4/6/2023,12/3/2022,30,false,Chronic hepatitis NOS
+605,605,605,4/6/2023,12/5/2022,24,false,Ac leuk uns cl relapse
+606,606,606,1/22/2023,12/2/2022,26,false,RR acc w explos-pasngr
+607,607,607,6/30/2023,12/4/2022,36,true,Omphalitis of newborn
+608,608,608,1/28/2023,12/5/2022,98,false,Uterine inert NEC-antepa
+609,609,609,8/3/2023,12/3/2022,38,true,Ac DVT/emb distl low ext
+610,610,610,5/4/2023,12/2/2022,62,false,Chronic hepatitis NOS
+611,611,611,8/25/2023,12/5/2022,37,false,Vomit compl preg-antepar
+612,612,612,2/17/2023,12/5/2022,53,false,Chronic hepatitis NOS
+613,613,613,8/24/2023,12/4/2022,28,true,Intermit altrn esotropia
+614,614,614,8/1/2023,12/3/2022,63,false,Female genetic test NEC
+615,615,615,4/29/2023,12/4/2022,94,true,Mv collision NOS-driver
+616,616,616,6/2/2023,12/2/2022,46,true,Uterine inert NEC-antepa
+617,617,617,8/1/2023,12/5/2022,21,false,Omphalitis of newborn
+618,618,618,4/23/2023,12/2/2022,76,false,Chronic hepatitis NOS
+619,619,619,6/10/2023,12/4/2022,69,true,Ac leuk uns cl relapse
+620,620,620,3/9/2023,12/2/2022,19,false,Hodgkins dis NOS mult
+621,621,621,2/19/2023,12/5/2022,93,true,Abn uterus NEC-del w p/p
+622,622,622,6/28/2023,12/4/2022,44,true,Vomit compl preg-antepar
+623,623,623,5/6/2023,12/5/2022,29,false,Burkitt's tumor spleen
+624,624,624,5/23/2023,12/4/2022,47,true,Mv collision NOS-driver
+625,625,625,3/4/2023,12/4/2022,38,false,Artif open status NOS
+626,626,626,12/29/2022,12/2/2022,34,false,Uterine inert NEC-antepa
+627,627,627,7/27/2023,12/3/2022,97,true,Burn NOS genitalia
+628,628,628,7/28/2023,12/5/2022,89,false,Abn uterus NEC-del w p/p
+629,629,629,8/4/2023,12/4/2022,47,false,Omphalitis of newborn
+630,630,630,6/21/2023,12/3/2022,96,true,Essen hyperten-antepart
+631,631,631,1/11/2023,12/5/2022,59,false,Vomit compl preg-antepar
+632,632,632,5/15/2023,12/5/2022,40,false,Intermit altrn esotropia
+633,633,633,5/14/2023,12/2/2022,80,true,Oth ob compl-delivered
+634,634,634,5/5/2023,12/2/2022,29,true,Comp-unsp device/graft
+635,635,635,2/23/2023,12/2/2022,80,false,Sensoneur hear loss asym
+636,636,636,5/24/2023,12/3/2022,87,true,Gastrojejun ulc NOS-obst
+637,637,637,3/4/2023,12/5/2022,46,true,Essen hyperten-antepart
+638,638,638,1/15/2023,12/4/2022,44,false,Gastrojejun ulc NOS-obst
+639,639,639,7/21/2023,12/5/2022,84,false,Sensoneur hear loss asym
+640,640,640,5/23/2023,12/5/2022,69,false,Uterine inert NEC-antepa
+641,641,641,4/17/2023,12/4/2022,42,true,Mv collision NOS-driver
+642,642,642,8/12/2023,12/4/2022,41,true,Essen hyperten-antepart
+643,643,643,5/8/2023,12/2/2022,23,false,Clo
+644,644,644,2/11/2023,12/4/2022,50,true,Abn uterus NEC-del w p/p
+645,645,645,8/2/2023,12/2/2022,85,false,Myel leuk NOS in relapse
+646,646,646,4/13/2023,12/3/2022,53,false,Ac leuk uns cl relapse
+647,647,647,8/22/2023,12/2/2022,60,true,Burn NOS genitalia
+648,648,648,12/25/2022,12/4/2022,96,false,Vomit compl preg-antepar
+649,649,649,6/8/2023,12/5/2022,80,false,Essen hyperten-antepart
+650,650,650,2/8/2023,12/3/2022,94,true,Hungry bone syndrome
+651,651,651,3/2/2023,12/5/2022,63,false,Sensoneur hear loss asym
+652,652,652,6/12/2023,12/5/2022,31,true,Mal neo nasopharynx NEC
+653,653,653,8/11/2023,12/5/2022,95,true,Burn NOS genitalia
+654,654,654,12/23/2022,12/5/2022,20,true,Vomit compl preg-antepar
+655,655,655,2/2/2023,12/4/2022,46,true,Mv collision NOS-driver
+656,656,656,2/26/2023,12/4/2022,55,true,Gastrojejun ulc NOS-obst
+657,657,657,6/17/2023,12/3/2022,82,true,One eye-near tot/oth-NOS
+658,658,658,4/19/2023,12/5/2022,41,false,Artif open status NOS
+659,659,659,7/16/2023,12/5/2022,34,false,Omphalitis of newborn
+660,660,660,7/17/2023,12/3/2022,72,true,Mal neo nasopharynx NEC
+661,661,661,3/31/2023,12/4/2022,69,true,Chronic hepatitis NOS
+662,662,662,2/13/2023,12/3/2022,96,true,Abn uterus NEC-del w p/p
+663,663,663,4/22/2023,12/4/2022,43,true,Aggres periodontitis NOS
+664,664,664,7/30/2023,12/3/2022,56,true,Chronic hepatitis NOS
+665,665,665,8/11/2023,12/2/2022,81,true,Mv collision NOS-driver
+666,666,666,6/17/2023,12/3/2022,52,false,Artif open status NOS
+667,667,667,2/25/2023,12/5/2022,21,true,RR acc w explos-pasngr
+668,668,668,4/27/2023,12/3/2022,22,false,Burkitt's tumor spleen
+669,669,669,8/2/2023,12/4/2022,85,false,Female genetic test NEC
+670,670,670,6/24/2023,12/3/2022,91,false,Hungry bone syndrome
+671,671,671,6/14/2023,12/3/2022,70,false,Uterine inert NEC-antepa
+672,672,672,1/27/2023,12/5/2022,87,true,Mv collision NOS-driver
+673,673,673,4/6/2023,12/2/2022,91,false,RR acc w explos-pasngr
+674,674,674,1/6/2023,12/3/2022,70,true,Abn uterus NEC-del w p/p
+675,675,675,7/22/2023,12/5/2022,18,false,Mal neo nasopharynx NEC
+676,676,676,1/23/2023,12/5/2022,86,true,Essen hyperten-antepart
+677,677,677,3/6/2023,12/4/2022,98,false,Artif open status NOS
+678,678,678,6/10/2023,12/4/2022,75,false,One eye-near tot/oth-NOS
+679,679,679,3/15/2023,12/5/2022,37,true,RR acc w explos-pasngr
+680,680,680,6/14/2023,12/2/2022,52,true,Gastrojejun ulc NOS-obst
+681,681,681,5/21/2023,12/2/2022,23,false,Mv collision NOS-driver
+682,682,682,3/7/2023,12/3/2022,57,false,Uterine inert NEC-antepa
+683,683,683,2/24/2023,12/3/2022,82,false,Omphalitis of newborn
+684,684,684,8/16/2023,12/2/2022,50,true,Ac DVT/emb distl low ext
+685,685,685,8/17/2023,12/4/2022,23,true,Burn NOS genitalia
+686,686,686,1/28/2023,12/3/2022,82,true,Ac leuk uns cl relapse
+687,687,687,6/18/2023,12/4/2022,86,false,Abn uterus NEC-del w p/p
+688,688,688,3/21/2023,12/3/2022,73,false,Hungry bone syndrome
+689,689,689,1/7/2023,12/4/2022,64,false,Myel leuk NOS in relapse
+690,690,690,8/5/2023,12/3/2022,91,true,Artif open status NOS
+691,691,691,8/3/2023,12/5/2022,89,true,Intermit altrn esotropia
+692,692,692,8/26/2023,12/3/2022,25,false,Ac DVT/emb distl low ext
+693,693,693,3/23/2023,12/5/2022,58,true,Clo
+694,694,694,5/24/2023,12/2/2022,25,true,Hodgkins dis NOS mult
+695,695,695,4/10/2023,12/2/2022,41,false,Chronic hepatitis NOS
+696,696,696,5/3/2023,12/5/2022,71,true,Burkitt's tumor spleen
+697,697,697,4/8/2023,12/5/2022,82,true,One eye-near tot/oth-NOS
+698,698,698,5/29/2023,12/5/2022,97,true,Mv collision NOS-driver
+699,699,699,8/27/2023,12/2/2022,61,true,Aggres periodontitis NOS
+700,700,700,7/2/2023,12/3/2022,60,false,Sensoneur hear loss asym
+701,701,701,1/25/2023,12/3/2022,44,false,Essen hyperten-antepart
+702,702,702,2/10/2023,12/5/2022,39,false,Vomit compl preg-antepar
+703,703,703,8/24/2023,12/2/2022,62,true,Oth ob compl-delivered
+704,704,704,7/2/2023,12/3/2022,25,false,Sensoneur hear loss asym
+705,705,705,7/12/2023,12/3/2022,67,false,Clo
+706,706,706,3/24/2023,12/5/2022,41,false,Uterine inert NEC-antepa
+707,707,707,6/9/2023,12/2/2022,65,false,Omphalitis of newborn
+708,708,708,7/23/2023,12/2/2022,92,false,Abn uterus NEC-del w p/p
+709,709,709,1/22/2023,12/2/2022,90,true,Uterine inert NEC-antepa
+710,710,710,6/21/2023,12/4/2022,33,false,Ac leuk uns cl relapse
+711,711,711,8/15/2023,12/3/2022,31,true,Myel leuk NOS in relapse
+712,712,712,8/23/2023,12/3/2022,90,true,Abn uterus NEC-del w p/p
+713,713,713,1/11/2023,12/5/2022,95,true,Mv collision NOS-driver
+714,714,714,8/28/2023,12/5/2022,49,true,Burkitt's tumor spleen
+715,715,715,5/3/2023,12/5/2022,35,true,Ac DVT/emb distl low ext
+716,716,716,8/21/2023,12/2/2022,98,false,Clo
+717,717,717,6/8/2023,12/4/2022,33,true,Comp-unsp device/graft
+718,718,718,3/9/2023,12/2/2022,70,false,Clo
+719,719,719,7/6/2023,12/5/2022,67,false,RR acc w explos-pasngr
+720,720,720,7/16/2023,12/2/2022,28,true,Artif open status NOS
+721,721,721,1/17/2023,12/4/2022,32,false,Burn NOS genitalia
+722,722,722,4/30/2023,12/4/2022,44,false,Ac leuk uns cl relapse
+723,723,723,5/27/2023,12/3/2022,24,true,Gastrojejun ulc NOS-obst
+724,724,724,2/13/2023,12/3/2022,97,false,Female genetic test NEC
+725,725,725,2/13/2023,12/4/2022,94,true,Sensoneur hear loss asym
+726,726,726,6/21/2023,12/5/2022,79,false,Hodgkins dis NOS mult
+727,727,727,2/9/2023,12/5/2022,29,false,Comp-unsp device/graft
+728,728,728,2/19/2023,12/3/2022,51,false,Abn uterus NEC-del w p/p
+729,729,729,3/8/2023,12/2/2022,82,true,Hodgkins dis NOS mult
+730,730,730,12/30/2022,12/2/2022,95,false,Oth ob compl-delivered
+731,731,731,6/10/2023,12/2/2022,86,true,Hodgkins dis NOS mult
+732,732,732,8/23/2023,12/2/2022,55,false,Hodgkins dis NOS mult
+733,733,733,12/29/2022,12/5/2022,81,true,Myel leuk NOS in relapse
+734,734,734,8/13/2023,12/2/2022,83,true,Omphalitis of newborn
+735,735,735,8/26/2023,12/3/2022,64,true,Clo
+736,736,736,4/15/2023,12/5/2022,31,true,RR acc w explos-pasngr
+737,737,737,3/7/2023,12/4/2022,32,false,Mv collision NOS-driver
+738,738,738,2/22/2023,12/3/2022,45,false,Abn uterus NEC-del w p/p
+739,739,739,6/15/2023,12/5/2022,84,true,Oth ob compl-delivered
+740,740,740,1/1/2023,12/5/2022,76,false,Uterine inert NEC-antepa
+741,741,741,6/14/2023,12/5/2022,60,true,Chronic hepatitis NOS
+742,742,742,4/8/2023,12/2/2022,65,false,Mv collision NOS-driver
+743,743,743,1/4/2023,12/5/2022,35,false,Hodgkins dis NOS mult
+744,744,744,5/11/2023,12/3/2022,39,false,Burn NOS genitalia
+745,745,745,4/25/2023,12/4/2022,95,false,Hungry bone syndrome
+746,746,746,8/19/2023,12/3/2022,33,true,RR acc w explos-pasngr
+747,747,747,6/28/2023,12/3/2022,87,true,Omphalitis of newborn
+748,748,748,1/1/2023,12/3/2022,89,false,Mv collision NOS-driver
+749,749,749,1/10/2023,12/3/2022,29,false,Burn NOS genitalia
+750,750,750,12/27/2022,12/5/2022,43,false,Aggres periodontitis NOS
+751,751,751,6/2/2023,12/3/2022,57,false,Gastrojejun ulc NOS-obst
+752,752,752,6/19/2023,12/3/2022,55,false,Female genetic test NEC
+753,753,753,1/11/2023,12/4/2022,18,true,Intermit altrn esotropia
+754,754,754,2/16/2023,12/4/2022,39,true,Aggres periodontitis NOS
+755,755,755,4/29/2023,12/3/2022,65,true,Intermit altrn esotropia
+756,756,756,4/26/2023,12/3/2022,23,true,Essen hyperten-antepart
+757,757,757,8/2/2023,12/4/2022,49,true,Abn uterus NEC-del w p/p
+758,758,758,1/24/2023,12/5/2022,69,false,Clo
+759,759,759,7/31/2023,12/4/2022,76,false,Gastrojejun ulc NOS-obst
+760,760,760,12/31/2022,12/4/2022,85,true,Ac DVT/emb distl low ext
+761,761,761,3/26/2023,12/4/2022,70,true,Vomit compl preg-antepar
+762,762,762,1/27/2023,12/3/2022,90,false,Abn uterus NEC-del w p/p
+763,763,763,7/5/2023,12/5/2022,63,false,Oth ob compl-delivered
+764,764,764,1/25/2023,12/2/2022,75,false,Intermit altrn esotropia
+765,765,765,2/16/2023,12/2/2022,75,true,Gastrojejun ulc NOS-obst
+766,766,766,4/10/2023,12/5/2022,24,true,Myel leuk NOS in relapse
+767,767,767,6/26/2023,12/2/2022,62,false,Female genetic test NEC
+768,768,768,8/16/2023,12/5/2022,21,true,Burkitt's tumor spleen
+769,769,769,6/28/2023,12/4/2022,95,true,Burn NOS genitalia
+770,770,770,1/13/2023,12/4/2022,82,true,Abn uterus NEC-del w p/p
+771,771,771,2/2/2023,12/2/2022,66,false,Mal neo nasopharynx NEC
+772,772,772,5/1/2023,12/2/2022,92,true,Mal neo nasopharynx NEC
+773,773,773,7/4/2023,12/3/2022,56,false,Female genetic test NEC
+774,774,774,1/18/2023,12/5/2022,69,true,Intermit altrn esotropia
+775,775,775,4/8/2023,12/4/2022,53,false,Abn uterus NEC-del w p/p
+776,776,776,1/4/2023,12/2/2022,90,false,Sensoneur hear loss asym
+777,777,777,6/17/2023,12/3/2022,38,false,Abn uterus NEC-del w p/p
+778,778,778,12/27/2022,12/4/2022,85,true,Artif open status NOS
+779,779,779,8/23/2023,12/4/2022,23,true,Omphalitis of newborn
+780,780,780,4/1/2023,12/4/2022,41,true,Artif open status NOS
+781,781,781,5/3/2023,12/2/2022,98,true,Oth ob compl-delivered
+782,782,782,3/17/2023,12/3/2022,82,false,Oth ob compl-delivered
+783,783,783,4/1/2023,12/5/2022,32,false,Essen hyperten-antepart
+784,784,784,5/2/2023,12/4/2022,89,true,Artif open status NOS
+785,785,785,7/28/2023,12/4/2022,59,false,Comp-unsp device/graft
+786,786,786,3/31/2023,12/2/2022,27,false,Oth ob compl-delivered
+787,787,787,7/29/2023,12/3/2022,23,true,Uterine inert NEC-antepa
+788,788,788,7/2/2023,12/2/2022,68,true,Mv collision NOS-driver
+789,789,789,8/27/2023,12/3/2022,52,false,Female genetic test NEC
+790,790,790,6/21/2023,12/4/2022,52,false,Hungry bone syndrome
+791,791,791,5/1/2023,12/2/2022,28,true,Abn uterus NEC-del w p/p
+792,792,792,8/9/2023,12/3/2022,97,true,One eye-near tot/oth-NOS
+793,793,793,4/6/2023,12/2/2022,52,true,Sensoneur hear loss asym
+794,794,794,1/4/2023,12/5/2022,36,false,Intermit altrn esotropia
+795,795,795,4/23/2023,12/4/2022,40,false,Hodgkins dis NOS mult
+796,796,796,12/23/2022,12/4/2022,39,true,Sensoneur hear loss asym
+797,797,797,3/28/2023,12/5/2022,48,false,Sensoneur hear loss asym
+798,798,798,7/26/2023,12/3/2022,91,false,Artif open status NOS
+799,799,799,7/10/2023,12/4/2022,43,false,Abn uterus NEC-del w p/p
+800,800,800,7/24/2023,12/5/2022,93,true,Omphalitis of newborn
+801,801,801,1/30/2023,12/2/2022,83,true,Hodgkins dis NOS mult
+802,802,802,4/2/2023,12/3/2022,39,false,Vomit compl preg-antepar
+803,803,803,4/1/2023,12/3/2022,22,true,Female genetic test NEC
+804,804,804,4/23/2023,12/4/2022,45,false,Female genetic test NEC
+805,805,805,8/13/2023,12/3/2022,40,true,Vomit compl preg-antepar
+806,806,806,8/1/2023,12/5/2022,47,true,Mal neo nasopharynx NEC
+807,807,807,7/3/2023,12/5/2022,31,false,Ac leuk uns cl relapse
+808,808,808,5/25/2023,12/2/2022,35,true,Female genetic test NEC
+809,809,809,6/17/2023,12/5/2022,45,false,Sensoneur hear loss asym
+810,810,810,5/15/2023,12/2/2022,35,true,Hungry bone syndrome
+811,811,811,12/30/2022,12/4/2022,78,false,Sensoneur hear loss asym
+812,812,812,1/25/2023,12/2/2022,44,false,Female genetic test NEC
+813,813,813,3/19/2023,12/5/2022,81,true,Artif open status NOS
+814,814,814,1/17/2023,12/4/2022,65,false,Myel leuk NOS in relapse
+815,815,815,1/12/2023,12/5/2022,19,true,One eye-near tot/oth-NOS
+816,816,816,3/8/2023,12/4/2022,89,true,Essen hyperten-antepart
+817,817,817,7/9/2023,12/2/2022,56,false,Comp-unsp device/graft
+818,818,818,8/1/2023,12/2/2022,22,false,Myel leuk NOS in relapse
+819,819,819,4/20/2023,12/5/2022,63,false,Hodgkins dis NOS mult
+820,820,820,4/23/2023,12/2/2022,57,true,Uterine inert NEC-antepa
+821,821,821,8/19/2023,12/5/2022,73,false,Mv collision NOS-driver
+822,822,822,5/5/2023,12/4/2022,81,false,Uterine inert NEC-antepa
+823,823,823,7/25/2023,12/5/2022,76,true,Aggres periodontitis NOS
+824,824,824,3/28/2023,12/5/2022,35,true,Burn NOS genitalia
+825,825,825,2/15/2023,12/2/2022,51,true,Burkitt's tumor spleen
+826,826,826,8/9/2023,12/2/2022,37,true,Mv collision NOS-driver
+827,827,827,8/13/2023,12/3/2022,35,false,Abn uterus NEC-del w p/p
+828,828,828,4/3/2023,12/4/2022,52,false,Sensoneur hear loss asym
+829,829,829,3/3/2023,12/5/2022,83,false,RR acc w explos-pasngr
+830,830,830,7/9/2023,12/5/2022,22,true,Hodgkins dis NOS mult
+831,831,831,8/5/2023,12/5/2022,70,true,Sensoneur hear loss asym
+832,832,832,5/10/2023,12/3/2022,71,false,Intermit altrn esotropia
+833,833,833,3/6/2023,12/5/2022,33,false,Omphalitis of newborn
+834,834,834,1/22/2023,12/5/2022,41,true,Uterine inert NEC-antepa
+835,835,835,4/23/2023,12/5/2022,42,true,Female genetic test NEC
+836,836,836,5/13/2023,12/3/2022,40,false,Chronic hepatitis NOS
+837,837,837,5/3/2023,12/3/2022,97,false,Female genetic test NEC
+838,838,838,2/9/2023,12/3/2022,19,false,Uterine inert NEC-antepa
+839,839,839,4/4/2023,12/5/2022,98,false,Sensoneur hear loss asym
+840,840,840,1/17/2023,12/4/2022,80,true,Artif open status NOS
+841,841,841,3/7/2023,12/4/2022,64,false,Intermit altrn esotropia
+842,842,842,3/10/2023,12/2/2022,41,true,Female genetic test NEC
+843,843,843,2/14/2023,12/3/2022,43,true,Uterine inert NEC-antepa
+844,844,844,4/14/2023,12/2/2022,31,true,Oth ob compl-delivered
+845,845,845,8/24/2023,12/5/2022,45,false,Gastrojejun ulc NOS-obst
+846,846,846,1/15/2023,12/4/2022,79,true,Ac leuk uns cl relapse
+847,847,847,5/6/2023,12/5/2022,58,false,Mal neo nasopharynx NEC
+848,848,848,3/15/2023,12/3/2022,75,false,Ac leuk uns cl relapse
+849,849,849,3/18/2023,12/2/2022,42,false,Hodgkins dis NOS mult
+850,850,850,7/12/2023,12/3/2022,20,false,Myel leuk NOS in relapse
+851,851,851,6/20/2023,12/4/2022,92,true,Oth ob compl-delivered
+852,852,852,3/1/2023,12/3/2022,47,true,Sensoneur hear loss asym
+853,853,853,4/24/2023,12/5/2022,58,false,Clo
+854,854,854,7/9/2023,12/2/2022,54,false,Female genetic test NEC
+855,855,855,5/22/2023,12/4/2022,26,false,Oth ob compl-delivered
+856,856,856,1/19/2023,12/3/2022,95,true,Chronic hepatitis NOS
+857,857,857,6/25/2023,12/5/2022,22,false,Uterine inert NEC-antepa
+858,858,858,4/27/2023,12/2/2022,79,true,Mv collision NOS-driver
+859,859,859,1/3/2023,12/3/2022,61,false,Abn uterus NEC-del w p/p
+860,860,860,7/29/2023,12/5/2022,69,true,One eye-near tot/oth-NOS
+861,861,861,8/12/2023,12/2/2022,51,false,Abn uterus NEC-del w p/p
+862,862,862,2/26/2023,12/3/2022,93,false,Chronic hepatitis NOS
+863,863,863,3/1/2023,12/4/2022,18,false,Clo
+864,864,864,2/27/2023,12/3/2022,23,true,Hodgkins dis NOS mult
+865,865,865,2/7/2023,12/2/2022,40,true,Abn uterus NEC-del w p/p
+866,866,866,8/10/2023,12/5/2022,51,false,Burkitt's tumor spleen
+867,867,867,4/25/2023,12/3/2022,80,false,Clo
+868,868,868,7/25/2023,12/4/2022,39,true,Sensoneur hear loss asym
+869,869,869,5/11/2023,12/5/2022,41,false,Uterine inert NEC-antepa
+870,870,870,3/9/2023,12/3/2022,52,true,Ac DVT/emb distl low ext
+871,871,871,1/15/2023,12/3/2022,79,false,Intermit altrn esotropia
+872,872,872,4/24/2023,12/4/2022,95,true,Artif open status NOS
+873,873,873,5/18/2023,12/4/2022,75,true,Mv collision NOS-driver
+874,874,874,4/22/2023,12/5/2022,75,true,Omphalitis of newborn
+875,875,875,7/24/2023,12/5/2022,58,false,Uterine inert NEC-antepa
+876,876,876,2/4/2023,12/2/2022,60,false,Female genetic test NEC
+877,877,877,3/30/2023,12/4/2022,45,true,One eye-near tot/oth-NOS
+878,878,878,4/18/2023,12/4/2022,47,false,Ac leuk uns cl relapse
+879,879,879,4/11/2023,12/5/2022,66,false,Sensoneur hear loss asym
+880,880,880,7/8/2023,12/2/2022,19,true,Comp-unsp device/graft
+881,881,881,8/4/2023,12/3/2022,51,true,Mv collision NOS-driver
+882,882,882,6/9/2023,12/3/2022,77,true,Oth ob compl-delivered
+883,883,883,8/21/2023,12/3/2022,36,false,Aggres periodontitis NOS
+884,884,884,1/9/2023,12/3/2022,51,false,Myel leuk NOS in relapse
+885,885,885,2/28/2023,12/4/2022,51,false,Mv collision NOS-driver
+886,886,886,2/5/2023,12/4/2022,93,false,Chronic hepatitis NOS
+887,887,887,6/9/2023,12/2/2022,68,false,Sensoneur hear loss asym
+888,888,888,7/12/2023,12/2/2022,36,false,One eye-near tot/oth-NOS
+889,889,889,7/23/2023,12/5/2022,68,true,RR acc w explos-pasngr
+890,890,890,12/30/2022,12/5/2022,72,true,Burn NOS genitalia
+891,891,891,8/5/2023,12/3/2022,47,true,RR acc w explos-pasngr
+892,892,892,2/2/2023,12/2/2022,20,false,Clo
+893,893,893,6/23/2023,12/5/2022,41,true,Sensoneur hear loss asym
+894,894,894,3/19/2023,12/4/2022,55,true,One eye-near tot/oth-NOS
+895,895,895,7/22/2023,12/4/2022,74,false,Vomit compl preg-antepar
+896,896,896,1/25/2023,12/2/2022,90,false,RR acc w explos-pasngr
+897,897,897,3/14/2023,12/4/2022,26,false,Chronic hepatitis NOS
+898,898,898,8/19/2023,12/3/2022,19,true,One eye-near tot/oth-NOS
+899,899,899,2/26/2023,12/3/2022,77,false,Sensoneur hear loss asym
+900,900,900,5/4/2023,12/4/2022,53,false,Abn uterus NEC-del w p/p
+901,901,901,1/27/2023,12/5/2022,84,false,Omphalitis of newborn
+902,902,902,3/10/2023,12/4/2022,42,false,Burkitt's tumor spleen
+903,903,903,3/20/2023,12/2/2022,97,true,Essen hyperten-antepart
+904,904,904,5/22/2023,12/2/2022,36,true,Omphalitis of newborn
+905,905,905,7/15/2023,12/5/2022,41,false,Myel leuk NOS in relapse
+906,906,906,8/17/2023,12/3/2022,90,false,Abn uterus NEC-del w p/p
+907,907,907,3/10/2023,12/5/2022,70,true,Hungry bone syndrome
+908,908,908,12/27/2022,12/5/2022,30,false,Gastrojejun ulc NOS-obst
+909,909,909,8/23/2023,12/3/2022,84,true,Hodgkins dis NOS mult
+910,910,910,1/26/2023,12/2/2022,92,true,Hungry bone syndrome
+911,911,911,7/22/2023,12/4/2022,64,false,Female genetic test NEC
+912,912,912,7/25/2023,12/5/2022,56,false,Artif open status NOS
+913,913,913,6/7/2023,12/3/2022,52,false,Abn uterus NEC-del w p/p
+914,914,914,8/31/2023,12/2/2022,64,true,RR acc w explos-pasngr
+915,915,915,6/10/2023,12/3/2022,63,true,Ac DVT/emb distl low ext
+916,916,916,3/2/2023,12/5/2022,92,false,Burkitt's tumor spleen
+917,917,917,5/28/2023,12/3/2022,88,true,Ac leuk uns cl relapse
+918,918,918,7/1/2023,12/3/2022,29,false,Burn NOS genitalia
+919,919,919,3/31/2023,12/3/2022,77,false,Vomit compl preg-antepar
+920,920,920,6/28/2023,12/3/2022,19,true,Omphalitis of newborn
+921,921,921,3/10/2023,12/3/2022,81,false,Chronic hepatitis NOS
+922,922,922,3/3/2023,12/2/2022,53,true,Mv collision NOS-driver
+923,923,923,12/29/2022,12/3/2022,31,false,Aggres periodontitis NOS
+924,924,924,1/7/2023,12/2/2022,23,false,Hungry bone syndrome
+925,925,925,7/31/2023,12/2/2022,18,true,One eye-near tot/oth-NOS
+926,926,926,8/16/2023,12/5/2022,55,true,Hungry bone syndrome
+927,927,927,2/16/2023,12/3/2022,66,true,Ac leuk uns cl relapse
+928,928,928,7/16/2023,12/5/2022,92,false,Ac leuk uns cl relapse
+929,929,929,5/29/2023,12/2/2022,63,true,Artif open status NOS
+930,930,930,7/10/2023,12/3/2022,44,false,Hodgkins dis NOS mult
+931,931,931,1/18/2023,12/2/2022,46,true,Mal neo nasopharynx NEC
+932,932,932,3/6/2023,12/4/2022,51,false,Myel leuk NOS in relapse
+933,933,933,1/5/2023,12/2/2022,56,false,Gastrojejun ulc NOS-obst
+934,934,934,7/28/2023,12/4/2022,93,false,Hodgkins dis NOS mult
+935,935,935,7/17/2023,12/2/2022,94,true,Clo
+936,936,936,6/6/2023,12/5/2022,37,true,Gastrojejun ulc NOS-obst
+937,937,937,3/2/2023,12/3/2022,36,true,Burn NOS genitalia
+938,938,938,6/11/2023,12/2/2022,80,true,Omphalitis of newborn
+939,939,939,3/26/2023,12/3/2022,29,false,Ac DVT/emb distl low ext
+940,940,940,12/24/2022,12/2/2022,85,false,Uterine inert NEC-antepa
+941,941,941,4/17/2023,12/3/2022,34,true,Female genetic test NEC
+942,942,942,3/18/2023,12/2/2022,89,false,Myel leuk NOS in relapse
+943,943,943,6/6/2023,12/4/2022,56,false,Chronic hepatitis NOS
+944,944,944,7/25/2023,12/3/2022,91,true,Burn NOS genitalia
+945,945,945,5/22/2023,12/3/2022,64,true,Artif open status NOS
+946,946,946,5/28/2023,12/2/2022,76,true,Chronic hepatitis NOS
+947,947,947,1/29/2023,12/3/2022,38,false,Omphalitis of newborn
+948,948,948,6/19/2023,12/2/2022,39,false,RR acc w explos-pasngr
+949,949,949,2/13/2023,12/4/2022,30,true,Myel leuk NOS in relapse
+950,950,950,5/13/2023,12/3/2022,45,false,Female genetic test NEC
+951,951,951,3/14/2023,12/4/2022,70,false,Uterine inert NEC-antepa
+952,952,952,2/10/2023,12/5/2022,37,false,Hodgkins dis NOS mult
+953,953,953,6/24/2023,12/3/2022,43,true,Comp-unsp device/graft
+954,954,954,4/13/2023,12/5/2022,25,true,Intermit altrn esotropia
+955,955,955,7/29/2023,12/4/2022,39,true,Clo
+956,956,956,5/28/2023,12/5/2022,75,true,Ac DVT/emb distl low ext
+957,957,957,5/27/2023,12/2/2022,58,false,Sensoneur hear loss asym
+958,958,958,3/5/2023,12/2/2022,77,true,Myel leuk NOS in relapse
+959,959,959,5/16/2023,12/3/2022,21,true,Essen hyperten-antepart
+960,960,960,2/24/2023,12/3/2022,94,false,Mv collision NOS-driver
+961,961,961,8/8/2023,12/4/2022,61,false,Chronic hepatitis NOS
+962,962,962,3/20/2023,12/3/2022,51,true,Burkitt's tumor spleen
+963,963,963,2/17/2023,12/5/2022,53,false,Hodgkins dis NOS mult
+964,964,964,5/5/2023,12/5/2022,30,true,Sensoneur hear loss asym
+965,965,965,2/22/2023,12/4/2022,30,true,Essen hyperten-antepart
+966,966,966,12/25/2022,12/4/2022,39,true,Vomit compl preg-antepar
+967,967,967,5/31/2023,12/5/2022,78,false,Mal neo nasopharynx NEC
+968,968,968,5/6/2023,12/2/2022,83,false,Oth ob compl-delivered
+969,969,969,6/22/2023,12/2/2022,84,false,Omphalitis of newborn
+970,970,970,4/1/2023,12/2/2022,19,false,Mal neo nasopharynx NEC
+971,971,971,4/19/2023,12/3/2022,32,false,Mal neo nasopharynx NEC
+972,972,972,4/17/2023,12/2/2022,86,true,Clo
+973,973,973,2/17/2023,12/2/2022,90,true,Uterine inert NEC-antepa
+974,974,974,4/12/2023,12/3/2022,60,true,Ac DVT/emb distl low ext
+975,975,975,12/29/2022,12/3/2022,81,false,Oth ob compl-delivered
+976,976,976,5/17/2023,12/5/2022,62,false,Mal neo nasopharynx NEC
+977,977,977,7/22/2023,12/2/2022,61,true,Aggres periodontitis NOS
+978,978,978,1/14/2023,12/3/2022,49,true,Vomit compl preg-antepar
+979,979,979,4/22/2023,12/4/2022,87,false,Sensoneur hear loss asym
+980,980,980,6/10/2023,12/5/2022,87,false,Artif open status NOS
+981,981,981,5/24/2023,12/3/2022,31,true,Hungry bone syndrome
+982,982,982,1/27/2023,12/4/2022,18,true,Ac DVT/emb distl low ext
+983,983,983,6/30/2023,12/4/2022,35,false,Hodgkins dis NOS mult
+984,984,984,5/9/2023,12/2/2022,29,true,Uterine inert NEC-antepa
+985,985,985,4/17/2023,12/2/2022,28,true,Hungry bone syndrome
+986,986,986,8/18/2023,12/4/2022,94,true,Gastrojejun ulc NOS-obst
+987,987,987,5/27/2023,12/5/2022,46,false,Burkitt's tumor spleen
+988,988,988,4/23/2023,12/4/2022,91,false,Ac leuk uns cl relapse
+989,989,989,8/22/2023,12/2/2022,78,true,Uterine inert NEC-antepa
+990,990,990,3/14/2023,12/3/2022,43,true,Artif open status NOS
+991,991,991,1/29/2023,12/4/2022,41,false,Omphalitis of newborn
+992,992,992,6/4/2023,12/4/2022,60,false,Ac DVT/emb distl low ext
+993,993,993,5/24/2023,12/5/2022,20,false,Mv collision NOS-driver
+994,994,994,1/23/2023,12/4/2022,64,false,Sensoneur hear loss asym
+995,995,995,1/23/2023,12/4/2022,85,false,Aggres periodontitis NOS
+996,996,996,2/4/2023,12/4/2022,94,false,Omphalitis of newborn
+997,997,997,4/30/2023,12/5/2022,54,false,Hungry bone syndrome
+998,998,998,3/31/2023,12/2/2022,20,false,Intermit altrn esotropia
+999,999,999,7/27/2023,12/5/2022,20,true,Hodgkins dis NOS mult
+1000,1000,1000,6/22/2023,12/2/2022,23,true,Vomit compl preg-antepar

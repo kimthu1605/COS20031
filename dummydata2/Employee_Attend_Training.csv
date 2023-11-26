@@ -1,0 +1,1001 @@
+employee_id,training_plan_id ,training_category_explain
+1,1,Neck using Physical Agent
+2,2,Bypass R Int Iliac Art to B Femor A w Synth Sub
+3,3,Bypass R Int Iliac Art to B Femor A w Synth Sub
+4,4,Excision of Left Neck Muscle
+5,5,Removal of Infusion Dev from R Sacroiliac Jt
+6,6,Extirpation of Matter from R Up Lobe Bronc
+7,7,Repair Esophagogastric Junction
+8,8,Dilation of Sup Mesent Vein with Intralum Dev
+9,9,Open Approach
+10,10,Perc Endo Approach
+11,11,Dilation of Right Subclavian Artery
+12,12,Via Opening
+13,13,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+14,14,Neck using Physical Agent
+15,15,Perc Approach
+16,16,Perc
+17,17,Bypass Ileum to Transverse Colon with Synth Sub
+18,18,Percutaneous Approach
+19,19,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+20,20,Dilation of Sup Mesent Vein with Intralum Dev
+21,21,Removal of Infusion Dev from R Sacroiliac Jt
+22,22,Percutaneous Approach
+23,23,Fragmentation in Ascending Colon
+24,24,Bypass Ileum to Asc Colon with Synth Sub
+25,25,Excision of Left Neck Muscle
+26,26,Bypass Ileum to Asc Colon with Synth Sub
+27,27,Excision of Bilateral Fallopian Tubes
+28,28,Revision of Drain Dev in R Extraoc Muscle
+29,29,Bypass Ileum to Transverse Colon with Synth Sub
+30,30,Percutaneous Approach
+31,31,Open Approach
+32,32,Perc
+33,33,Perc Endo Approach
+34,34,Bypass R Int Iliac Art to B Femor A w Synth Sub
+35,35,Perc Endo Approach
+36,36,Perc Approach
+37,37,Perc Endo Approach
+38,38,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+39,39,Revise of Nonaut Sub in Up Intest Tract
+40,40,Perc Approach
+41,41,Remove of Radioact Elem from Cranial Cav
+42,42,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+43,43,Perc Approach
+44,44,Perc Endo Approach
+45,45,Reposition Right External Iliac Artery
+46,46,Bypass R Int Iliac Art to B Femor A w Synth Sub
+47,47,Open Approach
+48,48,Transfer Optic Nerve to Olfactory Nerve
+49,49,External Approach
+50,50,Excision of Left Neck Muscle
+51,51,Perc Endo Approach
+52,52,Open Approach
+53,53,Destruction of Cervix
+54,54,Revision of Drain Dev in R Extraoc Muscle
+55,55,Perc
+56,56,Transfer Optic Nerve to Olfactory Nerve
+57,57,Transfer Optic Nerve to Olfactory Nerve
+58,58,Neck using Physical Agent
+59,59,Exercise Treatment of Neuro Head
+60,60,Dilation of Sup Mesent Vein with Intralum Dev
+61,61,Dilation of Right Subclavian Artery
+62,62,Perc Endo Approach
+63,63,Perc Endo Approach
+64,64,Perc Approach
+65,65,Open Approach
+66,66,Revise of Nonaut Sub in Up Intest Tract
+67,67,Perc Endo
+68,68,Bypass Ileum to Asc Colon with Synth Sub
+69,69,Supplement Left Abdomen Muscle with Synth Sub
+70,70,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+71,71,Destruction of Cervical Vertebra
+72,72,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+73,73,Revision of Drain Dev in R Extraoc Muscle
+74,74,Percutaneous Approach
+75,75,Open Approach
+76,76,Bypass R Int Iliac Art to B Femor A w Synth Sub
+77,77,Perc Endo Approach
+78,78,Extirpation of Matter from Sacrococcygeal Jt
+79,79,Dilation of Sup Mesent Vein with Intralum Dev
+80,80,Bypass R Int Iliac Art to B Femor A w Synth Sub
+81,81,Open Approach
+82,82,Open Approach
+83,83,Bypass R Int Iliac Art to B Femor A w Synth Sub
+84,84,Exercise Treatment of Neuro Head
+85,85,Perc Approach
+86,86,Perc Endo Approach
+87,87,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+88,88,Perc Endo Approach
+89,89,Via Opening
+90,90,Bypass R Int Iliac Art to B Femor A w Synth Sub
+91,91,Open Approach
+92,92,Perc Endo Approach
+93,93,Open Approach
+94,94,Supplement Left Abdomen Muscle with Synth Sub
+95,95,Endo
+96,96,Remove Infusion Dev from R Metatarsotars Jt
+97,97,Removal of Infusion Dev from R Sacroiliac Jt
+98,98,Perc Endo
+99,99,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+100,100,Extirpation of Matter from Sacrococcygeal Jt
+101,101,Revision of Drain Dev in R Extraoc Muscle
+102,102,Open Approach
+103,103,Exercise Treatment of Neuro Head
+104,104,Open Approach
+105,105,Neck using Physical Agent
+106,106,Neck using Physical Agent
+107,107,Dilation of Right Subclavian Artery
+108,108,Repair Esophagogastric Junction
+109,109,Open Approach
+110,110,Removal of Infusion Dev from R Sacroiliac Jt
+111,111,Perc Endo
+112,112,Revision of Drain Dev in R Extraoc Muscle
+113,113,Bypass R Int Iliac Art to B Femor A w Synth Sub
+114,114,Perc Approach
+115,115,Bypass Ileum to Asc Colon with Synth Sub
+116,116,Extirpation of Matter from Sacrococcygeal Jt
+117,117,Fragmentation in Ascending Colon
+118,118,Neck using Physical Agent
+119,119,Supplement Left Abdomen Muscle with Synth Sub
+120,120,LDR Brachytherapy of Oropharynx using Cesium 137
+121,121,Removal of Infusion Dev from R Sacroiliac Jt
+122,122,Perc Endo Approach
+123,123,Destruction of Cervical Vertebra
+124,124,Fragmentation in Ascending Colon
+125,125,Extirpation of Matter from R Up Lobe Bronc
+126,126,Destruction of Cervical Vertebra
+127,127,Repair Esophagogastric Junction
+128,128,Transfer Optic Nerve to Olfactory Nerve
+129,129,Excision of Left Neck Muscle
+130,130,Bypass Ileum to Transverse Colon with Synth Sub
+131,131,Revise of Nonaut Sub in Up Intest Tract
+132,132,Perc Endo Approach
+133,133,Perc Endo Approach
+134,134,Perc
+135,135,External Approach
+136,136,Inspection of Left Lens
+137,137,Supplement Left Abdomen Muscle with Synth Sub
+138,138,Destruction of Cervix
+139,139,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+140,140,Remove of Radioact Elem from Cranial Cav
+141,141,Bypass R Int Iliac Art to B Femor A w Synth Sub
+142,142,Perc Endo Approach
+143,143,Excision of Left Neck Muscle
+144,144,Dilation of Sup Mesent Vein with Intralum Dev
+145,145,Perc Approach
+146,146,External Approach
+147,147,Neck using Physical Agent
+148,148,Dilation of Sup Mesent Vein with Intralum Dev
+149,149,External Approach
+150,150,Neck using Physical Agent
+151,151,Perc
+152,152,Dilation of Right Subclavian Artery
+153,153,Bypass Ileum to Asc Colon with Synth Sub
+154,154,Transfer Optic Nerve to Olfactory Nerve
+155,155,External Approach
+156,156,Neck using Physical Agent
+157,157,Dilation of Right Subclavian Artery
+158,158,Extirpation of Matter from Sacrococcygeal Jt
+159,159,Excision of Bilateral Fallopian Tubes
+160,160,Dilation of Right Subclavian Artery
+161,161,Perc Approach
+162,162,LDR Brachytherapy of Oropharynx using Cesium 137
+163,163,Percutaneous Approach
+164,164,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+165,165,Excision of Left Neck Muscle
+166,166,Open Approach
+167,167,Bypass R Int Iliac Art to B Femor A w Synth Sub
+168,168,External Approach
+169,169,Perc
+170,170,Revise of Nonaut Sub in Up Intest Tract
+171,171,Via Opening
+172,172,Perc Approach
+173,173,Inspection of Left Lens
+174,174,Perc Endo
+175,175,Percutaneous Approach
+176,176,Perc Endo Approach
+177,177,Open Approach
+178,178,Repair Esophagogastric Junction
+179,179,Perc Endo Approach
+180,180,Open Approach
+181,181,Excision of Bilateral Fallopian Tubes
+182,182,Neck using Physical Agent
+183,183,Excision of Bilateral Fallopian Tubes
+184,184,Perc Endo Approach
+185,185,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+186,186,Perc Endo Approach
+187,187,Perc Endo Approach
+188,188,Supplement Left Abdomen Muscle with Synth Sub
+189,189,Extirpation of Matter from Sacrococcygeal Jt
+190,190,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+191,191,Revision of Drain Dev in R Extraoc Muscle
+192,192,Perc Endo Approach
+193,193,Revision of Drain Dev in R Extraoc Muscle
+194,194,Remove of Radioact Elem from Cranial Cav
+195,195,Reposition Right External Iliac Artery
+196,196,Perc
+197,197,Revision of Drain Dev in R Extraoc Muscle
+198,198,Reposition Right External Iliac Artery
+199,199,Perc Endo Approach
+200,200,Perc Endo Approach
+201,201,Perc Approach
+202,202,Perc Endo Approach
+203,203,Bypass Ileum to Asc Colon with Synth Sub
+204,204,Endo
+205,205,Open Approach
+206,206,Dilation of Sup Mesent Vein with Intralum Dev
+207,207,Perc Endo Approach
+208,208,Perc Endo Approach
+209,209,Perc Endo Approach
+210,210,Destruction of Cervical Vertebra
+211,211,Bypass R Int Iliac Art to B Femor A w Synth Sub
+212,212,Open Approach
+213,213,Extirpation of Matter from R Up Lobe Bronc
+214,214,Excision of Left Neck Muscle
+215,215,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+216,216,Percutaneous Approach
+217,217,Fragmentation in Ascending Colon
+218,218,Open Approach
+219,219,Perc
+220,220,Open Approach
+221,221,Via Opening
+222,222,Bypass Ileum to Asc Colon with Synth Sub
+223,223,Via Opening
+224,224,Percutaneous Approach
+225,225,Revise of Nonaut Sub in Up Intest Tract
+226,226,Remove of Radioact Elem from Cranial Cav
+227,227,Excision of Left Neck Muscle
+228,228,LDR Brachytherapy of Oropharynx using Cesium 137
+229,229,LDR Brachytherapy of Oropharynx using Cesium 137
+230,230,Excision of Bilateral Fallopian Tubes
+231,231,Perc
+232,232,Extirpation of Matter from Sacrococcygeal Jt
+233,233,Perc
+234,234,Excision of Bilateral Fallopian Tubes
+235,235,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+236,236,Dilation of Right Subclavian Artery
+237,237,Perc Endo
+238,238,Dilation of Sup Mesent Vein with Intralum Dev
+239,239,Open Approach
+240,240,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+241,241,Dilation of Sup Mesent Vein with Intralum Dev
+242,242,Open Approach
+243,243,Revise of Nonaut Sub in Up Intest Tract
+244,244,Endo
+245,245,Dilation of Right Subclavian Artery
+246,246,Transfer Optic Nerve to Olfactory Nerve
+247,247,Via Opening
+248,248,Destruction of Cervical Vertebra
+249,249,Reposition Right External Iliac Artery
+250,250,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+251,251,Extirpation of Matter from R Up Lobe Bronc
+252,252,Open Approach
+253,253,Perc Endo
+254,254,Perc Endo
+255,255,Supplement Left Abdomen Muscle with Synth Sub
+256,256,Perc Endo Approach
+257,257,Repair Esophagogastric Junction
+258,258,Percutaneous Approach
+259,259,Reposition Right External Iliac Artery
+260,260,Excision of Left Neck Muscle
+261,261,Repair Esophagogastric Junction
+262,262,Perc
+263,263,Excision of Bilateral Fallopian Tubes
+264,264,Remove of Radioact Elem from Cranial Cav
+265,265,Perc Endo Approach
+266,266,Bypass Ileum to Asc Colon with Synth Sub
+267,267,Perc Endo Approach
+268,268,Destruction of Cervical Vertebra
+269,269,Perc Endo Approach
+270,270,Perc Endo Approach
+271,271,Neck using Physical Agent
+272,272,Open Approach
+273,273,Remove of Radioact Elem from Cranial Cav
+274,274,Remove Infusion Dev from R Metatarsotars Jt
+275,275,Supplement Left Abdomen Muscle with Synth Sub
+276,276,External Approach
+277,277,Remove of Radioact Elem from Cranial Cav
+278,278,Transfer Optic Nerve to Olfactory Nerve
+279,279,Percutaneous Approach
+280,280,Remove Infusion Dev from R Metatarsotars Jt
+281,281,Reposition Right External Iliac Artery
+282,282,Excision of Left Neck Muscle
+283,283,Removal of Infusion Dev from R Sacroiliac Jt
+284,284,Percutaneous Approach
+285,285,LDR Brachytherapy of Oropharynx using Cesium 137
+286,286,Open Approach
+287,287,Open Approach
+288,288,Perc
+289,289,Open Approach
+290,290,Perc Endo Approach
+291,291,External Approach
+292,292,Transfer Optic Nerve to Olfactory Nerve
+293,293,Open Approach
+294,294,Revision of Drain Dev in R Extraoc Muscle
+295,295,External Approach
+296,296,Perc Endo Approach
+297,297,Excision of Bilateral Fallopian Tubes
+298,298,Dilation of Sup Mesent Vein with Intralum Dev
+299,299,Destruction of Cervical Vertebra
+300,300,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+301,301,Perc Endo Approach
+302,302,Perc Approach
+303,303,External Approach
+304,304,Perc Endo Approach
+305,305,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+306,306,Open Approach
+307,307,Repair Esophagogastric Junction
+308,308,Bypass R Int Iliac Art to B Femor A w Synth Sub
+309,309,Open Approach
+310,310,Transfer Optic Nerve to Olfactory Nerve
+311,311,Revise of Nonaut Sub in Up Intest Tract
+312,312,Excision of Bilateral Fallopian Tubes
+313,313,Dilation of Sup Mesent Vein with Intralum Dev
+314,314,Perc Endo Approach
+315,315,Excision of Left Neck Muscle
+316,316,Fragmentation in Ascending Colon
+317,317,Excision of Left Neck Muscle
+318,318,Excision of Bilateral Fallopian Tubes
+319,319,External Approach
+320,320,Transfer Optic Nerve to Olfactory Nerve
+321,321,Bypass Ileum to Asc Colon with Synth Sub
+322,322,Percutaneous Approach
+323,323,Perc Endo Approach
+324,324,Revision of Drain Dev in R Extraoc Muscle
+325,325,Excision of Bilateral Fallopian Tubes
+326,326,Exercise Treatment of Neuro Head
+327,327,Neck using Physical Agent
+328,328,Via Opening
+329,329,Perc Approach
+330,330,Exercise Treatment of Neuro Head
+331,331,Bypass R Int Iliac Art to B Femor A w Synth Sub
+332,332,External Approach
+333,333,External Approach
+334,334,Dilation of Right Subclavian Artery
+335,335,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+336,336,Open Approach
+337,337,Extirpation of Matter from Sacrococcygeal Jt
+338,338,Destruction of Cervix
+339,339,Reposition Right External Iliac Artery
+340,340,Perc Endo Approach
+341,341,Remove of Radioact Elem from Cranial Cav
+342,342,Removal of Infusion Dev from R Sacroiliac Jt
+343,343,LDR Brachytherapy of Oropharynx using Cesium 137
+344,344,Perc Endo Approach
+345,345,Dilation of Right Subclavian Artery
+346,346,Dilation of Right Subclavian Artery
+347,347,Extirpation of Matter from R Up Lobe Bronc
+348,348,Exercise Treatment of Neuro Head
+349,349,Repair Esophagogastric Junction
+350,350,Percutaneous Approach
+351,351,Perc
+352,352,Dilation of Sup Mesent Vein with Intralum Dev
+353,353,Fragmentation in Ascending Colon
+354,354,Extirpation of Matter from R Up Lobe Bronc
+355,355,Extirpation of Matter from Sacrococcygeal Jt
+356,356,Supplement Left Abdomen Muscle with Synth Sub
+357,357,Extirpation of Matter from R Up Lobe Bronc
+358,358,Destruction of Cervix
+359,359,Revision of Drain Dev in R Extraoc Muscle
+360,360,Open Approach
+361,361,Perc Approach
+362,362,Perc
+363,363,Removal of Infusion Dev from R Sacroiliac Jt
+364,364,Open Approach
+365,365,Excision of Bilateral Fallopian Tubes
+366,366,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+367,367,Supplement Left Abdomen Muscle with Synth Sub
+368,368,External Approach
+369,369,Removal of Infusion Dev from R Sacroiliac Jt
+370,370,Transfer Optic Nerve to Olfactory Nerve
+371,371,Perc Endo Approach
+372,372,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+373,373,Bypass Ileum to Transverse Colon with Synth Sub
+374,374,Inspection of Left Lens
+375,375,Open Approach
+376,376,Destruction of Cervical Vertebra
+377,377,Perc Endo Approach
+378,378,Open Approach
+379,379,External Approach
+380,380,Fragmentation in Ascending Colon
+381,381,Destruction of Cervix
+382,382,Percutaneous Approach
+383,383,Revision of Drain Dev in R Extraoc Muscle
+384,384,Bypass Ileum to Transverse Colon with Synth Sub
+385,385,Perc Endo Approach
+386,386,Destruction of Cervix
+387,387,Extirpation of Matter from R Up Lobe Bronc
+388,388,LDR Brachytherapy of Oropharynx using Cesium 137
+389,389,Extirpation of Matter from Sacrococcygeal Jt
+390,390,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+391,391,Perc Endo Approach
+392,392,Extirpation of Matter from Sacrococcygeal Jt
+393,393,Perc Endo Approach
+394,394,Perc
+395,395,Open Approach
+396,396,Removal of Infusion Dev from R Sacroiliac Jt
+397,397,Destruction of Cervix
+398,398,Dilation of Sup Mesent Vein with Intralum Dev
+399,399,Extirpation of Matter from Sacrococcygeal Jt
+400,400,Perc Endo Approach
+401,401,Perc Endo Approach
+402,402,Perc Approach
+403,403,Fragmentation in Ascending Colon
+404,404,Perc
+405,405,Remove of Radioact Elem from Cranial Cav
+406,406,External Approach
+407,407,Inspection of Left Lens
+408,408,Exercise Treatment of Neuro Head
+409,409,Fragmentation in Ascending Colon
+410,410,Perc
+411,411,Removal of Infusion Dev from R Sacroiliac Jt
+412,412,Perc Endo Approach
+413,413,Exercise Treatment of Neuro Head
+414,414,Open Approach
+415,415,Repair Esophagogastric Junction
+416,416,Perc Endo
+417,417,Remove Infusion Dev from R Metatarsotars Jt
+418,418,Percutaneous Approach
+419,419,Supplement Left Abdomen Muscle with Synth Sub
+420,420,Revision of Drain Dev in R Extraoc Muscle
+421,421,Open Approach
+422,422,Fragmentation in Ascending Colon
+423,423,Bypass R Int Iliac Art to B Femor A w Synth Sub
+424,424,Percutaneous Approach
+425,425,Open Approach
+426,426,Perc
+427,427,Open Approach
+428,428,Remove of Radioact Elem from Cranial Cav
+429,429,Exercise Treatment of Neuro Head
+430,430,Perc
+431,431,Exercise Treatment of Neuro Head
+432,432,Perc Endo Approach
+433,433,Perc Endo
+434,434,Fragmentation in Ascending Colon
+435,435,Exercise Treatment of Neuro Head
+436,436,Revision of Drain Dev in R Extraoc Muscle
+437,437,Excision of Left Neck Muscle
+438,438,Supplement Left Abdomen Muscle with Synth Sub
+439,439,Extirpation of Matter from R Up Lobe Bronc
+440,440,Bypass Ileum to Transverse Colon with Synth Sub
+441,441,Percutaneous Approach
+442,442,Exercise Treatment of Neuro Head
+443,443,Perc Endo
+444,444,Revise of Nonaut Sub in Up Intest Tract
+445,445,Percutaneous Approach
+446,446,Perc Endo Approach
+447,447,Destruction of Cervical Vertebra
+448,448,Perc Endo Approach
+449,449,Perc Endo Approach
+450,450,Bypass R Int Iliac Art to B Femor A w Synth Sub
+451,451,Remove of Radioact Elem from Cranial Cav
+452,452,Supplement Left Abdomen Muscle with Synth Sub
+453,453,Bypass Ileum to Asc Colon with Synth Sub
+454,454,Supplement Left Abdomen Muscle with Synth Sub
+455,455,Open Approach
+456,456,Neck using Physical Agent
+457,457,Transfer Optic Nerve to Olfactory Nerve
+458,458,External Approach
+459,459,Remove Infusion Dev from R Metatarsotars Jt
+460,460,Neck using Physical Agent
+461,461,Perc
+462,462,Percutaneous Approach
+463,463,Open Approach
+464,464,LDR Brachytherapy of Oropharynx using Cesium 137
+465,465,LDR Brachytherapy of Oropharynx using Cesium 137
+466,466,Excision of Left Neck Muscle
+467,467,Percutaneous Approach
+468,468,Open Approach
+469,469,Open Approach
+470,470,Bypass Ileum to Asc Colon with Synth Sub
+471,471,Endo
+472,472,Perc Endo
+473,473,External Approach
+474,474,Inspection of Left Lens
+475,475,Perc Endo
+476,476,Perc Endo Approach
+477,477,Destruction of Cervical Vertebra
+478,478,Bypass Ileum to Asc Colon with Synth Sub
+479,479,Supplement Left Abdomen Muscle with Synth Sub
+480,480,Perc Endo Approach
+481,481,Excision of Bilateral Fallopian Tubes
+482,482,Perc Endo Approach
+483,483,Open Approach
+484,484,Removal of Infusion Dev from R Sacroiliac Jt
+485,485,Transfer Optic Nerve to Olfactory Nerve
+486,486,Open Approach
+487,487,Transfer Optic Nerve to Olfactory Nerve
+488,488,Perc Approach
+489,489,Repair Esophagogastric Junction
+490,490,Perc Approach
+491,491,Percutaneous Approach
+492,492,Perc
+493,493,Inspection of Left Lens
+494,494,Bypass Ileum to Asc Colon with Synth Sub
+495,495,Excision of Bilateral Fallopian Tubes
+496,496,Open Approach
+497,497,Extirpation of Matter from Sacrococcygeal Jt
+498,498,Extirpation of Matter from Sacrococcygeal Jt
+499,499,Remove of Radioact Elem from Cranial Cav
+500,500,Perc Endo
+501,501,Perc Endo Approach
+502,502,Destruction of Cervix
+503,503,Dilation of Right Subclavian Artery
+504,504,LDR Brachytherapy of Oropharynx using Cesium 137
+505,505,Revision of Drain Dev in R Extraoc Muscle
+506,506,Perc Endo Approach
+507,507,Perc Approach
+508,508,Perc Endo
+509,509,LDR Brachytherapy of Oropharynx using Cesium 137
+510,510,Perc Approach
+511,511,Open Approach
+512,512,Supplement Left Abdomen Muscle with Synth Sub
+513,513,Remove of Radioact Elem from Cranial Cav
+514,514,Perc Endo Approach
+515,515,Perc Endo Approach
+516,516,Exercise Treatment of Neuro Head
+517,517,Open Approach
+518,518,Open Approach
+519,519,Repair Esophagogastric Junction
+520,520,Open Approach
+521,521,Perc Endo Approach
+522,522,Perc Endo Approach
+523,523,Destruction of Cervical Vertebra
+524,524,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+525,525,Bypass R Int Iliac Art to B Femor A w Synth Sub
+526,526,LDR Brachytherapy of Oropharynx using Cesium 137
+527,527,Open Approach
+528,528,Repair Esophagogastric Junction
+529,529,Repair Esophagogastric Junction
+530,530,Perc Endo Approach
+531,531,Dilation of Sup Mesent Vein with Intralum Dev
+532,532,Bypass Ileum to Transverse Colon with Synth Sub
+533,533,Open Approach
+534,534,Perc Endo Approach
+535,535,Open Approach
+536,536,Perc Endo Approach
+537,537,LDR Brachytherapy of Oropharynx using Cesium 137
+538,538,Revision of Drain Dev in R Extraoc Muscle
+539,539,Perc
+540,540,Extirpation of Matter from R Up Lobe Bronc
+541,541,Perc Endo Approach
+542,542,Fragmentation in Ascending Colon
+543,543,Perc Approach
+544,544,Bypass Ileum to Transverse Colon with Synth Sub
+545,545,Destruction of Cervix
+546,546,Bypass Ileum to Asc Colon with Synth Sub
+547,547,LDR Brachytherapy of Oropharynx using Cesium 137
+548,548,Open Approach
+549,549,Revision of Drain Dev in R Extraoc Muscle
+550,550,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+551,551,Perc Endo Approach
+552,552,Remove Infusion Dev from R Metatarsotars Jt
+553,553,Via Opening
+554,554,Perc Endo
+555,555,Perc Endo Approach
+556,556,LDR Brachytherapy of Oropharynx using Cesium 137
+557,557,Excision of Left Neck Muscle
+558,558,Perc
+559,559,Perc Endo Approach
+560,560,Open Approach
+561,561,Reposition Right External Iliac Artery
+562,562,Repair Esophagogastric Junction
+563,563,Exercise Treatment of Neuro Head
+564,564,Remove Infusion Dev from R Metatarsotars Jt
+565,565,Perc Endo
+566,566,Open Approach
+567,567,Perc Approach
+568,568,Perc Approach
+569,569,Bypass Ileum to Asc Colon with Synth Sub
+570,570,Extirpation of Matter from R Up Lobe Bronc
+571,571,Remove of Radioact Elem from Cranial Cav
+572,572,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+573,573,Transfer Optic Nerve to Olfactory Nerve
+574,574,Perc Endo Approach
+575,575,Repair Esophagogastric Junction
+576,576,Perc Endo Approach
+577,577,Perc Endo Approach
+578,578,Percutaneous Approach
+579,579,Perc Endo Approach
+580,580,Percutaneous Approach
+581,581,External Approach
+582,582,Destruction of Cervix
+583,583,Perc Endo Approach
+584,584,Exercise Treatment of Neuro Head
+585,585,Perc Endo Approach
+586,586,Open Approach
+587,587,Percutaneous Approach
+588,588,Exercise Treatment of Neuro Head
+589,589,Percutaneous Approach
+590,590,Percutaneous Approach
+591,591,Fragmentation in Ascending Colon
+592,592,Perc Approach
+593,593,Repair Esophagogastric Junction
+594,594,Perc Endo
+595,595,Open Approach
+596,596,Perc
+597,597,Remove of Radioact Elem from Cranial Cav
+598,598,Removal of Infusion Dev from R Sacroiliac Jt
+599,599,Extirpation of Matter from Sacrococcygeal Jt
+600,600,Percutaneous Approach
+601,601,Bypass Ileum to Asc Colon with Synth Sub
+602,602,Open Approach
+603,603,Endo
+604,604,Removal of Infusion Dev from R Sacroiliac Jt
+605,605,Endo
+606,606,Inspection of Left Lens
+607,607,Percutaneous Approach
+608,608,Bypass R Int Iliac Art to B Femor A w Synth Sub
+609,609,Revise of Nonaut Sub in Up Intest Tract
+610,610,Open Approach
+611,611,External Approach
+612,612,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+613,613,Perc Endo Approach
+614,614,Remove of Radioact Elem from Cranial Cav
+615,615,Perc
+616,616,Perc Endo Approach
+617,617,Neck using Physical Agent
+618,618,Transfer Optic Nerve to Olfactory Nerve
+619,619,Revision of Drain Dev in R Extraoc Muscle
+620,620,Open Approach
+621,621,Open Approach
+622,622,Perc Endo Approach
+623,623,Neck using Physical Agent
+624,624,Remove of Radioact Elem from Cranial Cav
+625,625,Perc Approach
+626,626,Supplement Left Abdomen Muscle with Synth Sub
+627,627,Perc Endo
+628,628,Perc Endo Approach
+629,629,Perc Endo Approach
+630,630,Exercise Treatment of Neuro Head
+631,631,Perc Endo Approach
+632,632,Percutaneous Approach
+633,633,Bypass Ileum to Asc Colon with Synth Sub
+634,634,Percutaneous Approach
+635,635,Bypass R Int Iliac Art to B Femor A w Synth Sub
+636,636,Removal of Infusion Dev from R Sacroiliac Jt
+637,637,Bypass R Int Iliac Art to B Femor A w Synth Sub
+638,638,Via Opening
+639,639,Exercise Treatment of Neuro Head
+640,640,Bypass Ileum to Transverse Colon with Synth Sub
+641,641,Destruction of Cervical Vertebra
+642,642,Percutaneous Approach
+643,643,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+644,644,Perc Approach
+645,645,Perc Endo Approach
+646,646,Inspection of Left Lens
+647,647,Repair Esophagogastric Junction
+648,648,Perc Endo
+649,649,Dilation of Sup Mesent Vein with Intralum Dev
+650,650,Perc
+651,651,Perc Endo Approach
+652,652,Exercise Treatment of Neuro Head
+653,653,Revise of Nonaut Sub in Up Intest Tract
+654,654,Destruction of Cervix
+655,655,Perc Endo Approach
+656,656,External Approach
+657,657,Perc Endo Approach
+658,658,Open Approach
+659,659,Repair Esophagogastric Junction
+660,660,Extirpation of Matter from R Up Lobe Bronc
+661,661,Perc
+662,662,Destruction of Cervix
+663,663,Exercise Treatment of Neuro Head
+664,664,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+665,665,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+666,666,Removal of Infusion Dev from R Sacroiliac Jt
+667,667,External Approach
+668,668,Destruction of Cervix
+669,669,Reposition Right External Iliac Artery
+670,670,Revise of Nonaut Sub in Up Intest Tract
+671,671,Perc Approach
+672,672,Extirpation of Matter from R Up Lobe Bronc
+673,673,Inspection of Left Lens
+674,674,Bypass R Int Iliac Art to B Femor A w Synth Sub
+675,675,Open Approach
+676,676,Percutaneous Approach
+677,677,Fragmentation in Ascending Colon
+678,678,Remove Infusion Dev from R Metatarsotars Jt
+679,679,Open Approach
+680,680,Open Approach
+681,681,Fragmentation in Ascending Colon
+682,682,Excision of Left Neck Muscle
+683,683,External Approach
+684,684,Excision of Bilateral Fallopian Tubes
+685,685,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+686,686,Extirpation of Matter from Sacrococcygeal Jt
+687,687,Excision of Bilateral Fallopian Tubes
+688,688,Perc Approach
+689,689,Bypass Ileum to Transverse Colon with Synth Sub
+690,690,Perc Endo Approach
+691,691,Dilation of Right Subclavian Artery
+692,692,Fragmentation in Ascending Colon
+693,693,Open Approach
+694,694,Perc Endo
+695,695,Perc Endo Approach
+696,696,Percutaneous Approach
+697,697,Remove Infusion Dev from R Metatarsotars Jt
+698,698,Destruction of Cervix
+699,699,Fragmentation in Ascending Colon
+700,700,Extirpation of Matter from Sacrococcygeal Jt
+701,701,Open Approach
+702,702,Excision of Left Neck Muscle
+703,703,Open Approach
+704,704,Destruction of Cervix
+705,705,Perc Approach
+706,706,Remove Infusion Dev from R Metatarsotars Jt
+707,707,Perc Endo Approach
+708,708,Perc Endo Approach
+709,709,Perc
+710,710,Endo
+711,711,Open Approach
+712,712,Revise of Nonaut Sub in Up Intest Tract
+713,713,Exercise Treatment of Neuro Head
+714,714,Reposition Right External Iliac Artery
+715,715,External Approach
+716,716,Perc Endo
+717,717,Extirpation of Matter from R Up Lobe Bronc
+718,718,Bypass Ileum to Asc Colon with Synth Sub
+719,719,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+720,720,Remove Infusion Dev from R Metatarsotars Jt
+721,721,Perc
+722,722,Perc
+723,723,Fragmentation in Ascending Colon
+724,724,Extirpation of Matter from R Up Lobe Bronc
+725,725,Endo
+726,726,Remove of Radioact Elem from Cranial Cav
+727,727,Extirpation of Matter from R Up Lobe Bronc
+728,728,Open Approach
+729,729,Repair Esophagogastric Junction
+730,730,Repair Esophagogastric Junction
+731,731,Exercise Treatment of Neuro Head
+732,732,Dilation of Sup Mesent Vein with Intralum Dev
+733,733,Destruction of Cervical Vertebra
+734,734,Bypass R Int Iliac Art to B Femor A w Synth Sub
+735,735,Fragmentation in Ascending Colon
+736,736,Via Opening
+737,737,Bypass Ileum to Transverse Colon with Synth Sub
+738,738,Percutaneous Approach
+739,739,Extirpation of Matter from R Up Lobe Bronc
+740,740,Reposition Right External Iliac Artery
+741,741,Open Approach
+742,742,Open Approach
+743,743,Excision of Bilateral Fallopian Tubes
+744,744,Supplement Left Abdomen Muscle with Synth Sub
+745,745,Neck using Physical Agent
+746,746,LDR Brachytherapy of Oropharynx using Cesium 137
+747,747,Open Approach
+748,748,Open Approach
+749,749,Extirpation of Matter from Sacrococcygeal Jt
+750,750,Dilation of Right Subclavian Artery
+751,751,Open Approach
+752,752,Perc Endo Approach
+753,753,Fragmentation in Ascending Colon
+754,754,Via Opening
+755,755,Percutaneous Approach
+756,756,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+757,757,Via Opening
+758,758,Removal of Infusion Dev from R Sacroiliac Jt
+759,759,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+760,760,Revision of Drain Dev in R Extraoc Muscle
+761,761,Neck using Physical Agent
+762,762,Percutaneous Approach
+763,763,Perc
+764,764,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+765,765,Destruction of Cervical Vertebra
+766,766,Perc Endo
+767,767,Open Approach
+768,768,Percutaneous Approach
+769,769,Revise of Nonaut Sub in Up Intest Tract
+770,770,Perc Approach
+771,771,Excision of Left Neck Muscle
+772,772,Dilation of Right Subclavian Artery
+773,773,Perc Endo Approach
+774,774,Perc Endo Approach
+775,775,Excision of Bilateral Fallopian Tubes
+776,776,Perc Endo Approach
+777,777,Excision of Bilateral Fallopian Tubes
+778,778,Revise of Nonaut Sub in Up Intest Tract
+779,779,Remove of Radioact Elem from Cranial Cav
+780,780,Destruction of Cervix
+781,781,Open Approach
+782,782,Perc Endo
+783,783,Perc
+784,784,Excision of Left Neck Muscle
+785,785,Exercise Treatment of Neuro Head
+786,786,Percutaneous Approach
+787,787,Perc Endo Approach
+788,788,Bypass Ileum to Asc Colon with Synth Sub
+789,789,Extirpation of Matter from R Up Lobe Bronc
+790,790,Bypass Ileum to Transverse Colon with Synth Sub
+791,791,Perc
+792,792,Reposition Right External Iliac Artery
+793,793,Reposition Right External Iliac Artery
+794,794,Perc Endo
+795,795,Bypass Ileum to Asc Colon with Synth Sub
+796,796,Perc Endo Approach
+797,797,Open Approach
+798,798,Destruction of Cervical Vertebra
+799,799,Open Approach
+800,800,Extirpation of Matter from R Up Lobe Bronc
+801,801,Bypass R Int Iliac Art to B Femor A w Synth Sub
+802,802,LDR Brachytherapy of Oropharynx using Cesium 137
+803,803,Open Approach
+804,804,Neck using Physical Agent
+805,805,Extirpation of Matter from Sacrococcygeal Jt
+806,806,Perc Endo Approach
+807,807,Endo
+808,808,External Approach
+809,809,Bypass Ileum to Asc Colon with Synth Sub
+810,810,Transfer Optic Nerve to Olfactory Nerve
+811,811,Perc
+812,812,Transfer Optic Nerve to Olfactory Nerve
+813,813,Neck using Physical Agent
+814,814,Revise of Nonaut Sub in Up Intest Tract
+815,815,Perc
+816,816,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+817,817,External Approach
+818,818,Open Approach
+819,819,Perc Endo
+820,820,Fragmentation in Ascending Colon
+821,821,Perc Endo
+822,822,Excision of Bilateral Fallopian Tubes
+823,823,Open Approach
+824,824,Open Approach
+825,825,Open Approach
+826,826,Perc Endo
+827,827,Neck using Physical Agent
+828,828,Dilation of Right Subclavian Artery
+829,829,Perc Approach
+830,830,Perc Endo
+831,831,Via Opening
+832,832,Perc Approach
+833,833,Endo
+834,834,Neck using Physical Agent
+835,835,Perc Endo
+836,836,Perc
+837,837,Perc Approach
+838,838,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+839,839,Open Approach
+840,840,Destruction of Cervical Vertebra
+841,841,Destruction of Cervix
+842,842,Reposition Right External Iliac Artery
+843,843,Revise of Nonaut Sub in Up Intest Tract
+844,844,Perc Endo
+845,845,Remove of Radioact Elem from Cranial Cav
+846,846,Perc Endo
+847,847,Transfer Optic Nerve to Olfactory Nerve
+848,848,Remove Infusion Dev from R Metatarsotars Jt
+849,849,Perc Endo Approach
+850,850,Open Approach
+851,851,Perc Endo
+852,852,Bypass Ileum to Transverse Colon with Synth Sub
+853,853,Open Approach
+854,854,Destruction of Cervix
+855,855,Via Opening
+856,856,Open Approach
+857,857,Dilation of Sup Mesent Vein with Intralum Dev
+858,858,Transfer Optic Nerve to Olfactory Nerve
+859,859,Perc Endo Approach
+860,860,Perc Approach
+861,861,Revise of Nonaut Sub in Up Intest Tract
+862,862,Perc
+863,863,Extirpation of Matter from R Up Lobe Bronc
+864,864,Via Opening
+865,865,Extirpation of Matter from R Up Lobe Bronc
+866,866,Perc Endo Approach
+867,867,Reposition Right External Iliac Artery
+868,868,Perc Endo Approach
+869,869,Perc
+870,870,Repair Esophagogastric Junction
+871,871,Reposition Right External Iliac Artery
+872,872,Excision of Bilateral Fallopian Tubes
+873,873,Open Approach
+874,874,Perc Endo Approach
+875,875,Perc Endo
+876,876,Neck using Physical Agent
+877,877,Dilation of Right Subclavian Artery
+878,878,Endo
+879,879,Perc Endo Approach
+880,880,Excision of Bilateral Fallopian Tubes
+881,881,External Approach
+882,882,LDR Brachytherapy of Oropharynx using Cesium 137
+883,883,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+884,884,Dilation of Sup Mesent Vein with Intralum Dev
+885,885,Bypass R Int Iliac Art to B Femor A w Synth Sub
+886,886,Open Approach
+887,887,Open Approach
+888,888,Bypass Ileum to Transverse Colon with Synth Sub
+889,889,Open Approach
+890,890,Open Approach
+891,891,Removal of Infusion Dev from R Sacroiliac Jt
+892,892,Open Approach
+893,893,Neck using Physical Agent
+894,894,LDR Brachytherapy of Oropharynx using Cesium 137
+895,895,Remove Infusion Dev from R Metatarsotars Jt
+896,896,Perc Endo Approach
+897,897,LDR Brachytherapy of Oropharynx using Cesium 137
+898,898,Dilation of Right Subclavian Artery
+899,899,Open Approach
+900,900,Bypass R Int Iliac Art to B Femor A w Synth Sub
+901,901,Fragmentation in Ascending Colon
+902,902,Inspection of Left Lens
+903,903,Bypass Ileum to Transverse Colon with Synth Sub
+904,904,Perc Endo
+905,905,Perc Endo Approach
+906,906,Perc Approach
+907,907,Fragmentation in Ascending Colon
+908,908,Supplement Left Abdomen Muscle with Synth Sub
+909,909,Dilation of Right Subclavian Artery
+910,910,Removal of Infusion Dev from R Sacroiliac Jt
+911,911,Removal of Infusion Dev from R Sacroiliac Jt
+912,912,Remove Infusion Dev from R Metatarsotars Jt
+913,913,Perc Endo Approach
+914,914,Endo
+915,915,Extirpation of Matter from Sacrococcygeal Jt
+916,916,Perc Endo Approach
+917,917,Perc Approach
+918,918,Perc Endo
+919,919,Perc Endo Approach
+920,920,Perc Endo Approach
+921,921,Extirpation of Matter from R Up Lobe Bronc
+922,922,Neck using Physical Agent
+923,923,Perc Endo Approach
+924,924,LDR Brachytherapy of Oropharynx using Cesium 137
+925,925,Muscle Perform Assess Neuro Low Back/LE w Assist Equip
+926,926,Destruction of Cervical Vertebra
+927,927,Perc Endo Approach
+928,928,LDR Brachytherapy of Oropharynx using Cesium 137
+929,929,Extirpation of Matter from R Up Lobe Bronc
+930,930,Extirpation of Matter from Sacrococcygeal Jt
+931,931,Excision of Bilateral Fallopian Tubes
+932,932,Revise of Nonaut Sub in Up Intest Tract
+933,933,Bypass Ileum to Asc Colon with Synth Sub
+934,934,Excision of Left Neck Muscle
+935,935,Perc Endo Approach
+936,936,Open Approach
+937,937,Dilation of Sup Mesent Vein with Intralum Dev
+938,938,Bypass Ileum to Asc Colon with Synth Sub
+939,939,Open Approach
+940,940,Transfer Optic Nerve to Olfactory Nerve
+941,941,Perc Endo Approach
+942,942,Removal of Infusion Dev from R Sacroiliac Jt
+943,943,Destruction of Cervical Vertebra
+944,944,Open Approach
+945,945,Exercise Treatment of Neuro Head
+946,946,Bypass Ileum to Asc Colon with Synth Sub
+947,947,Supplement Left Abdomen Muscle with Synth Sub
+948,948,Perc Endo Approach
+949,949,Perc Endo Approach
+950,950,External Approach
+951,951,Perc Endo Approach
+952,952,Perc
+953,953,Perc Approach
+954,954,External Approach
+955,955,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+956,956,Perc Endo Approach
+957,957,Supplement Left Abdomen Muscle with Synth Sub
+958,958,Perc Endo Approach
+959,959,Open Approach
+960,960,Perc Endo Approach
+961,961,Extirpation of Matter from Sacrococcygeal Jt
+962,962,External Approach
+963,963,Percutaneous Approach
+964,964,Perc Approach
+965,965,Destruction of Cervix
+966,966,Perc Endo Approach
+967,967,Removal of Infusion Dev from R Sacroiliac Jt
+968,968,Inspection of Left Lens
+969,969,Perc
+970,970,External Approach
+971,971,Repair Esophagogastric Junction
+972,972,Percutaneous Approach
+973,973,Perc Endo Approach
+974,974,External Approach
+975,975,Endo
+976,976,Transfer Optic Nerve to Olfactory Nerve
+977,977,Via Opening
+978,978,Percutaneous Approach
+979,979,Endo
+980,980,Dilation of Right Subclavian Artery
+981,981,Revise of Nonaut Sub in Up Intest Tract
+982,982,Excision of Bilateral Fallopian Tubes
+983,983,Via Opening
+984,984,Perc Endo
+985,985,Destruction of Cervical Vertebra
+986,986,Perc Endo Approach
+987,987,Perc Endo Approach
+988,988,Repair Esophagogastric Junction
+989,989,Supplement Left Abdomen Muscle with Synth Sub
+990,990,Revision of Drain Dev in R Extraoc Muscle
+991,991,Revise of Nonaut Sub in Up Intest Tract
+992,992,Endo
+993,993,External Approach
+994,994,Removal of Infusion Dev from R Sacroiliac Jt
+995,995,Excision of Left Neck Muscle
+996,996,Perc Endo Approach
+997,997,Bypass R Com Iliac Art to R Int Ilia w Autol Vn
+998,998,Excision of Left Neck Muscle
+999,999,Open Approach
+1000,1000,Bypass R Int Iliac Art to B Femor A w Synth Sub
