@@ -1,0 +1,56 @@
+CREATE DATABASE  IF NOT EXISTS `employee` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
+USE `employee`;
+-- MySQL dump 10.13  Distrib 8.0.34, for Win64 (x86_64)
+--
+-- Host: localhost    Database: employee
+-- ------------------------------------------------------
+-- Server version	8.0.35
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!50503 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `job_positions`
+--
+
+DROP TABLE IF EXISTS `job_positions`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!50503 SET character_set_client = utf8mb4 */;
+CREATE TABLE `job_positions` (
+  `job_position_id` int unsigned NOT NULL,
+  `department_id` int unsigned NOT NULL,
+  `job_id` int unsigned NOT NULL,
+  `position_requirements` text,
+  `position_benefits` text,
+  PRIMARY KEY (`job_position_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb3;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `job_positions`
+--
+
+LOCK TABLES `job_positions` WRITE;
+/*!40000 ALTER TABLE `job_positions` DISABLE KEYS */;
+INSERT INTO `job_positions` VALUES (1,1,1,'nulla suscipit ligula','sit amet consectetuer adipiscing elit'),(2,2,2,'convallis nulla neque','amet erat nulla tempus'),(3,3,3,'dictumst aliquam augue','erat nulla tempus vivamus'),(4,4,4,'lacinia nisi venenatis tristique','purus aliquet at feugiat non'),(5,5,5,'nulla nunc purus','quis justo maecenas rhoncus aliquam'),(6,6,6,'orci luctus et ultrices','massa quis augue luctus'),(7,7,7,'nulla pede ullamcorper augue a','augue vel accumsan'),(8,8,8,'ac est lacinia nisi','rutrum ac lobortis vel dapibus'),(9,9,9,'morbi non quam nec dui','in imperdiet et commodo vulputate'),(10,10,10,'nisl venenatis lacinia','vel sem sed sagittis nam'),(11,11,11,'phasellus sit amet erat nulla','congue diam id ornare'),(12,12,12,'aenean lectus pellentesque eget nunc','ipsum praesent blandit lacinia'),(13,13,13,'mattis egestas metus aenean fermentum','erat volutpat in congue etiam'),(14,14,14,'vulputate luctus cum','sit amet consectetuer adipiscing'),(15,15,15,'orci mauris lacinia','aliquam sit amet diam in'),(16,16,16,'in sagittis dui vel','lectus in quam fringilla rhoncus'),(17,17,17,'non mattis pulvinar nulla','vestibulum ante ipsum primis in'),(18,18,18,'nunc donec quis','sed vestibulum sit amet'),(19,19,19,'pede posuere nonummy','amet cursus id'),(20,20,20,'platea dictumst aliquam','molestie hendrerit at vulputate'),(21,21,21,'vestibulum ante ipsum','at ipsum ac tellus semper'),(22,22,22,'est congue elementum in','ut nulla sed accumsan felis'),(23,23,23,'id mauris vulputate elementum','aliquet pulvinar sed'),(24,24,24,'semper sapien a libero nam','aenean lectus pellentesque eget nunc'),(25,25,25,'eu massa donec dapibus duis','mauris lacinia sapien quis libero'),(26,26,26,'magna at nunc commodo placerat','nulla dapibus dolor'),(27,27,27,'duis faucibus accumsan','ipsum dolor sit amet'),(28,28,28,'morbi vestibulum velit id','turpis nec euismod scelerisque'),(29,29,29,'ut dolor morbi','condimentum id luctus nec'),(30,30,30,'lorem vitae mattis nibh ligula','etiam faucibus cursus'),(31,31,31,'ut massa quis','volutpat dui maecenas'),(32,32,32,'hac habitasse platea dictumst','tortor quis turpis'),(33,33,33,'at lorem integer','amet nulla quisque'),(34,34,34,'est quam pharetra','at diam nam'),(35,35,35,'morbi porttitor lorem','ut nulla sed accumsan'),(36,36,36,'dolor sit amet consectetuer','ante vivamus tortor duis'),(37,37,37,'varius integer ac leo pellentesque','ac tellus semper interdum'),(38,38,38,'nisl nunc rhoncus','quam suspendisse potenti'),(39,39,39,'non velit donec diam','phasellus sit amet'),(40,40,40,'suspendisse potenti cras in purus','purus sit amet nulla quisque'),(41,41,41,'maecenas tincidunt lacus','porttitor lorem id'),(42,42,42,'rutrum rutrum neque aenean','quisque erat eros'),(43,43,43,'habitasse platea dictumst aliquam augue','a pede posuere nonummy'),(44,44,44,'urna pretium nisl','nulla tempus vivamus in felis'),(45,45,45,'amet eleifend pede libero quis','eu felis fusce'),(46,46,46,'posuere cubilia curae nulla dapibus','tempus vivamus in felis'),(47,47,47,'cum sociis natoque penatibus et','semper sapien a libero nam'),(48,48,48,'platea dictumst aliquam','lectus vestibulum quam sapien'),(49,49,49,'quam pede lobortis ligula sit','nullam orci pede venenatis'),(50,50,50,'ultrices posuere cubilia curae mauris','nisl nunc nisl'),(51,51,51,'ac lobortis vel dapibus at','congue eget semper rutrum'),(52,52,52,'ullamcorper purus sit','ante nulla justo'),(53,53,53,'gravida sem praesent id','ultrices posuere cubilia curae nulla'),(54,54,54,'interdum eu tincidunt in','sociis natoque penatibus et'),(55,55,55,'ultrices libero non','aenean lectus pellentesque'),(56,56,56,'mauris laoreet ut','duis bibendum felis sed'),(57,57,57,'aliquet at feugiat','mauris lacinia sapien'),(58,58,58,'volutpat in congue','luctus et ultrices posuere'),(59,59,59,'aliquet massa id lobortis convallis','curabitur gravida nisi'),(60,60,60,'ut dolor morbi vel','odio porttitor id consequat in'),(61,61,61,'nisi nam ultrices libero non','ac leo pellentesque'),(62,62,62,'fringilla rhoncus mauris enim','bibendum imperdiet nullam'),(63,63,63,'donec quis orci eget','in sagittis dui vel nisl'),(64,64,64,'augue aliquam erat volutpat','potenti in eleifend quam a'),(65,65,65,'pretium quis lectus suspendisse potenti','sed magna at nunc commodo'),(66,66,66,'bibendum morbi non quam','nisi vulputate nonummy'),(67,67,67,'sem duis aliquam','cras pellentesque volutpat dui maecenas'),(68,68,68,'lacus morbi quis tortor id','duis bibendum felis sed'),(69,69,69,'odio odio elementum eu','nulla ac enim in'),(70,70,70,'sapien cursus vestibulum','donec ut dolor morbi'),(71,71,71,'vestibulum ac est','eget semper rutrum nulla nunc'),(72,72,72,'enim in tempor turpis','est et tempus semper est'),(73,73,73,'orci vehicula condimentum','vestibulum ante ipsum'),(74,74,74,'curabitur gravida nisi at','suscipit ligula in'),(75,75,75,'odio justo sollicitudin ut suscipit','sollicitudin mi sit amet'),(76,76,76,'laoreet ut rhoncus aliquet pulvinar','sociis natoque penatibus et magnis'),(77,77,77,'commodo placerat praesent','in leo maecenas pulvinar lobortis'),(78,78,78,'congue etiam justo etiam pretium','diam vitae quam suspendisse potenti'),(79,79,79,'sollicitudin vitae consectetuer','pretium iaculis diam erat fermentum'),(80,80,80,'ultrices enim lorem ipsum','nunc viverra dapibus nulla suscipit'),(81,81,81,'ullamcorper purus sit','lacinia aenean sit amet'),(82,82,82,'vulputate nonummy maecenas tincidunt lacus','luctus nec molestie'),(83,83,83,'tempus vel pede morbi','eget orci vehicula condimentum'),(84,84,84,'mattis egestas metus','tristique fusce congue diam id'),(85,85,85,'sit amet lobortis sapien sapien','porta volutpat erat quisque erat'),(86,86,86,'ut dolor morbi vel lectus','orci luctus et ultrices'),(87,87,87,'nibh in lectus','eget nunc donec quis orci'),(88,88,88,'primis in faucibus orci luctus','rutrum at lorem integer'),(89,89,89,'nisi eu orci mauris','quis justo maecenas'),(90,90,90,'non mattis pulvinar','accumsan felis ut at dolor'),(91,91,91,'lacus curabitur at ipsum ac','volutpat sapien arcu'),(92,92,92,'quis lectus suspendisse potenti in','nibh in lectus pellentesque at'),(93,93,93,'sed vestibulum sit amet cursus','tempor turpis nec'),(94,94,94,'enim sit amet nunc','dolor sit amet'),(95,95,95,'donec quis orci','scelerisque mauris sit'),(96,96,96,'quam sollicitudin vitae','ultrices mattis odio donec vitae'),(97,97,97,'sapien in sapien','congue eget semper rutrum nulla'),(98,98,98,'at feugiat non pretium quis','libero quis orci nullam'),(99,99,99,'faucibus orci luctus et','maecenas rhoncus aliquam'),(100,100,100,'eleifend luctus ultricies','vel enim sit');
+/*!40000 ALTER TABLE `job_positions` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2023-11-27  0:53:09
