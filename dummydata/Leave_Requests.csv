@@ -1,0 +1,1001 @@
+leave_id int ,leave_start_date ,leave_end_date ,leave_duration,leave_request_status ,leave_comment 
+1,9/1/2023,12/6/2022,34,true,Artif open status NOS
+2,8/30/2023,6/8/2023,75,false,Burn NOS genitalia
+3,12/29/2022,1/20/2023,46,false,Ac leuk uns cl relapse
+4,6/1/2023,11/2/2023,28,true,Oth ob compl-delivered
+5,1/22/2023,1/22/2023,75,true,Female genetic test NEC
+6,4/6/2023,12/23/2022,66,false,Uterine inert NEC-antepa
+7,4/26/2023,12/24/2022,66,true,RR acc w explos-pasngr
+8,12/26/2022,6/18/2023,71,false,Ac DVT/emb distl low ext
+9,6/27/2023,8/2/2023,48,true,Myel leuk NOS in relapse
+10,8/16/2023,1/15/2023,84,false,Hungry bone syndrome
+11,1/16/2023,11/22/2023,92,true,Hodgkins dis NOS mult
+12,5/15/2023,9/2/2023,94,false,Chronic hepatitis NOS
+13,1/6/2023,9/28/2023,35,false,Comp-unsp device/graft
+14,9/7/2023,4/13/2023,20,true,Mal neo nasopharynx NEC
+15,4/19/2023,11/7/2023,21,true,Gastrojejun ulc NOS-obst
+16,4/17/2023,8/20/2023,45,false,Intermit altrn esotropia
+17,4/29/2023,4/27/2023,98,false,Vomit compl preg-antepar
+18,10/12/2023,1/1/2023,27,true,Mv collision NOS-driver
+19,1/7/2023,9/27/2023,69,true,Omphalitis of newborn
+20,5/11/2023,12/2/2022,75,false,Sensoneur hear loss asym
+21,8/27/2023,9/11/2023,10,false,Abn uterus NEC-del w p/p
+22,6/2/2023,10/7/2023,52,false,Aggres periodontitis NOS
+23,12/23/2022,7/12/2023,80,true,Essen hyperten-antepart
+24,10/5/2023,12/22/2022,18,false,Burkitt's tumor spleen
+25,4/17/2023,7/10/2023,40,false,One eye-near tot/oth-NOS
+26,12/29/2022,1/24/2023,68,true,Closed skull vault fx
+27,4/5/2023,4/3/2023,32,false,Nephrotic syndrome NEC
+28,11/1/2023,2/7/2023,2,true,Abdmnal tndr rt lwr quad
+29,4/17/2023,12/19/2022,53,false,Opn skul/oth fx-mod coma
+30,9/24/2023,10/14/2023,71,false,Crushing injury forearm
+31,6/15/2023,3/7/2023,49,false,Ventral hernia NOS
+32,4/24/2023,3/20/2023,43,true,Impaired fasting glucose
+33,2/13/2023,12/9/2022,97,false,Malocc-Angle's class III
+34,12/24/2022,3/25/2023,16,true,Accid punc/op lac dura
+35,12/23/2022,9/9/2023,31,true,Ob pulmon embol NEC-unsp
+36,9/25/2023,2/22/2023,99,false,Pyogen arthritis NEC
+37,5/30/2023,1/7/2023,98,false,Brain hem NEC-concussion
+38,6/9/2023,11/13/2023,100,true,Palindrom rheum-jt NEC
+39,1/31/2023,5/23/2023,85,true,Chr allrg conjunctiv NEC
+40,2/9/2023,7/9/2023,99,true,Twin-mate lb-hosp w/o cs
+41,5/21/2023,6/21/2023,14,true,Inj superf nerv head/nck
+42,6/7/2023,6/26/2023,92,true,Status amput shoulder
+43,2/24/2023,2/12/2023,72,false,Cl skl w oth fx-brf coma
+44,12/6/2022,11/23/2023,81,false,Dislocat lumbar vert-cl
+45,6/2/2023,3/11/2023,10,true,Postherpes trigem neural
+46,8/12/2023,3/22/2023,65,false,Trachea & bronch dis NEC
+47,10/6/2023,5/2/2023,95,true,Crushing injury of hand
+48,1/6/2023,4/18/2023,79,true,Quadruplet preg-unspec
+49,6/1/2023,2/10/2023,64,false,Viral hep carrier NOS
+50,12/30/2022,1/18/2023,59,true,Postpartum hem NEC-unsp
+51,3/21/2023,10/25/2023,61,false,Diabetic macular edema
+52,11/17/2023,10/31/2023,41,true,Round window fistula
+53,11/16/2023,4/14/2023,56,false,Prog multifoc leukoencep
+54,12/24/2022,5/22/2023,18,true,Spcfd anom jaw cranl bse
+55,6/14/2023,2/2/2023,3,false,Volunteer activity
+56,8/17/2023,5/27/2023,42,false,TB brain abscess-unspec
+57,2/25/2023,5/16/2023,47,true,Acc poisn-anticholinerg
+58,8/8/2023,8/12/2023,34,false,Acc poison-piped gas
+59,7/26/2023,12/20/2022,14,true,Benign neo pituitary
+60,1/9/2023,3/23/2023,90,true,Opn skul/oth fx-brf coma
+61,11/11/2023,7/21/2023,43,true,Nausea alone
+62,8/14/2023,3/29/2023,55,true,Undet pois-gas/vapor NOS
+63,10/4/2023,1/11/2023,98,true,Molluscum contagiosum
+64,8/11/2023,10/28/2023,90,false,Fail trial lab NOS-deliv
+65,7/25/2023,5/31/2023,14,true,Mv traff acc NEC-pedest
+66,3/29/2023,10/21/2023,83,false,Inf arthrit NOS-ankle
+67,3/29/2023,2/3/2023,23,true,Feb nonhemo transf react
+68,10/24/2023,3/27/2023,28,true,90% + bdy brn/70-79% 3rd
+69,3/30/2023,1/25/2023,21,false,Tot gen choroid dyst NEC
+70,8/6/2023,11/24/2023,30,true,Op skl base fx-prol coma
+71,5/20/2023,1/5/2023,74,false,Intracranial abscess
+72,2/15/2023,5/1/2023,43,true,Vitamin b deficiency NOS
+73,5/29/2023,8/25/2023,66,false,Twin NOS-before admissn
+74,3/8/2023,11/25/2023,11,false,3rd deg burn scalp
+75,8/16/2023,9/1/2023,19,true,3rd deg burn genitalia
+76,9/18/2023,1/19/2023,39,true,Fx upper end fibula-open
+77,9/12/2023,9/18/2023,78,false,Hx-testicular malignancy
+78,3/5/2023,9/25/2023,94,false,Oth curr cond-postpartum
+79,3/2/2023,5/20/2023,49,true,Snow veh acc-pers NEC
+80,10/21/2023,8/14/2023,59,true,Radiation exposure NEC
+81,7/25/2023,1/30/2023,29,true,"Amput arm, unil NOS-comp"
+82,2/8/2023,9/5/2023,97,true,Amphetamine abuse-contin
+83,5/30/2023,1/9/2023,41,false,Bordetella pertussis
+84,2/5/2023,9/18/2023,17,false,Adv eff antivaricose
+85,1/30/2023,6/9/2023,10,false,Vitreous disorders NEC
+86,8/4/2023,10/7/2023,49,true,"Angioid streaks, choroid"
+87,12/20/2022,7/4/2023,94,false,Optic nerve injury
+88,12/9/2022,12/10/2022,2,false,Hx-antibiot allergy NEC
+89,2/9/2023,9/25/2023,49,false,Inflam postproc bleb NOS
+90,6/1/2023,6/15/2023,86,true,Inj post tibial artery
+91,6/15/2023,5/13/2023,90,true,3rd deg burn palm
+92,5/27/2023,5/28/2023,75,true,Near-total impair/normal
+93,9/1/2023,12/14/2022,40,true,Oth nonauto hem anemia
+94,12/12/2022,1/28/2023,22,false,Atresia large intestine
+95,10/16/2023,9/17/2023,35,true,Adv eff acetazolamide
+96,5/23/2023,7/1/2023,83,false,Depr psychos-full remiss
+97,10/7/2023,12/22/2022,77,true,Quad gest 2+ monoamniotc
+98,5/21/2023,8/30/2023,16,true,Polyarthritis NOS-ankle
+99,7/15/2023,11/26/2022,13,true,Fall from cliff
+100,5/21/2023,7/3/2023,57,false,Poisoning-chloral hydrat
+101,5/18/2023,9/22/2023,66,true,Personality disorder NEC
+102,11/12/2023,8/18/2023,69,false,Abdmnal tndr unspcf site
+103,1/1/2023,7/4/2023,75,false,Heteronymous hemianopsia
+104,12/9/2022,12/3/2022,44,false,Cystic fibrosis gene car
+105,9/14/2023,6/9/2023,58,true,Adv eff pharmaceut excip
+106,7/25/2023,7/12/2023,30,false,Sialoadenitis
+107,11/8/2023,9/6/2023,27,true,Early onset delivery-del
+108,7/30/2023,12/31/2022,9,false,Opn wound scrotum/testes
+109,8/1/2023,7/30/2023,86,true,TB of eye-micro dx
+110,3/12/2023,7/17/2023,63,false,Hdgk src unsp xtrndl org
+111,10/8/2023,7/1/2023,57,false,"Fx mid/prx phal, hand-cl"
+112,8/26/2023,4/9/2023,20,false,Peritonitis NOS
+113,9/27/2023,2/14/2023,90,true,Oth anom pul artery/circ
+114,10/5/2023,12/8/2022,87,true,Other vd-antepartum
+115,3/6/2023,11/17/2023,71,true,Excess cry infant/baby
+116,9/21/2023,8/20/2023,21,false,Osteomyelitis NOS-unspec
+117,6/5/2023,7/4/2023,8,false,Metatarsus primus varus
+118,10/8/2023,3/4/2023,17,false,Ophthalmia nodosa
+119,10/15/2023,2/27/2023,39,false,Pancreat cyst/pseudocyst
+120,2/3/2023,12/18/2022,30,false,Pois-skin/membr agnt NEC
+121,6/22/2023,12/30/2022,90,false,Diffus interstit keratit
+122,7/10/2023,9/24/2023,24,true,Nodular lymphoma axilla
+123,5/11/2023,5/30/2023,5,true,Int derangement knee NEC
+124,6/30/2023,8/23/2023,11,false,20-29% bdy brn/10-19% 3d
+125,4/4/2023,7/18/2023,8,false,Pulm alveolar microlith
+126,4/24/2023,7/9/2023,75,false,Abnorm innervation synd
+127,7/6/2023,1/11/2023,6,true,Mult nb/sb-before adm
+128,6/1/2023,8/25/2023,11,true,Q fever
+129,11/22/2023,5/19/2023,34,true,Endos dentl imp fail NEC
+130,7/6/2023,3/21/2023,65,true,Fx shaft rad w ulna-open
+131,11/5/2023,2/25/2023,80,true,Reticulosarcoma pelvic
+132,8/9/2023,2/21/2023,25,true,Injury-hunting rifle
+133,5/22/2023,4/12/2023,30,false,NB atelectasis NEC/NOS
+134,8/30/2023,3/19/2023,100,false,Ab NOS w pelv damag-inc
+135,2/12/2023,10/8/2023,51,true,Hx-blood diseases
+136,10/5/2023,11/12/2023,84,false,Mal neo stom great curv
+137,2/11/2023,12/23/2022,99,false,Mult crushing injury leg
+138,1/25/2023,12/17/2022,36,false,Injury portal vein
+139,6/25/2023,2/5/2023,56,true,TB of ureter-histo dx
+140,6/1/2023,9/8/2023,91,false,Allerg arthritis-forearm
+141,5/30/2023,1/28/2023,8,true,Famil heredit dis-unspec
+142,5/11/2023,6/15/2023,42,false,Chronc graft-vs-host dis
+143,9/4/2023,9/1/2023,41,false,Inj inferior mesent vein
+144,11/14/2023,2/6/2023,2,true,Polymyalgia rheumatica
+145,6/7/2023,10/15/2023,79,false,Heat syncope
+146,2/28/2023,2/15/2023,71,false,Acc d/t avalanche
+147,4/6/2023,2/6/2023,72,false,Ret dystrph in syst dis
+148,1/8/2023,6/2/2023,31,false,Deep 3rd deg brn leg NOS
+149,4/27/2023,5/13/2023,90,false,Chr margin ulc perf-obst
+150,10/8/2023,5/31/2023,22,false,Fx scapula NOS-open
+151,7/12/2023,12/27/2022,62,false,Genu varum
+152,8/21/2023,11/14/2023,90,true,Screening for trachoma
+153,11/12/2023,4/19/2023,24,true,Poor fetal growth-deliv
+154,10/21/2023,12/3/2022,53,true,Ascorbic acid deficiency
+155,7/5/2023,3/30/2023,45,false,Ac allerg sanguinous OM
+156,9/7/2023,9/22/2023,20,false,Premature ejaculation
+157,7/6/2023,10/11/2023,72,true,Ant disloc humerus-open
+158,5/28/2023,10/24/2023,10,false,Flu dt avian manfest NEC
+159,5/8/2023,1/10/2023,13,false,One eye-mod/oth normal
+160,5/27/2023,2/21/2023,83,false,Anaphyl react d/t vaccin
+161,9/14/2023,5/31/2023,41,false,Catatonia-subchronic
+162,1/9/2023,12/2/2022,89,true,Explosives accident NOS
+163,9/12/2023,8/18/2023,27,false,Thyroid dysfun-del w p/p
+164,5/1/2023,11/27/2022,11,false,Lordosis NOS
+165,5/23/2023,9/9/2023,12,true,Oth anom pul artery/circ
+166,1/21/2023,5/8/2023,72,false,Integument anomaly NOS
+167,3/5/2023,9/13/2023,31,true,Endocrine anomaly NEC
+168,11/6/2023,4/1/2023,68,false,Microstomia
+169,3/21/2023,8/17/2023,53,true,One eye-near tot/oth-tot
+170,2/7/2023,4/4/2023,48,true,Pelvic hematoma-postpart
+171,6/8/2023,11/29/2022,35,true,Acq limb deformity NOS
+172,9/6/2023,1/5/2023,15,true,Mal neo lat nasopharynx
+173,9/8/2023,5/15/2023,56,false,Hx-analgesic allergy
+174,5/28/2023,3/29/2023,43,false,Fx up end humerus NOS-cl
+175,5/1/2023,3/28/2023,37,true,TB pneumothorx-exam unkn
+176,6/21/2023,12/24/2022,64,true,70-79% bdy brn/70-79% 3d
+177,11/30/2022,5/15/2023,36,false,70-79% bdy brn/40-49% 3d
+178,4/21/2023,6/16/2023,38,false,Inj optic nerv/path NOS
+179,12/23/2022,7/16/2023,69,false,Aftercare NOS
+180,6/16/2023,11/12/2023,84,false,Shock NOS
+181,1/21/2023,5/2/2023,38,true,Hit by train-person NOS
+182,5/22/2023,11/28/2022,52,false,Bact arthritis-unspec
+183,7/18/2023,5/31/2023,16,true,Mal neo splenic flexure
+184,5/2/2023,6/19/2023,2,false,Dysenter arthrit-up/arm
+185,5/16/2023,3/11/2023,91,false,Fam hx-urinry malig NEC
+186,10/30/2023,5/14/2023,68,false,Pneumococcal meningitis
+187,5/16/2023,10/10/2023,96,true,Fall from bed
+188,5/26/2023,2/2/2023,41,false,T1-t6 fx-cl/cord inj NEC
+189,11/12/2023,7/27/2023,46,false,"Postop shock,cardiogenic"
+190,4/23/2023,8/30/2023,30,true,Inj mult nerve pelv/leg
+191,2/18/2023,2/26/2023,24,false,Eustachian tube anom NEC
+192,2/26/2023,10/23/2023,80,true,Tarsal tunnel syndrome
+193,2/17/2023,8/4/2023,59,true,Racquet/hand sports
+194,4/15/2023,7/7/2023,53,false,Heart injury NOS-closed
+195,6/21/2023,7/24/2023,56,true,Vasc dementia w delirium
+196,4/16/2023,3/13/2023,74,true,Mal neo nervous syst NOS
+197,4/2/2023,6/27/2023,29,false,Oth imnprlf neo-relapse
+198,6/6/2023,10/2/2023,43,true,Cl skul/oth fx-deep coma
+199,3/17/2023,2/15/2023,37,false,Leg ab w metab dis-comp
+200,5/7/2023,7/13/2023,20,false,Burkitt's tumor axilla
+201,5/13/2023,12/10/2022,27,true,Congen CV dis-antepartum
+202,10/5/2023,1/16/2023,47,false,Other general symptoms
+203,11/16/2023,9/29/2023,74,false,Malfunc card dev/grf NOS
+204,9/25/2023,5/24/2023,56,true,Hyp hrt dis NOS w/o hf
+205,9/7/2023,10/28/2023,16,true,Normal delivery
+206,7/12/2023,6/9/2023,10,true,Abn urine findings NEC
+207,12/19/2022,12/31/2022,73,false,Attic perf tympanic memb
+208,2/2/2023,3/10/2023,90,false,Unsp ds conjuc viruses
+209,4/28/2023,4/3/2023,68,true,Transvestic fetishism
+210,5/29/2023,4/18/2023,90,true,Cerebell contus-coma NOS
+211,8/26/2023,10/26/2023,73,false,Assault-gasoline bomb
+212,5/12/2023,1/10/2023,35,true,Poisoning-sulfonamides
+213,3/16/2023,4/2/2023,8,false,Algoneurodystrophy
+214,3/14/2023,12/31/2022,82,false,Fetal hematologic-ante
+215,2/13/2023,12/28/2022,52,false,Delay conjugat jaund NEC
+216,6/18/2023,11/1/2023,78,true,3rd deg burn hand-mult
+217,1/17/2023,11/29/2022,32,false,Loc osteoarth NOS-hand
+218,11/11/2023,3/30/2023,39,true,Tongue anomaly NEC
+219,5/24/2023,3/12/2023,59,false,Anemia in preg-unspec
+220,7/20/2023,6/17/2023,69,false,"Chronc gingititis,plaque"
+221,8/29/2023,9/27/2023,33,false,Hx-epididymis malignancy
+222,2/23/2023,7/18/2023,22,false,Acc poison-glues
+223,3/25/2023,3/15/2023,9,true,Amphetamine abuse-episod
+224,10/23/2023,3/12/2023,96,false,Cnsl victm partner abuse
+225,2/21/2023,1/14/2023,41,true,One eye-moderate/oth-NOS
+226,11/13/2023,8/26/2023,91,true,Obsv-adult antisoc behav
+227,9/25/2023,9/15/2023,83,true,Superf inj foot/toe NEC
+228,7/2/2023,5/22/2023,47,true,Valgus deformity wrist
+229,6/12/2023,10/25/2023,38,true,Constit state in dev NEC
+230,2/12/2023,12/6/2022,43,false,Organic insomnia NOS
+231,7/17/2023,9/21/2023,70,false,Papilledema w incr press
+232,3/2/2023,5/4/2023,38,true,Abn pulmonary func study
+233,10/15/2023,6/25/2023,13,false,Methemoglobinemia
+234,4/17/2023,2/21/2023,57,true,Oth drg indcd pancytopna
+235,9/19/2023,3/23/2023,90,false,Benign neoplasm urethra
+236,12/21/2022,12/23/2022,93,false,Loc osteoart NOS-forearm
+237,9/15/2023,6/11/2023,41,false,Brain hem NEC w opn wnd
+238,12/4/2022,1/15/2023,15,true,Urgency of urination
+239,11/14/2023,1/28/2023,57,true,Ac apical periodontitis
+240,12/25/2022,5/12/2023,53,false,Pneumonia in anthrax
+241,2/11/2023,1/2/2023,17,true,Dev dis jt-pelvic/thigh
+242,4/4/2023,1/3/2023,98,true,Cong factor IX disorder
+243,7/29/2023,12/12/2022,34,true,Ret dystrph in syst dis
+244,4/18/2023,9/5/2023,26,false,Dislocation jaw-open
+245,10/28/2023,2/8/2023,92,true,Gram-neg septicemia NEC
+246,8/19/2023,11/20/2023,4,true,Periph T cell lym abdom
+247,12/13/2022,5/31/2023,21,false,Cervical shortening-unsp
+248,2/25/2023,9/2/2023,94,false,Hx resp system dis NOS
+249,8/9/2023,8/13/2023,30,false,Polyarthritis NOS-pelvis
+250,4/19/2023,3/29/2023,44,false,Legal abort w shock-comp
+251,9/6/2023,9/1/2023,89,true,Spin bif w hydrceph-cerv
+252,11/7/2023,7/15/2023,82,true,Ob perineal trau NOS-del
+253,5/24/2023,5/15/2023,11,true,Papillary muscle rupture
+254,1/12/2023,6/15/2023,71,true,Shotgun accident
+255,11/20/2023,5/5/2023,93,false,Unsocial unaggr-severe
+256,3/29/2023,4/8/2023,90,false,Abn pel NEC in preg-unsp
+257,9/14/2023,11/14/2023,16,false,Paracoccidioidomycosis
+258,3/1/2023,5/26/2023,91,false,Breast abscess-delivered
+259,1/28/2023,9/19/2023,15,true,Loc prim osteoart-forarm
+260,10/24/2023,12/10/2022,41,false,Screen-mycotic infect
+261,3/31/2023,12/11/2022,78,true,Hodg lymph-histio inguin
+262,7/16/2023,11/25/2023,45,true,Oth coll stn obj-cyc psg
+263,8/11/2023,11/26/2022,58,false,Primary apnea of newborn
+264,11/22/2023,5/21/2023,4,false,"AMI inferolateral, init"
+265,6/17/2023,6/11/2023,96,false,Cong catar/lens anom NEC
+266,11/13/2023,12/27/2022,87,true,Toxic eff nonpetrol solv
+267,10/4/2023,6/1/2023,26,true,Cystic fibros w/o ileus
+268,1/7/2023,6/17/2023,70,false,Ac laryngotrach no obstr
+269,3/29/2023,4/6/2023,86,false,Trauma comp synd up ext
+270,2/24/2023,9/14/2023,92,false,Postcoital bleeding
+271,3/18/2023,2/11/2023,98,true,Tuboplasty or vasoplasty
+272,2/12/2023,6/25/2023,47,false,Papyraceous fet-antepar
+273,9/17/2023,2/3/2023,57,false,Aftercare organ transplt
+274,8/1/2023,4/8/2023,48,false,Poison-analgesics
+275,7/22/2023,10/16/2023,21,false,Torsion of ovary or tube
+276,7/31/2023,5/16/2023,96,false,"BMI 40.0-44.9, adult"
+277,9/14/2023,6/21/2023,9,true,Mycoplasma
+278,3/1/2023,11/30/2022,40,false,Mv coll w pedest-pedest
+279,5/16/2023,11/18/2023,3,false,Screen mammogram hi risk
+280,10/21/2023,1/8/2023,95,true,3rd brn w loss-trunk NEC
+281,12/4/2022,10/5/2023,62,false,Local skin infection NEC
+282,3/23/2023,10/18/2023,37,false,Lt ef-mplga lowlmb nondm
+283,12/21/2022,8/8/2023,28,true,Tox eff noxious food NOS
+284,5/3/2023,3/14/2023,78,false,Adv eff mix bact vaccine
+285,8/5/2023,7/10/2023,10,true,Opn skul/oth fx-mod coma
+286,10/22/2023,1/27/2023,65,false,Compl heart transplant
+287,6/23/2023,12/13/2022,77,true,Letterer-siwe dis abdom
+288,10/22/2023,1/14/2023,91,true,Alopecia NOS
+289,4/17/2023,4/3/2023,30,true,Jt derangement NEC-ankle
+290,2/9/2023,1/5/2023,77,false,Deep 3rd deg burn ankle
+291,11/11/2023,12/2/2022,18,true,Intestinal disorder NOS
+292,10/7/2023,9/6/2023,91,false,Streptococcus group g
+293,5/17/2023,8/10/2023,41,true,Tx ef cl-hydcarb slv NEC
+294,9/30/2023,2/15/2023,27,true,Pois-ant pituitary horm
+295,5/6/2023,9/14/2023,53,true,Opn subdur hem-prol coma
+296,2/21/2023,11/19/2023,3,false,Cervical root injury
+297,4/1/2023,3/27/2023,91,false,Fetal distress-antepart
+298,4/15/2023,8/6/2023,22,false,Coal workers' pneumocon
+299,2/21/2023,11/17/2023,72,true,Monocytosis-symptomatic
+300,10/7/2023,3/24/2023,69,false,Bungee jumping
+301,4/19/2023,11/21/2023,49,true,Fetopel disprop-antepart
+302,2/18/2023,8/14/2023,3,true,Fetal disprop NOS-deliv
+303,6/1/2023,2/2/2023,9,true,Disloc shoulder NOS-clos
+304,3/17/2023,6/6/2023,41,false,Internal injury NOS-open
+305,6/13/2023,7/31/2023,94,true,Acq esophag diverticulum
+306,9/24/2023,6/24/2023,22,false,Acc poisoning-drug NOS
+307,4/14/2023,12/23/2022,48,false,Inj deep plantar vessel
+308,5/28/2023,1/30/2023,89,false,"BMI between 19-24,adult"
+309,7/5/2023,9/23/2023,27,false,DMII hprsm nt st uncntrl
+310,5/1/2023,1/5/2023,32,false,Vaccin for tuberculosis
+311,6/19/2023,1/7/2023,21,true,Leukoplakia oral mucosa
+312,5/15/2023,6/29/2023,41,false,Viremia NOS
+313,8/11/2023,10/20/2023,25,false,Heat effect NEC
+314,1/24/2023,3/31/2023,66,false,Flu w manifestation NEC
+315,5/17/2023,3/16/2023,53,false,Mal neo breast low-inner
+316,8/12/2023,2/8/2023,49,false,Orbital myositis
+317,5/9/2023,3/4/2023,100,true,Celiac art compress syn
+318,5/25/2023,12/14/2022,25,true,Chr post-trauma headache
+319,9/1/2023,7/3/2023,56,true,Cl skul fx NEC-deep coma
+320,5/27/2023,10/14/2023,72,true,Monoarthritis NOS-l/leg
+321,1/18/2023,4/28/2023,65,false,Cong ectodermal dysplas
+322,10/10/2023,6/5/2023,44,true,Clothing fire-priv dwell
+323,5/7/2023,4/13/2023,28,false,Ext asthma w status asth
+324,12/11/2022,1/5/2023,7,false,Deep 3 deg burn thumb
+325,1/29/2023,10/12/2023,32,true,Aspergillosis
+326,2/16/2023,6/6/2023,46,true,No vaccination-religion
+327,9/7/2023,3/23/2023,13,true,Malig neo subglottis
+328,12/9/2022,1/6/2023,17,false,Genetic susc mal neo NEC
+329,8/23/2023,5/4/2023,100,false,Aftrcare path fx leg NOS
+330,4/10/2023,5/22/2023,57,true,Acc poisn-anticholinerg
+331,4/9/2023,6/16/2023,76,false,Immundef t-cell def NOS
+332,5/8/2023,7/25/2023,30,false,Plantar nerve lesion
+333,5/5/2023,4/3/2023,64,true,Oth multiple sb-nonhosp
+334,1/3/2023,6/28/2023,1,true,Undet circ-hunting rifle
+335,7/21/2023,9/7/2023,53,true,Drowning in bathtub
+336,1/17/2023,8/23/2023,46,true,Fall into storm drain
+337,3/10/2023,5/1/2023,88,false,Lower urin calcul NEC
+338,6/7/2023,9/9/2023,30,false,Disorders of ear NEC
+339,4/7/2023,7/15/2023,40,false,N-traf brd/alit-mcyc psg
+340,7/10/2023,3/8/2023,84,true,Intraspinal abscess
+341,7/10/2023,8/19/2023,79,false,Mixed lymphosarc axilla
+342,9/21/2023,1/15/2023,84,true,Length/adjust growth rod
+343,3/16/2023,11/26/2022,42,true,"Fx humer, condyl NOS-cl"
+344,2/17/2023,6/28/2023,33,true,Interscplr reg contusion
+345,2/28/2023,8/27/2023,40,true,Medical misadventure NEC
+346,12/6/2022,5/13/2023,32,true,Adv eff hair/scalp prep
+347,10/25/2023,6/30/2023,91,true,Hebephrenia-subchronic
+348,9/19/2023,9/26/2023,47,false,Ac embl thorac vein NEC
+349,11/26/2022,8/27/2023,45,true,Anom eyelid/lacr/orb NEC
+350,9/18/2023,6/29/2023,38,false,Priapism
+351,7/20/2023,10/2/2023,77,true,Chronic cholecystitis
+352,2/11/2023,6/18/2023,1,false,C1-c4 fx-cl/cen cord syn
+353,4/30/2023,11/25/2023,51,false,Cerebral arteritis
+354,10/29/2023,12/27/2022,38,true,Amniotic infection-deliv
+355,10/3/2023,4/2/2023,44,true,Circulatory anomaly NEC
+356,12/24/2022,1/25/2023,75,true,Ac peptic ulcer w perfor
+357,2/9/2023,2/15/2023,10,false,NB septicemia [sepsis]
+358,10/11/2023,5/26/2023,78,true,DMII circ uncntrld
+359,12/12/2022,12/30/2022,5,false,Cong heart anomaly NEC
+360,12/15/2022,3/20/2023,25,true,Bone infect NOS-mult
+361,4/25/2023,10/5/2023,20,false,Glossopharyng neuralgia
+362,7/2/2023,2/3/2023,11,false,Venous compl NEC-postpar
+363,11/6/2023,1/14/2023,43,true,Viral meningitis NOS
+364,7/24/2023,7/9/2023,39,false,Prsnl hst unspc dgstv ds
+365,10/30/2023,3/2/2023,24,true,Plasmacytoma NOS
+366,5/8/2023,8/9/2023,27,false,Mastitis-postpartum
+367,11/20/2023,7/13/2023,80,false,Poisoning-penicillins
+368,5/23/2023,3/20/2023,46,true,Aircraft fall-person NEC
+369,5/26/2023,9/29/2023,45,false,Asslt-transport vehicle
+370,6/3/2023,3/17/2023,15,true,Missed abortion
+371,7/19/2023,8/5/2023,24,false,Allerg arthritis-l/leg
+372,1/21/2023,11/22/2023,37,false,B-complex defic NEC
+373,8/20/2023,11/20/2023,80,false,Papillary muscle dis NEC
+374,4/23/2023,2/16/2023,96,false,Macular cyst or hole
+375,8/23/2023,4/12/2023,81,false,Lym-hst unsp xtrndl orgn
+376,10/29/2023,6/22/2023,45,false,31-32 comp wks gestation
+377,8/5/2023,11/15/2023,53,true,Developmental dyslexia
+378,6/15/2023,5/25/2023,33,true,Benign neo cervix uteri
+379,11/7/2023,4/15/2023,43,false,Circumscribe scleroderma
+380,3/4/2023,2/3/2023,55,false,TB pneumonia-oth test
+381,4/16/2023,9/7/2023,17,true,Poison-medicinal agt NEC
+382,12/21/2022,7/6/2023,25,false,Ac pul manif d/t radiat
+383,7/28/2023,3/9/2023,77,true,"Pressure ulcer, site NEC"
+384,1/20/2023,10/8/2023,3,true,Abdmnal rgdt rt lwr quad
+385,11/20/2023,12/1/2022,73,false,Mult anom anter seg-eye
+386,4/7/2023,8/17/2023,63,true,Open wnd nas sinus-compl
+387,4/10/2023,12/24/2022,15,true,Quad gest 2+ monochorion
+388,9/19/2023,6/14/2023,30,true,War inj:guided missile
+389,11/9/2023,2/24/2023,84,true,Foundling health care
+390,9/8/2023,9/30/2023,13,true,Fet damag d/t drug-deliv
+391,10/12/2023,4/2/2023,10,false,Compl reattach part NEC
+392,8/17/2023,4/20/2023,31,false,Duodenum injury-closed
+393,8/30/2023,1/23/2023,98,true,Poisoning-heroin
+394,4/28/2023,5/18/2023,81,true,Trans hyperten-del w p/p
+395,8/14/2023,6/7/2023,44,true,Fecal impaction
+396,1/4/2023,12/27/2022,92,true,Fx surg neck humerus-opn
+397,10/20/2023,11/13/2023,35,true,Ndr sclr unsp xtrndl org
+398,6/13/2023,9/24/2023,93,true,Synovitis NOS
+399,6/23/2023,9/1/2023,52,true,Roseola infant d/t HHV-7
+400,6/21/2023,3/24/2023,73,true,Housing/econo circum NEC
+401,2/24/2023,2/23/2023,76,true,Glucrtcod-rem aldsternsm
+402,12/14/2022,1/4/2023,61,true,Loc 2nd osteoarth-shlder
+403,8/9/2023,4/10/2023,25,true,Adv eff blood agent NEC
+404,4/23/2023,12/14/2022,41,false,Correct transpos grt ves
+405,8/28/2023,9/27/2023,63,false,Papilledema w retina dis
+406,3/24/2023,6/22/2023,80,true,Mv-train coll-pers NEC
+407,9/9/2023,4/13/2023,75,true,Acc pois-agrcult NEC/NOS
+408,4/3/2023,10/9/2023,87,false,Ac allergic serous OM
+409,9/24/2023,1/21/2023,69,true,Malig neo pancreas NOS
+410,11/24/2023,7/4/2023,39,true,Anal or rectal pain
+411,7/7/2023,12/5/2022,76,false,Bipol I cur mix w/o psy
+412,1/3/2023,11/11/2023,78,false,Ac myl leuk wo achv rmsn
+413,10/5/2023,8/31/2023,66,true,Torus fx radius-cl/alone
+414,4/11/2023,6/4/2023,89,true,Family hx-malignancy NOS
+415,12/4/2022,11/29/2022,30,false,Hodgkins dis NOS thorax
+416,3/6/2023,11/30/2022,18,true,Menstrual disorder NEC
+417,7/5/2023,4/20/2023,90,true,Mitral valve dis NEC/NOS
+418,2/9/2023,4/3/2023,59,false,Congen CV dis-del w p/p
+419,6/29/2023,12/31/2022,62,true,Polio osteopathy-mult
+420,7/12/2023,10/4/2023,55,true,Adv eff anthelmintics
+421,3/23/2023,12/8/2022,26,false,Lymphosarcoma axilla
+422,2/19/2023,9/18/2023,8,true,Ac chem conjunctivitis
+423,4/25/2023,5/9/2023,2,false,Op subarach hem-prol com
+424,3/18/2023,4/2/2023,82,false,Opn skul fx NEC-brf coma
+425,5/19/2023,5/24/2023,41,true,Inf mcrg rstn b-lactam
+426,7/17/2023,9/6/2023,2,true,TB epididymis-cult dx
+427,11/19/2023,1/14/2023,81,true,Mal neo spinal cord
+428,3/22/2023,3/14/2023,28,false,Psorias related dis NEC
+429,6/5/2023,12/17/2022,68,true,Bartholin's glnd abscess
+430,3/12/2023,4/22/2023,7,false,Post-op foreign body NOS
+431,12/23/2022,6/13/2023,84,false,Cl skl base fx-deep coma
+432,1/6/2023,10/2/2023,22,true,2nd deg burn wrist
+433,1/24/2023,12/19/2022,68,true,Joint effusion-pelvis
+434,9/18/2023,7/11/2023,26,false,Suprf inj finger NEC-inf
+435,9/8/2023,8/9/2023,13,true,Hx-mental disorder NEC
+436,1/3/2023,3/29/2023,37,false,Neurofibromatosis NEC
+437,1/27/2023,5/4/2023,7,false,Recurrnt sleep paralysis
+438,11/4/2023,6/9/2023,6,true,Hairy-cell leukem axilla
+439,7/24/2023,2/19/2023,64,false,Acc poison-analgesic NEC
+440,2/19/2023,7/21/2023,92,true,Toxic encephalopathy
+441,2/17/2023,8/24/2023,78,true,Mal neo maxillary sinus
+442,7/11/2023,4/9/2023,43,false,Incipient cataract
+443,4/27/2023,7/28/2023,34,false,Old bucket tear lat men
+444,5/2/2023,6/11/2023,18,false,"""ventilation"" pneumonit"
+445,2/5/2023,4/15/2023,52,false,Hypocalcem/hypomagnes NB
+446,9/28/2023,5/21/2023,41,false,Sexual sadism
+447,7/12/2023,5/17/2023,80,true,Mening in oth nonbac dis
+448,6/20/2023,6/22/2023,43,true,Cubitus varus
+449,9/17/2023,1/20/2023,48,true,Scrn-ischemic heart dis
+450,4/27/2023,10/6/2023,54,false,"Spin sten,lumbr wo claud"
+451,10/15/2023,10/3/2023,70,true,Dental caries NOS
+452,1/22/2023,2/19/2023,76,true,Intest helminthiasis NOS
+453,9/22/2023,2/24/2023,70,false,Del w 4 deg lacerat-unsp
+454,9/27/2023,8/7/2023,28,false,Comp-internal joint pros
+455,11/18/2023,5/31/2023,57,false,Dis amino-acid metab NOS
+456,4/25/2023,7/17/2023,69,true,3rd brn w loss-head mult
+457,3/17/2023,10/12/2023,32,false,Opn cortx lacer-mod coma
+458,9/13/2023,8/25/2023,6,false,Injury femoral nerve
+459,5/21/2023,8/27/2023,73,true,Excess fet grth-antepart
+460,10/16/2023,1/12/2023,49,true,Rubella nerve compl NOS
+461,11/23/2023,1/10/2023,59,true,Joint sympt NEC-forearm
+462,11/17/2023,9/28/2023,71,true,Adverse food react NEC
+463,4/4/2023,6/13/2023,57,false,Factitious ill NEC/NOS
+464,6/30/2023,9/9/2023,36,true,"Fx triquetral, wrist-opn"
+465,7/23/2023,10/22/2023,18,false,Variola major
+466,5/20/2023,7/3/2023,93,true,Fx upper end tibia-open
+467,4/16/2023,3/23/2023,6,true,TB of thyroid-unspec
+468,9/6/2023,4/27/2023,95,false,Mediastinitis
+469,1/7/2023,9/21/2023,1,true,Boat acc inj NEC-swim
+470,12/10/2022,6/20/2023,96,false,Neuritis-delivered
+471,3/5/2023,2/25/2023,57,true,Causalgia lower limb
+472,7/3/2023,10/2/2023,68,true,Compl deliv NOS-postpart
+473,9/11/2023,11/23/2023,66,false,"Preg state, incidental"
+474,12/14/2022,4/2/2023,5,true,Glaucoma w systemic synd
+475,10/31/2023,4/11/2023,48,true,Oth symptm urinary systm
+476,4/26/2023,7/2/2023,37,true,Thlasema Hb-S w/o crisis
+477,6/2/2023,9/23/2023,94,false,Oth mult sb-before adm
+478,2/21/2023,3/12/2023,45,true,Factitious ill NEC/NOS
+479,5/31/2023,2/4/2023,35,true,"Gc prostatitis, chronic"
+480,2/11/2023,4/24/2023,75,true,Venous insufficiency NOS
+481,2/14/2023,12/16/2022,38,false,Disorders of uterus NEC
+482,12/22/2022,7/27/2023,93,true,Diphtheritic peritonitis
+483,1/12/2023,6/3/2023,77,true,Progressive iris atrophy
+484,1/26/2023,1/17/2023,47,false,Hypoglycemia NOS
+485,8/22/2023,7/21/2023,65,true,Arthroscopc conv to open
+486,10/18/2023,6/19/2023,64,true,Pulmon circulat dis NEC
+487,8/22/2023,6/17/2023,9,false,Isolat trach tb-oth test
+488,8/17/2023,11/3/2023,3,true,Thoracic aortic aneurysm
+489,7/28/2023,2/12/2023,72,false,Injury to optic chiasm
+490,4/26/2023,7/4/2023,51,false,Mal neo thoracic esophag
+491,8/27/2023,11/17/2023,70,true,Otorrhea NOS
+492,10/11/2023,6/25/2023,68,true,Abnorm heart sounds NEC
+493,1/9/2023,1/25/2023,41,true,Obstruct labor NEC-deliv
+494,4/26/2023,3/20/2023,48,true,Velo-cardio-facial synd
+495,3/10/2023,1/25/2023,24,true,Paving stone degenerat
+496,3/23/2023,6/5/2023,26,false,Pois-antifungal antibiot
+497,4/9/2023,11/18/2023,75,true,Letterer-siwe dis inguin
+498,12/23/2022,6/10/2023,43,true,Bone infect NOS-hand
+499,12/16/2022,11/16/2023,4,false,Fet growth ret 2500+g
+500,10/13/2023,2/28/2023,49,true,Open wound tongue-compl
+501,3/14/2023,10/3/2023,2,true,Actnc retic actnc grnlma
+502,12/18/2022,3/16/2023,12,true,Spon abort uncompl-inc
+503,8/20/2023,2/18/2023,84,true,Illeg ab w ren fail-inc
+504,6/28/2023,7/3/2023,89,true,Benign neo skin eyelid
+505,2/22/2023,8/3/2023,97,true,Heart laceration-closed
+506,12/4/2022,2/28/2023,39,true,Allerg arthritis-forearm
+507,12/14/2022,1/5/2023,9,true,Tubrclma mening-oth test
+508,8/11/2023,11/30/2022,4,false,Poisoning-penicillins
+509,2/16/2023,5/13/2023,31,true,Pingueculitis
+510,12/15/2022,2/3/2023,93,true,Nonauto hem anemia NOS
+511,1/23/2023,1/13/2023,24,true,Cl skl w oth fx-coma NOS
+512,1/20/2023,7/27/2023,60,false,Retained glass fragments
+513,5/23/2023,1/15/2023,63,true,Open skull fracture NEC
+514,7/17/2023,3/15/2023,87,false,Acc poison-cleanser NEC
+515,3/17/2023,3/31/2023,71,false,Hx military deployment
+516,11/10/2023,10/7/2023,1,true,Mantle cell lymph thorax
+517,11/29/2022,11/24/2023,32,true,Urethral calculus
+518,8/6/2023,12/19/2022,91,false,Fracture two ribs-closed
+519,7/8/2023,11/8/2023,54,false,Otitis media NOS
+520,9/2/2023,4/2/2023,83,true,Emotional lability
+521,11/9/2023,7/12/2023,96,true,C5-c7 fx-op/cord inj NOS
+522,10/10/2023,8/28/2023,17,true,Rupture uterus NOS-deliv
+523,8/13/2023,5/19/2023,22,false,Crushing injury knee
+524,2/3/2023,7/30/2023,52,false,Fetal damg d/t drug-unsp
+525,5/1/2023,11/11/2023,22,false,Other viral intes infec
+526,12/8/2022,3/3/2023,72,false,Jt derangement NOS-hand
+527,10/25/2023,7/12/2023,92,false,Trochanteric fx NOS-open
+528,1/15/2023,1/21/2023,95,true,Sprain sternoclavicular
+529,4/20/2023,3/17/2023,62,false,Abrasion shldr/arm-infec
+530,7/29/2023,12/29/2022,18,false,TB periph lymph-oth test
+531,2/14/2023,6/7/2023,53,true,Benign neoplasm thyroid
+532,10/25/2023,5/16/2023,27,true,Pulmon artery aneurysm
+533,9/11/2023,10/23/2023,8,false,B12 defic anemia NEC
+534,5/14/2023,5/9/2023,83,false,Ichthyosis congenita
+535,7/15/2023,4/22/2023,43,false,Idio periph neurpthy NEC
+536,6/8/2023,4/17/2023,93,true,Comb treatment convales
+537,4/13/2023,5/8/2023,57,false,Ankle enthesopathy NEC
+538,4/1/2023,4/21/2023,70,true,Ret cholelh fol cholecys
+539,6/14/2023,3/12/2023,33,false,Gingiv/periodont dis NOS
+540,1/4/2023,4/24/2023,62,true,Adv eff anthelmintics
+541,4/10/2023,1/18/2023,68,false,Infusion reaction NEC
+542,9/27/2023,10/12/2023,84,true,Mal melanoma scalp/neck
+543,2/18/2023,2/8/2023,91,true,Tick-borne enceph NOS
+544,12/30/2022,6/8/2023,23,true,Dyspareunia
+545,3/14/2023,7/18/2023,25,false,Juven dermat herpetiform
+546,3/23/2023,2/10/2023,93,true,Preg compl NEC-del w p/p
+547,5/13/2023,6/19/2023,15,false,Heat stroke & sunstroke
+548,11/21/2023,8/9/2023,96,true,Paralytic lagophthalmos
+549,10/5/2023,8/19/2023,12,false,Poisoning-gi agent NOS
+550,10/2/2023,8/14/2023,22,true,Tonic pupillary reaction
+551,7/18/2023,7/11/2023,49,true,Parapoxvirus infectn NEC
+552,2/26/2023,8/28/2023,17,true,Chronic hepatitis NEC
+553,9/20/2023,7/11/2023,95,false,Ob surg compl NEC-unspec
+554,5/7/2023,10/1/2023,75,false,Sprain ischiocapsular
+555,11/27/2022,12/29/2022,79,false,Anomalies of diaphragm
+556,6/11/2023,8/29/2023,60,true,Toxoplasma hepatitis
+557,4/12/2023,12/19/2022,70,false,3rd burn w loss-wrist
+558,5/10/2023,7/2/2023,7,true,Resolv idiopath scolios
+559,12/16/2022,2/20/2023,26,false,Louse-borne typhus
+560,2/8/2023,1/8/2023,33,false,Yaws manifestations NEC
+561,5/14/2023,8/13/2023,20,false,Lipoma skin face
+562,6/15/2023,7/26/2023,50,true,Extrinsic asthma NOS
+563,7/29/2023,10/24/2023,74,false,Sleep arousal disorder
+564,12/25/2022,1/5/2023,17,false,Coag def hemorr-deliver
+565,1/10/2023,2/3/2023,48,false,Bone infect NOS-hand
+566,12/28/2022,4/26/2023,85,false,Hemochromatos-rbc trans
+567,9/17/2023,11/12/2023,9,true,Cerv incompet-antepartum
+568,9/5/2023,12/25/2022,16,true,Undet pois-container gas
+569,10/6/2023,7/17/2023,65,true,TB meningitis-no exam
+570,1/10/2023,3/20/2023,43,false,Hodgkins sarcoma abdom
+571,10/31/2023,6/6/2023,61,false,Miliary TB NOS-exam unkn
+572,9/24/2023,10/10/2023,75,false,Crys arthrop NOS-forearm
+573,9/13/2023,10/27/2023,54,true,Adhesion tympanum-stapes
+574,12/28/2022,7/23/2023,34,false,Staphylcocc septicem NEC
+575,6/9/2023,5/27/2023,100,true,Rubella nerve compl NOS
+576,6/25/2023,9/16/2023,63,true,Ben crcinoid trans colon
+577,3/19/2023,12/5/2022,25,false,Periph T cell lymph head
+578,1/25/2023,9/6/2023,8,true,Urethral stricture NOS
+579,6/9/2023,11/24/2023,58,true,Benign neo mouth floor
+580,1/24/2023,9/7/2023,56,false,Thlasema Hb-S w/o crisis
+581,12/24/2022,2/10/2023,97,true,Ant cornea dystrophy NEC
+582,1/30/2023,2/1/2023,61,false,Conduc hear loss mid ear
+583,2/5/2023,11/17/2023,95,true,Partial edentulism NOS
+584,11/1/2023,11/24/2023,74,false,Peritoneal dialysis test
+585,11/26/2022,5/23/2023,52,false,Atrial flutter
+586,6/15/2023,2/18/2023,63,false,Adv eff succinimides
+587,2/2/2023,7/9/2023,27,true,Chronic hypotension
+588,12/19/2022,5/19/2023,86,true,Chronic hepatitis NOS
+589,4/4/2023,8/7/2023,12,false,Screening for yaws
+590,4/30/2023,4/18/2023,26,true,Recurr depr psychos-mod
+591,8/27/2023,4/27/2023,9,true,Hordeolum internum
+592,6/5/2023,6/28/2023,75,true,Accident d/t dust storm
+593,2/7/2023,7/23/2023,71,false,Echinococc granul liver
+594,10/7/2023,6/22/2023,26,false,Pelv fx-clos/pelv disrup
+595,6/14/2023,11/27/2022,76,false,Endometriosis in scar
+596,5/2/2023,8/5/2023,47,true,Compl reattached foot
+597,6/26/2023,5/12/2023,2,true,Asthma w status asthmat
+598,4/7/2023,4/30/2023,24,false,Opn skl fx NEC-deep coma
+599,5/10/2023,11/26/2022,76,true,Dissociative amnesia
+600,6/23/2023,3/10/2023,11,true,Injury-hanging
+601,10/17/2023,6/10/2023,22,false,"Fx mid/prx phal, hand-op"
+602,11/22/2023,11/6/2023,3,false,Swan-neck deformity
+603,10/26/2023,11/27/2022,1,true,Fx sacr-op/cauda inj NEC
+604,7/1/2023,5/12/2023,88,false,Abdmnal mass epigastric
+605,4/13/2023,2/20/2023,35,true,Orthostatic hypotension
+606,9/7/2023,6/3/2023,20,false,Contusion of finger
+607,6/6/2023,5/16/2023,70,true,Cl skull vlt fx w/o coma
+608,12/5/2022,5/11/2023,79,false,"Terrorism, firearms"
+609,10/10/2023,1/29/2023,14,false,Twins w fetal loss-unsp
+610,2/8/2023,9/27/2023,80,false,Parapoxvirus infectn NOS
+611,4/28/2023,4/27/2023,41,true,Opn skul fx NEC-brf coma
+612,5/20/2023,3/15/2023,59,true,Dislocation hip NOS-open
+613,2/23/2023,10/16/2023,47,true,Undeter pois-exhaust gas
+614,7/29/2023,7/5/2023,38,false,Small intest inj NOS-cl
+615,10/13/2023,8/16/2023,52,true,3rd deg burn neck
+616,8/18/2023,9/5/2023,57,false,Matern urine dis aff NB
+617,6/12/2023,12/10/2022,79,false,Preterm NEC 1250-1499g
+618,8/31/2023,3/9/2023,9,true,Shigellosis NOS
+619,4/4/2023,10/1/2023,88,false,Suberosis
+620,3/9/2023,11/17/2023,69,true,Malig neo abdomen
+621,5/12/2023,2/24/2023,38,true,Filamentary keratitis
+622,7/2/2023,5/29/2023,35,false,Child abuse NOS
+623,10/26/2023,11/3/2023,32,false,Benign neoplasm heart
+624,12/1/2022,10/28/2023,24,false,Menst mgr wo ntrc wo st
+625,12/24/2022,8/30/2023,11,false,Triplets w fet loss-unsp
+626,11/4/2023,10/24/2023,22,true,Rumination disorder
+627,4/9/2023,1/6/2023,51,true,Pulmonary valve anom NEC
+628,3/10/2023,10/27/2023,15,false,Glaucoma w systemic synd
+629,3/8/2023,4/12/2023,22,true,TB of bronchus-histo dx
+630,10/26/2023,4/15/2023,81,false,Cellulitis of trunk
+631,1/8/2023,5/11/2023,14,false,Neonat myasthenia gravis
+632,3/5/2023,8/30/2023,35,false,Slow transt constipation
+633,1/6/2023,7/4/2023,80,false,Disrupt perineum-unspec
+634,5/18/2023,9/11/2023,40,false,Dev dislocat joint-shldr
+635,6/20/2023,7/8/2023,75,false,Paragonimiasis
+636,10/9/2023,9/17/2023,74,false,Poisoning-opium NOS
+637,2/13/2023,5/18/2023,40,false,"Fx triquetral, wrist-cl"
+638,2/18/2023,8/19/2023,81,true,Umbil cond NEC aff NB
+639,12/29/2022,9/9/2023,4,true,Attn to artif open NOS
+640,8/31/2023,3/25/2023,36,false,Opn wnd buc mucosa-compl
+641,7/18/2023,5/3/2023,10,true,Mastoiditis NOS
+642,6/12/2023,7/12/2023,52,false,Allergic urticaria
+643,10/10/2023,11/25/2023,81,false,Acute laryngopharyngitis
+644,3/4/2023,8/19/2023,43,true,Grand multiparity-deliv
+645,9/21/2023,10/31/2023,56,true,Monoarthritis NOS-pelvis
+646,5/28/2023,4/6/2023,35,false,Cl skull fx NEC-concuss
+647,8/15/2023,1/12/2023,51,false,Late eff spinal cord inj
+648,8/21/2023,5/3/2023,94,true,Open wound of hip/thigh
+649,10/3/2023,8/28/2023,94,true,Schizophreniform dis NOS
+650,7/3/2023,7/31/2023,67,true,Ab NOS w renal fail-comp
+651,5/4/2023,6/17/2023,70,true,Spasm of accommodation
+652,4/10/2023,6/21/2023,88,false,Smallpox contact
+653,1/18/2023,7/7/2023,22,true,Tick-borne enceph NEC
+654,2/20/2023,3/18/2023,49,true,Open wound of pharynx
+655,11/26/2022,3/2/2023,9,false,Insect bite hand-infect
+656,4/25/2023,4/10/2023,51,true,Assault-criminal neglect
+657,6/8/2023,10/12/2023,79,false,Elev ca antigen 125
+658,3/5/2023,5/16/2023,62,true,Prophyl or tx meas NOS
+659,4/23/2023,5/1/2023,44,false,Int inf yrsnia entrcltca
+660,9/29/2023,11/12/2023,14,false,Abnormal bowel sounds
+661,12/1/2022,9/1/2023,81,false,W/craft fall NOS-power
+662,1/27/2023,10/17/2023,53,true,Enzyme defic anemia NEC
+663,2/9/2023,3/30/2023,20,true,Long-term use antibiotic
+664,7/2/2023,9/11/2023,54,false,Calculus of prostate
+665,7/14/2023,4/23/2023,81,true,Bariatrc surg stat w p/p
+666,7/22/2023,10/4/2023,19,true,Open wnd knee/leg-compl
+667,4/13/2023,11/18/2023,19,true,Poisoning-antiasthmatics
+668,8/5/2023,9/5/2023,10,true,Delta-beta thalassemia
+669,8/4/2023,8/4/2023,91,false,Cachexia
+670,11/21/2023,11/26/2022,47,false,Suffocation NOS
+671,6/9/2023,6/27/2023,51,true,"AMI inferopost, subseq"
+672,5/13/2023,11/9/2023,67,true,Botulism food poisoning
+673,10/12/2023,9/13/2023,99,false,Status amput below elbow
+674,5/5/2023,10/16/2023,85,false,Prime mover machine acc
+675,10/20/2023,4/9/2023,90,false,Urethritis NEC
+676,3/31/2023,7/22/2023,78,true,Injury peroneal nerve
+677,10/20/2023,6/13/2023,54,true,Bird-fanciers' lung
+678,7/20/2023,1/23/2023,24,false,Screen-gentc dis carrier
+679,7/9/2023,2/25/2023,90,true,Opn skl fx NEC/cereb lac
+680,11/10/2023,1/14/2023,62,true,Corneal grft malfunction
+681,11/17/2023,10/17/2023,91,true,Eustachian tube anom NEC
+682,1/17/2023,1/25/2023,17,false,Fecal impaction
+683,11/16/2023,10/6/2023,78,true,Opn skul base fx/hem NEC
+684,11/19/2023,10/30/2023,44,true,Fetal comp in utero-del
+685,3/13/2023,5/6/2023,68,true,Cl skul/oth fx-deep coma
+686,3/10/2023,12/12/2022,55,true,Sprain acromioclavicular
+687,8/19/2023,2/5/2023,37,true,Benign neoplasm retina
+688,7/19/2023,4/12/2023,35,false,Lymphadenitis NOS
+689,9/9/2023,4/27/2023,70,true,DMII hprsm nt st uncntrl
+690,5/29/2023,3/10/2023,27,true,Pilonidal cyst w/o absc
+691,10/15/2023,10/4/2023,41,false,Opn skul base fx-concuss
+692,7/23/2023,10/4/2023,4,false,Abnormal granulation NEC
+693,2/9/2023,2/14/2023,57,true,Opioid/other dep-contin
+694,10/25/2023,3/11/2023,3,false,Cataract NOS
+695,7/26/2023,8/2/2023,13,false,Hx-endocr/meta/immun dis
+696,10/12/2023,5/23/2023,13,false,Renal artery aneurysm
+697,8/15/2023,12/13/2022,26,false,Macular focal retinitis
+698,5/12/2023,12/12/2022,66,false,Wtrcrft acc NEC-pers NOS
+699,12/4/2022,4/24/2023,2,false,CV dis NEC-postpartum
+700,7/22/2023,6/14/2023,52,true,TB meningitis-histo dx
+701,11/20/2023,5/9/2023,44,true,Open wound of vulva
+702,7/2/2023,3/24/2023,15,true,Contracept mgmt-emergncy
+703,4/13/2023,11/16/2023,47,true,War inj-unconven war NOS
+704,3/1/2023,11/11/2023,79,true,Late effect leg fx
+705,11/13/2023,5/3/2023,63,false,War inj:WMD NOS
+706,5/26/2023,7/19/2023,25,false,Hx of liver malignancy
+707,8/23/2023,7/21/2023,63,true,Therap radiation overdos
+708,2/14/2023,9/4/2023,6,false,Hx of irradiation
+709,3/22/2023,8/8/2023,51,true,Syst sclerosis lung dis
+710,8/28/2023,2/25/2023,9,false,Atypical depressive dis
+711,2/7/2023,8/10/2023,52,false,Observ-inflicted inj NEC
+712,12/21/2022,9/3/2023,4,true,Cellulitis of trunk
+713,4/24/2023,11/26/2022,23,true,Postphl syn w ulc&inflam
+714,7/15/2023,5/7/2023,43,false,Gstr/ddnts NOS w/o hmrhg
+715,7/10/2023,5/15/2023,96,true,Mv-train coll-pers NEC
+716,2/27/2023,8/27/2023,92,false,Cns TB NEC-unspec
+717,11/11/2023,8/16/2023,77,true,Pyeloureteritis cystica
+718,5/13/2023,10/21/2023,38,true,Cl skl base fx-deep coma
+719,11/7/2023,4/28/2023,78,true,Inf arthrit NOS-l/leg
+720,5/14/2023,8/14/2023,77,false,Inj superior vena cava
+721,5/4/2023,2/23/2023,2,false,Congenital anemia
+722,8/13/2023,6/23/2023,90,true,Mv traff acc-mcycl psgr
+723,12/22/2022,2/21/2023,91,false,Pois-antimycobac drg NEC
+724,6/23/2023,3/3/2023,82,true,Varicos leg ulcer/inflam
+725,9/17/2023,1/4/2023,58,false,Cong genu recurvatum
+726,12/12/2022,8/4/2023,27,true,Jt derangment NEC-up/arm
+727,1/24/2023,1/25/2023,35,true,Toxic effect acids
+728,10/7/2023,5/28/2023,70,true,Malig neo biliary NOS
+729,3/3/2023,8/31/2023,15,true,Hairy-cell leukem thorax
+730,12/24/2022,3/31/2023,47,true,Hx-cong malform-heart
+731,4/7/2023,7/29/2023,42,true,Undetrmine accid-air gun
+732,10/6/2023,12/22/2022,13,true,Pulm congest/hypostasis
+733,2/17/2023,12/26/2022,33,true,TB bronchiect-exam unkn
+734,3/8/2023,4/19/2023,16,false,Irritable bowel syndrome
+735,10/1/2023,9/14/2023,87,true,Cl skl w oth fx-mod coma
+736,9/28/2023,1/27/2023,54,true,Injury-NOS
+737,7/10/2023,2/8/2023,27,false,GI injury NOS-closed
+738,3/7/2023,3/1/2023,89,false,Family dsrpt-estrangmemt
+739,8/6/2023,9/14/2023,22,false,Acc poison-fungicides
+740,3/18/2023,8/31/2023,60,false,Femoral vein phlebitis
+741,12/16/2022,8/28/2023,41,true,Spon abor w pel inf-comp
+742,4/23/2023,1/16/2023,77,true,Auditory recruitment
+743,11/22/2023,7/23/2023,48,false,Thoracic disc degen
+744,12/17/2022,5/22/2023,52,true,Circadian rhythm-jetlag
+745,7/25/2023,2/27/2023,100,true,Redness/discharge of eye
+746,6/3/2023,11/15/2023,35,true,C1-c4 fx-op/cord inj NEC
+747,12/11/2022,10/9/2023,33,true,Primary CNS lymph spleen
+748,2/9/2023,3/7/2023,69,false,H zoster otitis externa
+749,1/12/2023,5/15/2023,80,false,Abn pel NEC in preg-unsp
+750,9/2/2023,12/7/2022,4,false,One eye-mod/oth-nr norm
+751,5/20/2023,6/13/2023,48,false,Cystic kidney diseas NOS
+752,12/16/2022,5/25/2023,45,true,Voyeurism
+753,7/4/2023,11/6/2023,20,true,Artic cartil dis-forearm
+754,1/26/2023,10/18/2023,54,true,Hodg nodul sclero spleen
+755,10/2/2023,6/10/2023,18,true,Dis histidine metabolism
+756,1/12/2023,12/19/2022,96,true,Ac salpingo-oophoritis
+757,1/5/2023,2/25/2023,100,false,Shigellosis NOS
+758,12/31/2022,7/15/2023,14,false,Other atopic dermatitis
+759,4/18/2023,4/7/2023,96,true,Meconium asp w resp symp
+760,10/11/2023,12/17/2022,44,false,Fail trial lab NOS-antep
+761,5/16/2023,10/19/2023,42,false,Flat anterior chamber
+762,3/13/2023,1/24/2023,28,false,Secondary corneal edema
+763,8/19/2023,4/12/2023,49,false,Poison-antipsychotic NEC
+764,3/29/2023,2/16/2023,2,true,Ob trauma NOS-delivered
+765,2/21/2023,9/21/2023,67,false,Male gen vascul dis NEC
+766,9/2/2023,1/27/2023,56,true,Hard tiss dis teeth NOS
+767,9/18/2023,8/27/2023,100,false,Proteus enteritis
+768,12/2/2022,2/2/2023,31,true,Hpt dlt wo b wo hpt coma
+769,9/21/2023,10/26/2023,24,true,Atresia large intestine
+770,10/9/2023,12/14/2022,4,false,Acute pancreatitis
+771,1/21/2023,9/12/2023,50,false,Laryngeal diphtheria
+772,12/16/2022,5/21/2023,27,true,Oligohydramnios-antepar
+773,2/21/2023,5/26/2023,56,true,Lactation dis NEC-unspec
+774,7/21/2023,6/1/2023,85,false,Opn skul fx NEC-mod coma
+775,3/7/2023,11/21/2023,17,true,Anomalies of spleen
+776,7/1/2023,9/14/2023,90,false,Exhaustion-excess exert
+777,3/8/2023,1/1/2023,49,true,One eye-tot/oth-near nor
+778,6/16/2023,4/13/2023,56,true,Nerv root/plexus dis NOS
+779,9/20/2023,5/16/2023,68,true,Loc 2nd osteoart-forearm
+780,9/18/2023,6/8/2023,24,false,Other sequelae of MI NEC
+781,2/25/2023,3/11/2023,88,false,Elective surgery NOS
+782,1/19/2023,1/24/2023,71,true,Mv n-traff NEC-pers NOS
+783,7/22/2023,12/18/2022,33,false,Locked-in state
+784,11/27/2022,1/2/2023,27,false,Poisoning-alkalizing agt
+785,12/3/2022,8/12/2023,50,true,Acc poison-piped gas
+786,3/24/2023,4/29/2023,8,true,Oth sus mat/ftl nt fnd
+787,7/20/2023,5/24/2023,9,true,Diarrhea
+788,2/3/2023,7/14/2023,63,true,Breast inf NEC-antepart
+789,5/15/2023,3/13/2023,4,true,Rec preg loss wo cur prg
+790,5/4/2023,1/12/2023,47,true,Acariasis NEC
+791,7/15/2023,6/1/2023,81,true,Cl skull vlt fx-brf coma
+792,1/13/2023,5/5/2023,8,false,Gu TB NOS-oth test
+793,2/24/2023,5/17/2023,100,false,Illeg abort w shock-unsp
+794,10/21/2023,6/9/2023,39,true,Cong catar/lens anom NEC
+795,10/16/2023,7/2/2023,68,true,TB of spleen-micro dx
+796,3/28/2023,12/28/2022,78,true,Abdmnal mass rt lwr quad
+797,5/22/2023,8/21/2023,7,false,Oth unspcf nspf imun fnd
+798,4/24/2023,10/12/2023,79,true,Caregiving NEC
+799,3/10/2023,1/29/2023,62,false,Secondry pigment degen
+800,11/1/2023,11/19/2023,84,true,TB of spleen-exam unkn
+801,12/15/2022,10/11/2023,8,false,Hpt C w hepatic coma NOS
+802,4/23/2023,8/31/2023,65,true,Fx eight/more rib-closed
+803,9/6/2023,9/29/2023,98,true,Erythema nodos tb-unspec
+804,4/3/2023,7/28/2023,78,false,Ear anomaly NOS
+805,3/20/2023,6/10/2023,91,false,Rupture of synovium NOS
+806,3/11/2023,4/17/2023,94,false,Posterior soft tiss impg
+807,7/23/2023,6/19/2023,87,false,Primary coccidioidomycos
+808,9/21/2023,1/5/2023,60,true,Loc 2nd osteoart-forearm
+809,6/21/2023,9/24/2023,79,true,Primary CNS lymph thorax
+810,4/29/2023,1/30/2023,35,false,TMJ sounds opn/close jaw
+811,11/17/2023,3/11/2023,53,true,Crystal deposit vitreous
+812,7/1/2023,6/17/2023,93,false,Ocl mlt bi art wo infrct
+813,10/22/2023,7/22/2023,15,true,Peptic ulcer NOS
+814,4/15/2023,2/6/2023,17,true,Suprv young multigravida
+815,9/22/2023,1/28/2023,58,false,Late effect of crushing
+816,1/2/2023,8/11/2023,52,true,Excess blood-alcohol lev
+817,2/6/2023,12/12/2022,4,false,Ac erth/erlk wo ach rmsn
+818,4/22/2023,7/14/2023,65,true,Opn skul vlt fx-mod coma
+819,7/22/2023,6/5/2023,34,false,Kidney laceration-closed
+820,4/22/2023,5/2/2023,48,false,Sec DM wo cmp nt st uncn
+821,1/20/2023,2/19/2023,21,true,Food poisoning NOS
+822,8/28/2023,3/30/2023,36,true,Injury-jump fm natur sit
+823,6/8/2023,7/13/2023,80,true,Impulse control dis NOS
+824,8/30/2023,6/29/2023,41,true,Acute duodenal ulcer NOS
+825,4/21/2023,11/4/2023,58,true,Conn's syndrome
+826,7/11/2023,6/18/2023,85,false,Cystitis cystica
+827,1/20/2023,1/9/2023,15,false,Mal hyp ht/kd I-IV w hf
+828,2/22/2023,12/27/2022,9,true,Nox sub NOS aff NB/fetus
+829,11/14/2023,7/3/2023,66,true,Diffus cystic mastopathy
+830,1/4/2023,8/2/2023,51,false,Arthropathy w skin dis
+831,9/7/2023,4/24/2023,15,true,Circadian rhym sleep NEC
+832,9/2/2023,9/25/2023,58,true,Oth coll stnd obj-st car
+833,11/5/2023,10/21/2023,61,true,Pelvic varices
+834,9/29/2023,6/10/2023,55,false,Colon injury NEC-closed
+835,2/22/2023,3/5/2023,88,false,Cns compl in del-postpar
+836,1/10/2023,1/2/2023,25,true,NB pulmonary hemorrhage
+837,1/10/2023,6/21/2023,16,false,Screen-iron defic anemia
+838,10/7/2023,1/14/2023,52,true,"Fx triquetral, wrist-cl"
+839,3/20/2023,9/22/2023,31,true,Peripheral vertigo NEC
+840,11/30/2022,5/30/2023,99,false,Syphil endocarditis NOS
+841,2/15/2023,4/8/2023,36,false,Dysplasia of anus
+842,1/4/2023,9/4/2023,45,true,Mult pregnancy aff NB
+843,5/25/2023,10/18/2023,96,false,Nausea with vomiting
+844,4/23/2023,6/15/2023,74,false,Residual opn ang glaucma
+845,11/24/2023,5/13/2023,23,false,Psychogenic skin disease
+846,12/23/2022,2/5/2023,66,true,Apnea
+847,2/17/2023,9/7/2023,27,true,Reiter arthritis-pelvis
+848,8/28/2023,10/25/2023,82,true,Skin transplant status
+849,3/2/2023,10/6/2023,18,true,Opn skl fx NEC-proln com
+850,11/3/2023,3/16/2023,60,true,Abn react-surg proc NOS
+851,3/14/2023,12/23/2022,5,false,Ctrct frgmt frm ctr surg
+852,10/30/2023,8/26/2023,27,true,Acariasis NOS
+853,11/22/2023,4/9/2023,63,false,"BMI 30.0-30.9,adult"
+854,6/25/2023,6/3/2023,59,false,Burkitt's tumor abdom
+855,2/17/2023,6/23/2023,24,false,Bact arthritis-ankle
+856,1/5/2023,1/25/2023,63,false,Postabort metabolic dis
+857,2/18/2023,3/1/2023,91,true,Extreme immat 2000-2499g
+858,12/17/2022,1/3/2023,89,true,Comp-heart valve prosth
+859,4/29/2023,7/2/2023,78,false,Infect dis NEC-del w p/p
+860,12/19/2022,10/11/2023,94,false,Symbolic dysfunction NOS
+861,6/4/2023,9/10/2023,49,false,Cerebral atherosclerosis
+862,4/28/2023,3/12/2023,10,true,Open wound forearm-compl
+863,3/14/2023,4/11/2023,87,true,Renal dis preg NOS-unsp
+864,11/18/2023,7/12/2023,77,true,Benign carcinoid ileum
+865,12/22/2022,8/15/2023,35,false,Disseminated retina scar
+866,11/3/2023,11/26/2022,68,true,Dermatitis NEC
+867,2/26/2023,7/2/2023,48,false,Alt exotropia w v pattrn
+868,9/16/2023,7/13/2023,81,true,Burn NOS knee
+869,9/8/2023,8/22/2023,68,true,Prostatitis in oth dis
+870,2/20/2023,10/4/2023,10,true,Amebic liver abscess
+871,5/23/2023,6/7/2023,65,false,Open wnd ossicles-compl
+872,1/15/2023,7/26/2023,20,true,Fetal conjoin twins-ante
+873,6/22/2023,4/19/2023,58,true,Osteochondropathy NOS
+874,5/3/2023,5/31/2023,25,true,Prurigo
+875,10/21/2023,12/3/2022,28,false,Cl skull vlt fx-coma NOS
+876,4/15/2023,4/22/2023,50,true,Malig neopl pleura NEC
+877,1/19/2023,7/18/2023,100,true,Poison-gas/vapor NEC
+878,6/13/2023,2/21/2023,100,false,Rout postpart follow-up
+879,2/17/2023,8/19/2023,41,false,Bilateral femoral hernia
+880,6/21/2023,2/20/2023,25,true,Nephritis NOS in oth dis
+881,9/30/2023,12/31/2022,95,false,Macular scars NEC
+882,9/11/2023,4/25/2023,74,false,Undet pois-med agnt NOS
+883,9/27/2023,4/16/2023,72,false,Self inflict acc-air gun
+884,4/22/2023,3/4/2023,1,false,Fx c5 vertebra-open
+885,9/11/2023,5/12/2023,59,true,Mal neo tip/lat tongue
+886,3/18/2023,10/6/2023,55,false,Esophageal anomaly NEC
+887,7/5/2023,2/14/2023,41,true,Central hearing loss
+888,8/26/2023,7/7/2023,59,false,Part epil w/o intr epil
+889,1/24/2023,2/13/2023,52,true,Benign neo skin trunk
+890,7/21/2023,5/12/2023,27,false,2nd deg burn head NOS
+891,9/23/2023,12/28/2022,23,true,Soft tissue disord NOS
+892,6/28/2023,12/6/2022,24,true,Tk off/land-comm crf NEC
+893,1/15/2023,8/11/2023,43,true,Asept necro femur condyl
+894,3/3/2023,3/21/2023,50,false,"Sensory hear loss,unilat"
+895,10/13/2023,5/2/2023,75,false,Cond hear loss inner ear
+896,4/30/2023,11/8/2023,41,false,Amputation finger
+897,3/30/2023,12/29/2022,28,false,Penetrat magnet FB eye
+898,5/15/2023,5/12/2023,7,false,Fet damag d/t drug-deliv
+899,1/26/2023,7/19/2023,63,true,Malig neo abdomen
+900,11/17/2023,1/2/2023,90,true,TB encephalitis-cult dx
+901,3/18/2023,2/12/2023,30,true,Fem pelv inflam dis NOS
+902,4/29/2023,6/12/2023,7,true,Complete les cord/t7-t12
+903,11/24/2023,1/7/2023,13,true,Opn skl base fx-coma NOS
+904,10/28/2023,1/16/2023,85,false,Depr psychos-part remiss
+905,6/20/2023,1/26/2023,12,false,Immune mechanism dis NEC
+906,7/16/2023,9/12/2023,7,true,Woodworking machine acc
+907,5/4/2023,12/29/2022,98,false,Insect bite trunk
+908,6/16/2023,11/20/2023,69,false,Evans' syndrome
+909,1/13/2023,10/27/2023,29,false,Abort NOS w shock-unsp
+910,12/8/2022,3/9/2023,71,true,Gnathostomiasis
+911,9/8/2023,3/18/2023,74,false,Post-osse mech fail impl
+912,7/13/2023,3/7/2023,88,true,Hit by train-ped cyclist
+913,12/3/2022,4/8/2023,36,false,Cryst arthrop NEC-l/leg
+914,3/12/2023,10/7/2023,38,true,Monoarthritis NOS-up/arm
+915,11/22/2023,3/14/2023,43,true,Ob pyemic embol-deliver
+916,7/10/2023,2/14/2023,49,true,Prolapsed arm-delivered
+917,6/24/2023,10/8/2023,1,false,Hodgkins mix cell pelvic
+918,12/2/2022,3/26/2023,13,true,Opn skl base fx-coma NOS
+919,7/28/2023,10/4/2023,90,true,Wheelchair dependence
+920,2/23/2023,2/10/2023,19,false,Fx medial malleolus-open
+921,2/9/2023,1/4/2023,86,false,Attem abort w pelv damag
+922,4/18/2023,3/17/2023,70,false,Postinflam pulm fibrosis
+923,3/11/2023,4/26/2023,49,true,Aircraft acc-ground crew
+924,2/26/2023,9/15/2023,38,false,NB hemolyt dis:rh isoimm
+925,3/18/2023,9/8/2023,4,true,Jt contracture-mult jts
+926,7/12/2023,12/21/2022,68,true,Madelung's deformity
+927,6/18/2023,7/10/2023,73,false,Suppur otitis media NOS
+928,12/10/2022,3/18/2023,72,true,H simplex iridocyclitis
+929,1/23/2023,12/18/2022,35,false,Prolonged 1st stage-unsp
+930,5/1/2023,3/28/2023,5,false,"Dancing,rhythm movements"
+931,6/28/2023,12/24/2022,46,true,"Hx-cong malform-skin,ms"
+932,12/19/2022,11/28/2022,100,false,Heart compl-del w p/p
+933,1/12/2023,4/10/2023,89,true,Joint sympt NEC-forearm
+934,4/16/2023,7/9/2023,20,true,Letterer-siwe dis head
+935,7/5/2023,10/23/2023,25,false,Cumltv trma-repetv motn
+936,8/24/2023,8/11/2023,23,true,Disl tarsometatarsal-opn
+937,10/8/2023,5/22/2023,37,false,Reticulosarcoma head
+938,1/12/2023,4/12/2023,62,true,Bipol I cur mixed w psy
+939,12/20/2022,12/9/2022,51,true,Leukocytopenia NOS
+940,6/25/2023,12/2/2022,15,false,Reiter arthritis-shlder
+941,12/12/2022,11/28/2022,20,true,Home remote from hospitl
+942,4/11/2023,2/19/2023,16,true,Int hemrrhoid w comp NEC
+943,8/27/2023,4/22/2023,8,true,Lat disloc prox tibia-cl
+944,12/22/2022,10/24/2023,22,false,Laryngotrach anomaly NEC
+945,12/13/2022,4/27/2023,85,false,Rubella in preg-unspec
+946,12/23/2022,2/23/2023,29,true,Ath ext nonautlg bps gft
+947,2/8/2023,10/4/2023,12,true,Injury to mult nerves
+948,7/9/2023,5/18/2023,65,false,Mod nonprolf db retinoph
+949,4/5/2023,5/14/2023,80,false,Nonvenereal endemic syph
+950,6/26/2023,10/16/2023,98,false,Inj inferior mesent vein
+951,8/28/2023,12/12/2022,42,true,"NB intraven hem,grade iv"
+952,12/1/2022,4/14/2023,52,true,Chronic skin ulcer NOS
+953,9/13/2023,2/12/2023,57,false,Disproportion NOS-deliv
+954,12/5/2022,2/22/2023,20,true,Watercraft fall NEC-crew
+955,6/10/2023,2/20/2023,85,true,Toxoplasma pneumonitis
+956,6/26/2023,8/1/2023,41,true,3rd deg burn axilla
+957,7/7/2023,1/13/2023,46,true,Intrinsic eustach obstr
+958,4/13/2023,11/28/2022,86,true,Poisoning-methaqualone
+959,1/20/2023,3/23/2023,6,false,Open wound of trachea
+960,11/6/2023,12/5/2022,18,true,Oth vrl hepat w hpt coma
+961,9/20/2023,9/26/2023,55,true,Ch leu un cl wo ach rmsn
+962,11/27/2022,11/14/2023,76,true,Aircraft acc-parachutist
+963,6/27/2023,3/19/2023,35,true,Late eff accident NEC
+964,1/11/2023,2/15/2023,27,false,Scrn-ischemic heart dis
+965,6/12/2023,4/7/2023,22,true,Acc-hot liquid & steam
+966,8/6/2023,9/30/2023,5,true,Reduc deform up limb NOS
+967,5/10/2023,6/11/2023,89,true,Cent perf tympanic memb
+968,9/12/2023,6/19/2023,17,true,Undet circ-fall site NOS
+969,10/22/2023,10/7/2023,94,true,Ophthalmia nodosa
+970,12/14/2022,1/3/2023,88,false,Deep 3rd deg burn ear
+971,3/12/2023,5/7/2023,88,true,Op skul vlt fx-deep coma
+972,3/21/2023,2/5/2023,58,true,Med exam NEC-admin purp
+973,2/22/2023,9/3/2023,4,true,Attemp abort w embolism
+974,1/7/2023,8/21/2023,86,true,Pyogenic granuloma
+975,11/28/2022,5/31/2023,34,true,Serous detach pigm epith
+976,5/12/2023,9/8/2023,54,false,Mult gest malpresen-unsp
+977,1/13/2023,12/6/2022,26,false,Mucopolysaccharidosis
+978,4/30/2023,5/23/2023,44,true,War inj:aircrft des-enmy
+979,4/18/2023,5/6/2023,34,true,Genetic counseling
+980,3/30/2023,5/29/2023,51,false,Lac eyelid skn/perioculr
+981,5/3/2023,9/2/2023,97,false,"BMI 27.0-27.9,adult"
+982,10/9/2023,5/8/2023,83,true,Malig neo lower gum
+983,12/31/2022,2/23/2023,19,false,Colon injury NEC-closed
+984,3/11/2023,7/19/2023,66,false,Intes infec astrovirus
+985,8/5/2023,3/10/2023,87,false,RR acc NEC-person NOS
+986,4/24/2023,9/17/2023,14,false,TB periph lymph-oth test
+987,2/3/2023,12/20/2022,96,true,TB esophagus-oth test
+988,10/15/2023,7/20/2023,57,false,Adv eff antmycob antbiot
+989,3/26/2023,7/14/2023,12,false,Giardiasis
+990,8/29/2023,1/11/2023,78,true,"Fx humer, lat condyl-opn"
+991,1/7/2023,12/6/2022,27,false,"Pneumonia, organism NOS"
+992,11/7/2023,3/24/2023,79,false,Grand multiparity
+993,7/24/2023,2/25/2023,48,false,Bacterial diseases NEC
+994,9/15/2023,4/26/2023,47,true,Cramp in limb
+995,11/15/2023,9/6/2023,87,false,Lt ef-mplga lowlmb nondm
+996,1/23/2023,8/20/2023,79,false,Sprain sacrotuberous
+997,4/4/2023,2/4/2023,84,true,Chr serous OM NEC
+998,11/14/2023,6/18/2023,94,true,Cervical spondylosis
+999,7/20/2023,8/8/2023,86,true,Fet damg d/t virus-unsp
+1000,1/14/2023,3/26/2023,56,true,Chr amebiasis w/o absces
