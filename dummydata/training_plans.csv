@@ -1,0 +1,101 @@
+training_plans_id,training_plans_name,training_category_code,training_plan_description,training_plan_start_date,training_plan_end_date,training_plan_location,training_plan_contact_person
+1,sbuffery0,RPR,"Maternal care for excessive fetal growth, second trimester, other fetus",3/3/2023,9/7/2023,Velykyi Bereznyi,Stephani Buffery
+2,csully1,MRC,Dieulafoy lesion of intestine,4/20/2023,8/30/2023,Przystajń,Colby Sully
+3,aworkes2,MDY,"Military operations involving fragments from munitions, civilian, initial encounter",4/17/2023,12/12/2023,Cileuya,Albertina Workes
+4,jtennant3,LTS,"Inhalant use, unspecified with intoxication with delirium",3/21/2023,7/21/2023,Noen Maprang,Jedidiah Tennant
+5,fteissier4,GBK,Encounter for screening for malignant neoplasm of intestinal tract,3/20/2023,7/23/2023,Daja,Flint Teissier
+6,atompkiss5,RYN,"Car passenger injured in noncollision transport accident in traffic accident, subsequent encounter",3/23/2023,7/18/2023,Duwayr Raslān,Adolpho Tompkiss
+7,tmillimoe6,TAQ,"Person on outside of heavy transport vehicle injured in collision with heavy transport vehicle or bus in nontraffic accident, initial encounter",4/9/2023,6/28/2023,Kafr ad Dawwār,Tildi Millimoe
+8,avowels7,BZB,"Poisoning by antidiarrheal drugs, accidental (unintentional), subsequent encounter",1/21/2023,9/10/2023,Citeluk,Amalea Vowels
+9,ucrommett8,WSM,Benign neoplasm of other specified female genital organs,4/14/2023,10/11/2023,Ayotupas,Ulberto Crommett
+10,kbaddow9,BLL,"Fracture of subcondylar process of mandible, unspecified side, initial encounter for closed fracture",3/29/2023,11/7/2023,Aimadamodo,Kathlin Baddow
+11,vrouthorna,CRE,"Displaced fracture of olecranon process without intraarticular extension of unspecified ulna, subsequent encounter for closed fracture with nonunion",3/2/2023,11/2/2023,Néa Plágia,Vivie Routhorn
+12,lpriddingb,MJR,"Fracture of unspecified tarsal bone(s) of right foot, initial encounter for open fracture",4/2/2023,6/7/2023,Hengbanqiao,Lise Pridding
+13,dbolandc,HUG,Cellulitis of finger,2/23/2023,8/25/2023,Nassarawa,Dallas Boland
+14,rhovertd,KDX,"Poisoning by unspecified psychostimulants, intentional self-harm, subsequent encounter",5/13/2023,9/22/2023,New York City,Raven Hovert
+15,afitte,ZKE,Activities involving other specified sports and athletics,5/30/2023,10/11/2023,Mamburao,Ancell Fitt
+16,adanksf,OYK,Malignant neoplasm of rectosigmoid junction,3/7/2023,6/7/2023,Pacucha,Artur Danks
+17,estanyerg,FSC,"Person boarding or alighting a motorcycle injured in collision with pedal cycle, subsequent encounter",5/6/2023,11/5/2023,Grande Cache,Emlynne Stanyer
+18,dmincih,CUR,"Subluxation of metacarpophalangeal joint of other finger, subsequent encounter",5/24/2023,8/31/2023,Cagbang,Devland Minci
+19,agrelaki,CRR,"Occupant (driver) (passenger) of heavy transport vehicle injured in transport accidents with military vehicle, sequela",4/18/2023,8/12/2023,Shuangkou,Aylmer Grelak
+20,slorriej,EWN,Other intrapartum hemorrhage,2/15/2023,6/13/2023,Älvsbyn,Sidney Lorrie
+21,jderrickk,BRA,"Insect bite (nonvenomous) of right back wall of thorax, sequela",1/25/2023,6/3/2023,Osório,Jakie Derrick
+22,whawkeyl,GPS,"Nondisplaced fracture of medial condyle of left humerus, initial encounter for open fracture",5/30/2023,11/1/2023,Liuxia,Wilton Hawkey
+23,wspitellm,ATV,"Poisoning by other laxatives, accidental (unintentional), sequela",2/25/2023,6/2/2023,Tīrān,Whitby Spitell
+24,lrialln,LJG,"Sprain of metacarpophalangeal joint of unspecified finger, sequela",4/12/2023,7/20/2023,Milove,Larry Riall
+25,mrookeo,GOJ,"External constriction of unspecified ear, subsequent encounter",3/13/2023,6/19/2023,Savelugu,Meyer Rooke
+26,bmottinellip,XNN,"Dislocation of other parts of left shoulder girdle, subsequent encounter",2/3/2023,12/17/2023,San Ramon,Bathsheba Mottinelli
+27,tflavertyq,ARG,Sleepwalking [somnambulism],5/7/2023,11/13/2023,Point Hill,Tremaine Flaverty
+28,awillingaler,KNU,"Burn of first degree of multiple sites of unspecified shoulder and upper limb, except wrist and hand, sequela",5/9/2023,11/30/2023,Berkovitsa,Aaron Willingale
+29,pstarrss,DRC,"Mediastinal (thymic) large B-cell lymphoma, unspecified site",4/12/2023,7/8/2023,Linjiang,Phaedra Starrs
+30,amacgettigent,ODR,"Unspecified occupant of bus injured in collision with fixed or stationary object in traffic accident, subsequent encounter",4/29/2023,8/15/2023,Bojnik,Ameline MacGettigen
+31,sheinleu,TBJ,"Nondisplaced fracture of second metatarsal bone, right foot, subsequent encounter for fracture with nonunion",3/4/2023,9/17/2023,Chikwawa,Sheffie Heinle
+32,dtrytsmanv,AAC,Other specified viral hemorrhagic fevers,1/18/2023,7/4/2023,San Nicolas,Daven Trytsman
+33,jwallickerw,GTR,"External constriction of left back wall of thorax, sequela",1/17/2023,11/12/2023,Ustynivka,Jerry Wallicker
+34,cburberyex,XPL,"Disorder of amniotic fluid and membranes, unspecified, second trimester",5/16/2023,11/28/2023,Spitsevka,Coretta Burberye
+35,kcamolliy,XPP,"Other osteoporosis with current pathological fracture, right ankle and foot, subsequent encounter for fracture with malunion",3/17/2023,10/1/2023,Mendes,Karlene Camolli
+36,alockyearz,MPW,"Displaced Maisonneuve's fracture of right leg, sequela",3/6/2023,12/12/2023,San Antonio,Arnoldo Lockyear
+37,asyplus10,SJP,Periodic paralysis,5/5/2023,12/28/2023,Huanoquite,Aldo Syplus
+38,msline11,REO,"Laceration of axillary artery, left side, sequela",5/9/2023,9/26/2023,Huzhen,Miller Sline
+39,pcarradice12,TPJ,"Fracture of angle of right mandible, initial encounter for open fracture",5/4/2023,8/25/2023,Mataquescuintla,Perry Carradice
+40,omilstead13,HRT,"Major laceration of femoral artery, unspecified leg, subsequent encounter",2/24/2023,7/30/2023,Krzyżowice,Osbourne Milstead
+41,ptorrejon14,KNA,"Other fracture of shaft of left tibia, subsequent encounter for open fracture type I or II with nonunion",2/27/2023,12/22/2023,Baiquan,Patrick Torrejon
+42,pnielson15,NOC,"Unspecified superficial injury of right forearm, subsequent encounter",3/8/2023,11/28/2023,Lingbei,Peggie Nielson
+43,esnaith16,EOR,"Unspecified motorcycle rider injured in collision with other motor vehicles in traffic accident, initial encounter",1/9/2023,8/5/2023,Huanglian,Edita Snaith
+44,elongrigg17,LEJ,"Breakdown (mechanical) of internal fixation device of left humerus, sequela",2/8/2023,9/18/2023,Huurch,Elana Longrigg
+45,jcurteis18,TEU,Other injury of other intra-abdominal organs,4/19/2023,9/22/2023,Shums’k,Janeczka Curteis
+46,sbaldrey19,NAO,"Nondisplaced transverse fracture of left patella, subsequent encounter for closed fracture with delayed healing",1/28/2023,7/7/2023,Houilles,Sheryl Baldrey
+47,tpavett1a,NAM,"Anterior dislocation of unspecified sternoclavicular joint, initial encounter",2/19/2023,11/23/2023,Hotonj,Trever Pavett
+48,tchmiel1b,NAO,Laceration with foreign body of unspecified external genital organs,2/11/2023,8/1/2023,Sävedalen,Tiffanie Chmiel
+49,theningam1c,BIG,"Displaced fracture of head of unspecified radius, subsequent encounter for open fracture type I or II with malunion",2/10/2023,6/5/2023,Ugljevik,Tremain Heningam
+50,gstoffler1d,DNZ,Other acute appendicitis,4/8/2023,6/28/2023,Erími,Gizela Stoffler
+51,ezaniolo1e,AAR,Displaced fracture of medial phalanx of unspecified finger,2/23/2023,11/8/2023,Enhe Hada,Eimile Zaniolo
+52,ccrysell1f,SAQ,"Displaced fracture of base of third metacarpal bone, left hand, initial encounter for closed fracture",4/10/2023,11/11/2023,Mosfilotí,Carlita Crysell
+53,wpinxton1g,TMB,"Unspecified disorder of synovium and tendon, hand",4/7/2023,11/20/2023,Gedongmulyo,Winnah Pinxton
+54,akarus1h,TUM,Acute lymphoblastic leukemia [ALL],2/20/2023,6/5/2023,Marićka,Alonzo Karus
+55,eguyan1i,IXD,Unspecified fracture of second lumbar vertebra,3/15/2023,8/14/2023,Bamenda,Engracia Guyan
+56,hmattiacci1j,SAS,"Nondisplaced fracture of coronoid process of left ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",1/6/2023,6/27/2023,Nuevo Arraiján,Hewie Mattiacci
+57,nwigan1k,HCJ,"Displaced fracture of first metatarsal bone, unspecified foot, subsequent encounter for fracture with nonunion",2/11/2023,11/20/2023,Dumalneg,Norene Wigan
+58,mdyde1l,PUL,"Coma scale, best verbal response",2/11/2023,7/31/2023,La Guata,Margarete Dyde
+59,gnewvell1m,JNB,"Hit by object falling from aircraft, initial encounter",4/27/2023,9/15/2023,Žulová,Gardiner Newvell
+60,athrustle1n,YMN,"Salter-Harris Type II physeal fracture of lower end of left tibia, subsequent encounter for fracture with nonunion",1/15/2023,10/26/2023,Ribeirão,Alis Thrustle
+61,mgallant1o,TZX,"Nondisplaced supracondylar fracture with intracondylar extension of lower end of left femur, subsequent encounter for closed fracture with nonunion",2/16/2023,6/17/2023,General Belgrano,Marys Gallant
+62,jweatherby1p,SRG,"Strain of flexor muscle, fascia and tendon of right index finger at forearm level",1/27/2023,8/31/2023,Panitian,Jamil Weatherby
+63,ooakinfold1q,ZHM,"Xeroderma of right eye, unspecified eyelid",5/15/2023,9/7/2023,Sumurgung,Oriana Oakinfold
+64,rflannery1r,LDW,Food in bronchus,3/12/2023,11/29/2023,Béoumi,Renata Flannery
+65,kcokely1s,IWK,Breakdown (mechanical) of other urinary stents,1/7/2023,12/5/2023,Long Loreh,Kellina Cokely
+66,lkauble1t,HAO,Resistance to quinolones and fluoroquinolones,2/27/2023,11/25/2023,Melíssia,Lydia Kauble
+67,svanshin1u,GPL,"Nondisplaced trimalleolar fracture of unspecified lower leg, subsequent encounter for closed fracture with nonunion",5/23/2023,12/6/2023,Penengahan,Sybille Vanshin
+68,ckybert1v,ZKE,Unspecified subluxation and dislocation of patella,3/22/2023,8/28/2023,Longsha,Caroljean Kybert
+69,geakle1w,CWC,"Toxic effect of chewing tobacco, assault, sequela",1/4/2023,7/11/2023,Xianghe,Gilberta Eakle
+70,bfausch1x,AVN,"Nondisplaced segmental fracture of shaft of radius, unspecified arm, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion",4/24/2023,9/6/2023,Bindang,Beryle Fausch
+71,tgirard1y,PFB,Other specified injury of left Achilles tendon,1/26/2023,9/1/2023,Korczyna,Tatum Girard
+72,dhydes1z,KGG,"Nondisplaced comminuted fracture of shaft of left tibia, subsequent encounter for closed fracture with delayed healing",2/17/2023,7/23/2023,Oslo,Dru Hydes
+73,lhanse20,HHQ,Driver of snowmobile injured in traffic accident,5/26/2023,7/15/2023,Lyon,Levin Hanse
+74,fhallatt21,AZO,"Poisoning by anticoagulants, accidental (unintentional)",5/16/2023,8/21/2023,Changxingbao,Fran Hallatt
+75,scorey22,LVL,"Military operations involving other destruction of aircraft, military personnel",2/2/2023,6/24/2023,St. Thomas,Sayres Corey
+76,kbarthrup23,LMQ,Puncture wound with foreign body of left forearm,2/24/2023,6/20/2023,Hamanoichi,Kerrin Barthrup
+77,ctilly24,ABI,Other reduction defects of left upper limb,3/18/2023,9/19/2023,Qingyang,Carlo Tilly
+78,ccaramuscia25,DLI,Carbuncle of other sites,4/12/2023,8/10/2023,Chajarí,Cirillo Caramuscia
+79,jgomer26,RBF,Other hypothyroidism,3/24/2023,6/7/2023,Melissochóri,Jeramey Gomer
+80,ajovasevic27,NRE,"Motorized mobility scooter colliding with stationary object, subsequent encounter",3/13/2023,8/15/2023,Sathing Phra,Auberta Jovasevic
+81,igreenstock28,KRY,"Nondisplaced fracture of capitate [os magnum] bone, left wrist, initial encounter for open fracture",4/22/2023,12/7/2023,Noşratābād,Idaline Greenstock
+82,aguppey29,GUJ,"Sprain of calcaneofibular ligament of unspecified ankle, subsequent encounter",4/16/2023,7/13/2023,Stryszawa,Amalea Guppey
+83,rbeining2a,ALN,"Burn of unspecified degree of multiple sites of head, face, and neck",4/28/2023,9/26/2023,Tân Sơn,Rowe Beining
+84,tmogey2b,NTY,Other specified acute skin changes due to ultraviolet radiation,3/4/2023,7/7/2023,Ketampak,Timmie Mogey
+85,ewurst2c,LSL,"Interstitial myositis, other site",2/10/2023,12/26/2023,Karachi,Errol Wurst
+86,nvaleri2d,APT,"Algoneurodystrophy, right shoulder",2/22/2023,10/29/2023,Siepraw,Nicol Valeri
+87,obarstowk2e,DBO,"Displaced fracture of lateral condyle of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",4/6/2023,10/12/2023,Itaguaçu,Olga Barstowk
+88,pnutten2f,ICC,"Other sprain of right hip, initial encounter",2/18/2023,9/10/2023,Boden,Philippine Nutten
+89,fbavage2g,AUO,"Nondisplaced fracture of body of hamate [unciform] bone, unspecified wrist, initial encounter for closed fracture",5/24/2023,12/21/2023,Auch,Fields Bavage
+90,swyss2h,PMR,"Kernicterus, unspecified",3/9/2023,11/21/2023,Český Těšín,Sharlene Wyss
+91,mduiged2i,YXC,Crohn's disease of both small and large intestine with complications,5/29/2023,10/6/2023,Kyankwanzi,Minetta Duiged
+92,ghallgath2j,AKP,Acute pancreatitis,2/6/2023,11/13/2023,Oyonnax,Gianna Hallgath
+93,cthomassen2k,XBG,Blizzard (snow)(ice),2/20/2023,8/21/2023,Nagrog Wetan,Catlin Thomassen
+94,wpawelec2l,JAA,"Displaced trimalleolar fracture of right lower leg, sequela",1/2/2023,12/10/2023,Nanger,Westleigh Pawelec
+95,ajeavon2m,RDC,"Perforation due to foreign body accidentally left in body following other procedure, sequela",2/8/2023,12/7/2023,Kukawa,Alfredo Jeavon
+96,kstandell2n,LWV,Posterior subluxation of right ulnohumeral joint,1/15/2023,12/11/2023,Rožmitál pod Třemšínem,Kristal Standell
+97,wboniface2o,CBT,"Open bite of right lesser toe(s) without damage to nail, sequela",1/14/2023,9/5/2023,Río Guayabal de Yateras,Wildon Boniface
+98,lshiers2p,TNV,"Injury of other nerves at wrist and hand level of left arm, subsequent encounter",5/22/2023,12/24/2023,Sa Pá,Lauri Shiers
+99,pmussard2q,WKL,"Person on outside of car injured in collision with fixed or stationary object in traffic accident, subsequent encounter",2/15/2023,7/4/2023,Russkaya Polyana,Porter Mussard
+100,asawter2r,ETE,"Displaced fracture of triquetrum [cuneiform] bone, right wrist, initial encounter for closed fracture",5/15/2023,6/18/2023,Kanye,Adelice Sawter

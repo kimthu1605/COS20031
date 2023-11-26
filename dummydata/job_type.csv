@@ -1,0 +1,31 @@
+departments_id,departments_name,departments_head
+1,Training,12
+2,Business Development,21
+3,Legal,7
+4,Marketing,30
+5,Business Development,18
+6,Business Development,11
+7,Research and Development,22
+8,Services,22
+9,Sales,9
+10,Sales,17
+11,Sales,16
+12,Services,1
+13,Training,21
+14,Business Development,24
+15,Support,22
+16,Accounting,19
+17,Marketing,29
+18,Sales,30
+19,Research and Development,15
+20,Marketing,11
+21,Marketing,1
+22,Services,1
+23,Accounting,9
+24,Support,10
+25,Product Management,3
+26,Marketing,22
+27,Engineering,1
+28,Accounting,17
+29,Sales,8
+30,Accounting,8

@@ -1,0 +1,101 @@
+course_id,course_name,course_category_id,class_hours,credits,examination_method,instructor_name,course_explain
+1,lobortis sapien sapien non mi integer ac neque duis bibendum,97,48,5,arcu adipiscing molestie hendrerit,Dani Golly,accumsan odio curabitur convallis duis
+2,dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat,66,43,5,orci luctus et ultrices,Jabez Pettingill,condimentum curabitur in libero ut
+3,vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum,81,47,3,semper interdum mauris ullamcorper purus,Yetta Deacon,ac nibh fusce lacus
+4,luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin,57,43,4,nascetur ridiculus mus etiam,Rudd Iacoviello,semper rutrum nulla
+5,convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis,10,47,4,mi integer ac neque duis,Luce Blesli,integer ac leo pellentesque
+6,morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt,89,46,4,ac nulla sed vel enim,Flint Selwyn,molestie lorem quisque ut erat
+7,maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien,94,45,5,quis orci eget,Anne-corinne Woodeson,nunc purus phasellus in felis
+8,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum,33,49,3,nulla quisque arcu,Julianne Zoren,blandit ultrices enim lorem ipsum
+9,sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus,24,43,3,duis ac nibh fusce lacus,Quinn Roscamp,massa volutpat convallis morbi
+10,non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci,36,50,5,primis in faucibus,Izaak Callinan,elit proin risus praesent
+11,sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc,12,46,5,massa volutpat convallis morbi odio,Niki Baford,iaculis congue vivamus metus
+12,mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed,10,43,4,cras pellentesque volutpat,Sheppard Juschka,dictumst maecenas ut
+13,duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in,99,43,5,eget orci vehicula condimentum,Mattie McKechnie,duis bibendum felis sed
+14,ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras,76,42,5,tortor sollicitudin mi,Valma Cutts,nulla quisque arcu libero rutrum
+15,curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue,47,49,4,habitasse platea dictumst maecenas,Jessy Tomley,quis turpis sed
+16,cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue,62,48,4,habitasse platea dictumst aliquam augue,Constantina Hugues,vivamus vestibulum sagittis sapien cum
+17,at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in,42,47,3,quis orci nullam molestie nibh,Cecil Peeter,fermentum justo nec condimentum
+18,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel,66,46,4,proin leo odio porttitor id,Valery Margarson,sit amet nulla quisque arcu
+19,donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi,86,42,3,pellentesque ultrices mattis odio,Lyman Melmar,ac est lacinia nisi
+20,ante vestibulum ante ipsum primis in faucibus orci luctus et,20,46,3,molestie sed justo,Ruth Hallmark,luctus rutrum nulla
+21,neque sapien placerat ante nulla justo aliquam quis turpis eget,1,48,4,ac leo pellentesque ultrices mattis,Shanan Sparry,id justo sit amet
+22,lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit,91,44,5,lacus purus aliquet at,Crystal Bickmore,id pretium iaculis diam
+23,eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla,23,44,4,porttitor lacus at,Garek Frome,ipsum primis in
+24,orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem,79,44,3,lorem vitae mattis,Starla Willatt,enim lorem ipsum dolor sit
+25,neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan,43,48,3,turpis elementum ligula vehicula consequat,Fiona Spritt,orci nullam molestie nibh in
+26,nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo,22,40,4,habitasse platea dictumst aliquam,Ruperta Purser,ligula nec sem duis aliquam
+27,mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus,30,45,5,congue vivamus metus arcu adipiscing,Ira Lutton,pede malesuada in imperdiet et
+28,nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat,9,43,4,nec nisi volutpat eleifend donec,Wynnie Messer,ac tellus semper
+29,eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros,71,49,4,libero ut massa,Ole McMains,diam id ornare imperdiet sapien
+30,at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient,17,47,3,convallis nunc proin,Lorant O'Hearn,ut suscipit a feugiat
+31,dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum,84,49,4,at nulla suspendisse potenti,Melva MacConnulty,integer ac leo
+32,ligula suspendisse ornare consequat lectus in est risus auctor sed,90,47,3,parturient montes nascetur,Trix Connolly,quis augue luctus tincidunt
+33,lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum,59,49,3,nam tristique tortor,Toni Munford,nisl ut volutpat sapien arcu
+34,ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit,14,48,5,vestibulum ante ipsum primis in,Neilla Barke,integer ac neque duis bibendum
+35,justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas,100,47,5,proin at turpis a pede,Tine Klehyn,id nisl venenatis lacinia aenean
+36,ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue,11,40,4,sed vestibulum sit,Alexandrina Wardlaw,lacus at turpis donec
+37,cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque,4,45,4,nam tristique tortor eu,Ad Castro,condimentum curabitur in libero
+38,in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio,56,40,3,tempor convallis nulla neque libero,Harvey Doring,magnis dis parturient montes
+39,tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat,18,46,4,id ornare imperdiet,Thomasa Schultes,vivamus vel nulla
+40,libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor,20,44,4,sapien a libero nam dui,Giana Wallas,libero convallis eget eleifend
+41,nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac,43,47,3,in congue etiam justo etiam,Janeen MacQueen,pede malesuada in imperdiet
+42,turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque,40,48,3,justo eu massa donec dapibus,Chevalier Van Leeuwen,massa donec dapibus duis at
+43,ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam,69,44,5,praesent blandit nam,Maximo Estoile,duis mattis egestas
+44,phasellus in felis donec semper sapien a libero nam dui,94,42,5,scelerisque quam turpis adipiscing,Quintin Rozet,eu nibh quisque id justo
+45,in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id,36,41,3,sapien in sapien,Liuka Eaklee,posuere cubilia curae mauris
+46,nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada,55,45,5,nunc donec quis orci eget,Sari Vela,pede malesuada in imperdiet et
+47,ut erat id mauris vulputate elementum nullam varius nulla facilisi cras,36,42,5,nam tristique tortor,Liane Drysdell,pede justo lacinia eget
+48,tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate,43,41,4,est risus auctor,Tobe Rizzelli,nam tristique tortor
+49,ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis,99,43,5,lectus pellentesque eget nunc donec,Byrom Morant,lectus suspendisse potenti
+50,condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in,7,50,4,lacus curabitur at,Killie Dovidaitis,proin risus praesent
+51,morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac,95,41,4,in consequat ut,Sigismundo McGahy,convallis eget eleifend
+52,cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor,48,40,3,dui nec nisi volutpat,Kristen Wills,felis fusce posuere felis
+53,integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis,22,43,4,duis bibendum morbi,Jerrold Biner,in eleifend quam a odio
+54,at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula,34,49,4,augue vestibulum rutrum rutrum,Walther Limprecht,blandit lacinia erat vestibulum
+55,imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed,30,47,4,vitae mattis nibh ligula,Cynde Mattes,non lectus aliquam
+56,vel sem sed sagittis nam congue risus semper porta volutpat,83,42,4,suspendisse potenti nullam,Chane Sarsfield,leo maecenas pulvinar
+57,felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed,20,47,3,aliquam sit amet diam,Gunilla Geratasch,nullam sit amet
+58,bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor,16,43,3,fusce consequat nulla,Evangelia Duthy,elementum in hac habitasse
+59,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum,75,47,3,mauris laoreet ut rhoncus,Northrup Blodget,justo pellentesque viverra
+60,justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in,9,50,3,cras in purus eu magna,Nickolas Figgs,sodales sed tincidunt
+61,elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante,11,40,4,vel augue vestibulum ante ipsum,Wallie Ferriby,pulvinar sed nisl
+62,nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at,93,40,4,magna ac consequat metus sapien,Lev Dory,potenti cras in purus eu
+63,tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in,91,43,5,sem fusce consequat nulla,Kirsteni Michallat,neque sapien placerat
+64,rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus,82,41,5,accumsan tortor quis,Gonzalo Helliker,lacinia erat vestibulum
+65,potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit,85,47,4,cum sociis natoque penatibus et,Felice Ongin,integer a nibh in
+66,ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem,60,40,3,ultrices erat tortor sollicitudin,Kathy Dillaway,porta volutpat quam pede
+67,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis,23,45,4,at turpis a pede,Miof mela Biaggetti,nulla nisl nunc nisl
+68,curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus,62,45,3,lacinia sapien quis libero,Cherye Barnsley,elit sodales scelerisque mauris
+69,quam suspendisse potenti nullam porttitor lacus at turpis donec posuere,96,44,5,in ante vestibulum,Jennie Whitelaw,diam in magna
+70,justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia,24,41,5,integer ac neque duis,Dianna Roggers,elit sodales scelerisque
+71,urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo,14,49,4,congue elementum in hac habitasse,Rafaello Lithgow,consequat lectus in
+72,nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate,57,50,4,vel est donec odio,Reinaldo Barr,viverra eget congue
+73,sapien cursus vestibulum proin eu mi nulla ac enim in tempor,57,50,4,dapibus augue vel accumsan,Ebenezer Broadfield,sed magna at
+74,nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu,67,43,3,suscipit a feugiat et,Nealson Gullberg,vel pede morbi
+75,pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra,60,42,5,neque vestibulum eget vulputate,Roxine Karlsen,rhoncus sed vestibulum
+76,porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius,58,48,5,accumsan odio curabitur convallis,Chev Hatrick,elit proin interdum mauris non
+77,montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id,41,50,4,orci vehicula condimentum curabitur,Dwight Durden,proin leo odio porttitor id
+78,eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat,47,47,3,quis odio consequat varius,Horatio Challace,lacinia nisi venenatis tristique fusce
+79,neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac,67,40,4,pede lobortis ligula sit,Fiann Askem,etiam faucibus cursus urna
+80,sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia,2,43,3,in hac habitasse platea dictumst,Tomasine Keemer,curae nulla dapibus
+81,ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam,52,42,4,tempus vel pede morbi porttitor,Cathyleen McMeekan,urna ut tellus
+82,ut blandit non interdum in ante vestibulum ante ipsum primis,50,41,5,cum sociis natoque penatibus et,Ferdinanda Devennie,a odio in hac
+83,adipiscing elit proin risus praesent lectus vestibulum quam sapien varius,46,46,4,amet sapien dignissim vestibulum vestibulum,Kelwin Beneix,dolor vel est donec
+84,mattis egestas metus aenean fermentum donec ut mauris eget massa,8,49,4,lorem vitae mattis,Lorry Molyneaux,sapien arcu sed augue aliquam
+85,et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor,65,48,4,nec euismod scelerisque,Alexandre Sagg,quam turpis adipiscing lorem
+86,id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero,27,41,5,a feugiat et eros,Clementine Pardie,eleifend donec ut dolor morbi
+87,lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat,73,46,3,pulvinar nulla pede,Sally Tonkin,morbi ut odio
+88,nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros,61,40,5,primis in faucibus orci,Neddie Mizen,maecenas tincidunt lacus
+89,ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend,11,49,4,odio porttitor id consequat in,Arni Boutcher,semper rutrum nulla
+90,porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet,24,47,5,suspendisse potenti nullam porttitor lacus,Garvy Argont,et ultrices posuere cubilia curae
+91,dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes,51,47,5,amet nunc viverra dapibus nulla,Gloria Purrier,et magnis dis
+92,quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis,87,48,4,id pretium iaculis diam,Sharline Lickess,vitae consectetuer eget rutrum
+93,consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis,57,42,5,donec dapibus duis at,Courtney Di Biaggi,parturient montes nascetur ridiculus
+94,magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices,40,44,5,vestibulum velit id,Bartholomeus Greening,morbi non lectus aliquam sit
+95,sem praesent id massa id nisl venenatis lacinia aenean sit,43,48,4,vel lectus in quam fringilla,Mag Heersma,morbi porttitor lorem id
+96,molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus,41,43,3,est lacinia nisi venenatis,Vikki Berends,in felis donec
+97,justo in blandit ultrices enim lorem ipsum dolor sit amet,11,50,3,vivamus vel nulla eget,Carree Millins,imperdiet sapien urna pretium
+98,viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et,69,50,3,integer a nibh in,Mellisa Cosker,ullamcorper purus sit
+99,elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor,57,44,4,ac consequat metus sapien,Tomlin Grenfell,non ligula pellentesque ultrices
+100,pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate,27,44,5,augue quam sollicitudin vitae,Ephrayim Ortega,semper sapien a libero nam

@@ -1,0 +1,101 @@
+application_ID,application_date,job_vancancies_id,applicant_id,qualifications,experience_years,applied_position
+1,3/21/2023,92,47,false,3.4,Accounting
+2,3/16/2023,51,22,false,6.6,Product Management
+3,4/23/2023,26,78,false,2.7,Human Resources
+4,7/14/2023,17,90,true,7.7,Engineering
+5,11/7/2023,70,25,true,7.9,Product Management
+6,6/18/2023,57,13,true,8.9,Support
+7,12/14/2023,61,72,false,9.6,Sales
+8,7/1/2023,73,45,false,3.1,Legal
+9,12/13/2023,31,76,false,3.5,Research and Development
+10,3/18/2023,85,18,false,9.8,Human Resources
+11,9/8/2023,88,81,true,9.3,Product Management
+12,5/21/2023,46,77,true,2.6,Human Resources
+13,8/30/2023,1,22,false,6.0,Product Management
+14,6/2/2023,18,22,false,7.0,Research and Development
+15,10/17/2023,68,11,true,4.3,Legal
+16,8/9/2023,19,18,true,8.8,Legal
+17,7/20/2023,26,58,true,7.9,Research and Development
+18,2/27/2023,58,36,true,9.7,Accounting
+19,3/26/2023,63,58,false,9.9,Engineering
+20,8/14/2023,45,71,true,1.0,Research and Development
+21,7/22/2023,99,41,true,1.7,Training
+22,6/15/2023,37,95,true,3.5,Sales
+23,9/21/2023,83,72,false,2.8,Legal
+24,1/11/2023,30,91,true,2.2,Human Resources
+25,8/25/2023,44,57,false,6.7,Marketing
+26,7/24/2023,24,58,true,9.8,Marketing
+27,8/2/2023,52,83,true,6.9,Accounting
+28,8/13/2023,46,98,true,8.6,Research and Development
+29,2/22/2023,6,74,true,9.8,Business Development
+30,5/6/2023,17,35,false,6.7,Support
+31,9/12/2023,37,74,true,6.7,Legal
+32,8/31/2023,94,93,true,2.1,Engineering
+33,4/7/2023,23,3,false,8.4,Sales
+34,11/8/2023,45,86,true,9.2,Business Development
+35,2/22/2023,65,35,false,2.1,Engineering
+36,11/12/2023,55,30,true,4.6,Marketing
+37,5/3/2023,25,1,false,4.3,Marketing
+38,7/5/2023,30,95,false,1.5,Accounting
+39,4/10/2023,4,94,true,4.5,Research and Development
+40,9/28/2023,6,89,true,5.1,Sales
+41,5/13/2023,100,79,true,1.8,Product Management
+42,9/10/2023,24,97,true,7.8,Human Resources
+43,6/6/2023,30,10,false,7.6,Research and Development
+44,8/29/2023,3,10,true,5.4,Services
+45,10/12/2023,58,85,false,2.2,Marketing
+46,4/17/2023,47,95,false,6.9,Training
+47,12/4/2023,8,83,true,5.9,Product Management
+48,9/23/2023,1,67,false,7.8,Sales
+49,4/23/2023,90,88,true,3.9,Human Resources
+50,4/18/2023,40,45,false,8.9,Product Management
+51,12/29/2023,64,57,true,3.6,Product Management
+52,9/28/2023,52,78,true,5.7,Product Management
+53,3/31/2023,21,26,false,6.2,Research and Development
+54,2/22/2023,37,89,false,2.8,Research and Development
+55,3/13/2023,77,53,true,8.8,Training
+56,12/17/2023,82,27,true,7.7,Training
+57,8/19/2023,79,29,false,7.8,Engineering
+58,10/11/2023,82,53,true,1.4,Marketing
+59,12/12/2023,38,80,false,7.0,Product Management
+60,9/11/2023,47,87,false,5.8,Sales
+61,5/22/2023,97,35,true,2.1,Sales
+62,11/27/2023,54,26,true,7.9,Marketing
+63,6/19/2023,5,84,false,7.0,Research and Development
+64,2/25/2023,99,11,true,2.7,Marketing
+65,3/25/2023,24,6,true,3.2,Human Resources
+66,12/23/2023,60,43,false,5.2,Accounting
+67,6/6/2023,45,35,false,8.0,Research and Development
+68,4/11/2023,77,24,true,7.2,Accounting
+69,6/5/2023,85,43,false,4.3,Engineering
+70,10/8/2023,11,57,false,8.6,Support
+71,8/26/2023,41,55,true,4.2,Accounting
+72,2/18/2023,99,98,true,5.9,Accounting
+73,3/15/2023,2,57,false,3.1,Human Resources
+74,3/7/2023,48,29,true,6.8,Sales
+75,2/10/2023,54,55,false,3.9,Training
+76,3/29/2023,96,67,true,9.5,Product Management
+77,6/12/2023,83,45,true,6.7,Research and Development
+78,10/23/2023,35,52,false,8.2,Legal
+79,12/16/2023,42,88,true,4.3,Marketing
+80,10/19/2023,33,31,false,2.4,Training
+81,12/5/2023,44,14,true,5.4,Support
+82,10/6/2023,85,92,true,3.6,Research and Development
+83,1/25/2023,36,75,true,1.7,Engineering
+84,4/26/2023,76,37,true,1.4,Accounting
+85,1/25/2023,20,24,true,8.7,Research and Development
+86,4/1/2023,63,80,true,1.9,Legal
+87,4/18/2023,53,85,true,6.7,Product Management
+88,10/15/2023,21,82,false,2.6,Sales
+89,11/9/2023,69,62,true,2.0,Engineering
+90,3/22/2023,87,25,false,7.3,Business Development
+91,2/6/2023,41,51,false,9.8,Marketing
+92,12/29/2023,51,27,true,7.7,Training
+93,2/11/2023,40,53,false,3.9,Engineering
+94,10/18/2023,20,44,false,2.6,Accounting
+95,11/6/2023,33,87,true,4.2,Product Management
+96,1/10/2023,11,54,true,5.2,Support
+97,5/9/2023,15,100,true,3.6,Marketing
+98,5/16/2023,69,74,false,4.3,Sales
+99,5/16/2023,44,19,false,7.4,Training
+100,7/23/2023,27,31,false,4.3,Legal
